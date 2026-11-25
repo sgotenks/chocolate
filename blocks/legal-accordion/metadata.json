@@ -1,0 +1,28 @@
+{
+  "variantName": "legal-accordion",
+  "baseBlock": "accordion",
+  "canonicalModel": "collection",
+  "visualCharacteristics": {
+    "purpose": "Legal page body (privacy policy, terms of use, cookie policy): rich-text passages, collapsible \"layer breaker\" sections, cookie tables and a consent-settings button."
+  },
+  "contentPattern": {
+    "structure": "One-cell rows = rich-text passage; two-cell rows = collapsible section (h2 title | body, optional third cell = label shown while open); four-plus-cell rows = table rows (first row is the header). A link to #consent-settings renders as the consent-settings button."
+  },
+  "options": [
+    {
+      "class": "notice",
+      "label": "Notice"
+    },
+    {
+      "class": "plain",
+      "label": "Plain"
+    },
+    {
+      "class": "cookies",
+      "label": "Cookies"
+    }
+  ],
+  "memberVariantIds": [],
+  "usage": "Body of legal and policy pages.",
+  "reuseGuidance": "Reuse legal-accordion wherever the same content pattern appears; authored content is moved into the block's layout, so keep the structure above."
+}

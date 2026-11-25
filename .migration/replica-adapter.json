@@ -1,0 +1,80 @@
+{
+  "producer": "excat-replica-adapter",
+  "source": {
+    "tool": "stardust",
+    "version": "0.10.0",
+    "flow": "replica",
+    "mode": "rollout"
+  },
+  "originUrl": "https://www.wonka.com",
+  "previewBase": "https://main--a6216fe5--aemcoder.aem.page/us/en/",
+  "convertedAt": "2026-11-25T15:06:01.230Z",
+  "counts": {
+    "pages": 6,
+    "templates": 4,
+    "blockVariants": 17
+  },
+  "templateNames": {
+    "us-en": {
+      "name": "home",
+      "description": "Landing page: airship hero, product cards, coming-soon band and first-visit portal intro."
+    },
+    "us-en-about-wonka": {
+      "name": "about",
+      "description": "Brand story page: discover hero, story cards, image-text, promo banner, social band and FAQ."
+    },
+    "us-en-privacy-policy": {
+      "name": "legal",
+      "description": "Legal and policy pages (privacy, terms, cookies) built from the legal accordion."
+    },
+    "us-en-xp-golden-ticket": {
+      "name": "campaign",
+      "description": "Golden Ticket promotion page: key visual, editorial bands, entry steps, prize slider and AR call-out."
+    }
+  },
+  "screenshots": {
+    "capturedAt": "2026-11-25T15:15:57.375Z",
+    "pages": [
+      {
+        "slug": "www_wonka_com_us_en--37b9e251",
+        "captured": 4,
+        "total": 4,
+        "url": "http://localhost:3107/us/en"
+      },
+      {
+        "slug": "www_wonka_com_us_en_about-wonka--2f4d92b4",
+        "captured": 6,
+        "total": 6,
+        "url": "http://localhost:3107/us/en/about-wonka"
+      },
+      {
+        "slug": "www_wonka_com_us_en_cookie-policy--b76ccb48",
+        "captured": 1,
+        "total": 1,
+        "url": "http://localhost:3107/us/en/cookie-policy"
+      },
+      {
+        "slug": "www_wonka_com_us_en_privacy-policy--48514e19",
+        "captured": 0,
+        "total": 1,
+        "url": "http://localhost:3107/us/en/privacy-policy"
+      },
+      {
+        "slug": "www_wonka_com_us_en_terms-of-use--32dcb942",
+        "captured": 0,
+        "total": 1,
+        "url": "http://localhost:3107/us/en/terms-of-use"
+      },
+      {
+        "slug": "www_wonka_com_us_en_xp_golden-ticket--d27552de",
+        "captured": 4,
+        "total": 6,
+        "url": "http://localhost:3107/us/en/xp/golden-ticket"
+      }
+    ],
+    "variants": {
+      "total": 17,
+      "cropped": 15
+    }
+  }
+}

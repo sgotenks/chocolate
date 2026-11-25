@@ -1,0 +1,15 @@
+{
+  "variantName": "promo-banner",
+  "baseBlock": "custom",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "purpose": "Gold title and text, a product group image over a cloud bank and a gold CTA with arrow icon."
+  },
+  "contentPattern": {
+    "structure": "Headings and text paragraphs (head), one or two images (first from 768px up, second below) and a paragraph holding a link (CTA)."
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": "Promotional call-out for a product range.",
+  "reuseGuidance": "Reuse promo-banner wherever the same content pattern appears; authored content is moved into the block's layout, so keep the structure above."
+}

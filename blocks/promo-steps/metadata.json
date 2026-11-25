@@ -1,0 +1,15 @@
+{
+  "variantName": "promo-steps",
+  "baseBlock": "custom",
+  "canonicalModel": "collection",
+  "visualCharacteristics": {
+    "purpose": "Golden-ticket \"how to enter\" panel: star-bracketed title, a row of illustrated steps and entry CTAs on a light card."
+  },
+  "contentPattern": {
+    "structure": "Rows with a picture = a step (picture, heading = step title, other text below); a row of CTA paragraphs = links; any other row = panel title."
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": "Step-by-step instructions for a promotion.",
+  "reuseGuidance": "Reuse promo-steps wherever the same content pattern appears; authored content is moved into the block's layout, so keep the structure above."
+}
