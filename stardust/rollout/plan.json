@@ -1,0 +1,191 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:rollout/plan",
+    "writtenAt": "2026-11-25T11:27:39.598Z",
+    "readArtifacts": [
+      "stardust/rollout/coverage"
+    ],
+    "stardustVersion": "0.0.0"
+  },
+  "generatedAt": "2026-11-25T11:27:39.598Z",
+  "fragments": [],
+  "deliveryOrder": [
+    "us-en-privacy-policy",
+    "us-en-cookie-policy",
+    "us-en-terms-of-use",
+    "us-en",
+    "index",
+    "us-en-about-wonka",
+    "us-en-xp-golden-ticket"
+  ],
+  "steps": [
+    {
+      "slug": "us-en-privacy-policy",
+      "path": "/us/en/privacy-policy",
+      "templateId": "us-en-privacy-policy",
+      "status": "pending",
+      "isRepresentative": true,
+      "convert": [
+        {
+          "id": "legal-accordion",
+          "edsBlockName": "legal-accordion"
+        }
+      ],
+      "reuse": []
+    },
+    {
+      "slug": "us-en-cookie-policy",
+      "path": "/us/en/cookie-policy",
+      "templateId": "us-en-privacy-policy",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "legal-accordion",
+          "edsBlockName": "legal-accordion",
+          "convertedBy": "us-en-privacy-policy"
+        }
+      ]
+    },
+    {
+      "slug": "us-en-terms-of-use",
+      "path": "/us/en/terms-of-use",
+      "templateId": "us-en-privacy-policy",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "legal-accordion",
+          "edsBlockName": "legal-accordion",
+          "convertedBy": "us-en-privacy-policy"
+        }
+      ]
+    },
+    {
+      "slug": "us-en",
+      "path": "/us/en",
+      "templateId": "us-en",
+      "status": "pending",
+      "isRepresentative": true,
+      "convert": [
+        {
+          "id": "hero",
+          "edsBlockName": "home-hero"
+        },
+        {
+          "id": "product-cards",
+          "edsBlockName": "product-cards"
+        },
+        {
+          "id": "coming-soon",
+          "edsBlockName": "coming-soon"
+        },
+        {
+          "id": "portal",
+          "edsBlockName": "portal"
+        }
+      ],
+      "reuse": []
+    },
+    {
+      "slug": "index",
+      "path": "/",
+      "templateId": "us-en",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "hero",
+          "edsBlockName": "home-hero",
+          "convertedBy": "us-en"
+        },
+        {
+          "id": "product-cards",
+          "edsBlockName": "product-cards",
+          "convertedBy": "us-en"
+        },
+        {
+          "id": "coming-soon",
+          "edsBlockName": "coming-soon",
+          "convertedBy": "us-en"
+        },
+        {
+          "id": "portal",
+          "edsBlockName": "portal",
+          "convertedBy": "us-en"
+        }
+      ]
+    },
+    {
+      "slug": "us-en-about-wonka",
+      "path": "/us/en/about-wonka",
+      "templateId": "us-en-about-wonka",
+      "status": "pending",
+      "isRepresentative": true,
+      "convert": [
+        {
+          "id": "discover-hero",
+          "edsBlockName": "discover-hero"
+        },
+        {
+          "id": "story-cards",
+          "edsBlockName": "story-cards"
+        },
+        {
+          "id": "image-text",
+          "edsBlockName": "image-text"
+        },
+        {
+          "id": "promo-banner",
+          "edsBlockName": "promo-banner"
+        },
+        {
+          "id": "social",
+          "edsBlockName": "social"
+        },
+        {
+          "id": "faq",
+          "edsBlockName": "faq"
+        }
+      ],
+      "reuse": []
+    },
+    {
+      "slug": "us-en-xp-golden-ticket",
+      "path": "/us/en/xp/golden-ticket",
+      "templateId": "us-en-xp-golden-ticket",
+      "status": "pending",
+      "isRepresentative": true,
+      "convert": [
+        {
+          "id": "promo-visual",
+          "edsBlockName": "promo-visual"
+        },
+        {
+          "id": "promo-editorial",
+          "edsBlockName": "promo-editorial"
+        },
+        {
+          "id": "promo-steps",
+          "edsBlockName": "promo-steps"
+        },
+        {
+          "id": "promo-prizes",
+          "edsBlockName": "promo-prizes"
+        },
+        {
+          "id": "promo-title-text",
+          "edsBlockName": "default-content"
+        },
+        {
+          "id": "ar-banner",
+          "edsBlockName": "ar-banner"
+        }
+      ],
+      "reuse": []
+    }
+  ]
+}

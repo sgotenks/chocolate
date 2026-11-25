@@ -1,0 +1,413 @@
+{
+  "_provenance": {
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-11-25T10:14:24.966Z",
+    "waitMode": "slow",
+    "waitMs": 5000,
+    "httpStatus": 200
+  },
+  "slug": "us-en-privacy-policy",
+  "url": "https://www.wonka.com/us/en/privacy-policy",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-11-25T10:14:24.966Z",
+  "finalUrl": "https://www.wonka.com/us/en/privacy-policy",
+  "title": "Privacy Policy | Wonka",
+  "description": "Read the official Wonka US Privacy Policy. Learn how Ferrero collects, uses, and protects your personal data and rights when visiting our website.",
+  "og": {
+    "title": "Privacy Policy | Wonka US",
+    "description": null,
+    "image": "https://www.wonka.com/us/themes/custom/sling/logo.svg",
+    "type": "website"
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Privacy policy"
+    }
+  ],
+  "body": [
+    "Last Updated: January 1, 2026",
+    "This Privacy Policy applies to the websites on which it is posted, which are operated by Wonka, a Ferrero brand (“Company,” “we,” or us”). This Policy also applies when you respond to our emails, place orders via mail, fax or phone, or otherwise contact us. We refer to each of these websites, services, and offerings as a “Site,” and collectively as the “Sites.” This Policy discloses our practices with respect to the collection of information through the Sites and our use of the information. This Policy applies solely to information collected through the Sites. This Policy does not apply to third-party websites, applications, and services, even if they are linked to or accessible from our Sites. By using the Sites, you agree with the terms of this Policy. If you do not agree with any term in this Policy, please do not use the Sites or provide any information to us.",
+    "Click here to view Section 5, “Your Choices and Your Privacy Rights,” and Section 6, “Your California Privacy Rights,” and our notice at collection.",
+    "© 2026 Ferrero USA. All rights reserved."
+  ],
+  "codeBlocks": [],
+  "ctas": [
+    {
+      "label": "Home",
+      "href": "/us/en/"
+    },
+    {
+      "label": "About Wonka",
+      "href": "/us/en/about-wonka"
+    },
+    {
+      "label": "Golden Ticket Sweepstakes",
+      "href": "https://www.wonka.com/us/en/xp/golden-ticket/"
+    },
+    {
+      "label": "here to view Section 5, “Your Choices and Your Privacy Rights,”",
+      "href": "#ot-notice-layer-break-header-161"
+    },
+    {
+      "label": "Section 6, “Your California Privacy Rights,",
+      "href": "#ot-notice-layer-break-header-270"
+    },
+    {
+      "label": "Privacy Policy",
+      "href": "/us/en/privacy-policy"
+    },
+    {
+      "label": "Terms of Use",
+      "href": "/us/en/terms-of-use"
+    },
+    {
+      "label": "Cookie Policy",
+      "href": "/us/en/cookie-policy"
+    },
+    {
+      "label": "Do Not Sell or Share My Personal Information",
+      "href": "#ot-sdk-show-settings"
+    },
+    {
+      "label": "Contact Us",
+      "href": "https://www.ferrero.com/us/en/contact-us"
+    }
+  ],
+  "links": [
+    "https://www.wonka.com/us/en/privacy-policy#main-content",
+    "https://www.wonka.com/us/en/",
+    "https://www.wonka.com/us/en/about-wonka",
+    "https://www.wonka.com/us/en/xp/golden-ticket/",
+    "https://www.instagram.com/wonka_usa",
+    "https://www.tiktok.com/@wonka_usa",
+    "https://www.wonka.com/us/en/privacy-policy",
+    "https://www.wonka.com/us/en/terms-of-use",
+    "https://www.wonka.com/us/en/cookie-policy",
+    "https://www.wonka.com/us/en/privacy-policy#ot-sdk-show-settings",
+    "https://www.ferrero.com/us/en/contact-us",
+    "https://www.wonka.com/us/en/privacy-policy#ot-notice-layer-break-header-161",
+    "https://www.wonka.com/us/en/privacy-policy#ot-notice-layer-break-header-270",
+    "https://www.nutella.com/us/en/cookie-policy",
+    "https://www.ferrero.com/us/en/all-brands-united-states",
+    "https://www.ferreronorthamerica.com/contact-US-residents",
+    "https://globalprivacycontrol.org/",
+    "https://www.wonka.com/us/en/privacy-policy#ot-notice-layer-break-header-12",
+    "https://www.wonka.com/us/en/privacy-policy#ot-notice-layer-break-header-324",
+    "https://www.wonka.com/us/en/privacy-policy#ot-notice-layer-break-header-66",
+    "https://www.wonka.com/us/en/privacy-policy#ot-notice-layer-break-header-862",
+    "https://applaydu.kinder.com/static/public/docs/app/en/pp/pp-0.0.1.html"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/decorative/decorative-star.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/icons/social-instagram.svg",
+        "alt": "Instagram",
+        "w": 20,
+        "h": 20
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/icons/social-tiktok.svg",
+        "alt": "Tik Tok",
+        "w": 20,
+        "h": 20
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/decorative/decorative-star.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24
+      },
+      {
+        "src": "https://ferrero-kube-stack-prod-static.s3.eu-west-1.amazonaws.com/wonka-us-d11/sites/wonka.com.us/s3fs-public/2026-08/wonka-logo.svg",
+        "alt": "Golden Wonka brand logo",
+        "w": 146,
+        "h": 83
+      },
+      {
+        "src": "https://ferrero-kube-stack-prod-static.s3.eu-west-1.amazonaws.com/wonka-us-d11/sites/wonka.com.us/s3fs-public/2026-08/wonka-logo.svg",
+        "alt": "Golden Wonka brand logo",
+        "w": 146,
+        "h": 83
+      },
+      {
+        "src": "https://ferrero-kube-stack-prod-static.s3.eu-west-1.amazonaws.com/wonka-us-d11/sites/wonka.com.us/s3fs-public/2026-08/wonka-logo.svg",
+        "alt": "Golden Wonka brand logo",
+        "w": 146,
+        "h": 83
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/icons/social-instagram.svg",
+        "alt": "Instagram",
+        "w": 20,
+        "h": 20
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/icons/social-tiktok.svg",
+        "alt": "Tik Tok",
+        "w": 20,
+        "h": 20
+      }
+    ],
+    "allImgCount": 9,
+    "cssBackgrounds": [],
+    "modals": [
+      "Home About Wonka Golden Ticket Sweepstakes Follow us Privacy Policy Terms of Use Cookie Policy Do Not Sell or Share My Personal Information Contact Us © 2026 Ferrero Group. All Rights Reserved."
+    ],
+    "videos": [],
+    "iframes": []
+  },
+  "customProps": {},
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 1,
+    "mainTextLen": 29585,
+    "realImageCount": 9,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false,
+    "screenshotMode": "fullPage",
+    "pageSize": {
+      "w": 1440,
+      "h": 1433
+    }
+  },
+  "dynamic": {
+    "endpoints": [
+      {
+        "method": "GET",
+        "host": "cdn.cookielaw.org",
+        "path": "/consent/{uuid}/{uuid}.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://cdn.cookielaw.org/consent/019ddcb5-1afd-74e9-920e-7e5a2287f1be/019ddcb5-1afd-74e9-920e-7e5a2287f1be.json",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "cdn.cookielaw.org",
+        "path": "/consent/{uuid}/{uuid}/en.json",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://cdn.cookielaw.org/consent/019ddcb5-1afd-74e9-920e-7e5a2287f1be/019dbb0b-c528-71df-9add-c261d11398e9/en.json",
+        "sameSite": false
+      },
+      {
+        "method": "PUT",
+        "host": "privacyportal-eu.onetrust.com",
+        "path": "/request/v1/enterprisepolicy/digitalpolicy/meta-data",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "text/plain",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://privacyportal-eu.onetrust.com/request/v1/enterprisepolicy/digitalpolicy/meta-data",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "cdn.cookielaw.org",
+        "path": "/scripttemplates/202610.1.0/assets/otFlat.json",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 4023,
+        "hits": 1,
+        "example": "https://cdn.cookielaw.org/scripttemplates/202610.1.0/assets/otFlat.json",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "cdn.cookielaw.org",
+        "path": "/scripttemplates/202610.1.0/assets/otCommonStyles.css",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "text/css",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://cdn.cookielaw.org/scripttemplates/202610.1.0/assets/otCommonStyles.css",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "cdn.cookielaw.org",
+        "path": "/scripttemplates/202610.1.0/assets/v2/otPcTab.json",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 15104,
+        "hits": 1,
+        "example": "https://cdn.cookielaw.org/scripttemplates/202610.1.0/assets/v2/otPcTab.json",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "cdn.cookielaw.org",
+        "path": "/logos/static/ot_guard_logo.svg",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "image/svg+xml",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://cdn.cookielaw.org/logos/static/ot_guard_logo.svg",
+        "sameSite": false
+      },
+      {
+        "method": "PUT",
+        "host": "privacyportal-eu.onetrust.com",
+        "path": "/request/v1/enterprisepolicy/digitalpolicy/content",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "text/plain",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://privacyportal-eu.onetrust.com/request/v1/enterprisepolicy/digitalpolicy/content",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "privacyportal-eu.onetrust.com",
+        "path": "/request/v1/privacyNotices/stats/views",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": null,
+        "status": 201,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://privacyportal-eu.onetrust.com/request/v1/privacyNotices/stats/views",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "www.google-analytics.com",
+        "path": "/g/collect",
+        "query": [
+          "_fv",
+          "_p",
+          "_s",
+          "_ss",
+          "_tu",
+          "cid",
+          "dl",
+          "dma",
+          "dma_cps",
+          "dt",
+          "en",
+          "ep.anonymize_ip",
+          "frm",
+          "gcd",
+          "gcs",
+          "gdid",
+          "gtm",
+          "ngs",
+          "npa",
+          "pscdl",
+          "rcb",
+          "sct",
+          "seg",
+          "sid",
+          "sr",
+          "tag_exp",
+          "tfd",
+          "tid",
+          "uaa",
+          "uab",
+          "uafvl",
+          "uam",
+          "uamb",
+          "uap",
+          "uapv",
+          "uaw",
+          "ul",
+          "v"
+        ],
+        "resourceType": "fetch",
+        "contentType": "text/plain",
+        "status": 204,
+        "bytes": null,
+        "hits": 4,
+        "example": "https://www.google-analytics.com/g/collect",
+        "sameSite": false
+      }
+    ],
+    "thirdPartyScriptHosts": [
+      {
+        "host": "www.googletagmanager.com",
+        "count": 4
+      },
+      {
+        "host": "cdn.cookielaw.org",
+        "count": 2
+      },
+      {
+        "host": "privacyportal-eu-cdn.onetrust.com",
+        "count": 1
+      }
+    ],
+    "truncated": false,
+    "inlineData": [
+      {
+        "id": null,
+        "type": "application/json",
+        "bytes": 662,
+        "topLevelKeys": [
+          "path",
+          "pluralDelimiter",
+          "suppressDeprecationErrors",
+          "ajaxPageState",
+          "ajaxTrustedUrl",
+          "user"
+        ]
+      }
+    ],
+    "globalState": [
+      "drupalSettings",
+      "dataLayer"
+    ],
+    "frameworkHints": [],
+    "forms": [],
+    "ariaLiveRegions": 1,
+    "triggers": [],
+    "mediaIds": [],
+    "summary": {
+      "sameSiteEndpoints": 0,
+      "thirdPartyEndpoints": 10,
+      "thirdPartyScriptHosts": 3,
+      "inlineDataBlobs": 1,
+      "forms": 0,
+      "searchForms": 0,
+      "hydrated": true
+    }
+  },
+  "screenshot": "assets/screenshots/us-en-privacy-policy.png",
+  "renderedHtml": "pages/us-en-privacy-policy.html",
+  "slots": {
+    "type": "static",
+    "module": "legal-page",
+    "title": "Privacy policy",
+    "body": {
+      "paragraphs": 4,
+      "mainTextLen": 29585
+    }
+  },
+  "type": "static"
+}

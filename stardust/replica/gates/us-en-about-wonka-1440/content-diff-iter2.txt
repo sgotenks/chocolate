@@ -1,0 +1,21 @@
+
+Content diff @ 1440px (profile "generic", roots: main, header, footer)
+root "main"
+  source: 34 text nodes — 7 headings, 0 eyebrows, 1 CTAs, 26 body; 39 img
+  build: 34 text nodes — 7 headings, 0 eyebrows, 1 CTAs, 26 body; 39 img
+  editable texts (outermost h*/p/ul/ol): source 16 / build 16
+  attributes (placeholder/aria-label/title): source 10 / build 10; icons: source 19 / build 19
+  accepted (invisible, nothing lost): 2 SAME IMAGE — "arrow-down.svg ↔ arrow-down-433893cc.svg", "arrow.svg ↔ arrow-a76cc9bd.svg"
+root "header"
+  source: 3 text nodes — 0 headings, 0 eyebrows, 3 CTAs, 0 body; 1 img
+  build: 3 text nodes — 0 headings, 0 eyebrows, 3 CTAs, 0 body; 1 img
+  editable texts (outermost h*/p/ul/ol): source 0 / build 0
+  attributes (placeholder/aria-label/title): source 2 / build 2; icons: source 1 / build 1
+root "footer"
+  source: 7 text nodes — 0 headings, 0 eyebrows, 5 CTAs, 2 body; 3 img
+  build: 7 text nodes — 0 headings, 0 eyebrows, 5 CTAs, 2 body; 3 img
+  editable texts (outermost h*/p/ul/ol): source 1 / build 1
+  attributes (placeholder/aria-label/title): source 3 / build 3; icons: source 3 / build 3
+
+Findings: none — content + roles match
+Tiers: looks-same 🔴 0 · nothing-lost 🟡 0 · accepted 🟢 2 (owner 0, auto 2) · advisory 0

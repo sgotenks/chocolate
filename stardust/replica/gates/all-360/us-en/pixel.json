@@ -1,0 +1,363 @@
+{
+  "a": "stardust/replica/gates/all-360/us-en/origin.png",
+  "b": "stardust/replica/gates/all-360/us-en/eds.png",
+  "compared": {
+    "width": 360,
+    "height": 5529,
+    "mode": "overlap"
+  },
+  "heightDelta": 1,
+  "differingPixels": 28034,
+  "pct": 2.81,
+  "threshold": 10,
+  "pass": true,
+  "diff": "stardust/replica/gates/all-360/us-en/diff.png",
+  "masks": [
+    {
+      "yA": 252,
+      "h": 156,
+      "yB": 252
+    },
+    {
+      "yA": 452,
+      "h": 136,
+      "yB": 452
+    },
+    {
+      "yA": 1152,
+      "h": 156,
+      "yB": 1152
+    },
+    {
+      "yA": 1352,
+      "h": 136,
+      "yB": 1352
+    },
+    {
+      "yA": 2052,
+      "h": 156,
+      "yB": 2052
+    },
+    {
+      "yA": 2252,
+      "h": 136,
+      "yB": 2252
+    },
+    {
+      "yA": 2952,
+      "h": 156,
+      "yB": 2952
+    },
+    {
+      "yA": 3152,
+      "h": 136,
+      "yB": 3152
+    },
+    {
+      "yA": 3592,
+      "h": 216,
+      "yB": 3592
+    },
+    {
+      "yA": 3852,
+      "h": 156,
+      "yB": 3852
+    },
+    {
+      "yA": 4052,
+      "h": 136,
+      "yB": 4052
+    },
+    {
+      "yA": 4272,
+      "h": 156,
+      "yB": 4272
+    },
+    {
+      "yA": 4492,
+      "h": 356,
+      "yB": 4492
+    },
+    {
+      "yA": 4892,
+      "h": 136,
+      "yB": 4892
+    },
+    {
+      "yA": 5072,
+      "h": 376,
+      "yB": 5072
+    },
+    {
+      "yA": 5472,
+      "h": 58,
+      "yB": 5472
+    }
+  ],
+  "maskedRows": 2757,
+  "textPct": 3.55,
+  "textBoxes": 64,
+  "textPixels": 136284,
+  "bands": [
+    {
+      "y0": 0,
+      "y1": 500,
+      "pct": 1.1
+    },
+    {
+      "y0": 500,
+      "y1": 1000,
+      "pct": 5.8
+    },
+    {
+      "y0": 1000,
+      "y1": 1500,
+      "pct": 0.5
+    },
+    {
+      "y0": 1500,
+      "y1": 2000,
+      "pct": 2.5
+    },
+    {
+      "y0": 2000,
+      "y1": 2500,
+      "pct": 0.5
+    },
+    {
+      "y0": 2500,
+      "y1": 3000,
+      "pct": 2.3
+    },
+    {
+      "y0": 3000,
+      "y1": 3500,
+      "pct": 2.6
+    },
+    {
+      "y0": 3500,
+      "y1": 4000,
+      "pct": 0.1
+    },
+    {
+      "y0": 4000,
+      "y1": 4500,
+      "pct": 0
+    },
+    {
+      "y0": 4500,
+      "y1": 5000,
+      "pct": 0
+    },
+    {
+      "y0": 5000,
+      "y1": 5500,
+      "pct": 0.2
+    },
+    {
+      "y0": 5500,
+      "y1": 5529,
+      "pct": 0
+    }
+  ],
+  "verdict": "aligned",
+  "aligned": {
+    "used": false,
+    "pct": 2.81,
+    "differingPixels": 28034,
+    "compared": {
+      "width": 360,
+      "height": 5529,
+      "mode": "overlap"
+    },
+    "steps": [],
+    "maxOffset": 0,
+    "totalShift": 0,
+    "insertedRows": 0,
+    "deletedRows": 0,
+    "bands": [
+      {
+        "y0": 0,
+        "y1": 500,
+        "pct": 1.1,
+        "unaligned": 1.1
+      },
+      {
+        "y0": 500,
+        "y1": 1000,
+        "pct": 5.8,
+        "unaligned": 5.8
+      },
+      {
+        "y0": 1000,
+        "y1": 1500,
+        "pct": 0.5,
+        "unaligned": 0.5
+      },
+      {
+        "y0": 1500,
+        "y1": 2000,
+        "pct": 2.5,
+        "unaligned": 2.5
+      },
+      {
+        "y0": 2000,
+        "y1": 2500,
+        "pct": 0.5,
+        "unaligned": 0.5
+      },
+      {
+        "y0": 2500,
+        "y1": 3000,
+        "pct": 2.3,
+        "unaligned": 2.3
+      },
+      {
+        "y0": 3000,
+        "y1": 3500,
+        "pct": 2.6,
+        "unaligned": 2.6
+      },
+      {
+        "y0": 3500,
+        "y1": 4000,
+        "pct": 0.1,
+        "unaligned": 0.1
+      },
+      {
+        "y0": 4000,
+        "y1": 4500,
+        "pct": 0,
+        "unaligned": 0
+      },
+      {
+        "y0": 4500,
+        "y1": 5000,
+        "pct": 0,
+        "unaligned": 0
+      },
+      {
+        "y0": 5000,
+        "y1": 5500,
+        "pct": 0.2,
+        "unaligned": 0.2
+      },
+      {
+        "y0": 5500,
+        "y1": 5529,
+        "pct": 0,
+        "unaligned": 0
+      }
+    ],
+    "diff": null,
+    "reason": "aligned number not lower than the unaligned one",
+    "candidate": {
+      "pct": 2.82,
+      "steps": 1,
+      "totalShift": 1
+    }
+  },
+  "offsets": {
+    "bound": null,
+    "totalShift": 0,
+    "pass": true
+  },
+  "reason": null,
+  "maskReason": "self-varying rows of the frozen reference (noise floor 2.02%)",
+  "capturesDropped": {
+    "masks": [],
+    "edsUrl": "https://main--a6216fe5--aemcoder.aem.live/us/en/",
+    "key": {
+      "v": 3,
+      "build": "https://main--a6216fe5--aemcoder.aem.live/us/en/",
+      "source": "https://www.wonka.com/us/en/",
+      "masks": "74234e98afe7498f",
+      "presence": "74234e98afe7498f",
+      "clipAllow": "74234e98afe7498f",
+      "override": "74234e98afe7498f",
+      "units": "ff0faff4bda06df7",
+      "options": "02622c57930f784e",
+      "reference": "ac6763583ae73043",
+      "archetype": "e75aab9bcec379b3",
+      "captures": "3815d7f4d837e83e",
+      "instruments": "eb81d8f0db728617",
+      "page content": "c07589725759376c",
+      "shared code": "017195a7628ed43c",
+      "block coming-soon": "8f00c697f218c107",
+      "block hero": "64f0318e597d4381",
+      "block home-hero": "63e461001694f80e",
+      "block portal": "0955f1a74c4db886",
+      "block product-cards": "dbc279763b56c8aa"
+    },
+    "probes": {
+      "content": {
+        "totals": {
+          "missingHeadings": 0,
+          "hiddenHeadings": 0,
+          "extraHeadings": 1,
+          "missingLinks": 0,
+          "hiddenLinks": 0,
+          "movedLinks": 0,
+          "extraLinks": 2,
+          "missingButtons": 0,
+          "hiddenButtons": 0,
+          "controlState": 0,
+          "countDeltas": 1,
+          "findings": 4,
+          "structural": 0,
+          "missing": 0,
+          "hidden": 0
+        },
+        "variable": [],
+        "reason": null,
+        "tier": "chrome"
+      },
+      "clip": {
+        "counts": {
+          "textClipped": 0,
+          "textHidden": 0,
+          "controlHidden": 0,
+          "controlClipped": 0,
+          "clamped": 0,
+          "collapsed": 0,
+          "scrollHidden": 0,
+          "horizontal": 0,
+          "offPage": 0,
+          "textNodes": 224,
+          "controls": 19,
+          "total": 0
+        },
+        "groups": [],
+        "origin": {
+          "textClipped": 0,
+          "textHidden": 0,
+          "controlHidden": 0,
+          "controlClipped": 0,
+          "clamped": 0,
+          "collapsed": 0,
+          "scrollHidden": 0,
+          "horizontal": 0,
+          "offPage": 0,
+          "textNodes": 224,
+          "controls": 19,
+          "total": 0
+        },
+        "source": "content-presence"
+      },
+      "units": {
+        "verdict": {
+          "units": 5,
+          "within": 50,
+          "off": 0,
+          "hidden": 0,
+          "missing": 0,
+          "errors": 0,
+          "requiredOff": 0
+        },
+        "required": true,
+        "errors": []
+      }
+    },
+    "at": "2026-11-25T14:44:16.784Z"
+  }
+}

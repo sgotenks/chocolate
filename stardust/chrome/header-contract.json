@@ -1,0 +1,37 @@
+{
+ "tool": "chrome-explore",
+ "url": "https://www.wonka.com/us/en/about-wonka",
+ "at": "2026-11-25T10:25:06.759Z",
+ "shots": "stardust/.work/chrome/header-contract",
+ "widths": {
+  "390": {
+   "root": null,
+   "controls": [],
+   "scroll": [],
+   "states": 0,
+   "truncated": null,
+   "loads": 1,
+   "requests": 33,
+   "maxRequests": 600,
+   "inputsSkipped": 0,
+   "watch": {
+    "status": "not-triggered"
+   }
+  },
+  "1440": {
+   "root": null,
+   "controls": [],
+   "scroll": [],
+   "states": 0,
+   "truncated": null,
+   "loads": 1,
+   "requests": 31,
+   "maxRequests": 600,
+   "inputsSkipped": 0,
+   "watch": {
+    "status": "not-triggered"
+   }
+  }
+ },
+ "probe": null
+}

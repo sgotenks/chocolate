@@ -1,0 +1,21 @@
+{
+  "writtenBy": "gate-all.mjs",
+  "copiedFrom": "stardust/replica/gates/us-en-about-wonka-1440/baseline.png",
+  "fixedLayers": {
+    "capture": "once",
+    "count": 6,
+    "late": 0
+  },
+  "timers": {
+    "hold": 2000,
+    "held": 6,
+    "intervals": 4,
+    "chains": 2,
+    "delays": [
+      5000,
+      86400000
+    ]
+  },
+  "fontsFailed": [],
+  "deadFaces": []
+}

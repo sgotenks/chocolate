@@ -1,0 +1,613 @@
+{
+  "_provenance": {
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-11-25T10:14:19.309Z",
+    "waitMode": "slow",
+    "waitMs": 5000,
+    "httpStatus": 200
+  },
+  "slug": "us-en-about-wonka",
+  "url": "https://www.wonka.com/us/en/about-wonka",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-11-25T10:14:19.309Z",
+  "finalUrl": "https://www.wonka.com/us/en/about-wonka",
+  "title": "About Wonka Brand",
+  "description": "Step into the world of Wonka! Discover inventive chocolate creations, fruity gummies, and magical flavors made to spark your imagination. Explore the range today.",
+  "og": {
+    "title": "About Wonka | Wonka US",
+    "description": null,
+    "image": "https://www.wonka.com/us/themes/custom/sling/logo.svg",
+    "type": "website"
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Discover Wonka world"
+    },
+    {
+      "tag": "h2",
+      "text": "WHERE IMAGINATION BECOMES DELICIOUS"
+    },
+    {
+      "tag": "h2",
+      "text": "BORN IN THE WONKA FACTORY"
+    },
+    {
+      "tag": "h2",
+      "text": "READY TO STEP INSIDE?"
+    },
+    {
+      "tag": "h2",
+      "text": "Follow the Magic"
+    },
+    {
+      "tag": "h2",
+      "text": "UNWRAPPING YOUR QUESTIONS"
+    }
+  ],
+  "body": [
+    "EST. IN WONDER",
+    "Where inventive creations, unexpected flavors and delicious surprises turn every treat into something extraordinary.",
+    "Wonka turns the ordinary into the extraordinary through inventive creations, unexpected combinations and a playful sense of wonder.",
+    "Wonka turns the ordinary into the extraordinary through inventive creations, unexpected combinations and a playful sense of wonder.",
+    "Every Wonka product is made to spark curiosity and delight, bringing together imaginative ideas, distinctive shapes, exciting textures and delicious flavors.",
+    "Every Wonka product is made to spark curiosity and delight, bringing together imaginative ideas, distinctive shapes, exciting textures and delicious flavors.",
+    "Across fruity gummies, assorted chocolates and many more imaginative treats, every creation offers a new way to experience the taste of wonder.",
+    "Across fruity gummies, assorted chocolates and many more imaginative treats, every creation offers a new way to experience the taste of wonder.",
+    "Beyond the golden gates lies a place where imagination is always at work. A place where unexpected ideas are explored, flavors are reinvented and every “what if?” has the potential to become an extraordinary creation.",
+    "This is the Wonka Factory: where curiosity fuels invention and craftsmanship brings imagination to life. Nothing is too imaginative to become delicious.Wonka is a Ferrero brand.",
+    "The factory doors are open. Discover the full Wonka collection before finding your favorite flavor at a retailer near you starting November 2026.",
+    "Stay up to date with the latest from the Wonka world — new products, stories and surprises.",
+    "Instagram",
+    "Tik Tok",
+    "1. When will Wonka be on shelves? Wonka treats won't just launch once. They'll come and go throughout the year, appearing as seasonal, limited-edition creations before disappearing again... only to return in new forms. The first wave arrives Fall 2026, so keep checking back for what's currently on shelves.",
+    "2. What kind of treats can I expect? A whole world of confections: chocolate, sugar candy, and ice cream creations, each dreamed up with signature Wonka flavors, textures and iconic shapes.",
+    "3. Where can I find Wonka products? Look for Wonka wherever you buy treats today. Availability is limited to key seasons, so if you don’t see it today, check back soon.",
+    "4. Is Wonka a Ferrero brand? Yes. Ferrero holds the exclusive global rights to Wonka in confectionery, following its acquisition of Nestlé's US confectionery business in 2018.",
+    "5. Is this connected to the new Netflix film and series? Ferrero's Wonka and Netflix are bringing the world of Wonka to life together, on screen and on shelf. We can't share more just yet, but keep an eye out... the Wonka world has a way of turning up in surprising places.",
+    "6. Who are these products for? Wonka is a treat for anyone young at heart who grew up loving the franchise and wants to rediscover that sense of wonder. We do not market directly to children.",
+    "7. Where are Wonka products made? Across Ferrero's global manufacturing network, ensuring the same quality and craftsmanship Ferrero is known for worldwide."
+  ],
+  "codeBlocks": [],
+  "ctas": [
+    {
+      "label": "Home",
+      "href": "/us/en/"
+    },
+    {
+      "label": "About Wonka",
+      "href": "/us/en/about-wonka"
+    },
+    {
+      "label": "Golden Ticket Sweepstakes",
+      "href": "https://www.wonka.com/us/en/xp/golden-ticket/"
+    },
+    {
+      "label": "Explore the Wonka Range",
+      "href": "/us/en/"
+    },
+    {
+      "label": "1. When will Wonka be on shelves?",
+      "href": null
+    },
+    {
+      "label": "2. What kind of treats can I expect?",
+      "href": null
+    },
+    {
+      "label": "3. Where can I find Wonka products?",
+      "href": null
+    },
+    {
+      "label": "4. Is Wonka a Ferrero brand?",
+      "href": null
+    },
+    {
+      "label": "5. Is this connected to the new Netflix film and series?",
+      "href": null
+    },
+    {
+      "label": "6. Who are these products for?",
+      "href": null
+    },
+    {
+      "label": "7. Where are Wonka products made?",
+      "href": null
+    },
+    {
+      "label": "Privacy Policy",
+      "href": "/us/en/privacy-policy"
+    },
+    {
+      "label": "Terms of Use",
+      "href": "/us/en/terms-of-use"
+    },
+    {
+      "label": "Cookie Policy",
+      "href": "/us/en/cookie-policy"
+    },
+    {
+      "label": "Do Not Sell or Share My Personal Information",
+      "href": "#ot-sdk-show-settings"
+    },
+    {
+      "label": "Contact Us",
+      "href": "https://www.ferrero.com/us/en/contact-us"
+    }
+  ],
+  "links": [
+    "https://www.wonka.com/us/en/about-wonka#main-content",
+    "https://www.wonka.com/us/en/",
+    "https://www.wonka.com/us/en/about-wonka",
+    "https://www.wonka.com/us/en/xp/golden-ticket/",
+    "https://www.instagram.com/wonka_usa",
+    "https://www.tiktok.com/@wonka_usa",
+    "https://www.wonka.com/us/en/privacy-policy",
+    "https://www.wonka.com/us/en/terms-of-use",
+    "https://www.wonka.com/us/en/cookie-policy",
+    "https://www.wonka.com/us/en/about-wonka#ot-sdk-show-settings",
+    "https://www.ferrero.com/us/en/contact-us",
+    "https://www.wonka.com/us/en/about-wonka#imagination"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/decorative/clouds/cloud-1.webp",
+        "alt": "",
+        "w": 338,
+        "h": 302
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/decorative/clouds/cloud-2.webp",
+        "alt": "",
+        "w": 352,
+        "h": 302
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/decorative/clouds/cloud-4.webp",
+        "alt": "",
+        "w": 274,
+        "h": 230
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/decorative/decorative-star.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/icons/social-instagram.svg",
+        "alt": "Instagram",
+        "w": 20,
+        "h": 20
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/icons/social-tiktok.svg",
+        "alt": "Tik Tok",
+        "w": 20,
+        "h": 20
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/decorative/decorative-star.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24
+      },
+      {
+        "src": "https://ferrero-kube-stack-prod-static.s3.eu-west-1.amazonaws.com/wonka-us-d11/sites/wonka.com.us/s3fs-public/2026-08/wonka-logo.svg",
+        "alt": "Golden Wonka brand logo",
+        "w": 146,
+        "h": 83
+      },
+      {
+        "src": "https://ferrero-kube-stack-prod-static.s3.eu-west-1.amazonaws.com/wonka-us-d11/sites/wonka.com.us/s3fs-public/2026-08/wonka-logo.svg",
+        "alt": "Golden Wonka brand logo",
+        "w": 146,
+        "h": 83
+      },
+      {
+        "src": "https://ferrero-kube-stack-prod-static.s3.eu-west-1.amazonaws.com/wonka-us-d11/sites/wonka.com.us/s3fs-public/styles/extra_large/public/2026-08/wonka-big-book_1920.webp?itok=BKymzbu7",
+        "alt": "An open vintage leather-bound sketchbook showing detailed technical drawings of chocolate factory inventions, placed next to raw cocoa beans.",
+        "w": 1920,
+        "h": 1920
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/images/discover-hero/gold-dust.webp",
+        "alt": "",
+        "w": 1920,
+        "h": 1554
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/images/hero-banner/clouds-top-left.webp",
+        "alt": "",
+        "w": 327,
+        "h": 302
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/images/hero-banner/clouds-top-right.webp",
+        "alt": "",
+        "w": 363,
+        "h": 302
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/images/discover-hero/clouds-mobile.webp",
+        "alt": "",
+        "w": 375,
+        "h": 210
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/images/discover-hero/clouds.webp",
+        "alt": "",
+        "w": 2500,
+        "h": 461
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/icons/arrow-down.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/images/product-card/stars.webp",
+        "alt": "",
+        "w": 742,
+        "h": 600
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/images/story-cards/seal-stars.webp",
+        "alt": "",
+        "w": 162,
+        "h": 131
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/images/story-cards/seal-background.png",
+        "alt": "",
+        "w": 200,
+        "h": 200
+      },
+      {
+        "src": "https://ferrero-kube-stack-prod-static.s3.eu-west-1.amazonaws.com/wonka-us-d11/sites/wonka.com.us/s3fs-public/styles/extra_large/public/2026-09/icon-1-x2.png?itok=iOzBo-QT",
+        "alt": "Neon purple icon featuring Willy Wonka's top hat and a lollipop surrounded by magical sparks.",
+        "w": 144,
+        "h": 144
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/images/story-cards/seal-stars.webp",
+        "alt": "",
+        "w": 162,
+        "h": 131
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/images/story-cards/seal-background.png",
+        "alt": "",
+        "w": 200,
+        "h": 200
+      },
+      {
+        "src": "https://ferrero-kube-stack-prod-static.s3.eu-west-1.amazonaws.com/wonka-us-d11/sites/wonka.com.us/s3fs-public/styles/extra_large/public/2026-09/icon-2-x2.png?itok=Se-0wKbT",
+        "alt": "Neon purple icon showing a chocolate bar mold crossed with a whisk and spatula surrounded by magical sparks.",
+        "w": 144,
+        "h": 144
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/images/product-card/stars.webp",
+        "alt": "",
+        "w": 742,
+        "h": 600
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/images/story-cards/seal-stars.webp",
+        "alt": "",
+        "w": 162,
+        "h": 131
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/images/story-cards/seal-background.png",
+        "alt": "",
+        "w": 200,
+        "h": 200
+      },
+      {
+        "src": "https://ferrero-kube-stack-prod-static.s3.eu-west-1.amazonaws.com/wonka-us-d11/sites/wonka.com.us/s3fs-public/styles/extra_large/public/2026-09/icon-3-x2.png?itok=qUs_yZze",
+        "alt": "Neon purple icon of a cocoa pod with leaves and cocoa beans surrounded by magical sparks.",
+        "w": 144,
+        "h": 144
+      },
+      {
+        "src": "https://ferrero-kube-stack-prod-static.s3.eu-west-1.amazonaws.com/wonka-us-d11/sites/wonka.com.us/s3fs-public/styles/extra_large/public/2026-09/wonka-factory-x2.webp?itok=ovpCPIn9",
+        "alt": "Wonka's chocolate factory filled with copper machinery, colorful steam, and a flying purple airship above a production line.",
+        "w": 1600,
+        "h": 1194
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/decorative/decorative-star.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/images/promo-section/clouds.webp",
+        "alt": "",
+        "w": 1718,
+        "h": 317
+      },
+      {
+        "src": "https://ferrero-kube-stack-prod-static.s3.eu-west-1.amazonaws.com/wonka-us-d11/sites/wonka.com.us/s3fs-public/styles/extra_large/public/2026-09/us-version-products-group-desktop.webp?itok=9QT6cJ56",
+        "alt": "A stacked layout of purple Wonka candy packages, including Oompa Loompa milk chocolate figure, Magic Garden candy sticks, Purplypurple chocolate bar and Magic Hats.",
+        "w": 1692,
+        "h": 591
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/icons/arrow.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/icons/social-instagram.svg",
+        "alt": "Instagram",
+        "w": 20,
+        "h": 20
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/icons/social-tiktok.svg",
+        "alt": "Tik Tok",
+        "w": 20,
+        "h": 20
+      },
+      {
+        "src": "https://ferrero-kube-stack-prod-static.s3.eu-west-1.amazonaws.com/wonka-us-d11/sites/wonka.com.us/s3fs-public/2026-08/wonka-logo.svg",
+        "alt": "Golden Wonka brand logo",
+        "w": 146,
+        "h": 83
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/icons/social-instagram.svg",
+        "alt": "Instagram",
+        "w": 20,
+        "h": 20
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/icons/social-tiktok.svg",
+        "alt": "Tik Tok",
+        "w": 20,
+        "h": 20
+      }
+    ],
+    "allImgCount": 51,
+    "cssBackgrounds": [],
+    "modals": [
+      "Home About Wonka Golden Ticket Sweepstakes Follow us Privacy Policy Terms of Use Cookie Policy Do Not Sell or Share My Personal Information Contact Us © 2026 Ferrero Group. All Rights Reserved."
+    ],
+    "videos": [],
+    "iframes": []
+  },
+  "customProps": {},
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 6,
+    "mainTextLen": 2893,
+    "realImageCount": 37,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false,
+    "screenshotMode": "fullPage",
+    "pageSize": {
+      "w": 1440,
+      "h": 3893
+    }
+  },
+  "dynamic": {
+    "endpoints": [
+      {
+        "method": "GET",
+        "host": "cdn.cookielaw.org",
+        "path": "/consent/{uuid}/{uuid}.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://cdn.cookielaw.org/consent/019ddcb5-1afd-74e9-920e-7e5a2287f1be/019ddcb5-1afd-74e9-920e-7e5a2287f1be.json",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "cdn.cookielaw.org",
+        "path": "/consent/{uuid}/{uuid}/en.json",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://cdn.cookielaw.org/consent/019ddcb5-1afd-74e9-920e-7e5a2287f1be/019dbb0b-c528-71df-9add-c261d11398e9/en.json",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "cdn.cookielaw.org",
+        "path": "/scripttemplates/202610.1.0/assets/otFlat.json",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 4023,
+        "hits": 1,
+        "example": "https://cdn.cookielaw.org/scripttemplates/202610.1.0/assets/otFlat.json",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "cdn.cookielaw.org",
+        "path": "/scripttemplates/202610.1.0/assets/v2/otPcTab.json",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 15104,
+        "hits": 1,
+        "example": "https://cdn.cookielaw.org/scripttemplates/202610.1.0/assets/v2/otPcTab.json",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "cdn.cookielaw.org",
+        "path": "/scripttemplates/202610.1.0/assets/otCommonStyles.css",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "text/css",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://cdn.cookielaw.org/scripttemplates/202610.1.0/assets/otCommonStyles.css",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "cdn.cookielaw.org",
+        "path": "/logos/static/ot_guard_logo.svg",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "image/svg+xml",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://cdn.cookielaw.org/logos/static/ot_guard_logo.svg",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "www.google-analytics.com",
+        "path": "/g/collect",
+        "query": [
+          "_eu",
+          "_fv",
+          "_nsi",
+          "_p",
+          "_s",
+          "_ss",
+          "_tu",
+          "cid",
+          "dl",
+          "dma",
+          "dma_cps",
+          "dt",
+          "en",
+          "ep.anonymize_ip",
+          "frm",
+          "gcd",
+          "gcs",
+          "gdid",
+          "gtm",
+          "ir",
+          "ngs",
+          "npa",
+          "pscdl",
+          "rcb",
+          "sct",
+          "seg",
+          "sid",
+          "sr",
+          "tag_exp",
+          "tfd",
+          "tid",
+          "uaa",
+          "uab",
+          "uafvl",
+          "uam",
+          "uamb",
+          "uap",
+          "uapv",
+          "uaw",
+          "ul",
+          "v"
+        ],
+        "resourceType": "fetch",
+        "contentType": "text/plain",
+        "status": 204,
+        "bytes": null,
+        "hits": 3,
+        "example": "https://www.google-analytics.com/g/collect",
+        "sameSite": false
+      }
+    ],
+    "thirdPartyScriptHosts": [
+      {
+        "host": "www.googletagmanager.com",
+        "count": 4
+      },
+      {
+        "host": "cdn.cookielaw.org",
+        "count": 2
+      }
+    ],
+    "truncated": false,
+    "inlineData": [
+      {
+        "id": null,
+        "type": "application/json",
+        "bytes": 704,
+        "topLevelKeys": [
+          "path",
+          "pluralDelimiter",
+          "suppressDeprecationErrors",
+          "ajaxPageState",
+          "ajaxTrustedUrl",
+          "user"
+        ]
+      }
+    ],
+    "globalState": [
+      "drupalSettings",
+      "dataLayer"
+    ],
+    "frameworkHints": [],
+    "forms": [],
+    "ariaLiveRegions": 1,
+    "triggers": [],
+    "mediaIds": [],
+    "summary": {
+      "sameSiteEndpoints": 0,
+      "thirdPartyEndpoints": 7,
+      "thirdPartyScriptHosts": 2,
+      "inlineDataBlobs": 1,
+      "forms": 0,
+      "searchForms": 0,
+      "hydrated": true
+    }
+  },
+  "screenshot": "assets/screenshots/us-en-about-wonka.png",
+  "renderedHtml": "pages/us-en-about-wonka.html",
+  "slots": {
+    "type": "landing",
+    "hero": {
+      "module": "discover-hero",
+      "eyebrow": "EST. IN WONDER",
+      "headline": "Discover Wonka world"
+    },
+    "features": {
+      "module": "story-cards",
+      "headline": "WHERE IMAGINATION BECOMES DELICIOUS"
+    },
+    "story": {
+      "module": "image-text",
+      "headline": "BORN IN THE WONKA FACTORY"
+    },
+    "cta-band": {
+      "module": "promo-section",
+      "headline": "READY TO STEP INSIDE?",
+      "cta": "Explore the Wonka Range"
+    },
+    "social": {
+      "module": "social",
+      "headline": "Follow the Magic"
+    },
+    "faq": {
+      "module": "faq-accordion",
+      "headline": "UNWRAPPING YOUR QUESTIONS",
+      "count": 7
+    }
+  },
+  "type": "landing"
+}

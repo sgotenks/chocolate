@@ -1,0 +1,176 @@
+{
+  "_provenance": {
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-11-25T10:17:51.333Z",
+    "waitMode": "medium+sessionStorage(wonka-hat-portal-seen=1)",
+    "waitMs": 3000,
+    "httpStatus": 200,
+    "note": "post-intro state of the home; first-visit hat-portal overlay suppressed via its own sessionStorage flag"
+  },
+  "url": "https://www.wonka.com/us/en/",
+  "portalClass": "wonka-hat-portal wonka-hat-portal--overlay wonka-hat-portal--done",
+  "inertWrappers": 7,
+  "heroText": "Extraordinary creations from the Wonka Factory Unwrap the Wonder Enter Golden Ticket Sweepstakes",
+  "heroH": 900,
+  "heroTextEls": [
+    {
+      "tag": "p",
+      "text": "Extraordinary creations from the Wonka Factory",
+      "fs": "16px",
+      "ff": "Inter, sans-serif",
+      "fw": "600"
+    },
+    {
+      "tag": "a",
+      "text": "Unwrap the Wonder",
+      "fs": "20px",
+      "ff": "Inter, sans-serif",
+      "fw": "700"
+    },
+    {
+      "tag": "a",
+      "text": "Enter Golden Ticket Sweepstakes",
+      "fs": "20px",
+      "ff": "Inter, sans-serif",
+      "fw": "700"
+    }
+  ],
+  "productTitles": [
+    {
+      "tag": "p",
+      "text": "Wonka Chocolate Magic Hats Assorted Chocolates, 12ct",
+      "fs": "18px",
+      "ff": "\"Work Sans\", sans-serif",
+      "fw": "600"
+    },
+    {
+      "tag": "h3",
+      "text": "MAGIC HATS",
+      "fs": "34px",
+      "ff": "\"Work Sans\", sans-serif",
+      "fw": "600"
+    },
+    {
+      "tag": "p",
+      "text": "A refined collection of delicious hat-shaped chocolate pralines. Each Magic Hat is a journey into the Wonka world of wonder and imagination.",
+      "fs": "14px",
+      "ff": "Inter, sans-serif",
+      "fw": "500"
+    },
+    {
+      "tag": "p",
+      "text": "Wonka Chocolate Magic Hats Assorted Chocolates, 18ct",
+      "fs": "18px",
+      "ff": "\"Work Sans\", sans-serif",
+      "fw": "600"
+    },
+    {
+      "tag": "h3",
+      "text": "MAGIC HATS",
+      "fs": "34px",
+      "ff": "\"Work Sans\", sans-serif",
+      "fw": "600"
+    },
+    {
+      "tag": "p",
+      "text": "A refined collection of delicious hat-shaped chocolate pralines. Each Magic Hat is a journey into Wonka's world of wonder and imagination.",
+      "fs": "14px",
+      "ff": "Inter, sans-serif",
+      "fw": "500"
+    },
+    {
+      "tag": "p",
+      "text": "Wonka PurplyPurple Chocolate Caramel Tablet Bar",
+      "fs": "18px",
+      "ff": "\"Work Sans\", sans-serif",
+      "fw": "600"
+    },
+    {
+      "tag": "h3",
+      "text": "PURPLYPURPLE TABLET",
+      "fs": "34px",
+      "ff": "\"Work Sans\", sans-serif",
+      "fw": "600"
+    },
+    {
+      "tag": "p",
+      "text": "Milk chocolate bar with a purple caramel-flavored filling",
+      "fs": "14px",
+      "ff": "Inter, sans-serif",
+      "fw": "500"
+    },
+    {
+      "tag": "p",
+      "text": "Wonka Magic Garden Lemon Lime Chewy Ropes",
+      "fs": "18px",
+      "ff": "\"Work Sans\", sans-serif",
+      "fw": "600"
+    },
+    {
+      "tag": "h3",
+      "text": "MAGIC GARDEN ROPES",
+      "fs": "34px",
+      "ff": "\"Work Sans\", sans-serif",
+      "fw": "600"
+    },
+    {
+      "tag": "p",
+      "text": "Chewy lime ropes with a surprise taste of lemon inside, like grass blades harvested from the factory’s garden, where everything is edible!",
+      "fs": "14px",
+      "ff": "Inter, sans-serif",
+      "fw": "500"
+    },
+    {
+      "tag": "p",
+      "text": "Wonka Oompa Loompa Blueberry & Strawberry Gummies",
+      "fs": "18px",
+      "ff": "\"Work Sans\", sans-serif",
+      "fw": "600"
+    },
+    {
+      "tag": "h3",
+      "text": "OOMPA LOOMPA GUMMIES",
+      "fs": "34px",
+      "ff": "\"Work Sans\", sans-serif",
+      "fw": "600"
+    },
+    {
+      "tag": "p",
+      "text": "Delicious fruity gummies with a magical twist, a juicy berry cola-flavored filling, in a unique Oompa Loompa shape inspired by the magical world of Wonka",
+      "fs": "14px",
+      "ff": "Inter, sans-serif",
+      "fw": "500"
+    }
+  ],
+  "ctas": [
+    {
+      "label": "Unwrap the Wonder",
+      "href": "#product-section"
+    },
+    {
+      "label": "Enter Golden Ticket Sweepstakes",
+      "href": "https://www.wonka.com/us/en/xp/golden-ticket/"
+    },
+    {
+      "label": "See more details",
+      "href": null
+    },
+    {
+      "label": "See more details",
+      "href": null
+    },
+    {
+      "label": "See more details",
+      "href": null
+    },
+    {
+      "label": "See more details",
+      "href": null
+    },
+    {
+      "label": "See more details",
+      "href": null
+    }
+  ],
+  "pageH": 4206
+}

@@ -1,0 +1,2342 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-25T14:43:39.078Z",
+  "width": 1440,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://www.wonka.com/us/en/xp/golden-ticket/",
+  "at": "2026-11-25T14:43:39.000Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 3641,
+  "root": "main",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.dialog-off-canvas-main-canvas > header.header > a.header__logo",
+    "x": 643,
+    "y": 0,
+    "w": 155,
+    "h": 72,
+    "text": "wonka logo",
+    "href": "/us/en/xp/golden-ticket/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "header.header > a.header__logo > img",
+    "x": 675,
+    "y": 15,
+    "w": 90,
+    "h": 43,
+    "text": "wonka logo",
+    "file": "logo"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.n-landing-page-full__top > div.n-landing-page-full__visual.visual > img.blur-up.lazyloaded",
+    "x": 0,
+    "y": 20,
+    "w": 1440,
+    "h": 489,
+    "text": "wonka chocolate products promoting the golden ticket competi",
+    "file": "wonka_visual_US_desk"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.n-landing-page-full > div.n-landing-page-full__top > img.f-el.f-el-1",
+    "x": 38,
+    "y": 495,
+    "w": 52,
+    "h": 52,
+    "text": "",
+    "file": "q1"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.n-landing-page-full > div.n-landing-page-full__top > img.f-el.f-el-2",
+    "x": 180,
+    "y": 453,
+    "w": 96,
+    "h": 87,
+    "text": "",
+    "file": "q2"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.n-landing-page-full > div.n-landing-page-full__top > img.f-el.f-el-3",
+    "x": 305,
+    "y": 523,
+    "w": 71,
+    "h": 70,
+    "text": "",
+    "file": "q3"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.p-editorial__content > div.p-editorial__text-container > h1.p-editorial__title.title",
+    "x": 40,
+    "y": 509,
+    "w": 1360,
+    "h": 131,
+    "level": 1,
+    "text": "could you be the lucky one to win a golden ticket?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.p-editorial__text-container > div.p-editorial__text.text > p",
+    "x": 40,
+    "y": 655,
+    "w": 1360,
+    "h": 47,
+    "text": "Step into a world of wonder and enter for a chance to win a Golden Ticket Experi"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.p-editorial__content > div.p-editorial__media > img.blur-up.lazyloaded",
+    "x": 673,
+    "y": 741,
+    "w": 94,
+    "h": 94,
+    "text": "open the camera on your smartphone and scan the qr code",
+    "file": "qr-code-WONKA-LIVE-US"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.p-editorial__content > div.p-editorial--qr__note > p",
+    "x": 573,
+    "y": 873,
+    "w": 295,
+    "h": 34,
+    "text": "To interact with Wonka’s World, open the camera on your smartphone and scan the "
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.p-editorial--no-bg.p-editorial--image-pos-left > div.f-els-desk > img.f-el.f-el-4",
+    "x": 675,
+    "y": 935,
+    "w": 124,
+    "h": 134,
+    "text": "",
+    "file": "caramel-pop"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.p-editorial--no-bg.p-editorial--image-pos-left > div.f-els-desk > img.f-el.f-el-5",
+    "x": 956,
+    "y": 897,
+    "w": 93,
+    "h": 92,
+    "text": "",
+    "file": "berry_elixir"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.p-editorial--no-bg.p-editorial--image-pos-left > div.f-els-desk > img.f-el.f-el-6",
+    "x": 1341,
+    "y": 1000,
+    "w": 81,
+    "h": 75,
+    "text": "",
+    "file": "bubblegumjoy"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.p-editorial__content > div.p-editorial__text-container > h2.p-editorial__title.title",
+    "x": 760,
+    "y": 1061,
+    "w": 600,
+    "h": 116,
+    "level": 2,
+    "text": "your golden chance to enter wonka's world!"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.p-editorial__text-container > div.p-editorial__text.text > p",
+    "x": 760,
+    "y": 1192,
+    "w": 600,
+    "h": 42,
+    "text": "Activate your phone’s camera to enjoy a magical digital unwrapping experience. F"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.p-editorial__text-container > div.p-editorial__link.link > a.with_ar.button-primary",
+    "x": 965,
+    "y": 1256,
+    "w": 190,
+    "h": 55,
+    "text": "unwrap the magic",
+    "href": "/us/en/xp/golden-ticket/lead/register"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.p-editorial__content > div.p-editorial__media > img.blur-up.lazyloaded",
+    "x": 40,
+    "y": 981,
+    "w": 680,
+    "h": 409,
+    "text": "wonka-golden-ticket",
+    "file": "img_0"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.container > div.p-icons--content > div.p-icons__title.title",
+    "x": 40,
+    "y": 1541,
+    "w": 1360,
+    "h": 94,
+    "text": "ENTER FOR YOUR CHANCE TO WIN A GOLDEN TICKET"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.p-editorial__content > div.p-editorial__text-container > h3.p-editorial__title.title",
+    "x": 188,
+    "y": 1830,
+    "w": 305,
+    "h": 92,
+    "level": 3,
+    "text": "scan your wonka product"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.p-editorial__content > div.p-editorial__media > img.blur-up.lazyloaded",
+    "x": 228,
+    "y": 1672,
+    "w": 225,
+    "h": 158,
+    "text": "step 1",
+    "file": "step-1"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.p-editorial__content > div.p-editorial__text-container > h3.p-editorial__title.title",
+    "x": 568,
+    "y": 1830,
+    "w": 305,
+    "h": 92,
+    "level": 3,
+    "text": "complete your entry"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.p-editorial__content > div.p-editorial__media > img.blur-up.lazyloaded",
+    "x": 607,
+    "y": 1672,
+    "w": 225,
+    "h": 158,
+    "text": "step 2",
+    "file": "Step2-Register-and-play"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.p-editorial__content > div.p-editorial__text-container > h3.p-editorial__title.title",
+    "x": 947,
+    "y": 1830,
+    "w": 305,
+    "h": 122,
+    "level": 3,
+    "text": "you're entered for your chance to win"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.p-editorial__content > div.p-editorial__media > img.blur-up.lazyloaded",
+    "x": 987,
+    "y": 1672,
+    "w": 225,
+    "h": 158,
+    "text": "step 3",
+    "file": "step-3"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.p-icons--content > div.p-icons__link.link > a.with_ar.button-primary",
+    "x": 649,
+    "y": 1989,
+    "w": 141,
+    "h": 55,
+    "text": "get started",
+    "href": "/us/en/xp/golden-ticket/lead/register"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.container > div.p-slider__content > div.p-slider__title.title",
+    "x": 267,
+    "y": 2194,
+    "w": 907,
+    "h": 94,
+    "text": "FIND DELIGHTFULLY EXCLUSIVE PRIZES"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.p-editorial__content > div.p-editorial__text-container > h3.p-editorial__title.title",
+    "x": 40,
+    "y": 2469,
+    "w": 665,
+    "h": 86,
+    "level": 3,
+    "text": "the wonka golden ticket experience"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.p-editorial__text-container > div.p-editorial__text.text > p",
+    "x": 40,
+    "y": 2570,
+    "w": 665,
+    "h": 42,
+    "text": "Winner and and three guests will receive a four day, three night trip to Las Veg"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.p-editorial__text-container > div.p-editorial__link.link > a.s.button-secondary",
+    "x": 268,
+    "y": 2635,
+    "w": 209,
+    "h": 21,
+    "text": "see official rules for details",
+    "href": "/us/en/xp/golden-ticket/terms-and-conditions"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.p-editorial__content > div.p-editorial__media > img.blur-up.lazyloaded",
+    "x": 735,
+    "y": 2362,
+    "w": 665,
+    "h": 400,
+    "text": "netflix house on the vegas strip prize in the wonka golden t",
+    "file": "Wonka-prize-Las-Vegas-trip-slider_0"
+   },
+   {
+    "kind": "heading",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.p-editorial__content > div.p-editorial__text-container > h3.p-editorial__title.title",
+    "x": 1400,
+    "y": 2469,
+    "w": 665,
+    "h": 86,
+    "level": 3,
+    "text": "wonka factory bundle"
+   },
+   {
+    "kind": "text",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.p-editorial__text-container > div.p-editorial__text.text > p",
+    "x": 1400,
+    "y": 2570,
+    "w": 665,
+    "h": 42,
+    "text": "The Factory Bundle is a tiny treasure from a bigger wonderland: a tote bag with "
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.p-slider__nav > div.p-slider__pagination.swiper-pagination > span.swiper-pagination-bullet.swiper-pagination-bullet-active",
+    "x": 700,
+    "y": 2763,
+    "w": 25,
+    "h": 10,
+    "text": "go to slide 1"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.p-slider__nav > div.p-slider__pagination.swiper-pagination > span.swiper-pagination-bullet",
+    "x": 730,
+    "y": 2763,
+    "w": 10,
+    "h": 10,
+    "text": "go to slide 2"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.p-title-text__content > div.p-title-text__link.link > a.s.button-secondary",
+    "x": 616,
+    "y": 2848,
+    "w": 209,
+    "h": 21,
+    "text": "see official rules for details",
+    "href": "/us/en/xp/golden-ticket/terms-and-conditions"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.p-title-text__content > div.p-title-text__text.text > p",
+    "x": 267,
+    "y": 2944,
+    "w": 907,
+    "h": 189,
+    "text": "Open only to legal residents of the 50 United States and D.C., who are 21 years "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.p-title-text__text.text > p > a",
+    "x": 271,
+    "y": 3071,
+    "w": 122,
+    "h": 18,
+    "text": "www.wonka.com",
+    "href": "/us/en/xp/golden-ticket/terms-and-conditions"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.container.footer__content > div.gpp-theme-logo > a",
+    "x": 675,
+    "y": 3248,
+    "w": 90,
+    "h": 51,
+    "text": "home",
+    "href": "/us/en/xp/golden-ticket/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.gpp-theme-logo > a > img",
+    "x": 675,
+    "y": 3248,
+    "w": 90,
+    "h": 51,
+    "text": "home",
+    "file": "logo"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.main-menu-gpp__items > li.main-menu-gpp__item.active > a.main-menu-gpp__link.is-active",
+    "x": 547,
+    "y": 3353,
+    "w": 48,
+    "h": 24,
+    "text": "home",
+    "href": "/us/en/xp/golden-ticket/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.main-menu-gpp__items > li.main-menu-gpp__item > a.main-menu-gpp__link",
+    "x": 670,
+    "y": 3353,
+    "w": 36,
+    "h": 24,
+    "text": "play",
+    "href": "/us/en/xp/golden-ticket/lead/register"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.main-menu-gpp__items > li.main-menu-gpp__item > a.main-menu-gpp__link",
+    "x": 781,
+    "y": 3353,
+    "w": 112,
+    "h": 24,
+    "text": "official rules",
+    "href": "/us/en/xp/golden-ticket/terms-and-conditions"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.container.footer__content > div.footer-socials > div.footer-socials__titl",
+    "x": 632,
+    "y": 3433,
+    "w": 176,
+    "h": 20,
+    "text": "Follow us"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-socials > div.footer-socials__links > a",
+    "x": 632,
+    "y": 3468,
+    "w": 48,
+    "h": 48,
+    "text": "follow us on facebook",
+    "href": "/wonkaglobal"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-socials > div.footer-socials__links > a",
+    "x": 696,
+    "y": 3468,
+    "w": 48,
+    "h": 48,
+    "text": "follow us on instagram",
+    "href": "/wonka_global/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-socials > div.footer-socials__links > a",
+    "x": 760,
+    "y": 3468,
+    "w": 48,
+    "h": 48,
+    "text": "follow us on tiktok",
+    "href": "/@wonka_global"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "nav#block-gpp-promo-theme-footer > div.footer-menu > a",
+    "x": 300,
+    "y": 3540,
+    "w": 92,
+    "h": 20,
+    "text": "privacy policy",
+    "href": "/us/en/privacy-policy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "nav#block-gpp-promo-theme-footer > div.footer-menu > a",
+    "x": 437,
+    "y": 3540,
+    "w": 89,
+    "h": 20,
+    "text": "terms of use",
+    "href": "/us/en/terms-of-use"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "nav#block-gpp-promo-theme-footer > div.footer-menu > a",
+    "x": 572,
+    "y": 3540,
+    "w": 91,
+    "h": 20,
+    "text": "cookie policy",
+    "href": "/us/en/cookie-policy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "nav#block-gpp-promo-theme-footer > div.footer-menu > a.ot-sdk-show-settings",
+    "x": 708,
+    "y": 3540,
+    "w": 311,
+    "h": 20,
+    "text": "do not sell or share my personal information",
+    "href": "/us/en/xp/golden-ticket/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "nav#block-gpp-promo-theme-footer > div.footer-menu > a",
+    "x": 1064,
+    "y": 3540,
+    "w": 76,
+    "h": 20,
+    "text": "contact us",
+    "href": "/us/en/contact-us"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "footer.footer > div.footer__bottom > div.container",
+    "x": 0,
+    "y": 3604,
+    "w": 1440,
+    "h": 17,
+    "text": "Copyright © Ferrero 2026"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 1,
+    "offPage": 3,
+    "textNodes": 36,
+    "controls": 21,
+    "total": 0
+   },
+   "groups": [
+    {
+     "kind": "TEXT X-HIDDEN",
+     "advisory": true,
+     "n": 1,
+     "clipper": "div.swiper-editorial.swiper",
+     "path": "div.p-editorial__content > div.p-editorial__text-container > div.p-editorial__text.text > p",
+     "text": "the factory bundle is a tiny treasure from a bigger wonderla",
+     "cutMin": 611,
+     "cutMax": 611
+    }
+   ]
+  }
+ },
+ "eds": {
+  "url": "https://main--a6216fe5--aemcoder.aem.live/us/en/xp/golden-ticket/",
+  "at": "2026-11-25T14:43:38.470Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 3641,
+  "root": "main#main-content",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header.block > div.promo-header > a.promo-header-logo",
+    "x": 643,
+    "y": 0,
+    "w": 155,
+    "h": 72,
+    "text": "wonka logo",
+    "href": "/us/en/xp/golden-ticket/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.promo-header > a.promo-header-logo > img",
+    "x": 675,
+    "y": 15,
+    "w": 90,
+    "h": 43,
+    "text": "wonka logo",
+    "file": "media_13713a9f6e76ffcd0e295d294846327686"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.promo-visual-art.promo-visual-art-desktop > picture > img",
+    "x": 0,
+    "y": 20,
+    "w": 1440,
+    "h": 490,
+    "text": "wonka chocolate products promoting the golden ticket competi",
+    "file": "media_1abf8e998b5d093dfc42805f1eb555b4fc"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.promo-visual.block > div.promo-visual-decor > img.promo-visual-sweet.promo-visual-sweet-top-1",
+    "x": 38,
+    "y": 496,
+    "w": 52,
+    "h": 52,
+    "text": "",
+    "file": "q1"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.promo-visual.block > div.promo-visual-decor > img.promo-visual-sweet.promo-visual-sweet-top-2",
+    "x": 180,
+    "y": 453,
+    "w": 96,
+    "h": 87,
+    "text": "",
+    "file": "q2"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.promo-visual.block > div.promo-visual-decor > img.promo-visual-sweet.promo-visual-sweet-top-3",
+    "x": 305,
+    "y": 524,
+    "w": 71,
+    "h": 70,
+    "text": "",
+    "file": "q3"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.promo-editorial-text > div.promo-editorial-title > h1#could-you-be-the-lucky-oneto-win-a-golden-ticket",
+    "x": 40,
+    "y": 518,
+    "w": 1360,
+    "h": 123,
+    "level": 1,
+    "text": "could you be the lucky one to win a golden ticket?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.promo-editorial-text > div.promo-editorial-body > p",
+    "x": 40,
+    "y": 656,
+    "w": 1360,
+    "h": 47,
+    "text": "Step into a world of wonder and enter for a chance to win a Golden Ticket Experi"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.promo-editorial-media > picture > img",
+    "x": 673,
+    "y": 741,
+    "w": 94,
+    "h": 94,
+    "text": "open the camera on your smartphone and scan the qr code",
+    "file": "media_13a03022eb4650432a3acf34a664906bbb"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.promo-editorial-content > div.promo-editorial-note > p",
+    "x": 573,
+    "y": 873,
+    "w": 295,
+    "h": 34,
+    "text": "To interact with Wonka’s World, open the camera on your smartphone and scan the "
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.promo-editorial.image-left > div.promo-editorial-decor.promo-editorial-decor-desktop > img.promo-editorial-sweet.promo-editorial-sweet-4",
+    "x": 675,
+    "y": 935,
+    "w": 124,
+    "h": 134,
+    "text": "",
+    "file": "caramel-pop"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.promo-editorial.image-left > div.promo-editorial-decor.promo-editorial-decor-desktop > img.promo-editorial-sweet.promo-editorial-sweet-5",
+    "x": 956,
+    "y": 897,
+    "w": 93,
+    "h": 92,
+    "text": "",
+    "file": "berry_elixir"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.promo-editorial.image-left > div.promo-editorial-decor.promo-editorial-decor-desktop > img.promo-editorial-sweet.promo-editorial-sweet-6",
+    "x": 1341,
+    "y": 1000,
+    "w": 81,
+    "h": 75,
+    "text": "",
+    "file": "bubblegumjoy"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.promo-editorial-text > div.promo-editorial-title > h2#your-golden-chanceto-enter-wonkas-world",
+    "x": 760,
+    "y": 1069,
+    "w": 600,
+    "h": 108,
+    "level": 2,
+    "text": "your golden chance to enter wonka's world!"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.promo-editorial-text > div.promo-editorial-body > p",
+    "x": 760,
+    "y": 1192,
+    "w": 600,
+    "h": 42,
+    "text": "Activate your phone’s camera to enjoy a magical digital unwrapping experience. F"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.promo-editorial-cta > p.button-wrapper > a.button.primary",
+    "x": 965,
+    "y": 1257,
+    "w": 190,
+    "h": 55,
+    "text": "unwrap the magic",
+    "href": "/us/en/xp/golden-ticket/lead/register"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.promo-editorial-media > picture > img",
+    "x": 40,
+    "y": 982,
+    "w": 680,
+    "h": 409,
+    "text": "wonka-golden-ticket",
+    "file": "media_11970668959e675df656b3c4368aea8e30"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.promo-steps-panel > div.promo-steps-title > p",
+    "x": 40,
+    "y": 1549,
+    "w": 1360,
+    "h": 86,
+    "text": "ENTER FOR YOUR CHANCE TO WIN A GOLDEN TICKET"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.promo-step-media > picture > img",
+    "x": 228,
+    "y": 1672,
+    "w": 225,
+    "h": 158,
+    "text": "step 1",
+    "file": "media_17cfb53c59a494d3f6ed46addecfcbca01"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.promo-step > div.promo-step-title > h3#scan-your-wonka-product",
+    "x": 188,
+    "y": 1830,
+    "w": 305,
+    "h": 92,
+    "level": 3,
+    "text": "scan your wonka product"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.promo-step-media > picture > img",
+    "x": 607,
+    "y": 1672,
+    "w": 225,
+    "h": 158,
+    "text": "step 2",
+    "file": "media_19e475b78c25c3eb6050ee0508c1395273"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.promo-step > div.promo-step-title > h3#complete-your-entry",
+    "x": 568,
+    "y": 1830,
+    "w": 305,
+    "h": 92,
+    "level": 3,
+    "text": "complete your entry"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.promo-step-media > picture > img",
+    "x": 987,
+    "y": 1672,
+    "w": 225,
+    "h": 158,
+    "text": "step 3",
+    "file": "media_153ec71fbc091f1046d577ec16e0bbf1dd"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.promo-step > div.promo-step-title > h3#youre-entered-for-your-chance-to-win",
+    "x": 947,
+    "y": 1830,
+    "w": 305,
+    "h": 122,
+    "level": 3,
+    "text": "you're entered for your chance to win"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.promo-steps-cta > p.button-wrapper > a.button.primary",
+    "x": 649,
+    "y": 1989,
+    "w": 141,
+    "h": 55,
+    "text": "get started",
+    "href": "/us/en/xp/golden-ticket/lead/register"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.promo-prizes-head > div.promo-prizes-title > p",
+    "x": 267,
+    "y": 2202,
+    "w": 907,
+    "h": 86,
+    "text": "FIND DELIGHTFULLY EXCLUSIVE PRIZES"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.promo-prize-text > div.promo-prize-title > h3#the-wonka-golden-ticket-experience",
+    "x": 40,
+    "y": 2469,
+    "w": 665,
+    "h": 86,
+    "level": 3,
+    "text": "the wonka golden ticket experience"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.promo-prize-text > div.promo-prize-body > p",
+    "x": 40,
+    "y": 2570,
+    "w": 665,
+    "h": 42,
+    "text": "Winner and and three guests will receive a four day, three night trip to Las Veg"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.promo-prize-links > p.button-wrapper > a.button.secondary",
+    "x": 268,
+    "y": 2635,
+    "w": 209,
+    "h": 21,
+    "text": "see official rules for details",
+    "href": "/us/en/xp/golden-ticket/terms-and-conditions"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.promo-prize-media > picture > img",
+    "x": 735,
+    "y": 2363,
+    "w": 665,
+    "h": 400,
+    "text": "netflix house on the vegas strip prize in the wonka golden t",
+    "file": "media_1eb03d85203980ecf6a565fac1b52eb752"
+   },
+   {
+    "kind": "heading",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.promo-prize-text > div.promo-prize-title > h3#wonka-factory-bundle",
+    "x": 1400,
+    "y": 2469,
+    "w": 665,
+    "h": 86,
+    "level": 3,
+    "text": "wonka factory bundle"
+   },
+   {
+    "kind": "text",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.promo-prize-text > div.promo-prize-body > p",
+    "x": 1400,
+    "y": 2570,
+    "w": 665,
+    "h": 42,
+    "text": "The Factory Bundle is a tiny treasure from a bigger wonderland: a tote bag with "
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.promo-prizes-nav > div.promo-prizes-dots > button.promo-prizes-dot.is-active",
+    "x": 700,
+    "y": 2763,
+    "w": 25,
+    "h": 10,
+    "text": "go to slide 1"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.promo-prizes-nav > div.promo-prizes-dots > button.promo-prizes-dot",
+    "x": 730,
+    "y": 2763,
+    "w": 10,
+    "h": 10,
+    "text": "go to slide 2"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p.button-wrapper > a.button.secondary",
+    "x": 616,
+    "y": 2848,
+    "w": 209,
+    "h": 21,
+    "text": "see official rules for details",
+    "href": "/us/en/xp/golden-ticket/terms-and-conditions"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.ar-banner-container > div.default-content-wrapper > p",
+    "x": 267,
+    "y": 2944,
+    "w": 907,
+    "h": 189,
+    "text": "Open only to legal residents of the 50 United States and D.C., who are 21 years "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > a",
+    "x": 271,
+    "y": 3071,
+    "w": 122,
+    "h": 18,
+    "text": "www.wonka.com",
+    "href": "/us/en/xp/golden-ticket/terms-and-conditions"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.promo-container.promo-footer-content > div.promo-footer-logo > a",
+    "x": 675,
+    "y": 3248,
+    "w": 90,
+    "h": 51,
+    "text": "home",
+    "href": "/us/en/xp/golden-ticket/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.promo-footer-logo > a > img",
+    "x": 675,
+    "y": 3248,
+    "w": 90,
+    "h": 51,
+    "text": "home",
+    "file": "media_13713a9f6e76ffcd0e295d294846327686"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.promo-footer-menu-items > li.is-active > a",
+    "x": 547,
+    "y": 3353,
+    "w": 48,
+    "h": 24,
+    "text": "home",
+    "href": "/us/en/xp/golden-ticket/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.promo-footer-menu-items > li > a",
+    "x": 670,
+    "y": 3353,
+    "w": 36,
+    "h": 24,
+    "text": "play",
+    "href": "/us/en/xp/golden-ticket/lead/register"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.promo-footer-menu-items > li > a",
+    "x": 781,
+    "y": 3353,
+    "w": 112,
+    "h": 24,
+    "text": "official rules",
+    "href": "/us/en/xp/golden-ticket/terms-and-conditions"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.promo-container.promo-footer-content > div.promo-footer-socials > div.promo-footer-socials-title",
+    "x": 632,
+    "y": 3433,
+    "w": 176,
+    "h": 20,
+    "text": "Follow us"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.promo-footer-socials > div.promo-footer-socials-links > a",
+    "x": 632,
+    "y": 3469,
+    "w": 48,
+    "h": 48,
+    "text": "follow us on facebook",
+    "href": "/wonkaglobal"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > span.icon.icon-gt-facebook > img",
+    "x": 644,
+    "y": 3481,
+    "w": 24,
+    "h": 24,
+    "text": "",
+    "file": "gt-facebook"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.promo-footer-socials > div.promo-footer-socials-links > a",
+    "x": 696,
+    "y": 3469,
+    "w": 48,
+    "h": 48,
+    "text": "follow us on instagram",
+    "href": "/wonka_global/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > span.icon.icon-gt-instagram > img",
+    "x": 708,
+    "y": 3481,
+    "w": 24,
+    "h": 24,
+    "text": "",
+    "file": "gt-instagram"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.promo-footer-socials > div.promo-footer-socials-links > a",
+    "x": 760,
+    "y": 3469,
+    "w": 48,
+    "h": 48,
+    "text": "follow us on tiktok",
+    "href": "/@wonka_global"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > span.icon.icon-gt-tiktok > img",
+    "x": 772,
+    "y": 3481,
+    "w": 24,
+    "h": 24,
+    "text": "",
+    "file": "gt-tiktok"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "nav.promo-footer-legal-nav > div.promo-footer-legal > a",
+    "x": 300,
+    "y": 3541,
+    "w": 92,
+    "h": 20,
+    "text": "privacy policy",
+    "href": "/us/en/privacy-policy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "nav.promo-footer-legal-nav > div.promo-footer-legal > a",
+    "x": 437,
+    "y": 3541,
+    "w": 89,
+    "h": 20,
+    "text": "terms of use",
+    "href": "/us/en/terms-of-use"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "nav.promo-footer-legal-nav > div.promo-footer-legal > a",
+    "x": 572,
+    "y": 3541,
+    "w": 91,
+    "h": 20,
+    "text": "cookie policy",
+    "href": "/us/en/cookie-policy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "nav.promo-footer-legal-nav > div.promo-footer-legal > a",
+    "x": 708,
+    "y": 3541,
+    "w": 311,
+    "h": 20,
+    "text": "do not sell or share my personal information",
+    "href": "/us/en/xp/golden-ticket/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "nav.promo-footer-legal-nav > div.promo-footer-legal > a",
+    "x": 1064,
+    "y": 3541,
+    "w": 76,
+    "h": 20,
+    "text": "contact us",
+    "href": "/us/en/contact-us"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.promo-footer > div.promo-footer-bottom > div.promo-container",
+    "x": 0,
+    "y": 3604,
+    "w": 1440,
+    "h": 17,
+    "text": "Copyright © Ferrero 2026"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 1,
+    "offPage": 3,
+    "textNodes": 36,
+    "controls": 21,
+    "total": 0
+   },
+   "groups": [
+    {
+     "kind": "TEXT X-HIDDEN",
+     "advisory": true,
+     "n": 1,
+     "clipper": "div.promo-prizes-viewport",
+     "path": "div.promo-prize > div.promo-prize-text > div.promo-prize-body > p",
+     "text": "the factory bundle is a tiny treasure from a bigger wonderla",
+     "cutMin": 611,
+     "cutMax": 611
+    }
+   ],
+   "findings": [
+    {
+     "kind": "TEXT X-HIDDEN",
+     "advisory": true,
+     "cut": 611,
+     "path": "div.promo-prize > div.promo-prize-text > div.promo-prize-body > p",
+     "text": "the factory bundle is a tiny treasure from a bigger wonderla",
+     "clipper": "div.promo-prizes-viewport",
+     "rect": {
+      "l": 1414,
+      "t": 2571,
+      "r": 2051,
+      "b": 2589,
+      "w": 637,
+      "h": 18
+     },
+     "clip": {
+      "l": 40,
+      "t": 2363,
+      "r": 1400,
+      "b": 2773,
+      "w": 1360,
+      "h": 410
+     },
+     "lines": 2
+    }
+   ]
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 0,
+    "image": 3
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 3,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 1,
+   "heading": "could you be the lucky one to win a golden ticket?",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 2,
+    "image": 6
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 2,
+    "textHidden": 0,
+    "image": 6,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 2,
+   "heading": "your golden chance to enter wonka's world!",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 2,
+    "image": 3
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 2,
+    "textHidden": 0,
+    "image": 3,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 3,
+   "heading": "scan your wonka product",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 4,
+   "heading": "complete your entry",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 5,
+   "heading": "you're entered for your chance to win",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 1,
+    "image": 1
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 6,
+   "heading": "the wonka golden ticket experience",
+   "variable": false,
+   "origin": {
+    "link": 3,
+    "button": 2,
+    "text": 2,
+    "image": 0
+   },
+   "eds": {
+    "link": 3,
+    "linkHidden": 0,
+    "button": 2,
+    "buttonHidden": 0,
+    "text": 2,
+    "textHidden": 1,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  }
+ ],
+ "findings": [],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 0,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 0,
+  "missingButtons": 0,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 0,
+  "findings": 0,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 427,
+    "y": 537,
+    "w": 586,
+    "h": 44
+   },
+   {
+    "x": 466,
+    "y": 575,
+    "w": 508,
+    "h": 44
+   },
+   {
+    "x": 159,
+    "y": 656,
+    "w": 1122,
+    "h": 20
+   },
+   {
+    "x": 521,
+    "y": 680,
+    "w": 398,
+    "h": 20
+   },
+   {
+    "x": 576,
+    "y": 874,
+    "w": 289,
+    "h": 14
+   },
+   {
+    "x": 583,
+    "y": 891,
+    "w": 273,
+    "h": 14
+   },
+   {
+    "x": 886,
+    "y": 1090,
+    "w": 349,
+    "h": 35
+   },
+   {
+    "x": 847,
+    "y": 1120,
+    "w": 426,
+    "h": 35
+   },
+   {
+    "x": 764,
+    "y": 1193,
+    "w": 592,
+    "h": 18
+   },
+   {
+    "x": 845,
+    "y": 1214,
+    "w": 430,
+    "h": 18
+   },
+   {
+    "x": 993,
+    "y": 1274,
+    "w": 133,
+    "h": 18
+   },
+   {
+    "x": 227,
+    "y": 1569,
+    "w": 987,
+    "h": 44
+   },
+   {
+    "x": 193,
+    "y": 1859,
+    "w": 295,
+    "h": 35
+   },
+   {
+    "x": 268,
+    "y": 1889,
+    "w": 145,
+    "h": 35
+   },
+   {
+    "x": 592,
+    "y": 1859,
+    "w": 256,
+    "h": 35
+   },
+   {
+    "x": 670,
+    "y": 1889,
+    "w": 100,
+    "h": 35
+   },
+   {
+    "x": 971,
+    "y": 1859,
+    "w": 258,
+    "h": 35
+   },
+   {
+    "x": 958,
+    "y": 1889,
+    "w": 284,
+    "h": 35
+   },
+   {
+    "x": 1044,
+    "y": 1919,
+    "w": 111,
+    "h": 35
+   },
+   {
+    "x": 677,
+    "y": 2007,
+    "w": 85,
+    "h": 18
+   },
+   {
+    "x": 350,
+    "y": 2222,
+    "w": 741,
+    "h": 44
+   },
+   {
+    "x": 58,
+    "y": 2498,
+    "w": 630,
+    "h": 35
+   },
+   {
+    "x": 45,
+    "y": 2571,
+    "w": 654,
+    "h": 18
+   },
+   {
+    "x": 132,
+    "y": 2592,
+    "w": 481,
+    "h": 18
+   },
+   {
+    "x": 268,
+    "y": 2636,
+    "w": 209,
+    "h": 18
+   },
+   {
+    "x": 1414,
+    "y": 2571,
+    "w": 637,
+    "h": 18
+   },
+   {
+    "x": 616,
+    "y": 2849,
+    "w": 209,
+    "h": 18
+   },
+   {
+    "x": 267,
+    "y": 2945,
+    "w": 832,
+    "h": 18
+   },
+   {
+    "x": 1099,
+    "y": 2945,
+    "w": 74,
+    "h": 18
+   },
+   {
+    "x": 280,
+    "y": 2966,
+    "w": 880,
+    "h": 18
+   },
+   {
+    "x": 278,
+    "y": 2987,
+    "w": 883,
+    "h": 18
+   },
+   {
+    "x": 280,
+    "y": 3008,
+    "w": 880,
+    "h": 18
+   },
+   {
+    "x": 269,
+    "y": 3029,
+    "w": 902,
+    "h": 18
+   },
+   {
+    "x": 315,
+    "y": 3050,
+    "w": 809,
+    "h": 18
+   },
+   {
+    "x": 271,
+    "y": 3071,
+    "w": 122,
+    "h": 18
+   },
+   {
+    "x": 393,
+    "y": 3071,
+    "w": 777,
+    "h": 18
+   },
+   {
+    "x": 275,
+    "y": 3092,
+    "w": 891,
+    "h": 18
+   },
+   {
+    "x": 648,
+    "y": 3113,
+    "w": 143,
+    "h": 18
+   },
+   {
+    "x": 547,
+    "y": 3354,
+    "w": 48,
+    "h": 20
+   },
+   {
+    "x": 670,
+    "y": 3354,
+    "w": 36,
+    "h": 20
+   },
+   {
+    "x": 781,
+    "y": 3354,
+    "w": 112,
+    "h": 20
+   },
+   {
+    "x": 687,
+    "y": 3434,
+    "w": 65,
+    "h": 16
+   },
+   {
+    "x": 300,
+    "y": 3541,
+    "w": 92,
+    "h": 16
+   },
+   {
+    "x": 437,
+    "y": 3541,
+    "w": 89,
+    "h": 16
+   },
+   {
+    "x": 572,
+    "y": 3541,
+    "w": 91,
+    "h": 16
+   },
+   {
+    "x": 708,
+    "y": 3541,
+    "w": 311,
+    "h": 16
+   },
+   {
+    "x": 1064,
+    "y": 3541,
+    "w": 76,
+    "h": 16
+   },
+   {
+    "x": 646,
+    "y": 3605,
+    "w": 149,
+    "h": 14
+   }
+  ],
+  "eds": [
+   {
+    "x": 427,
+    "y": 538,
+    "w": 586,
+    "h": 44
+   },
+   {
+    "x": 466,
+    "y": 575,
+    "w": 508,
+    "h": 44
+   },
+   {
+    "x": 162,
+    "y": 657,
+    "w": 1116,
+    "h": 20
+   },
+   {
+    "x": 521,
+    "y": 680,
+    "w": 398,
+    "h": 20
+   },
+   {
+    "x": 576,
+    "y": 874,
+    "w": 289,
+    "h": 14
+   },
+   {
+    "x": 583,
+    "y": 891,
+    "w": 273,
+    "h": 14
+   },
+   {
+    "x": 886,
+    "y": 1090,
+    "w": 349,
+    "h": 35
+   },
+   {
+    "x": 847,
+    "y": 1120,
+    "w": 426,
+    "h": 35
+   },
+   {
+    "x": 769,
+    "y": 1193,
+    "w": 582,
+    "h": 18
+   },
+   {
+    "x": 845,
+    "y": 1214,
+    "w": 430,
+    "h": 18
+   },
+   {
+    "x": 993,
+    "y": 1274,
+    "w": 133,
+    "h": 18
+   },
+   {
+    "x": 227,
+    "y": 1569,
+    "w": 987,
+    "h": 44
+   },
+   {
+    "x": 193,
+    "y": 1859,
+    "w": 295,
+    "h": 35
+   },
+   {
+    "x": 268,
+    "y": 1889,
+    "w": 145,
+    "h": 35
+   },
+   {
+    "x": 592,
+    "y": 1859,
+    "w": 256,
+    "h": 35
+   },
+   {
+    "x": 670,
+    "y": 1889,
+    "w": 100,
+    "h": 35
+   },
+   {
+    "x": 971,
+    "y": 1859,
+    "w": 258,
+    "h": 35
+   },
+   {
+    "x": 958,
+    "y": 1889,
+    "w": 284,
+    "h": 35
+   },
+   {
+    "x": 1044,
+    "y": 1919,
+    "w": 111,
+    "h": 35
+   },
+   {
+    "x": 677,
+    "y": 2007,
+    "w": 85,
+    "h": 18
+   },
+   {
+    "x": 350,
+    "y": 2222,
+    "w": 741,
+    "h": 44
+   },
+   {
+    "x": 58,
+    "y": 2498,
+    "w": 630,
+    "h": 35
+   },
+   {
+    "x": 45,
+    "y": 2571,
+    "w": 654,
+    "h": 18
+   },
+   {
+    "x": 132,
+    "y": 2592,
+    "w": 481,
+    "h": 18
+   },
+   {
+    "x": 268,
+    "y": 2636,
+    "w": 209,
+    "h": 18
+   },
+   {
+    "x": 1414,
+    "y": 2571,
+    "w": 637,
+    "h": 18
+   },
+   {
+    "x": 616,
+    "y": 2849,
+    "w": 209,
+    "h": 18
+   },
+   {
+    "x": 267,
+    "y": 2945,
+    "w": 828,
+    "h": 18
+   },
+   {
+    "x": 1094,
+    "y": 2945,
+    "w": 79,
+    "h": 18
+   },
+   {
+    "x": 280,
+    "y": 2966,
+    "w": 880,
+    "h": 18
+   },
+   {
+    "x": 278,
+    "y": 2987,
+    "w": 883,
+    "h": 18
+   },
+   {
+    "x": 280,
+    "y": 3008,
+    "w": 880,
+    "h": 18
+   },
+   {
+    "x": 269,
+    "y": 3029,
+    "w": 902,
+    "h": 18
+   },
+   {
+    "x": 315,
+    "y": 3050,
+    "w": 809,
+    "h": 18
+   },
+   {
+    "x": 271,
+    "y": 3071,
+    "w": 122,
+    "h": 18
+   },
+   {
+    "x": 393,
+    "y": 3071,
+    "w": 777,
+    "h": 18
+   },
+   {
+    "x": 275,
+    "y": 3092,
+    "w": 891,
+    "h": 18
+   },
+   {
+    "x": 648,
+    "y": 3113,
+    "w": 143,
+    "h": 18
+   },
+   {
+    "x": 547,
+    "y": 3354,
+    "w": 48,
+    "h": 20
+   },
+   {
+    "x": 670,
+    "y": 3354,
+    "w": 36,
+    "h": 20
+   },
+   {
+    "x": 781,
+    "y": 3354,
+    "w": 112,
+    "h": 20
+   },
+   {
+    "x": 687,
+    "y": 3434,
+    "w": 65,
+    "h": 16
+   },
+   {
+    "x": 300,
+    "y": 3542,
+    "w": 92,
+    "h": 16
+   },
+   {
+    "x": 437,
+    "y": 3542,
+    "w": 89,
+    "h": 16
+   },
+   {
+    "x": 572,
+    "y": 3542,
+    "w": 91,
+    "h": 16
+   },
+   {
+    "x": 708,
+    "y": 3542,
+    "w": 311,
+    "h": 16
+   },
+   {
+    "x": 1064,
+    "y": 3542,
+    "w": 76,
+    "h": 16
+   },
+   {
+    "x": 646,
+    "y": 3605,
+    "w": 149,
+    "h": 14
+   }
+  ]
+ }
+}

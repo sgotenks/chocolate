@@ -1,0 +1,144 @@
+/* promo-banner — about template promo band (source promo-section paragraph) */
+
+/* source overflow hidden → x-clip only (look-neutral; a y-clip cut the h2 glyph box) */
+.promo-banner {
+  position: relative;
+  width: 100%;
+  overflow: clip visible;
+}
+
+.promo-banner .promo-banner-inner {
+  position: relative;
+  z-index: 10;
+  margin-inline: auto;
+  display: flex;
+  width: 100%;
+  max-width: 1172px;
+  flex-direction: column;
+  align-items: center;
+  gap: 2.5rem;
+  text-align: center;
+}
+
+.promo-banner .promo-banner-head {
+  display: flex;
+  width: 100%;
+  max-width: 700px;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+  padding-inline: 1rem;
+}
+
+.promo-banner .promo-banner-title :is(h1, h2, h3) {
+  font-family: var(--font-heading);
+  font-size: var(--h3);
+  line-height: 34px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: -0.7px;
+  text-align: center;
+  background-image: var(--gold-text);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-clip: text;
+  color: transparent;
+  -webkit-text-fill-color: transparent;
+}
+
+.promo-banner .promo-banner-text {
+  padding-inline: 1rem;
+}
+
+.promo-banner .promo-banner-text p {
+  font-family: var(--font-default);
+  font-size: var(--body-md);
+  line-height: var(--body-md-lh);
+  font-weight: 400;
+  letter-spacing: 0.3px;
+  color: var(--white);
+}
+
+.promo-banner .promo-banner-stage {
+  position: relative;
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  align-items: center;
+}
+
+.promo-banner .promo-banner-clouds {
+  pointer-events: none;
+  position: absolute;
+  bottom: 1rem;
+  right: -95px;
+  z-index: 0;
+  width: 1018px;
+  max-width: none;
+  opacity: 0.8;
+  user-select: none;
+}
+
+.promo-banner .promo-banner-media {
+  position: relative;
+  z-index: 10;
+  width: 100%;
+  padding-inline: 0.5rem;
+}
+
+.promo-banner .promo-banner-media picture {
+  display: contents;
+}
+
+.promo-banner .promo-banner-media img {
+  margin-inline: auto;
+  width: 100vw;
+  max-width: 407px;
+}
+
+.promo-banner .promo-banner-img-d {
+  display: none;
+}
+
+.promo-banner .promo-banner-cta {
+  position: relative;
+  z-index: 20;
+  display: flex;
+  justify-content: center;
+  padding-top: 60px;
+}
+
+@media (width >= 768px) {
+  .promo-banner .promo-banner-inner {
+    max-width: 1204px;
+    gap: 2rem;
+  }
+
+  .promo-banner .promo-banner-clouds {
+    width: 1670px;
+    right: auto;
+  }
+
+  .promo-banner .promo-banner-media img {
+    max-width: 965px;
+    width: 100%;
+  }
+
+  .promo-banner .promo-banner-img-d {
+    display: block;
+  }
+
+  .promo-banner .promo-banner-img-m {
+    display: none;
+  }
+
+  .promo-banner .promo-banner-cta {
+    padding-top: 50px;
+  }
+}
+
+@media (width >= 1024px) {
+  .promo-banner .promo-banner-inner {
+    max-width: 1268px;
+  }
+}

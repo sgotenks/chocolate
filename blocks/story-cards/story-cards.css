@@ -1,0 +1,203 @@
+/* story-cards — about template card row (source story-cards paragraph) */
+.story-cards {
+  position: relative;
+  width: 100%;
+  overflow-x: clip;
+}
+
+.story-cards .story-cards-inner {
+  margin-inline: auto;
+  display: flex;
+  width: 100%;
+  max-width: 1344px;
+  min-width: 0;
+  flex-direction: column;
+  align-items: center;
+  gap: 3.5rem;
+  padding-inline: 1rem;
+}
+
+.story-cards .story-cards-title :is(h1, h2, h3) {
+  font-family: var(--font-heading);
+  font-size: var(--h3);
+  line-height: 1;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: -0.7px;
+  text-align: center;
+  background-image: var(--gold-text);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-clip: text;
+  color: transparent;
+  -webkit-text-fill-color: transparent;
+}
+
+.story-cards .story-cards-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  width: 100%;
+  min-width: 0;
+  flex-direction: column;
+  align-items: stretch;
+  gap: 2rem;
+}
+
+.story-cards .story-cards-card {
+  position: relative;
+  display: flex;
+  min-width: 0;
+  flex: 1 1 0%;
+  flex-direction: column;
+  overflow: visible;
+  padding-top: 50px;
+}
+
+.story-cards .story-cards-stars {
+  pointer-events: none;
+  position: absolute;
+  z-index: 0;
+  width: min(281px, 95%);
+}
+
+.story-cards .story-cards-stars img {
+  height: auto;
+  width: 100%;
+  max-width: none;
+  user-select: none;
+}
+
+.story-cards .story-cards-stars-br {
+  bottom: 0;
+  right: 0;
+  transform: translate(24%, 43%) rotate(6.75deg) scaleY(-1);
+}
+
+.story-cards .story-cards-stars-tl {
+  left: 0;
+  top: 2rem;
+  transform: translate(-24%, -40%) rotate(-162deg) scaleY(-1);
+}
+
+.story-cards .story-cards-body {
+  position: relative;
+  overflow: hidden;
+  z-index: 10;
+  display: flex;
+  height: 100%;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 28px;
+  border: 1px solid #d18dc91a;
+  background-color: var(--purple-800-70);
+  padding: 4rem 1.5rem 1.5rem;
+  text-align: center;
+  backdrop-filter: blur(12px);
+}
+
+.story-cards .story-cards-body::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  background-image: var(--noise);
+  background-repeat: repeat;
+  background-size: 2px 2px;
+  z-index: 1;
+  border-radius: inherit;
+}
+
+.story-cards .story-cards-body p {
+  position: relative;
+  z-index: 2;
+}
+
+.story-cards .story-cards-seal-stars {
+  pointer-events: none;
+  position: absolute;
+  left: calc(50% - 8px);
+  top: 18px;
+  z-index: 20;
+  width: 162px;
+  height: 131px;
+  max-width: none;
+  transform: translateX(-50%) rotate(18.06deg);
+  user-select: none;
+}
+
+.story-cards .story-cards-seal {
+  pointer-events: none;
+  position: absolute;
+  left: 50%;
+  top: 0;
+  z-index: 30;
+  display: flex;
+  width: 100px;
+  height: 100px;
+  transform: translateX(-50%);
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  border-radius: 9999px;
+  box-shadow: 0 14px 20px 0 rgb(73 3 66 / 100%);
+}
+
+.story-cards .story-cards-seal-bg {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.story-cards .story-cards-icon {
+  position: relative;
+  z-index: 10;
+  width: 72px;
+  height: 72px;
+}
+
+.story-cards .story-cards-icon picture {
+  display: contents;
+}
+
+.story-cards .story-cards-icon img {
+  width: 72px;
+  height: 72px;
+  object-fit: contain;
+}
+
+@media (width >= 768px) {
+  .story-cards .story-cards-inner {
+    max-width: 1376px;
+    gap: 3rem;
+    padding-inline: 2rem;
+  }
+
+  .story-cards .story-cards-list {
+    flex-flow: row wrap;
+    align-items: stretch;
+    justify-content: center;
+    gap: 1.5rem;
+  }
+
+  .story-cards .story-cards-card {
+    min-width: 260px;
+    flex-basis: 0;
+    flex-grow: 1;
+  }
+
+  .story-cards .story-cards-body {
+    padding-inline: 1rem;
+    padding-bottom: 2rem;
+  }
+}
+
+@media (width >= 1024px) {
+  .story-cards .story-cards-inner {
+    max-width: 1440px;
+    padding-inline: 4rem;
+  }
+}

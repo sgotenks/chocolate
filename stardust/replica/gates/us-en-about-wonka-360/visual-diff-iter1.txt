@@ -1,0 +1,1133 @@
+[live-session] waiting to pace live navigations to www.wonka.com (1000 ms apart, 2 max parallel; STARDUST_LIVE_PACE_MS / STARDUST_LIVE_MAX_PARALLEL; 0 disables either) — first wait 100 ms
+
+Visual diff @ 360px (profile "generic") — screenshots in stardust/replica/gates/us-en-about-wonka-360/vdiff-iter1/
+
+build red flags (advisory): none
+
+Full metrics JSON (compare source vs build: heading colors, eyebrow colors, image dims, full-bleed):
+{
+ "source": {
+  "viewport": 360,
+  "blankRender": false,
+  "mainHeight": 4739,
+  "textLen": 2896,
+  "images": [
+   {
+    "src": "cloud-1.webp",
+    "natural": "338x302",
+    "rendered": "216x193",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "cloud-2.webp",
+    "natural": "352x302",
+    "rendered": "216x185",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "cloud-3.webp",
+    "natural": "338x430",
+    "rendered": "216x275",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "cloud-4.webp",
+    "natural": "274x230",
+    "rendered": "216x181",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "cloud-6.webp",
+    "natural": "350x261",
+    "rendered": "216x161",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "decorative-star.svg",
+    "natural": "24x24",
+    "rendered": "24x24",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "social-instagram.svg",
+    "natural": "20x20",
+    "rendered": "20x20",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "social-tiktok.svg",
+    "natural": "20x20",
+    "rendered": "20x20",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "decorative-star.svg",
+    "natural": "24x24",
+    "rendered": "24x24",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "wonka-logo.svg",
+    "natural": "146x83",
+    "rendered": "70x40",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "wonka-logo.svg",
+    "natural": "146x83",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "wonka-big-book_1920.webp?itok=BKymzbu7",
+    "natural": "1920x1920",
+    "rendered": "616x616",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "gold-dust.webp",
+    "natural": "1920x1554",
+    "rendered": "628x572",
+    "fit": "fill",
+    "stretched": true,
+    "failedToLoad": false
+   },
+   {
+    "src": "clouds-top-left.webp",
+    "natural": "327x302",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "clouds-top-right.webp",
+    "natural": "363x302",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "clouds-mobile.webp",
+    "natural": "375x210",
+    "rendered": "360x202",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "clouds.webp",
+    "natural": "2500x461",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "arrow-down.svg",
+    "natural": "24x24",
+    "rendered": "20x20",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "stars.webp",
+    "natural": "742x600",
+    "rendered": "306x259",
+    "fit": "fill",
+    "stretched": true,
+    "failedToLoad": false
+   },
+   {
+    "src": "seal-stars.webp",
+    "natural": "162x131",
+    "rendered": "195x175",
+    "fit": "fill",
+    "stretched": true,
+    "failedToLoad": false
+   },
+   {
+    "src": "seal-background.png",
+    "natural": "200x200",
+    "rendered": "100x100",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "icon-1-x2.png?itok=iOzBo-QT",
+    "natural": "144x144",
+    "rendered": "72x72",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "seal-stars.webp",
+    "natural": "162x131",
+    "rendered": "195x175",
+    "fit": "fill",
+    "stretched": true,
+    "failedToLoad": false
+   },
+   {
+    "src": "seal-background.png",
+    "natural": "200x200",
+    "rendered": "100x100",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "icon-2-x2.png?itok=Se-0wKbT",
+    "natural": "144x144",
+    "rendered": "72x72",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "stars.webp",
+    "natural": "742x600",
+    "rendered": "337x303",
+    "fit": "fill",
+    "stretched": true,
+    "failedToLoad": false
+   },
+   {
+    "src": "seal-stars.webp",
+    "natural": "162x131",
+    "rendered": "195x175",
+    "fit": "fill",
+    "stretched": true,
+    "failedToLoad": false
+   },
+   {
+    "src": "seal-background.png",
+    "natural": "200x200",
+    "rendered": "100x100",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "icon-3-x2.png?itok=qUs_yZze",
+    "natural": "144x144",
+    "rendered": "72x72",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "wonka-factory-x2.webp?itok=ovpCPIn9",
+    "natural": "1600x1194",
+    "rendered": "360x269",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "decorative-star.svg",
+    "natural": "24x24",
+    "rendered": "24x24",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "clouds.webp",
+    "natural": "1718x317",
+    "rendered": "1018x188",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "us-products-group-mobile.webp?itok=sa_6TIeH",
+    "natural": "815x755",
+    "rendered": "360x333",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "arrow.svg",
+    "natural": "24x24",
+    "rendered": "20x20",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "social-instagram.svg",
+    "natural": "20x20",
+    "rendered": "20x20",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "social-tiktok.svg",
+    "natural": "20x20",
+    "rendered": "20x20",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "accordion-icon.svg",
+    "natural": "12x2",
+    "rendered": "12x2",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "accordion-icon.svg",
+    "natural": "12x2",
+    "rendered": "2x12",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "accordion-icon.svg",
+    "natural": "12x2",
+    "rendered": "12x2",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "accordion-icon.svg",
+    "natural": "12x2",
+    "rendered": "2x12",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "accordion-icon.svg",
+    "natural": "12x2",
+    "rendered": "12x2",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "accordion-icon.svg",
+    "natural": "12x2",
+    "rendered": "2x12",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "accordion-icon.svg",
+    "natural": "12x2",
+    "rendered": "12x2",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "accordion-icon.svg",
+    "natural": "12x2",
+    "rendered": "2x12",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "accordion-icon.svg",
+    "natural": "12x2",
+    "rendered": "12x2",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "accordion-icon.svg",
+    "natural": "12x2",
+    "rendered": "2x12",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "accordion-icon.svg",
+    "natural": "12x2",
+    "rendered": "12x2",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "accordion-icon.svg",
+    "natural": "12x2",
+    "rendered": "2x12",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "accordion-icon.svg",
+    "natural": "12x2",
+    "rendered": "12x2",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "accordion-icon.svg",
+    "natural": "12x2",
+    "rendered": "2x12",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "wonka-logo.svg",
+    "natural": "146x83",
+    "rendered": "141x80",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "social-instagram.svg",
+    "natural": "20x20",
+    "rendered": "20x20",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "social-tiktok.svg",
+    "natural": "20x20",
+    "rendered": "20x20",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "Wonka_logo.png",
+    "natural": "350x109",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "powered_by_logo.svg",
+    "natural": "568x53",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   }
+  ],
+  "headings": [
+   {
+    "tag": "h1",
+    "text": "Discover Wonka world",
+    "color": "rgba(0, 0, 0, 0)",
+    "fontSize": "42px",
+    "family": "Work Sans",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "WHERE IMAGINATION BECOMES DELICI",
+    "color": "rgba(0, 0, 0, 0)",
+    "fontSize": "34px",
+    "family": "Work Sans",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "BORN IN THE WONKA FACTORY",
+    "color": "rgba(0, 0, 0, 0)",
+    "fontSize": "42px",
+    "family": "Work Sans",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "BORN IN THE WONKA FACTORY",
+    "color": "rgba(0, 0, 0, 0)",
+    "fontSize": "42px",
+    "family": "Work Sans",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "READY TO STEP INSIDE?",
+    "color": "rgba(0, 0, 0, 0)",
+    "fontSize": "34px",
+    "family": "Work Sans",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Follow the Magic",
+    "color": "rgba(0, 0, 0, 0)",
+    "fontSize": "34px",
+    "family": "Work Sans",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "UNWRAPPING YOUR QUESTIONS",
+    "color": "rgba(0, 0, 0, 0)",
+    "fontSize": "34px",
+    "family": "Work Sans",
+    "fontLoaded": true
+   }
+  ],
+  "eyebrows": [],
+  "flushText": [],
+  "contentBoxes": [
+   {
+    "sel": "flex",
+    "width": 315,
+    "left": 23
+   },
+   {
+    "sel": "blurred-button-noise",
+    "width": 328,
+    "left": 16
+   },
+   {
+    "sel": "blurred-button-noise",
+    "width": 328,
+    "left": 16
+   },
+   {
+    "sel": "blurred-button-noise",
+    "width": 328,
+    "left": 16
+   },
+   {
+    "sel": "font-default",
+    "width": 328,
+    "left": 16
+   },
+   {
+    "sel": "font-default",
+    "width": 328,
+    "left": 16
+   },
+   {
+    "sel": "flex",
+    "width": 360,
+    "left": 0
+   },
+   {
+    "sel": "social",
+    "width": 360,
+    "left": 0
+   },
+   {
+    "sel": "accordion__answer",
+    "width": 328,
+    "left": 16
+   },
+   {
+    "sel": "accordion__answer",
+    "width": 328,
+    "left": 16
+   },
+   {
+    "sel": "accordion__answer",
+    "width": 328,
+    "left": 16
+   },
+   {
+    "sel": "accordion__answer",
+    "width": 328,
+    "left": 16
+   }
+  ]
+ },
+ "build": {
+  "viewport": 360,
+  "blankRender": false,
+  "mainHeight": 4739,
+  "textLen": 2896,
+  "images": [
+   {
+    "src": "cloud-1-51fd92d8.webp",
+    "natural": "338x302",
+    "rendered": "216x193",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "cloud-2-8fc94f71.webp",
+    "natural": "352x302",
+    "rendered": "216x185",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "cloud-3-1ebd825c.webp",
+    "natural": "338x430",
+    "rendered": "216x275",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "cloud-4-ff4650ac.webp",
+    "natural": "274x230",
+    "rendered": "216x181",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "cloud-5-faf33737.webp",
+    "natural": "520x404",
+    "rendered": "216x168",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "decorative-star.svg",
+    "natural": "24x24",
+    "rendered": "24x24",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "social-instagram.svg",
+    "natural": "20x20",
+    "rendered": "20x20",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "social-tiktok.svg",
+    "natural": "20x20",
+    "rendered": "20x20",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "decorative-star.svg",
+    "natural": "24x24",
+    "rendered": "24x24",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "wonka-logo.svg",
+    "natural": "146x83",
+    "rendered": "70x40",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "wonka-logo.svg",
+    "natural": "146x83",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "wonka-big-book_1920-79f9b80c.webp",
+    "natural": "1920x1920",
+    "rendered": "616x616",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "gold-dust-7de8e7db.webp",
+    "natural": "1920x1554",
+    "rendered": "628x572",
+    "fit": "fill",
+    "stretched": true,
+    "failedToLoad": false
+   },
+   {
+    "src": "clouds-top-left-e229a3ec.webp",
+    "natural": "327x302",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "clouds-top-right-c62848a1.webp",
+    "natural": "363x302",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "clouds-mobile-2928dd24.webp",
+    "natural": "375x210",
+    "rendered": "360x202",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "clouds-f6d1fd92.webp",
+    "natural": "2500x461",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "arrow-down-433893cc.svg",
+    "natural": "24x24",
+    "rendered": "20x20",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "stars-0a6910c3.webp",
+    "natural": "742x600",
+    "rendered": "306x259",
+    "fit": "fill",
+    "stretched": true,
+    "failedToLoad": false
+   },
+   {
+    "src": "seal-stars-5ed9cc83.webp",
+    "natural": "162x131",
+    "rendered": "195x175",
+    "fit": "fill",
+    "stretched": true,
+    "failedToLoad": false
+   },
+   {
+    "src": "seal-background-5dcdc03b.png",
+    "natural": "200x200",
+    "rendered": "100x100",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "icon-1-x2-0c2c6a05.png",
+    "natural": "144x144",
+    "rendered": "72x72",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "seal-stars-5ed9cc83.webp",
+    "natural": "162x131",
+    "rendered": "195x175",
+    "fit": "fill",
+    "stretched": true,
+    "failedToLoad": false
+   },
+   {
+    "src": "seal-background-5dcdc03b.png",
+    "natural": "200x200",
+    "rendered": "100x100",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "icon-2-x2-08ab4c6d.png",
+    "natural": "144x144",
+    "rendered": "72x72",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "stars-0a6910c3.webp",
+    "natural": "742x600",
+    "rendered": "337x303",
+    "fit": "fill",
+    "stretched": true,
+    "failedToLoad": false
+   },
+   {
+    "src": "seal-stars-5ed9cc83.webp",
+    "natural": "162x131",
+    "rendered": "195x175",
+    "fit": "fill",
+    "stretched": true,
+    "failedToLoad": false
+   },
+   {
+    "src": "seal-background-5dcdc03b.png",
+    "natural": "200x200",
+    "rendered": "100x100",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "icon-3-x2-b1f9448a.png",
+    "natural": "144x144",
+    "rendered": "72x72",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "wonka-factory-x2-257f34a6.webp",
+    "natural": "1600x1194",
+    "rendered": "360x269",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "decorative-star.svg",
+    "natural": "24x24",
+    "rendered": "24x24",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "clouds-8a751e16.webp",
+    "natural": "1718x317",
+    "rendered": "1018x188",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "us-products-group-mobile.webp",
+    "natural": "815x755",
+    "rendered": "360x333",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "arrow-a76cc9bd.svg",
+    "natural": "24x24",
+    "rendered": "20x20",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "social-instagram.svg",
+    "natural": "20x20",
+    "rendered": "20x20",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "social-tiktok.svg",
+    "natural": "20x20",
+    "rendered": "20x20",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "accordion-icon.svg",
+    "natural": "12x2",
+    "rendered": "12x2",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "accordion-icon.svg",
+    "natural": "12x2",
+    "rendered": "2x12",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "accordion-icon.svg",
+    "natural": "12x2",
+    "rendered": "12x2",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "accordion-icon.svg",
+    "natural": "12x2",
+    "rendered": "2x12",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "accordion-icon.svg",
+    "natural": "12x2",
+    "rendered": "12x2",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "accordion-icon.svg",
+    "natural": "12x2",
+    "rendered": "2x12",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "accordion-icon.svg",
+    "natural": "12x2",
+    "rendered": "12x2",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "accordion-icon.svg",
+    "natural": "12x2",
+    "rendered": "2x12",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "accordion-icon.svg",
+    "natural": "12x2",
+    "rendered": "12x2",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "accordion-icon.svg",
+    "natural": "12x2",
+    "rendered": "2x12",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "accordion-icon.svg",
+    "natural": "12x2",
+    "rendered": "12x2",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "accordion-icon.svg",
+    "natural": "12x2",
+    "rendered": "2x12",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "accordion-icon.svg",
+    "natural": "12x2",
+    "rendered": "12x2",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "accordion-icon.svg",
+    "natural": "12x2",
+    "rendered": "2x12",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "wonka-logo.svg",
+    "natural": "146x83",
+    "rendered": "141x80",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "social-instagram.svg",
+    "natural": "20x20",
+    "rendered": "20x20",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "social-tiktok.svg",
+    "natural": "20x20",
+    "rendered": "20x20",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   }
+  ],
+  "headings": [
+   {
+    "tag": "h1",
+    "text": "Discover Wonka world",
+    "color": "rgba(0, 0, 0, 0)",
+    "fontSize": "42px",
+    "family": "Work Sans",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "WHERE IMAGINATION BECOMES DELICI",
+    "color": "rgba(0, 0, 0, 0)",
+    "fontSize": "34px",
+    "family": "Work Sans",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "BORN IN THE WONKA FACTORY",
+    "color": "rgba(0, 0, 0, 0)",
+    "fontSize": "42px",
+    "family": "Work Sans",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "BORN IN THE WONKA FACTORY",
+    "color": "rgba(0, 0, 0, 0)",
+    "fontSize": "42px",
+    "family": "Work Sans",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "READY TO STEP INSIDE?",
+    "color": "rgba(0, 0, 0, 0)",
+    "fontSize": "34px",
+    "family": "Work Sans",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Follow the Magic",
+    "color": "rgba(0, 0, 0, 0)",
+    "fontSize": "34px",
+    "family": "Work Sans",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "UNWRAPPING YOUR QUESTIONS",
+    "color": "rgba(0, 0, 0, 0)",
+    "fontSize": "34px",
+    "family": "Work Sans",
+    "fontLoaded": true
+   }
+  ],
+  "eyebrows": [],
+  "flushText": [],
+  "contentBoxes": [
+   {
+    "sel": "dhero__titles",
+    "width": 315,
+    "left": 23
+   },
+   {
+    "sel": "scard__card",
+    "width": 328,
+    "left": 16
+   },
+   {
+    "sel": "scard__card",
+    "width": 328,
+    "left": 16
+   },
+   {
+    "sel": "scard__card",
+    "width": 328,
+    "left": 16
+   },
+   {
+    "sel": "itext__copy",
+    "width": 328,
+    "left": 16
+   },
+   {
+    "sel": "itext__copy",
+    "width": 328,
+    "left": 16
+   },
+   {
+    "sel": "promo__head",
+    "width": 360,
+    "left": 0
+   },
+   {
+    "sel": "container",
+    "width": 360,
+    "left": 0
+   },
+   {
+    "sel": "faq__answer",
+    "width": 328,
+    "left": 16
+   },
+   {
+    "sel": "faq__answer",
+    "width": 328,
+    "left": 16
+   },
+   {
+    "sel": "faq__answer",
+    "width": 328,
+    "left": 16
+   },
+   {
+    "sel": "faq__answer",
+    "width": 328,
+    "left": 16
+   }
+  ]
+ }
+}

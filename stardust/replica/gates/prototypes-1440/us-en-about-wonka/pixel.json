@@ -1,0 +1,197 @@
+{
+  "a": "stardust/replica/gates/prototypes-1440/us-en-about-wonka/origin.png",
+  "b": "stardust/replica/gates/prototypes-1440/us-en-about-wonka/eds.png",
+  "compared": {
+    "width": 1440,
+    "height": 3892,
+    "mode": "overlap"
+  },
+  "heightDelta": 1,
+  "differingPixels": 102114,
+  "pct": 1.82,
+  "threshold": 10,
+  "pass": true,
+  "diff": "stardust/replica/gates/prototypes-1440/us-en-about-wonka/diff.png",
+  "masks": [],
+  "maskedRows": 0,
+  "textPct": null,
+  "textBoxes": null,
+  "textPixels": null,
+  "bands": [
+    {
+      "y0": 0,
+      "y1": 500,
+      "pct": 0.6
+    },
+    {
+      "y0": 500,
+      "y1": 1000,
+      "pct": 0
+    },
+    {
+      "y0": 1000,
+      "y1": 1500,
+      "pct": 0.3
+    },
+    {
+      "y0": 1500,
+      "y1": 2000,
+      "pct": 0.2
+    },
+    {
+      "y0": 2000,
+      "y1": 2500,
+      "pct": 0.1
+    },
+    {
+      "y0": 2500,
+      "y1": 3000,
+      "pct": 4.7
+    },
+    {
+      "y0": 3000,
+      "y1": 3500,
+      "pct": 8.1
+    },
+    {
+      "y0": 3500,
+      "y1": 3892,
+      "pct": 0.1
+    }
+  ],
+  "verdict": "aligned",
+  "aligned": {
+    "used": false,
+    "pct": 1.82,
+    "differingPixels": 102114,
+    "compared": {
+      "width": 1440,
+      "height": 3892,
+      "mode": "overlap"
+    },
+    "steps": [],
+    "maxOffset": 0,
+    "totalShift": 0,
+    "insertedRows": 0,
+    "deletedRows": 0,
+    "bands": [
+      {
+        "y0": 0,
+        "y1": 500,
+        "pct": 0.6,
+        "unaligned": 0.6
+      },
+      {
+        "y0": 500,
+        "y1": 1000,
+        "pct": 0,
+        "unaligned": 0
+      },
+      {
+        "y0": 1000,
+        "y1": 1500,
+        "pct": 0.3,
+        "unaligned": 0.3
+      },
+      {
+        "y0": 1500,
+        "y1": 2000,
+        "pct": 0.2,
+        "unaligned": 0.2
+      },
+      {
+        "y0": 2000,
+        "y1": 2500,
+        "pct": 0.1,
+        "unaligned": 0.1
+      },
+      {
+        "y0": 2500,
+        "y1": 3000,
+        "pct": 4.7,
+        "unaligned": 4.7
+      },
+      {
+        "y0": 3000,
+        "y1": 3500,
+        "pct": 8.1,
+        "unaligned": 8.1
+      },
+      {
+        "y0": 3500,
+        "y1": 3892,
+        "pct": 0.1,
+        "unaligned": 0.1
+      }
+    ],
+    "diff": null,
+    "reason": "aligned number not lower than the unaligned one",
+    "candidate": {
+      "pct": 1.85,
+      "steps": 1,
+      "totalShift": 1
+    }
+  },
+  "offsets": {
+    "bound": null,
+    "totalShift": 0,
+    "pass": true
+  },
+  "reason": null,
+  "capturesDropped": {
+    "masks": [],
+    "edsUrl": "http://localhost:8791/us-en-about-wonka-proposed.html",
+    "key": {
+      "v": 3,
+      "build": "http://localhost:8791/us-en-about-wonka-proposed.html",
+      "source": "https://www.wonka.com/us/en/about-wonka",
+      "masks": "74234e98afe7498f",
+      "presence": "74234e98afe7498f",
+      "clipAllow": "74234e98afe7498f",
+      "override": "74234e98afe7498f",
+      "units": "52b50fa81d8605df",
+      "options": "8c831c41e5234bf5",
+      "reference": "b7c0c45ccdafd0be",
+      "archetype": "ebf182ebae269068",
+      "captures": "dd2877be2b1ed8fc",
+      "instruments": "eb81d8f0db728617",
+      "prototype": "ed8e996e75c8539f",
+      "page content": "95a28d10f3fc0a0a"
+    },
+    "probes": {
+      "clip": {
+        "counts": {
+          "textClipped": 0,
+          "textHidden": 0,
+          "controlHidden": 0,
+          "controlClipped": 0,
+          "clamped": 0,
+          "collapsed": 0,
+          "scrollHidden": 0,
+          "horizontal": 0,
+          "offPage": 0,
+          "textNodes": 44,
+          "controls": 23,
+          "total": 0
+        },
+        "groups": [],
+        "source": "clip-probe",
+        "tier": "chrome"
+      },
+      "units": {
+        "verdict": {
+          "units": 10,
+          "within": 48,
+          "off": 0,
+          "hidden": 0,
+          "missing": 0,
+          "errors": 0,
+          "requiredOff": 0
+        },
+        "required": true,
+        "errors": []
+      }
+    },
+    "at": "2026-11-25T11:19:33.066Z"
+  }
+}

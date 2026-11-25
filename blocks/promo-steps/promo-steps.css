@@ -1,0 +1,209 @@
+/* promo-steps — golden-ticket entry steps panel (gpp_promo_theme .promo-steps) */
+.promo-steps {
+  position: relative;
+  text-align: center;
+}
+
+.promo-steps .promo-steps-panel {
+  display: flex;
+  flex-direction: column;
+  row-gap: 2.5rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  border-radius: 16px;
+  background-color: var(--gt-light);
+  box-shadow: 0 8px 11.4px 0 rgb(0 0 0 / 25%), 0 4px 0 0 var(--gt-theme);
+}
+
+/* star-bracketed titles (✦ above and below; the step titles keep only the top star) */
+.promo-steps .promo-steps-title :is(p, h2, h3),
+.promo-steps .promo-step-title :is(p, h2, h3, h4) {
+  font-family: var(--gt-font);
+  font-weight: 700;
+  line-height: 1;
+  text-transform: uppercase;
+  color: var(--gt-theme);
+}
+
+.promo-steps .promo-steps-title :is(p, h2, h3) {
+  font-size: var(--gt-h1);
+}
+
+.promo-steps .promo-steps-title :is(p, h2, h3)::before,
+.promo-steps .promo-steps-title :is(p, h2, h3)::after,
+.promo-steps .promo-step-title :is(p, h2, h3, h4)::before {
+  content: "";
+  display: block;
+  width: 8px;
+  height: 8px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: currentcolor;
+  mask: var(--gt-star) center / contain no-repeat;
+}
+
+.promo-steps .promo-steps-title :is(p, h2, h3)::before,
+.promo-steps .promo-step-title :is(p, h2, h3, h4)::before {
+  margin-top: 8px;
+  margin-bottom: 16px;
+}
+
+.promo-steps .promo-steps-title :is(p, h2, h3)::after {
+  margin-top: 16px;
+}
+
+.promo-steps .promo-steps-list {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+}
+
+.promo-steps .promo-step {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+
+.promo-steps .promo-step-media {
+  width: 13.75rem;
+}
+
+.promo-steps .promo-step-media :is(picture, img) {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: auto;
+}
+
+.promo-steps .promo-step-title {
+  width: auto;
+  font-size: var(--gt-h2);
+  text-align: center;
+}
+
+/* the source's h3.p-editorial__title carries the side padding and contains the star's top margin */
+.promo-steps .promo-step-title :is(p, h2, h3, h4) {
+  display: flow-root;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.promo-steps .promo-steps-links {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 1.5rem;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.promo-steps .promo-steps-links p {
+  display: flex;
+  justify-content: center;
+}
+
+/* the source's is-desktop switch: the secondary CTA is for phone visitors only */
+.promo-steps:not(.is-phone) .promo-steps-cta-phone {
+  display: none;
+}
+
+/* decorative particles and floating sweets */
+.promo-steps .promo-steps-particles {
+  position: absolute;
+  z-index: 10;
+  width: 25.63rem;
+  height: 25.63rem;
+  left: -2.13rem;
+  bottom: -12.5rem;
+  background: url("assets/particles-03-mob.png") center / contain no-repeat;
+  mix-blend-mode: screen;
+  pointer-events: none;
+}
+
+.promo-steps .promo-steps-sweet {
+  position: absolute;
+  z-index: 11;
+  height: auto;
+  pointer-events: none;
+  user-select: none;
+}
+
+.promo-steps .promo-steps-sweet-7 {
+  width: 4.25rem;
+  left: 1.75rem;
+  bottom: -5rem;
+  filter: drop-shadow(0 39.063px 78.126px rgb(0 0 0 / 50%));
+}
+
+.promo-steps .promo-steps-sweet-8 {
+  width: 3.19rem;
+  left: 10rem;
+  bottom: -2rem;
+  filter: drop-shadow(0 39.063px 78.126px rgb(0 0 0 / 50%)) blur(1px);
+}
+
+.promo-steps .promo-steps-sweet-9 {
+  width: 2.81rem;
+  left: 19.38rem;
+  bottom: -4.38rem;
+  filter: drop-shadow(0 19.532px 19.532px rgb(0 0 0 / 30%)) blur(1px);
+}
+
+@media (width >= 1024px) {
+  .promo-steps .promo-steps-panel {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+  }
+
+  .promo-steps .promo-steps-list {
+    flex-direction: row;
+    align-items: normal;
+    gap: 5rem;
+  }
+
+  .promo-steps .promo-step-media {
+    width: 100%;
+  }
+
+  .promo-steps .promo-step-media :is(picture, img) {
+    width: 15rem;
+  }
+
+  .promo-steps .promo-step-title {
+    width: 100%;
+  }
+
+  .promo-steps .promo-step-title :is(p, h2, h3, h4) {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .promo-steps .promo-steps-links {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .promo-steps .promo-steps-particles {
+    inset: 100% -1.25rem auto auto;
+    width: 50rem;
+    height: 50rem;
+    margin-top: -0.94rem;
+    transform: translateY(-50%);
+    background-image: url("assets/particles-03.png");
+    opacity: 0.5;
+  }
+
+  .promo-steps .promo-steps-decor {
+    display: none;
+  }
+}
+
+@media (width >= 1200px) {
+  .promo-steps .promo-step {
+    width: 20.31rem;
+  }
+}

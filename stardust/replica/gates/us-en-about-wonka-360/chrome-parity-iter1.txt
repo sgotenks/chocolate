@@ -1,0 +1,14 @@
+chrome-parity @ 360px, tolerance 1px
+  live:  https://www.wonka.com/us/en/about-wonka (live side from cache stardust/replica/gates/us-en-about-wonka-360/chrome-live.json, probed 2026-11-25T11:02:00.817Z — delete the file to re-probe)
+  build: http://localhost:8791/us-en-about-wonka-proposed.html
+
+■ header: ✓ parity — 0 paired of 0/0 texts, 2/2 icons
+  region live:  div#navigation-mobile-menu-1239026178.navigation-mobile-panel.absolute[role=dialog] — auto-detected (no usable <header> landmark), box 0,0 360×62; selector #navigation-mobile-menu-1239026178
+  region build: div#mobile-menu.mnav[role=dialog] — auto-detected (no usable <header> landmark), box 0,0 360×62; selector #mobile-menu
+  advisory     REST STATE: 10 live / 10 build text(s) inside panels not shown at rest left out (live: opacity:0 10; build: opacity:0 10) — --strict-names counts them
+
+■ footer: ✓ parity — 7 paired of 7/7 texts, 4/4 icons
+  region live:  footer.relative.z-20[role=contentinfo] — [role=contentinfo] landmark, box 0,4719 360×648; selector body > div:nth-of-type(1) > div > div:nth-of-type(2) > div:nth-of-type(3) > footer
+  region build: footer.site-footer[role=contentinfo] — [role=contentinfo] landmark, box 0,4719 360×648; selector body > div > div:nth-of-type(2) > div:nth-of-type(3) > footer
+
+✓ chrome parity within tolerance, 1 advisory group(s) — run crop-compare (pass bar item 5) to confirm in pixels.

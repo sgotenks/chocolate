@@ -1,0 +1,1 @@
+reference: frozen 1440×1433, primed, noise floor 0.00%, no variable region; timers held: 4

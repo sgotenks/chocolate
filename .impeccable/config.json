@@ -1,0 +1,22 @@
+{
+  "detector": {
+    "ignoreRules": [],
+    "ignoreFiles": [],
+    "ignoreValues": [
+      {
+        "rule": "gradient-text",
+        "value": "*",
+        "files": [
+          "stardust/prototypes/canon-chrome.css"
+        ],
+        "createdAt": "2026-11-25T10:37:57.636Z",
+        "reason": "replica: gold gradient text is the source site's own brand treatment (wonka.com theme CSS), frozen by the inconsistency register"
+      },
+      {
+        "rule": "overused-font",
+        "value": "inter",
+        "createdAt": "2026-11-25T10:49:51.730Z"
+      }
+    ]
+  }
+}

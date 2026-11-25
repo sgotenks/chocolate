@@ -1,0 +1,1555 @@
+{
+ "_provenance": {
+  "writtenBy": "unit-geometry.mjs",
+  "at": "2026-11-25T14:43:20.958Z",
+  "tol": 4,
+  "n": 22,
+  "width": 1440,
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://www.wonka.com/us/en/terms-of-use",
+  "at": "2026-11-25T13:08:49.260Z",
+  "docH": 7083
+ },
+ "eds": {
+  "url": "https://main--a6216fe5--aemcoder.aem.live/us/en/terms-of-use",
+  "at": "2026-11-25T14:43:20.887Z",
+  "docH": 7082
+ },
+ "results": [
+  {
+   "sel": ".legal-page__body > p=.legal-body-plain > p",
+   "family": null,
+   "required": true,
+   "originMatches": 22,
+   "edsMatches": 22,
+   "units": [
+    {
+     "index": 0,
+     "origin": {
+      "path": "div.ml-0.flex > div.legal-page__body.w-full > p"
+     },
+     "eds": {
+      "path": "div.legal-accordion.plain > div.legal-body.legal-body-plain > p"
+     },
+     "rows": [],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 150,
+       "y": 239,
+       "w": 800,
+       "h": 63
+      },
+      "eds": {
+       "x": 150,
+       "y": 239,
+       "w": 800,
+       "h": 63
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 0,
+      "within": 0,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 1,
+     "origin": {
+      "path": "div.ml-0.flex > div.legal-page__body.w-full > p"
+     },
+     "eds": {
+      "path": "div.legal-accordion.plain > div.legal-body.legal-body-plain > p"
+     },
+     "rows": [
+      {
+       "key": "text:1. acceptance of terms.",
+       "role": "text",
+       "text": "1. acceptance of terms.",
+       "edsText": "1. acceptance of terms.",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 0,
+        "w": 195,
+        "h": 20
+       },
+       "eds": {
+        "x": 0,
+        "y": 0,
+        "w": 195,
+        "h": 20,
+        "sel": "strong",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/21/700",
+        "eds": "16/21/700"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 150,
+       "y": 318,
+       "w": 800,
+       "h": 252
+      },
+      "eds": {
+       "x": 150,
+       "y": 318,
+       "w": 800,
+       "h": 252
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 1,
+      "within": 1,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 2,
+     "origin": {
+      "path": "div.ml-0.flex > div.legal-page__body.w-full > p"
+     },
+     "eds": {
+      "path": "div.legal-accordion.plain > div.legal-body.legal-body-plain > p"
+     },
+     "rows": [
+      {
+       "key": "text:2. content and intellectual property own",
+       "role": "text",
+       "text": "2. content and intellectual property ownership; conditional ",
+       "edsText": "2. content and intellectual property ownership; conditional ",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 0,
+        "w": 615,
+        "h": 20
+       },
+       "eds": {
+        "x": 0,
+        "y": 0,
+        "w": 615,
+        "h": 20,
+        "sel": "strong",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/21/700",
+        "eds": "16/21/700"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 150,
+       "y": 586,
+       "w": 800,
+       "h": 210
+      },
+      "eds": {
+       "x": 150,
+       "y": 586,
+       "w": 800,
+       "h": 210
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 1,
+      "within": 1,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 3,
+     "origin": {
+      "path": "div.ml-0.flex > div.legal-page__body.w-full > p"
+     },
+     "eds": {
+      "path": "div.legal-accordion.plain > div.legal-body.legal-body-plain > p"
+     },
+     "rows": [],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 150,
+       "y": 812,
+       "w": 800,
+       "h": 189
+      },
+      "eds": {
+       "x": 150,
+       "y": 812,
+       "w": 800,
+       "h": 189
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 0,
+      "within": 0,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 4,
+     "origin": {
+      "path": "div.ml-0.flex > div.legal-page__body.w-full > p"
+     },
+     "eds": {
+      "path": "div.legal-accordion.plain > div.legal-body.legal-body-plain > p"
+     },
+     "rows": [
+      {
+       "key": "text:3. user conduct/acceptable use policy.",
+       "role": "text",
+       "text": "3. user conduct/acceptable use policy.",
+       "edsText": "3. user conduct/acceptable use policy.",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 0,
+        "w": 323,
+        "h": 20
+       },
+       "eds": {
+        "x": 0,
+        "y": 0,
+        "w": 323,
+        "h": 20,
+        "sel": "strong",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/21/700",
+        "eds": "16/21/700"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 150,
+       "y": 1017,
+       "w": 800,
+       "h": 126
+      },
+      "eds": {
+       "x": 150,
+       "y": 1017,
+       "w": 800,
+       "h": 126
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 1,
+      "within": 1,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 5,
+     "origin": {
+      "path": "div.ml-0.flex > div.legal-page__body.w-full > p"
+     },
+     "eds": {
+      "path": "div.legal-accordion.plain > div.legal-body.legal-body-plain > p"
+     },
+     "rows": [],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 150,
+       "y": 1159,
+       "w": 800,
+       "h": 126
+      },
+      "eds": {
+       "x": 150,
+       "y": 1159,
+       "w": 800,
+       "h": 126
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 0,
+      "within": 0,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 6,
+     "origin": {
+      "path": "div.ml-0.flex > div.legal-page__body.w-full > p"
+     },
+     "eds": {
+      "path": "div.legal-accordion.plain > div.legal-body.legal-body-plain > p"
+     },
+     "rows": [],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 150,
+       "y": 1301,
+       "w": 800,
+       "h": 105
+      },
+      "eds": {
+       "x": 150,
+       "y": 1301,
+       "w": 800,
+       "h": 105
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 0,
+      "within": 0,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 7,
+     "origin": {
+      "path": "div.ml-0.flex > div.legal-page__body.w-full > p"
+     },
+     "eds": {
+      "path": "div.legal-accordion.plain > div.legal-body.legal-body-plain > p"
+     },
+     "rows": [],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 150,
+       "y": 1852,
+       "w": 800,
+       "h": 357
+      },
+      "eds": {
+       "x": 150,
+       "y": 1852,
+       "w": 800,
+       "h": 357
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 0,
+      "within": 0,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 8,
+     "origin": {
+      "path": "div.ml-0.flex > div.legal-page__body.w-full > p"
+     },
+     "eds": {
+      "path": "div.legal-accordion.plain > div.legal-body.legal-body-plain > p"
+     },
+     "rows": [],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 150,
+       "y": 2225,
+       "w": 800,
+       "h": 105
+      },
+      "eds": {
+       "x": 150,
+       "y": 2225,
+       "w": 800,
+       "h": 105
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 0,
+      "within": 0,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 9,
+     "origin": {
+      "path": "div.ml-0.flex > div.legal-page__body.w-full > p"
+     },
+     "eds": {
+      "path": "div.legal-accordion.plain > div.legal-body.legal-body-plain > p"
+     },
+     "rows": [
+      {
+       "key": "text:4. use of material you send, post, submi",
+       "role": "text",
+       "text": "4. use of material you send, post, submit, or transmit; subm",
+       "edsText": "4. use of material you send, post, submit, or transmit; subm",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 21,
+        "w": 556,
+        "h": 20
+       },
+       "eds": {
+        "x": 0,
+        "y": 21,
+        "w": 556,
+        "h": 20,
+        "sel": "strong",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/21/700",
+        "eds": "16/21/700"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 150,
+       "y": 2346,
+       "w": 800,
+       "h": 294
+      },
+      "eds": {
+       "x": 150,
+       "y": 2346,
+       "w": 800,
+       "h": 294
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 1,
+      "within": 1,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 10,
+     "origin": {
+      "path": "div.ml-0.flex > div.legal-page__body.w-full > p"
+     },
+     "eds": {
+      "path": "div.legal-accordion.plain > div.legal-body.legal-body-plain > p"
+     },
+     "rows": [],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 150,
+       "y": 2656,
+       "w": 800,
+       "h": 168
+      },
+      "eds": {
+       "x": 150,
+       "y": 2656,
+       "w": 800,
+       "h": 168
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 0,
+      "within": 0,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 11,
+     "origin": {
+      "path": "div.ml-0.flex > div.legal-page__body.w-full > p"
+     },
+     "eds": {
+      "path": "div.legal-accordion.plain > div.legal-body.legal-body-plain > p"
+     },
+     "rows": [
+      {
+       "key": "text:5. links to other sites.",
+       "role": "text",
+       "text": "5. links to other sites.",
+       "edsText": "5. links to other sites.",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 21,
+        "w": 183,
+        "h": 20
+       },
+       "eds": {
+        "x": 0,
+        "y": 21,
+        "w": 183,
+        "h": 20,
+        "sel": "strong",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/21/700",
+        "eds": "16/21/700"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 150,
+       "y": 2840,
+       "w": 800,
+       "h": 210
+      },
+      "eds": {
+       "x": 150,
+       "y": 2840,
+       "w": 800,
+       "h": 210
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 1,
+      "within": 1,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 12,
+     "origin": {
+      "path": "div.ml-0.flex > div.legal-page__body.w-full > p"
+     },
+     "eds": {
+      "path": "div.legal-accordion.plain > div.legal-body.legal-body-plain > p"
+     },
+     "rows": [
+      {
+       "key": "text:6. promotions and offers.",
+       "role": "text",
+       "text": "6. promotions and offers.",
+       "edsText": "6. promotions and offers.",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 21,
+        "w": 208,
+        "h": 20
+       },
+       "eds": {
+        "x": 0,
+        "y": 21,
+        "w": 208,
+        "h": 20,
+        "sel": "strong",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/21/700",
+        "eds": "16/21/700"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 150,
+       "y": 3066,
+       "w": 800,
+       "h": 147
+      },
+      "eds": {
+       "x": 150,
+       "y": 3066,
+       "w": 800,
+       "h": 147
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 1,
+      "within": 1,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 13,
+     "origin": {
+      "path": "div.ml-0.flex > div.legal-page__body.w-full > p"
+     },
+     "eds": {
+      "path": "div.legal-accordion.plain > div.legal-body.legal-body-plain > p"
+     },
+     "rows": [
+      {
+       "key": "text:7. site transactions.",
+       "role": "text",
+       "text": "7. site transactions.",
+       "edsText": "7. site transactions.",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 21,
+        "w": 164,
+        "h": 20
+       },
+       "eds": {
+        "x": 0,
+        "y": 21,
+        "w": 164,
+        "h": 20,
+        "sel": "strong",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/21/700",
+        "eds": "16/21/700"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 150,
+       "y": 3229,
+       "w": 800,
+       "h": 630
+      },
+      "eds": {
+       "x": 150,
+       "y": 3229,
+       "w": 800,
+       "h": 630
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 1,
+      "within": 1,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 14,
+     "origin": {
+      "path": "div.ml-0.flex > div.legal-page__body.w-full > p"
+     },
+     "eds": {
+      "path": "div.legal-accordion.plain > div.legal-body.legal-body-plain > p"
+     },
+     "rows": [
+      {
+       "key": "text:8. privacy.",
+       "role": "text",
+       "text": "8. privacy.",
+       "edsText": "8. privacy.",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 0,
+        "w": 86,
+        "h": 20
+       },
+       "eds": {
+        "x": 0,
+        "y": 0,
+        "w": 86,
+        "h": 20,
+        "sel": "strong",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/21/700",
+        "eds": "16/21/700"
+       }
+      },
+      {
+       "key": "link:privacy policy",
+       "role": "link",
+       "text": "privacy policy",
+       "edsText": "privacy policy",
+       "byPosition": false,
+       "origin": {
+        "x": 222,
+        "y": 42,
+        "w": 110,
+        "h": 21
+       },
+       "eds": {
+        "x": 222,
+        "y": 42,
+        "w": 110,
+        "h": 20,
+        "sel": "a",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": -1,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/21/400",
+        "eds": "16/21/400"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 150,
+       "y": 3875,
+       "w": 800,
+       "h": 63
+      },
+      "eds": {
+       "x": 150,
+       "y": 3875,
+       "w": 800,
+       "h": 63
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 2,
+      "within": 2,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 15,
+     "origin": {
+      "path": "div.ml-0.flex > div.legal-page__body.w-full > p"
+     },
+     "eds": {
+      "path": "div.legal-accordion.plain > div.legal-body.legal-body-plain > p"
+     },
+     "rows": [
+      {
+       "key": "text:9.export control.",
+       "role": "text",
+       "text": "9.export control.",
+       "edsText": "9.export control.",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 21,
+        "w": 139,
+        "h": 20
+       },
+       "eds": {
+        "x": 0,
+        "y": 21,
+        "w": 139,
+        "h": 20,
+        "sel": "strong",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/21/700",
+        "eds": "16/21/700"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 150,
+       "y": 3954,
+       "w": 800,
+       "h": 315
+      },
+      "eds": {
+       "x": 150,
+       "y": 3954,
+       "w": 800,
+       "h": 315
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 1,
+      "within": 1,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 16,
+     "origin": {
+      "path": "div.ml-0.flex > div.legal-page__body.w-full > p"
+     },
+     "eds": {
+      "path": "div.legal-accordion.plain > div.legal-body.legal-body-plain > p"
+     },
+     "rows": [
+      {
+       "key": "text:10. disclaimer of warranties/exclusion o",
+       "role": "text",
+       "text": "10. disclaimer of warranties/exclusion of liability.",
+       "edsText": "10. disclaimer of warranties/exclusion of liability.",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 0,
+        "w": 407,
+        "h": 20
+       },
+       "eds": {
+        "x": 0,
+        "y": 0,
+        "w": 407,
+        "h": 20,
+        "sel": "strong",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/21/700",
+        "eds": "16/21/700"
+       }
+      },
+      {
+       "key": "text:11. indemnity.",
+       "role": "text",
+       "text": "11. indemnity.",
+       "edsText": "11. indemnity.",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 777,
+        "w": 110,
+        "h": 20
+       },
+       "eds": {
+        "x": 0,
+        "y": 777,
+        "w": 110,
+        "h": 20,
+        "sel": "strong",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/21/700",
+        "eds": "16/21/700"
+       }
+      },
+      {
+       "key": "text:12. governing law/jurisdiction.",
+       "role": "text",
+       "text": "12. governing law/jurisdiction.",
+       "edsText": "12. governing law/jurisdiction.",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 1155,
+        "w": 256,
+        "h": 20
+       },
+       "eds": {
+        "x": 0,
+        "y": 1155,
+        "w": 256,
+        "h": 20,
+        "sel": "strong",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/21/700",
+        "eds": "16/21/700"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 150,
+       "y": 4285,
+       "w": 800,
+       "h": 1554
+      },
+      "eds": {
+       "x": 150,
+       "y": 4285,
+       "w": 800,
+       "h": 1554
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 3,
+      "within": 3,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 17,
+     "origin": {
+      "path": "div.ml-0.flex > div.legal-page__body.w-full > p"
+     },
+     "eds": {
+      "path": "div.legal-accordion.plain > div.legal-body.legal-body-plain > p"
+     },
+     "rows": [
+      {
+       "key": "text:13. digital millennium copyright act (“d",
+       "role": "text",
+       "text": "13. digital millennium copyright act (“dmca”) notice.",
+       "edsText": "13. digital millennium copyright act (“dmca”) notice.",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 0,
+        "w": 436,
+        "h": 20
+       },
+       "eds": {
+        "x": 0,
+        "y": 0,
+        "w": 436,
+        "h": 20,
+        "sel": "strong",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/21/700",
+        "eds": "16/21/700"
+       }
+      },
+      {
+       "key": "text:14. severability.",
+       "role": "text",
+       "text": "14. severability.",
+       "edsText": "14. severability.",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 294,
+        "w": 129,
+        "h": 20
+       },
+       "eds": {
+        "x": 0,
+        "y": 294,
+        "w": 129,
+        "h": 20,
+        "sel": "strong",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/21/700",
+        "eds": "16/21/700"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 150,
+       "y": 5855,
+       "w": 800,
+       "h": 378
+      },
+      "eds": {
+       "x": 150,
+       "y": 5855,
+       "w": 800,
+       "h": 378
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 2,
+      "within": 2,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 18,
+     "origin": {
+      "path": "div.ml-0.flex > div.legal-page__body.w-full > p"
+     },
+     "eds": {
+      "path": "div.legal-accordion.plain > div.legal-body.legal-body-plain > p"
+     },
+     "rows": [
+      {
+       "key": "text:15. waiver; remedies.",
+       "role": "text",
+       "text": "15. waiver; remedies.",
+       "edsText": "15. waiver; remedies.",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 0,
+        "w": 178,
+        "h": 20
+       },
+       "eds": {
+        "x": 0,
+        "y": 0,
+        "w": 178,
+        "h": 20,
+        "sel": "strong",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/21/700",
+        "eds": "16/21/700"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 150,
+       "y": 6249,
+       "w": 800,
+       "h": 126
+      },
+      "eds": {
+       "x": 150,
+       "y": 6249,
+       "w": 800,
+       "h": 126
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 1,
+      "within": 1,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 19,
+     "origin": {
+      "path": "div.ml-0.flex > div.legal-page__body.w-full > p"
+     },
+     "eds": {
+      "path": "div.legal-accordion.plain > div.legal-body.legal-body-plain > p"
+     },
+     "rows": [
+      {
+       "key": "text:16. entire agreement.",
+       "role": "text",
+       "text": "16. entire agreement.",
+       "edsText": "16. entire agreement.",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 0,
+        "w": 174,
+        "h": 20
+       },
+       "eds": {
+        "x": 0,
+        "y": 0,
+        "w": 174,
+        "h": 20,
+        "sel": "strong",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/21/700",
+        "eds": "16/21/700"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 150,
+       "y": 6391,
+       "w": 800,
+       "h": 84
+      },
+      "eds": {
+       "x": 150,
+       "y": 6391,
+       "w": 800,
+       "h": 84
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 1,
+      "within": 1,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 20,
+     "origin": {
+      "path": "div.ml-0.flex > div.legal-page__body.w-full > p"
+     },
+     "eds": {
+      "path": "div.legal-accordion.plain > div.legal-body.legal-body-plain > p"
+     },
+     "rows": [
+      {
+       "key": "text:17. contact information.",
+       "role": "text",
+       "text": "17. contact information.",
+       "edsText": "17. contact information.",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 0,
+        "w": 193,
+        "h": 20
+       },
+       "eds": {
+        "x": 0,
+        "y": 0,
+        "w": 193,
+        "h": 20,
+        "sel": "strong",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/21/700",
+        "eds": "16/21/700"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 150,
+       "y": 6491,
+       "w": 800,
+       "h": 63
+      },
+      "eds": {
+       "x": 150,
+       "y": 6491,
+       "w": 800,
+       "h": 63
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 1,
+      "within": 1,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 21,
+     "origin": {
+      "path": "div.ml-0.flex > div.legal-page__body.w-full > p"
+     },
+     "eds": {
+      "path": "div.legal-accordion.plain > div.legal-body.legal-body-plain > p"
+     },
+     "rows": [
+      {
+       "key": "text:1 (800) 333-3629",
+       "role": "text",
+       "text": "1 (800) 333-3629",
+       "edsText": "1 (800) 333-3629",
+       "byPosition": false,
+       "origin": {
+        "x": 103,
+        "y": 126,
+        "w": 143,
+        "h": 20
+       },
+       "eds": {
+        "x": 103,
+        "y": 126,
+        "w": 143,
+        "h": 20,
+        "sel": "strong",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/21/700",
+        "eds": "16/21/700"
+       }
+      },
+      {
+       "key": "text:ferrero rocher®",
+       "role": "text",
+       "text": "ferrero rocher®",
+       "edsText": "ferrero rocher®",
+       "byPosition": false,
+       "origin": {
+        "x": 65,
+        "y": 147,
+        "w": 131,
+        "h": 20
+       },
+       "eds": {
+        "x": 65,
+        "y": 147,
+        "w": 131,
+        "h": 20,
+        "sel": "strong",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/21/700",
+        "eds": "16/21/700"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 150,
+       "y": 6570,
+       "w": 800,
+       "h": 168
+      },
+      "eds": {
+       "x": 150,
+       "y": 6570,
+       "w": 800,
+       "h": 168
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 2,
+      "within": 2,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    }
+   ]
+  }
+ ],
+ "verdict": {
+  "units": 22,
+  "within": 20,
+  "off": 0,
+  "hidden": 0,
+  "missing": 0,
+  "errors": 0,
+  "requiredOff": 0
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "tool": "chrome-compare",
+ "at": "2026-11-25T13:25:47.411Z",
+ "source": "https://www.wonka.com/us/en/about-wonka",
+ "build": "https://main--a6216fe5--aemcoder.aem.live/us/en/about-wonka",
+ "profile": "replica",
+ "bar": 0.02,
+ "widths": [
+  390,
+  1440
+ ],
+ "stage": "published",
+ "round": {
+  "label": "compare-1",
+  "kind": "first"
+ },
+ "counts": {
+  "error": 0,
+  "warn": 0,
+  "decided": 0,
+  "classed": 0
+ },
+ "findings": []
+}

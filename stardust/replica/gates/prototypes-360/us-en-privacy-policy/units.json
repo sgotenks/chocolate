@@ -1,0 +1,1249 @@
+{
+ "_provenance": {
+  "writtenBy": "unit-geometry.mjs",
+  "at": "2026-11-25T11:20:30.733Z",
+  "tol": 4,
+  "n": 13,
+  "width": 360,
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://www.wonka.com/us/en/privacy-policy",
+  "at": "2026-11-25T11:12:05.256Z",
+  "docH": 2347
+ },
+ "eds": {
+  "url": "http://localhost:8791/us-en-privacy-policy-proposed.html",
+  "at": "2026-11-25T11:20:30.685Z",
+  "docH": 2346
+ },
+ "results": [
+  {
+   "sel": ".otnotice-section-content > .ot-notice-layer-break-container=.legal-body > .legal-acc",
+   "family": null,
+   "required": true,
+   "originMatches": 13,
+   "edsMatches": 13,
+   "units": [
+    {
+     "index": 0,
+     "origin": {
+      "path": "section#otnotice-section-541eb71b-0038-46e2-a4d7-50ba1805263e > div.otnotice-section-content > div.ot-notice-layer-break-container"
+     },
+     "eds": {
+      "path": "div.legal-page__column > div.legal-body.legal-body--notice > div.legal-acc"
+     },
+     "rows": [
+      {
+       "key": "text:1. collection of information from and ab",
+       "role": "text",
+       "text": "1. collection of information from and about you.",
+       "edsText": "1. collection of information from and about you.",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 0,
+        "w": 296,
+        "h": 54
+       },
+       "eds": {
+        "x": 0,
+        "y": 0,
+        "w": 296,
+        "h": 54,
+        "sel": "h2.legal-acc__heading",
+        "role": "heading"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/700",
+        "eds": "16/24/400"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [
+      {
+       "role": "button",
+       "tag": "button",
+       "sel": "button#ot-notice-layer-break-header-12",
+       "text": "1. collection of information from and about you.",
+       "boxed": false,
+       "x": 0,
+       "y": 0,
+       "w": 296,
+       "h": 54,
+       "absY": 988,
+       "hidden": false,
+       "fs": 16,
+       "lh": 24,
+       "fw": "700",
+       "color": "rgb(255, 255, 255)",
+       "bg": null,
+       "position": "static",
+       "key": "button:1. collection of information from and ab"
+      }
+     ],
+     "unit": {
+      "origin": {
+       "x": 32,
+       "y": 988,
+       "w": 296,
+       "h": 54
+      },
+      "eds": {
+       "x": 32,
+       "y": 988,
+       "w": 296,
+       "h": 54
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 1,
+      "within": 1,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 1,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 1,
+     "origin": {
+      "path": "section#otnotice-section-541eb71b-0038-46e2-a4d7-50ba1805263e > div.otnotice-section-content > div.ot-notice-layer-break-container"
+     },
+     "eds": {
+      "path": "div.legal-page__column > div.legal-body.legal-body--notice > div.legal-acc"
+     },
+     "rows": [
+      {
+       "key": "text:2. sources of your information.",
+       "role": "text",
+       "text": "2. sources of your information.",
+       "edsText": "2. sources of your information.",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 0,
+        "w": 296,
+        "h": 30
+       },
+       "eds": {
+        "x": 0,
+        "y": 0,
+        "w": 296,
+        "h": 30,
+        "sel": "h2.legal-acc__heading",
+        "role": "heading"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/700",
+        "eds": "16/24/400"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [
+      {
+       "role": "button",
+       "tag": "button",
+       "sel": "button#ot-notice-layer-break-header-66",
+       "text": "2. sources of your information.",
+       "boxed": false,
+       "x": 0,
+       "y": 0,
+       "w": 296,
+       "h": 30,
+       "absY": 1042,
+       "hidden": false,
+       "fs": 16,
+       "lh": 24,
+       "fw": "700",
+       "color": "rgb(255, 255, 255)",
+       "bg": null,
+       "position": "static",
+       "key": "button:2. sources of your information."
+      }
+     ],
+     "unit": {
+      "origin": {
+       "x": 32,
+       "y": 1042,
+       "w": 296,
+       "h": 30
+      },
+      "eds": {
+       "x": 32,
+       "y": 1042,
+       "w": 296,
+       "h": 30
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 1,
+      "within": 1,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 1,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 2,
+     "origin": {
+      "path": "section#otnotice-section-541eb71b-0038-46e2-a4d7-50ba1805263e > div.otnotice-section-content > div.ot-notice-layer-break-container"
+     },
+     "eds": {
+      "path": "div.legal-page__column > div.legal-body.legal-body--notice > div.legal-acc"
+     },
+     "rows": [
+      {
+       "key": "text:3. use of your information",
+       "role": "text",
+       "text": "3. use of your information",
+       "edsText": "3. use of your information",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 0,
+        "w": 296,
+        "h": 30
+       },
+       "eds": {
+        "x": 0,
+        "y": 0,
+        "w": 296,
+        "h": 30,
+        "sel": "h2.legal-acc__heading",
+        "role": "heading"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/700",
+        "eds": "16/24/400"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [
+      {
+       "role": "button",
+       "tag": "button",
+       "sel": "button#ot-notice-layer-break-header-324",
+       "text": "3. use of your information",
+       "boxed": false,
+       "x": 0,
+       "y": 0,
+       "w": 296,
+       "h": 30,
+       "absY": 1072,
+       "hidden": false,
+       "fs": 16,
+       "lh": 24,
+       "fw": "700",
+       "color": "rgb(255, 255, 255)",
+       "bg": null,
+       "position": "static",
+       "key": "button:3. use of your information"
+      }
+     ],
+     "unit": {
+      "origin": {
+       "x": 32,
+       "y": 1072,
+       "w": 296,
+       "h": 30
+      },
+      "eds": {
+       "x": 32,
+       "y": 1072,
+       "w": 296,
+       "h": 30
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 1,
+      "within": 1,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 1,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 3,
+     "origin": {
+      "path": "section#otnotice-section-541eb71b-0038-46e2-a4d7-50ba1805263e > div.otnotice-section-content > div.ot-notice-layer-break-container"
+     },
+     "eds": {
+      "path": "div.legal-page__column > div.legal-body.legal-body--notice > div.legal-acc"
+     },
+     "rows": [
+      {
+       "key": "text:4. sharing your information with other p",
+       "role": "text",
+       "text": "4. sharing your information with other parties",
+       "edsText": "4. sharing your information with other parties",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 0,
+        "w": 296,
+        "h": 54
+       },
+       "eds": {
+        "x": 0,
+        "y": 0,
+        "w": 296,
+        "h": 54,
+        "sel": "h2.legal-acc__heading",
+        "role": "heading"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/700",
+        "eds": "16/24/400"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [
+      {
+       "role": "button",
+       "tag": "button",
+       "sel": "button#ot-notice-layer-break-header-862",
+       "text": "4. sharing your information with other parties",
+       "boxed": false,
+       "x": 0,
+       "y": 0,
+       "w": 296,
+       "h": 54,
+       "absY": 1102,
+       "hidden": false,
+       "fs": 16,
+       "lh": 24,
+       "fw": "700",
+       "color": "rgb(255, 255, 255)",
+       "bg": null,
+       "position": "static",
+       "key": "button:4. sharing your information with other p"
+      }
+     ],
+     "unit": {
+      "origin": {
+       "x": 32,
+       "y": 1102,
+       "w": 296,
+       "h": 54
+      },
+      "eds": {
+       "x": 32,
+       "y": 1102,
+       "w": 296,
+       "h": 54
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 1,
+      "within": 1,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 1,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 4,
+     "origin": {
+      "path": "section#otnotice-section-541eb71b-0038-46e2-a4d7-50ba1805263e > div.otnotice-section-content > div.ot-notice-layer-break-container"
+     },
+     "eds": {
+      "path": "div.legal-page__column > div.legal-body.legal-body--notice > div.legal-acc"
+     },
+     "rows": [
+      {
+       "key": "text:5. your choices and your privacy rights.",
+       "role": "text",
+       "text": "5. your choices and your privacy rights.",
+       "edsText": "5. your choices and your privacy rights.",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 0,
+        "w": 296,
+        "h": 54
+       },
+       "eds": {
+        "x": 0,
+        "y": 0,
+        "w": 296,
+        "h": 54,
+        "sel": "h2.legal-acc__heading",
+        "role": "heading"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/700",
+        "eds": "16/24/400"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [
+      {
+       "role": "button",
+       "tag": "button",
+       "sel": "button#ot-notice-layer-break-header-161",
+       "text": "5. your choices and your privacy rights.",
+       "boxed": false,
+       "x": 0,
+       "y": 0,
+       "w": 296,
+       "h": 54,
+       "absY": 1156,
+       "hidden": false,
+       "fs": 16,
+       "lh": 24,
+       "fw": "700",
+       "color": "rgb(255, 255, 255)",
+       "bg": null,
+       "position": "static",
+       "key": "button:5. your choices and your privacy rights."
+      }
+     ],
+     "unit": {
+      "origin": {
+       "x": 32,
+       "y": 1156,
+       "w": 296,
+       "h": 54
+      },
+      "eds": {
+       "x": 32,
+       "y": 1156,
+       "w": 296,
+       "h": 54
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 1,
+      "within": 1,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 1,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 5,
+     "origin": {
+      "path": "section#otnotice-section-541eb71b-0038-46e2-a4d7-50ba1805263e > div.otnotice-section-content > div.ot-notice-layer-break-container"
+     },
+     "eds": {
+      "path": "div.legal-page__column > div.legal-body.legal-body--notice > div.legal-acc"
+     },
+     "rows": [
+      {
+       "key": "text:6. your california privacy rights",
+       "role": "text",
+       "text": "6. your california privacy rights",
+       "edsText": "6. your california privacy rights",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 0,
+        "w": 296,
+        "h": 30
+       },
+       "eds": {
+        "x": 0,
+        "y": 0,
+        "w": 296,
+        "h": 30,
+        "sel": "h2.legal-acc__heading",
+        "role": "heading"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/700",
+        "eds": "16/24/400"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [
+      {
+       "role": "button",
+       "tag": "button",
+       "sel": "button#ot-notice-layer-break-header-270",
+       "text": "6. your california privacy rights",
+       "boxed": false,
+       "x": 0,
+       "y": 0,
+       "w": 296,
+       "h": 30,
+       "absY": 1210,
+       "hidden": false,
+       "fs": 16,
+       "lh": 24,
+       "fw": "700",
+       "color": "rgb(255, 255, 255)",
+       "bg": null,
+       "position": "static",
+       "key": "button:6. your california privacy rights"
+      }
+     ],
+     "unit": {
+      "origin": {
+       "x": 32,
+       "y": 1210,
+       "w": 296,
+       "h": 30
+      },
+      "eds": {
+       "x": 32,
+       "y": 1210,
+       "w": 296,
+       "h": 30
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 1,
+      "within": 1,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 1,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 6,
+     "origin": {
+      "path": "section#otnotice-section-541eb71b-0038-46e2-a4d7-50ba1805263e > div.otnotice-section-content > div.ot-notice-layer-break-container"
+     },
+     "eds": {
+      "path": "div.legal-page__column > div.legal-body.legal-body--notice > div.legal-acc"
+     },
+     "rows": [
+      {
+       "key": "text:7. links to other sites.",
+       "role": "text",
+       "text": "7. links to other sites.",
+       "edsText": "7. links to other sites.",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 0,
+        "w": 296,
+        "h": 30
+       },
+       "eds": {
+        "x": 0,
+        "y": 0,
+        "w": 296,
+        "h": 30,
+        "sel": "h2.legal-acc__heading",
+        "role": "heading"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/700",
+        "eds": "16/24/400"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [
+      {
+       "role": "button",
+       "tag": "button",
+       "sel": "button#ot-notice-layer-break-header-144",
+       "text": "7. links to other sites.",
+       "boxed": false,
+       "x": 0,
+       "y": 0,
+       "w": 296,
+       "h": 30,
+       "absY": 1240,
+       "hidden": false,
+       "fs": 16,
+       "lh": 24,
+       "fw": "700",
+       "color": "rgb(255, 255, 255)",
+       "bg": null,
+       "position": "static",
+       "key": "button:7. links to other sites."
+      }
+     ],
+     "unit": {
+      "origin": {
+       "x": 32,
+       "y": 1240,
+       "w": 296,
+       "h": 30
+      },
+      "eds": {
+       "x": 32,
+       "y": 1240,
+       "w": 296,
+       "h": 30
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 1,
+      "within": 1,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 1,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 7,
+     "origin": {
+      "path": "section#otnotice-section-541eb71b-0038-46e2-a4d7-50ba1805263e > div.otnotice-section-content > div.ot-notice-layer-break-container"
+     },
+     "eds": {
+      "path": "div.legal-page__column > div.legal-body.legal-body--notice > div.legal-acc"
+     },
+     "rows": [
+      {
+       "key": "text:8. protection of children’s privacy.",
+       "role": "text",
+       "text": "8. protection of children’s privacy.",
+       "edsText": "8. protection of children’s privacy.",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 0,
+        "w": 296,
+        "h": 30
+       },
+       "eds": {
+        "x": 0,
+        "y": 0,
+        "w": 296,
+        "h": 30,
+        "sel": "h2.legal-acc__heading",
+        "role": "heading"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/700",
+        "eds": "16/24/400"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [
+      {
+       "role": "button",
+       "tag": "button",
+       "sel": "button#ot-notice-layer-break-header-873",
+       "text": "8. protection of children’s privacy.",
+       "boxed": false,
+       "x": 0,
+       "y": 0,
+       "w": 296,
+       "h": 30,
+       "absY": 1270,
+       "hidden": false,
+       "fs": 16,
+       "lh": 24,
+       "fw": "700",
+       "color": "rgb(255, 255, 255)",
+       "bg": null,
+       "position": "static",
+       "key": "button:8. protection of children’s privacy."
+      }
+     ],
+     "unit": {
+      "origin": {
+       "x": 32,
+       "y": 1270,
+       "w": 296,
+       "h": 30
+      },
+      "eds": {
+       "x": 32,
+       "y": 1270,
+       "w": 296,
+       "h": 30
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 1,
+      "within": 1,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 1,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 8,
+     "origin": {
+      "path": "section#otnotice-section-541eb71b-0038-46e2-a4d7-50ba1805263e > div.otnotice-section-content > div.ot-notice-layer-break-container"
+     },
+     "eds": {
+      "path": "div.legal-page__column > div.legal-body.legal-body--notice > div.legal-acc"
+     },
+     "rows": [
+      {
+       "key": "text:9. security practices.",
+       "role": "text",
+       "text": "9. security practices.",
+       "edsText": "9. security practices.",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 0,
+        "w": 296,
+        "h": 30
+       },
+       "eds": {
+        "x": 0,
+        "y": 0,
+        "w": 296,
+        "h": 30,
+        "sel": "h2.legal-acc__heading",
+        "role": "heading"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/700",
+        "eds": "16/24/400"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [
+      {
+       "role": "button",
+       "tag": "button",
+       "sel": "button#ot-notice-layer-break-header-162",
+       "text": "9. security practices.",
+       "boxed": false,
+       "x": 0,
+       "y": 0,
+       "w": 296,
+       "h": 30,
+       "absY": 1300,
+       "hidden": false,
+       "fs": 16,
+       "lh": 24,
+       "fw": "700",
+       "color": "rgb(255, 255, 255)",
+       "bg": null,
+       "position": "static",
+       "key": "button:9. security practices."
+      }
+     ],
+     "unit": {
+      "origin": {
+       "x": 32,
+       "y": 1300,
+       "w": 296,
+       "h": 30
+      },
+      "eds": {
+       "x": 32,
+       "y": 1300,
+       "w": 296,
+       "h": 30
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 1,
+      "within": 1,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 1,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 9,
+     "origin": {
+      "path": "section#otnotice-section-541eb71b-0038-46e2-a4d7-50ba1805263e > div.otnotice-section-content > div.ot-notice-layer-break-container"
+     },
+     "eds": {
+      "path": "div.legal-page__column > div.legal-body.legal-body--notice > div.legal-acc"
+     },
+     "rows": [
+      {
+       "key": "text:10. retention period.",
+       "role": "text",
+       "text": "10. retention period.",
+       "edsText": "10. retention period.",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 0,
+        "w": 296,
+        "h": 30
+       },
+       "eds": {
+        "x": 0,
+        "y": 0,
+        "w": 296,
+        "h": 30,
+        "sel": "h2.legal-acc__heading",
+        "role": "heading"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/700",
+        "eds": "16/24/400"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [
+      {
+       "role": "button",
+       "tag": "button",
+       "sel": "button#ot-notice-layer-break-header-926",
+       "text": "10. retention period.",
+       "boxed": false,
+       "x": 0,
+       "y": 0,
+       "w": 296,
+       "h": 30,
+       "absY": 1330,
+       "hidden": false,
+       "fs": 16,
+       "lh": 24,
+       "fw": "700",
+       "color": "rgb(255, 255, 255)",
+       "bg": null,
+       "position": "static",
+       "key": "button:10. retention period."
+      }
+     ],
+     "unit": {
+      "origin": {
+       "x": 32,
+       "y": 1330,
+       "w": 296,
+       "h": 30
+      },
+      "eds": {
+       "x": 32,
+       "y": 1330,
+       "w": 296,
+       "h": 30
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 1,
+      "within": 1,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 1,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 10,
+     "origin": {
+      "path": "section#otnotice-section-541eb71b-0038-46e2-a4d7-50ba1805263e > div.otnotice-section-content > div.ot-notice-layer-break-container"
+     },
+     "eds": {
+      "path": "div.legal-page__column > div.legal-body.legal-body--notice > div.legal-acc"
+     },
+     "rows": [
+      {
+       "key": "text:11. jurisdiction.",
+       "role": "text",
+       "text": "11. jurisdiction.",
+       "edsText": "11. jurisdiction.",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 0,
+        "w": 296,
+        "h": 30
+       },
+       "eds": {
+        "x": 0,
+        "y": 0,
+        "w": 296,
+        "h": 30,
+        "sel": "h2.legal-acc__heading",
+        "role": "heading"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/700",
+        "eds": "16/24/400"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [
+      {
+       "role": "button",
+       "tag": "button",
+       "sel": "button#ot-notice-layer-break-header-353",
+       "text": "11. jurisdiction.",
+       "boxed": false,
+       "x": 0,
+       "y": 0,
+       "w": 296,
+       "h": 30,
+       "absY": 1360,
+       "hidden": false,
+       "fs": 16,
+       "lh": 24,
+       "fw": "700",
+       "color": "rgb(255, 255, 255)",
+       "bg": null,
+       "position": "static",
+       "key": "button:11. jurisdiction."
+      }
+     ],
+     "unit": {
+      "origin": {
+       "x": 32,
+       "y": 1360,
+       "w": 296,
+       "h": 30
+      },
+      "eds": {
+       "x": 32,
+       "y": 1360,
+       "w": 296,
+       "h": 30
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 1,
+      "within": 1,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 1,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 11,
+     "origin": {
+      "path": "section#otnotice-section-541eb71b-0038-46e2-a4d7-50ba1805263e > div.otnotice-section-content > div.ot-notice-layer-break-container"
+     },
+     "eds": {
+      "path": "div.legal-page__column > div.legal-body.legal-body--notice > div.legal-acc"
+     },
+     "rows": [
+      {
+       "key": "text:12. changes and updates to our privacy p",
+       "role": "text",
+       "text": "12. changes and updates to our privacy policy.",
+       "edsText": "12. changes and updates to our privacy policy.",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 0,
+        "w": 296,
+        "h": 54
+       },
+       "eds": {
+        "x": 0,
+        "y": 0,
+        "w": 296,
+        "h": 54,
+        "sel": "h2.legal-acc__heading",
+        "role": "heading"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/700",
+        "eds": "16/24/400"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [
+      {
+       "role": "button",
+       "tag": "button",
+       "sel": "button#ot-notice-layer-break-header-110",
+       "text": "12. changes and updates to our privacy policy.",
+       "boxed": false,
+       "x": 0,
+       "y": 0,
+       "w": 296,
+       "h": 54,
+       "absY": 1390,
+       "hidden": false,
+       "fs": 16,
+       "lh": 24,
+       "fw": "700",
+       "color": "rgb(255, 255, 255)",
+       "bg": null,
+       "position": "static",
+       "key": "button:12. changes and updates to our privacy p"
+      }
+     ],
+     "unit": {
+      "origin": {
+       "x": 32,
+       "y": 1390,
+       "w": 296,
+       "h": 54
+      },
+      "eds": {
+       "x": 32,
+       "y": 1390,
+       "w": 296,
+       "h": 54
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 1,
+      "within": 1,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 1,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 12,
+     "origin": {
+      "path": "section#otnotice-section-541eb71b-0038-46e2-a4d7-50ba1805263e > div.otnotice-section-content > div.ot-notice-layer-break-container"
+     },
+     "eds": {
+      "path": "div.legal-page__column > div.legal-body.legal-body--notice > div.legal-acc"
+     },
+     "rows": [
+      {
+       "key": "text:13. contact information.",
+       "role": "text",
+       "text": "13. contact information.",
+       "edsText": "13. contact information.",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 0,
+        "w": 296,
+        "h": 30
+       },
+       "eds": {
+        "x": 0,
+        "y": 0,
+        "w": 296,
+        "h": 30,
+        "sel": "h2.legal-acc__heading",
+        "role": "heading"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/700",
+        "eds": "16/24/400"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [
+      {
+       "role": "button",
+       "tag": "button",
+       "sel": "button#ot-notice-layer-break-header-816",
+       "text": "13. contact information.",
+       "boxed": false,
+       "x": 0,
+       "y": 0,
+       "w": 296,
+       "h": 30,
+       "absY": 1444,
+       "hidden": false,
+       "fs": 16,
+       "lh": 24,
+       "fw": "700",
+       "color": "rgb(255, 255, 255)",
+       "bg": null,
+       "position": "static",
+       "key": "button:13. contact information."
+      }
+     ],
+     "unit": {
+      "origin": {
+       "x": 32,
+       "y": 1444,
+       "w": 296,
+       "h": 30
+      },
+      "eds": {
+       "x": 32,
+       "y": 1444,
+       "w": 296,
+       "h": 30
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 1,
+      "within": 1,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 1,
+      "unitOff": false
+     }
+    }
+   ]
+  }
+ ],
+ "verdict": {
+  "units": 13,
+  "within": 13,
+  "off": 0,
+  "hidden": 0,
+  "missing": 0,
+  "errors": 0,
+  "requiredOff": 0
+ }
+}

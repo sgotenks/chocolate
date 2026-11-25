@@ -1,0 +1,385 @@
+{
+  "us-en-xp-golden-ticket": {
+    "type": "unique",
+    "live": "https://www.wonka.com/us/en/xp/golden-ticket/",
+    "prototype": "stardust/prototypes/us-en-xp-golden-ticket-proposed.html",
+    "css": [
+      "stardust/prototypes/us-en-xp-golden-ticket.css"
+    ],
+    "js": [
+      "stardust/prototypes/us-en-xp-golden-ticket.js"
+    ],
+    "captureFlags": {
+      "consent": "#onetrust-accept-btn-handler",
+      "main": "main"
+    },
+    "rounds": {
+      "360": {
+        "counted": 1,
+        "confirm": 1
+      },
+      "1440": {
+        "counted": 2,
+        "confirm": 1
+      }
+    },
+    "gates": {
+      "360": {
+        "pixel": "0.07%",
+        "aligned": "0.07% (no offset steps)",
+        "heightDelta": 0,
+        "clipped": 0,
+        "overflow": "ok",
+        "contentDiff": {
+          "red": 0,
+          "nothingLostYellow": 0
+        },
+        "chromeCrop": {
+          "header": "0.00%",
+          "footer": "0.00%"
+        },
+        "chromeParity": "within tolerance",
+        "sourceSpec": "exit 0",
+        "visualFlags": "IMAGERY GAP advisory (justified)",
+        "verdict": "pass"
+      },
+      "1440": {
+        "pixel": "0.04%",
+        "aligned": "0.04% (no offset steps)",
+        "heightDelta": 0,
+        "clipped": 0,
+        "overflow": "ok",
+        "contentDiff": {
+          "red": 0,
+          "nothingLostYellow": 0
+        },
+        "chromeCrop": {
+          "header": "0.00%",
+          "footer": "0.00%"
+        },
+        "chromeParity": "within tolerance",
+        "sourceSpec": "exit 0",
+        "capProbe": "PASS at 2560 (0/3 rows failed)",
+        "visualFlags": "IMAGERY GAP advisory (justified)",
+        "verdict": "pass"
+      }
+    },
+    "residuals": [
+      "IMAGERY GAP advisory (source 74 img vs build 26): source carries ~45 lazyload decorative f-el imgs (data-product prod1/3/4/5/6, no src, display:none) plus the hidden twin of the key visual; build renders only the visible ones. Nothing visible lost.",
+      "Floating sweets on mobile: live picks the data-product \"active\" set at runtime (prod2 = caramel-pop/berry_elixir/bubblegumjoy in every capture, noise floor 0.00%); build hard-codes prod2.",
+      "is-desktop body class: live sets it by UA sniffing (desktop UA at both gate widths → QR shown, hero CTAs hidden); build ships body.is-desktop statically. A mobile-UA variant (hero CTA instead of QR) is not reproduced — deploy needs a UA/touch decision.",
+      "Footer menu close button, slider arrows, fraction \"1/2\", footer h2 \"Footer\" and the AR overlay (ar_exp) are mirrored in the DOM but hidden, as on live.",
+      "Assets not in the extract capture fetched from source into prototypes/assets/gt/: particles-0{1,2,3}-mob.png, wonka_visual_US_mobile.jpg, Wonka-bundle-prize-product-totebag-slider.png."
+    ],
+    "portation": "none — re-authored; values lifted from source css_SuhUtC6… (stored at stardust/.work/gt-css/b.css)",
+    "motion": {
+      "observed": "stardust/replica/motion/us-en-xp-golden-ticket-live.json",
+      "build": "stardust/replica/motion/us-en-xp-golden-ticket-build.json",
+      "implemented": [
+        "pagination click → track translate (transform 0.3s) + dot width/background/opacity 0.6s ease-in-out",
+        ".btn-primary hover background #ffe365, 0.5s"
+      ],
+      "dead": [
+        "header scroll-morph (static fixed bar)",
+        "button-secondary hover",
+        "footer social/menu/legal hovers",
+        "autoplay (no unpoked mutations)"
+      ],
+      "compare": "5 parity, 6 missing = class-name-only lines (swiper-*/lazyload*), 0 extra"
+    },
+    "captureState": [],
+    "passed": true
+  },
+  "us-en": {
+    "type": "landing",
+    "rounds": {
+      "360": 1,
+      "1440": 2,
+      "note": "counted rounds (prototype stage); confirmations iter3/iter4 free"
+    },
+    "gates": {
+      "360": {
+        "pixel": "3.26% (masked frozen ref, noise floor 2.02%)",
+        "heightDelta": -1,
+        "contentDiff": "0 red / 0 nothing-lost",
+        "visualDiff": "none",
+        "chromeParity": "pass",
+        "clipped": 0,
+        "overflow": "ok",
+        "verdict": "stardust/replica/gates/us-en-360/verdict-iter4.json"
+      },
+      "1440": {
+        "pixel": "7.69% (masked frozen ref, noise floor 2.50%, forced: intro video/float vary 77% of rows)",
+        "heightDelta": -1,
+        "contentDiff": "0 red / 0 nothing-lost",
+        "visualDiff": "none",
+        "chromeParity": "pass",
+        "clipped": 0,
+        "overflow": "ok",
+        "capProbe": "PASS at 2560 (0/4 rows)",
+        "verdict": "stardust/replica/gates/us-en-1440/verdict-iter4.json"
+      }
+    },
+    "captureState": "first-visit: hat-portal intro overlay (fixed, 100dvh, z 9990) repeated in every stitched chunk on both sides (backdrop rule); page under it inert. Same mechanism as source: sessionStorage wonka-hat-portal-seen=1 skips it. Live has NO reduced-motion skip (verified 2026-11-25 with reducedMotion=reduce: overlay still shown) so the prototype has none either.",
+    "postPortalCheck": "prototype with seen flag vs extract us-en-post-portal.png @1440: 97.7–99.9% per 900px band",
+    "residuals": [
+      {
+        "band": "header 0–62 / footer band (both widths)",
+        "what": "chrome crop bands measure the intro overlay, not the chrome (overlay covers it on both sides); crop 2.1–3.6% header, 9.9–12% footer vs live self-noise 1.6% / 4.6–6.1% (stars video frame + hat float phase)",
+        "cause": "animated-overlay",
+        "permanent": true,
+        "evidence": "chrome-parity-iter4.txt quiet at both widths; post-portal band check 97.7–99.9%"
+      },
+      {
+        "band": "overlay hat",
+        "what": "hat-float CSS animation frozen at a different phase (~10px) — source starts the float after its async init (stars playing + hat video preload); timing-dependent",
+        "cause": "animation-phase",
+        "permanent": true
+      },
+      {
+        "band": "overlay stars",
+        "what": "stars-idle.mp4 frame differs per capture (source re-plays after the capture freeze; mirrored)",
+        "cause": "video-frame",
+        "permanent": true
+      }
+    ],
+    "ports": [
+      "page clouds placement JS (canon-chrome.js) ported from source wonkaPageClouds (initial state requires computing)",
+      "hat/ticket orbit static transforms + swap (source createHatTicketOrbit constants)",
+      "stars background playback keep-alive (source createBackgroundPlayback)"
+    ],
+    "motion": {
+      "observed": [
+        "portal CTA click → CTA disabled (opacity-50/pointer-events-none), cta-wrap opacity .3s, overlay released",
+        "CTA spinner (wonka-cta-spin) while hat video loads",
+        "product details grid-template-rows .8s + chevron rotate .2s",
+        "mobile menu open: logo top/left .7s, surface transform, content opacity",
+        "stars video autoplay"
+      ],
+      "implemented": [
+        "portal intro: idle float, orbit swap (click/swipe/arrows), CTA busy state + spinner, exit zoom + release + seen flag",
+        "product details disclosure (aria-controls → region, label swap)",
+        "mobile menu toggle (aria-expanded/label/inert/scroll lock)",
+        "stars keep-alive playback"
+      ],
+      "dead": [
+        "header scroll-morph (static on both)",
+        "portal exit timeline is GSAP on source (3s zoom + magnific disc video) — approximated by a 1.6s CSS zoom + fade, portal-disc magnific not reproduced"
+      ]
+    },
+    "canon": {
+      "css": [
+        "stardust/prototypes/canon.css",
+        "stardust/prototypes/canon-chrome.css"
+      ],
+      "markup": "stardust/prototypes/canon-chrome.html (HEADER / FOOTER blocks)",
+      "js": "stardust/prototypes/canon-chrome.js"
+    },
+    "captureFlags": "--consent '#onetrust-accept-btn-handler' --main main",
+    "passed": true
+  },
+  "us-en-privacy-policy": {
+    "type": "static",
+    "template": "legal (siblings us-en-terms-of-use, us-en-cookie-policy)",
+    "rounds": {
+      "360": 1,
+      "1440": 2,
+      "note": "counted rounds (prototype stage); 1440 iter3 confirmation free"
+    },
+    "gates": {
+      "360": {
+        "pixel": "0.36% (frozen ref, noise floor 0.00%, no mask)",
+        "heightDelta": -1,
+        "contentDiff": "0 red / 0 nothing-lost",
+        "visualDiff": "none",
+        "chromeParity": "pass (1 advisory: closed mobile panel texts, both sides)",
+        "chromeCrops": "header 0.00% / footer 0.13%",
+        "clipped": 0,
+        "overflow": "ok",
+        "units": "legal-accordion 13/13 within tolerance",
+        "verdict": "stardust/replica/gates/us-en-privacy-policy-360/verdict-iter1.json"
+      },
+      "1440": {
+        "pixel": "0.15% (frozen ref, noise floor 0.00%, no mask)",
+        "heightDelta": -1,
+        "contentDiff": "0 red / 0 nothing-lost",
+        "visualDiff": "none",
+        "chromeParity": "pass",
+        "chromeCrops": "header 0.11% / footer 0.07%",
+        "clipped": 0,
+        "overflow": "ok",
+        "units": "legal-accordion 13/13 within tolerance",
+        "capProbe": "PASS at 2560 (0/4 rows; wrapper 800 = 800, shell 1268)",
+        "verdict": "stardust/replica/gates/us-en-privacy-policy-1440/verdict-iter3.json"
+      }
+    },
+    "captureState": "all 13 OneTrust notice sections collapsed (as captured); consent accepted via #onetrust-accept-btn-handler; no page clouds (source: .layout-container:has(.legal-page)>.wonka-page-clouds{display:none}) → [data-no-clouds]",
+    "rootFontSize": "16px at 1440 and 360 (no viewport scaling at gate widths); h1 42/42 at both",
+    "residuals": [
+      {
+        "band": "page height",
+        "what": "Δh −1 px (live doc 1431.95 px rounds up)",
+        "cause": "subpixel",
+        "permanent": true
+      },
+      {
+        "band": "expanded sections",
+        "what": "open-state styling lifted from otnotice-core.css v2 + onetrust #ot-sdk-btn rules (lists list-style none via site preflight, ul padding-inline 2.5rem, li 0 0 .5rem, inline editor colours #000/#2c82c9 kept as .legal-ink/.legal-blue); not pixel-gated (gate is the collapsed state)",
+        "cause": "state-not-gated",
+        "permanent": false
+      }
+    ],
+    "contentModel": "body generated verbatim from the captured notice by stardust/.work/legal/gen-legal.mjs <slug>; vendor wrappers → .legal-body rich text + .legal-acc (h2>button[aria-expanded] + panel[hidden] + hidden h3 open-label = source layer-breaker footer heading); editor residue (id=isPasted, empty <p><br></p>, zero-margin styles) dropped — leading/trailing empty paragraphs became .legal-body--notice padding 40px/80px",
+    "motion": {
+      "observed": [
+        "row click → class active on the row, panel display none↔block, marker \" +\"(20px) ↔ \" -\"(25px); no transition/animation",
+        "hover on rows and links: no change"
+      ],
+      "implemented": [
+        "accordion toggle (aria-expanded + hidden + class active), marker swap, open-label swap"
+      ],
+      "dead": [
+        "header scroll-morph",
+        "hover on rows",
+        "hover on in-text links"
+      ],
+      "compare": "motion-compare: 1 parity, 0 missing, 0 extra"
+    },
+    "canonBackport": [],
+    "passed": true
+  },
+  "us-en-about-wonka": {
+    "type": "about",
+    "live": "https://www.wonka.com/us/en/about-wonka",
+    "prototype": "stardust/prototypes/us-en-about-wonka-proposed.html",
+    "css": [
+      "stardust/prototypes/canon.css",
+      "stardust/prototypes/canon-chrome.css",
+      "stardust/prototypes/us-en-about-wonka.css"
+    ],
+    "js": [
+      "stardust/prototypes/canon-chrome.js",
+      "stardust/prototypes/us-en-about-wonka.js"
+    ],
+    "build": "node stardust/.work/about-src/build.cjs (template.html + canon-chrome.html HEADER/FOOTER verbatim + verbatim card/FAQ strings from pages/us-en-about-wonka.html)",
+    "captureFlags": {
+      "consent": "#onetrust-accept-btn-handler",
+      "main": "main"
+    },
+    "rounds": {
+      "360": {
+        "counted": 3,
+        "note": "iter1 first (clip 1: itext h2 glyph box), iter2 fix (page-cloud placement; failed only on header-contract NOT COMPARED), iter3 pass"
+      },
+      "1440": {
+        "counted": 2,
+        "note": "iter1 first (clip 1: promo h2 glyph box), iter2 pass"
+      }
+    },
+    "gates": {
+      "360": {
+        "pixel": "0.49% (frozen ref, noise floor 0.00%, no mask)",
+        "heightDelta": -1,
+        "contentDiff": {
+          "red": 0,
+          "nothingLostYellow": 0
+        },
+        "visualFlags": "none",
+        "chromeParity": "pass (1 advisory: closed mobile panel texts, both sides)",
+        "chromeCrop": {
+          "header": "0.00%",
+          "footer": "1.69%"
+        },
+        "clipped": 0,
+        "overflow": "ok",
+        "units": "story-cards 3 + faq-accordion 7 within tolerance",
+        "headerContract": "PASS",
+        "sourceSpec": "exit 0",
+        "verdict": "stardust/replica/gates/us-en-about-wonka-360/verdict-iter3.json"
+      },
+      "1440": {
+        "pixel": "0.24% (frozen ref, noise floor 0.00%, no mask)",
+        "heightDelta": -1,
+        "contentDiff": {
+          "red": 0,
+          "nothingLostYellow": 0
+        },
+        "visualFlags": "none",
+        "chromeParity": "pass",
+        "chromeCrop": {
+          "header": "0.12%",
+          "footer": "1.15%"
+        },
+        "clipped": 0,
+        "overflow": "ok",
+        "units": "story-cards 3 + faq-accordion 7 within tolerance",
+        "headerContract": "PASS",
+        "sourceSpec": "exit 0",
+        "capProbe": "PASS at 2560 (0/7 rows)",
+        "verdict": "stardust/replica/gates/us-en-about-wonka-1440/verdict-iter2.json"
+      }
+    },
+    "residuals": [
+      "R-04 (deferred): discover-hero text column capped at 700px — kept as captured.",
+      "Page clouds: source computes placement at window load, before the lazy promo product image has a height; the prototype mirrors this by keeping the source markup (no width/height on the mobile <img>, <source width=900 height=500>). Matches live at 360 and 1440; placement depends on that load timing.",
+      "promo-section and image-text row: source overflow:hidden → overflow-x:clip / overflow-y:visible (look-neutral; y-clip cut the h2 glyph box, clip-probe).",
+      "Header contract (stardust/chrome/header-contract.json, recorded on this URL) is empty on both sides — chrome-explore sees no controls under the pointer-events:none fixed wrapper; PASS is vacuous, the mobile menu contract still needs a manual pass.",
+      "cloud-6.webp fetched from the live theme (missing from extract assets); this page uses all 6 cloud assets like the source."
+    ],
+    "motion": {
+      "observed": [
+        "hover discover-hero CTA background 300ms",
+        "hover social buttons background 300ms",
+        "accordion grid-template-rows 500ms + icon rotate 300ms",
+        "gold button shine left transition"
+      ],
+      "implemented": [
+        "accordion (source wonkaAccordion contract: independent toggles, aria-expanded/data-expanded/aria-hidden/inert)",
+        "discover-hero scroll CTA eased scroll (source discoverHero)",
+        "hovers via canon .btn--blurred / .btn--gold"
+      ],
+      "dead": [
+        "header scroll-morph",
+        "story-card hover",
+        "accordion button hover",
+        "gold button computed-style hover (shine is ::after)"
+      ],
+      "compare": "6 parity, 0 missing, 0 extra"
+    },
+    "passed": true
+  },
+  "siblings": {
+    "us-en-cookie-policy": {
+      "archetype": "us-en-privacy-policy",
+      "variants": [
+        "legal-body--notice legal-cookie-list"
+      ],
+      "pixel": {},
+      "contentDiff": null,
+      "deliveryLint": "0 P0 · 0 P1 · 1 P2",
+      "media": null,
+      "gatesPassed": [
+        "content-fidelity",
+        "delivery-lint",
+        "variance-probe"
+      ],
+      "migrated": "stardust/migrated/us/en/cookie-policy/index.html"
+    },
+    "us-en-terms-of-use": {
+      "archetype": "us-en-privacy-policy",
+      "variants": [
+        "legal-body--plain"
+      ],
+      "pixel": {},
+      "contentDiff": null,
+      "deliveryLint": "0 P0 · 0 P1 · 1 P2",
+      "media": null,
+      "gatesPassed": [
+        "content-fidelity",
+        "delivery-lint",
+        "variance-probe"
+      ],
+      "migrated": "stardust/migrated/us/en/terms-of-use/index.html"
+    }
+  }
+}

@@ -10,6 +10,7 @@ import {
   loadSections,
   loadCSS,
   buildBlock,
+  getMetadata,
 } from './aem.js';
 
 if (window.trustedTypes && window.trustedTypes.createPolicy) {
@@ -194,6 +195,10 @@ async function loadLazy(doc) {
   if (hash && element) element.scrollIntoView();
 
   loadFooter(doc.querySelector('body > footer'));
+
+  // decorative page clouds (page metadata `Clouds | <count>`)
+  const clouds = getMetadata('clouds');
+  if (clouds) import('./clouds.js').then(({ default: initClouds }) => initClouds(clouds));
 
   loadCSS(`${window.hlx.codeBasePath}/styles/lazy-styles.css`);
   loadFonts();

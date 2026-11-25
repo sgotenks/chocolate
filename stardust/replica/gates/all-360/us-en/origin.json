@@ -1,0 +1,17 @@
+{
+  "instrument": "stitch-live",
+  "url": "https://www.wonka.com/us/en/",
+  "reference": {
+    "dir": "stardust/replica/gates/us-en-360",
+    "capturedAt": "2026-11-25T10:46:51.636Z",
+    "primed": true,
+    "stable": true,
+    "noiseFloor": 2.02,
+    "variableRows": 2758,
+    "maskArg": "252:156,452:136,1152:156,1352:136,2052:156,2252:136,2952:156,3152:136,3592:216,3852:156,4052:136,4272:156,4492:356,4892:136,5072:376,5472:58"
+  },
+  "note": "reused stardust/replica/gates/us-en-360/baseline.png (the page's frozen reference — primed, not re-captured)",
+  "fontsFailed": [],
+  "deadFaces": [],
+  "at": "2026-11-25T14:43:45.020Z"
+}

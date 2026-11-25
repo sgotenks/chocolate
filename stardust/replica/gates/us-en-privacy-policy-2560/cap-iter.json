@@ -1,0 +1,199 @@
+{
+  "_provenance": {
+    "writtenBy": "skills/replica/scripts/cap-probe.mjs",
+    "writtenAt": "2026-11-25T11:13:36.761Z",
+    "baseWidth": 1440,
+    "urls": [
+      "https://www.wonka.com/us/en/privacy-policy",
+      "http://localhost:8791/us-en-privacy-policy-proposed.html"
+    ],
+    "probeWidth": 2560,
+    "probeNote": "from DESIGN.json",
+    "tolerance": 20
+  },
+  "urls": [
+    "https://www.wonka.com/us/en/privacy-policy",
+    "http://localhost:8791/us-en-privacy-policy-proposed.html"
+  ],
+  "probeNote": "from DESIGN.json",
+  "live": {
+    "baseWidth": 1440,
+    "probeWidth": 2560,
+    "root": {
+      "selector": "div.dialog-off-canvas-main-canvas > div.layout-container > div > main.w-full",
+      "isBody": false,
+      "leaves": 22,
+      "w2": 2560
+    },
+    "origins": [
+      {
+        "kind": "shell",
+        "px": 1268,
+        "via": "max-width",
+        "selector": "div.layout__region.layout__region--content > div.paragraph.paragraph--type--legal-page > section.legal-page.relative > div.section-container",
+        "tier": 10,
+        "share": 1,
+        "section": 0,
+        "w1": 1268,
+        "maxWidth": "1268px"
+      },
+      {
+        "kind": "content",
+        "px": 800,
+        "via": "max-width",
+        "selector": "div.paragraph.paragraph--type--legal-page > section.legal-page.relative > div.section-container > div.ml-0.flex",
+        "tier": 11,
+        "share": 1,
+        "section": 0,
+        "w1": 800,
+        "maxWidth": "800px"
+      },
+      {
+        "kind": "module",
+        "px": 735,
+        "via": "fixed",
+        "selector": "#isPasted > strong",
+        "tier": 18,
+        "share": 0.05,
+        "section": 0,
+        "w1": 735,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 756,
+        "via": "fixed",
+        "selector": "section.otnotice-section > div.otnotice-section-content > p > a",
+        "tier": 18,
+        "share": 0.05,
+        "section": 0,
+        "w1": 756,
+        "maxWidth": "none"
+      }
+    ],
+    "modules": [
+      {
+        "index": 0,
+        "selector": "div.layout.layout--onecol > div.layout__region.layout__region--content > div.paragraph.paragraph--type--legal-page > section.legal-page.relative",
+        "px": 756,
+        "capSelector": "section.otnotice-section > div.otnotice-section-content > p > a"
+      }
+    ],
+    "shellMaxWidth": 1268,
+    "contentMaxWidth": 800,
+    "contentFrom": "content",
+    "maxCap": 1268,
+    "fluid": false,
+    "probeNote": "pinned",
+    "candidates": 67
+  },
+  "build": {
+    "baseWidth": 1440,
+    "probeWidth": 2560,
+    "root": {
+      "selector": "#main-content",
+      "isBody": false,
+      "leaves": 22,
+      "w2": 2560
+    },
+    "origins": [
+      {
+        "kind": "shell",
+        "px": 1268,
+        "via": "max-width",
+        "selector": "#main-content > div.page__sections > section.legal-page > div.legal-page__container",
+        "tier": 3,
+        "share": 1,
+        "section": -1,
+        "w1": 1268,
+        "maxWidth": "1268px"
+      },
+      {
+        "kind": "content",
+        "px": 800,
+        "via": "max-width",
+        "selector": "div.page__sections > section.legal-page > div.legal-page__container > div.legal-page__column",
+        "tier": 4,
+        "share": 1,
+        "section": -1,
+        "w1": 800,
+        "maxWidth": "800px"
+      },
+      {
+        "kind": "module",
+        "px": 735,
+        "via": "fixed",
+        "selector": "div.legal-page__column > div.legal-body.legal-body--notice > p > strong",
+        "tier": 7,
+        "share": 0.05,
+        "section": 1,
+        "w1": 735,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 756,
+        "via": "fixed",
+        "selector": "div.legal-page__column > div.legal-body.legal-body--notice > p > a",
+        "tier": 7,
+        "share": 0.05,
+        "section": 1,
+        "w1": 756,
+        "maxWidth": "none"
+      }
+    ],
+    "modules": [
+      {
+        "index": 0,
+        "selector": "section.legal-page > div.legal-page__container > div.legal-page__column > header.legal-page__header",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 1,
+        "selector": "section.legal-page > div.legal-page__container > div.legal-page__column > div.legal-body.legal-body--notice",
+        "px": 756,
+        "capSelector": "div.legal-page__column > div.legal-body.legal-body--notice > p > a"
+      }
+    ],
+    "shellMaxWidth": 1268,
+    "contentMaxWidth": 800,
+    "contentFrom": "content",
+    "maxCap": 1268,
+    "fluid": false,
+    "probeNote": "pinned",
+    "candidates": 65
+  },
+  "compare": {
+    "probeWidth": 2560,
+    "rows": [
+      {
+        "ok": true,
+        "label": "wrapper cap",
+        "detail": "live 800px = build 800px (±20)",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "outer shell",
+        "detail": "live 1268px (div.layout__region.layout__region--content > div.paragraph.paragraph--type--legal-page > section.legal-page.relative > div.section-container) encloses the 800px wrapper cap — informational, no content bound of its own",
+        "advisory": true
+      },
+      {
+        "ok": true,
+        "label": "sections",
+        "detail": "live 1 vs build 2 top-level sections — module rows compared by order up to the shorter side, advisory until the structure matches",
+        "advisory": true
+      },
+      {
+        "ok": true,
+        "label": "module 1/1",
+        "detail": "live 756px (section.otnotice-section > div.otnotice-section-content > p > a) → build full-bleed (section.legal-page > div.legal-page__container > div.legal-page__column > header.legal-page__header)",
+        "advisory": true
+      }
+    ],
+    "fails": 0,
+    "pass": true
+  },
+  "evidence": "stardust/replica/gates/us-en-privacy-policy-2560/cap-iter.json"
+}

@@ -1,0 +1,10 @@
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M16 7.99496C8.78808 8.43856 8.43442 8.79143 8.01154 16C7.5656 8.79143 7.21192 8.43352 0 8.00504C7.21192 7.56144 7.56561 7.20857 7.98848 0C8.43442 7.20857 8.78808 7.56648 16 7.99496Z" fill="url(#sparkle_gold)"/>
+  <defs>
+    <linearGradient id="sparkle_gold" x1="0" y1="8" x2="16" y2="8" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#AD8544"/>
+      <stop offset="0.528846" stop-color="#F8E999"/>
+      <stop offset="1" stop-color="#AC8543"/>
+    </linearGradient>
+  </defs>
+</svg>

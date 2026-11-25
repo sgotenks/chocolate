@@ -1,0 +1,47 @@
+{
+ "url": "https://main--a6216fe5--aemcoder.aem.live/us/en/xp/golden-ticket/",
+ "at": "2026-11-25T14:46:08.018Z",
+ "source": "content-presence",
+ "counts": {
+  "textClipped": 0,
+  "textHidden": 0,
+  "controlHidden": 0,
+  "controlClipped": 0,
+  "clamped": 0,
+  "collapsed": 0,
+  "scrollHidden": 0,
+  "horizontal": 1,
+  "offPage": 3,
+  "textNodes": 36,
+  "controls": 21,
+  "total": 0
+ },
+ "groups": [
+  {
+   "kind": "TEXT X-HIDDEN",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.promo-prizes-viewport",
+   "path": "div.promo-prize > div.promo-prize-text > div.promo-prize-body > p",
+   "text": "the factory bundle is a tiny treasure from a bigger wonderla",
+   "cutMin": 322,
+   "cutMax": 322
+  }
+ ],
+ "origin": {
+  "counts": {
+   "textClipped": 0,
+   "textHidden": 0,
+   "controlHidden": 0,
+   "controlClipped": 0,
+   "clamped": 0,
+   "collapsed": 0,
+   "scrollHidden": 0,
+   "horizontal": 1,
+   "offPage": 3,
+   "textNodes": 36,
+   "controls": 21,
+   "total": 0
+  }
+ }
+}

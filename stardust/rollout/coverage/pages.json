@@ -1,0 +1,283 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:rollout/inventory",
+    "writtenAt": "2026-11-25T11:27:16.740Z",
+    "readArtifacts": [
+      "stardust/migrated",
+      "stardust/state.json"
+    ],
+    "stardustVersion": "0.0.0"
+  },
+  "generatedAt": "2026-11-25T14:46:37.714Z",
+  "pages": [
+    {
+      "slug": "us-en",
+      "path": "/us/en",
+      "title": "Wonka | Extraordinary creations from the Wonka Factory",
+      "templateId": "us-en",
+      "source": {
+        "migratedHtml": "stardust/migrated/us/en/index.html",
+        "metaJson": "stardust/migrated/us/en/_meta.json",
+        "sourceHash": "sha256:9424c1aeff5b85c21ec30fcba549e737508fd48f0d66e24fed60831c7c2c92df",
+        "sourceUrl": "https://www.wonka.com/us/en/"
+      },
+      "blocks": [
+        "hero",
+        "product-cards",
+        "coming-soon",
+        "portal"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a6216fe5--aemcoder.aem.page/us/en/",
+        "deployedAt": "2026-11-25T12:02:12.126Z",
+        "verifiedAt": "2026-11-25T14:46:37.714Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 2.81,
+          "heightDelta": 1,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 4,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-25T14:46:31.862Z"
+        }
+      }
+    },
+    {
+      "slug": "us-en-about-wonka",
+      "path": "/us/en/about-wonka",
+      "title": "About Wonka Brand",
+      "templateId": "us-en-about-wonka",
+      "source": {
+        "migratedHtml": "stardust/migrated/us/en/about-wonka/index.html",
+        "metaJson": "stardust/migrated/us/en/about-wonka/_meta.json",
+        "sourceHash": "sha256:3564402b2145e00e8f8f9a0c8f7b4bfdddf98e0347880e5680c840f4acc71e0e",
+        "sourceUrl": "https://www.wonka.com/us/en/about-wonka"
+      },
+      "blocks": [
+        "discover-hero",
+        "story-cards",
+        "image-text",
+        "promo-banner",
+        "social",
+        "faq"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a6216fe5--aemcoder.aem.page/us/en/about-wonka",
+        "deployedAt": "2026-11-25T12:13:39.066Z",
+        "verifiedAt": "2026-11-25T14:46:37.714Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 2.48,
+          "heightDelta": 1,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 0,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-25T14:46:31.862Z"
+        }
+      }
+    },
+    {
+      "slug": "us-en-cookie-policy",
+      "path": "/us/en/cookie-policy",
+      "title": "Cookie Policy | Wonka",
+      "templateId": "us-en-privacy-policy",
+      "representative": "us-en-privacy-policy",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:c2daf9fe95164ecf92f03f83f45c1e1bea0e22e805261981379fb3cd123e5388",
+        "currentStatePath": "stardust/current/pages/us-en-cookie-policy.json",
+        "sourceUrl": "https://www.wonka.com/us/en/cookie-policy"
+      },
+      "blocks": [
+        "legal-accordion"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a6216fe5--aemcoder.aem.page/us/en/cookie-policy",
+        "deployedAt": "2026-11-25T12:31:17.779Z",
+        "verifiedAt": "2026-11-25T14:46:37.714Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 1.49,
+          "heightDelta": 1,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 0,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-25T14:46:31.862Z"
+        }
+      }
+    },
+    {
+      "slug": "us-en-privacy-policy",
+      "path": "/us/en/privacy-policy",
+      "title": "Privacy Policy | Wonka",
+      "templateId": "us-en-privacy-policy",
+      "source": {
+        "migratedHtml": "stardust/migrated/us/en/privacy-policy/index.html",
+        "metaJson": "stardust/migrated/us/en/privacy-policy/_meta.json",
+        "sourceHash": "sha256:86527b51b974cb341ad228bf62732d8b2b4f70ab4cb57891049d47fa587a4775",
+        "sourceUrl": "https://www.wonka.com/us/en/privacy-policy"
+      },
+      "blocks": [
+        "legal-accordion"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a6216fe5--aemcoder.aem.page/us/en/privacy-policy",
+        "deployedAt": "2026-11-25T11:52:35.206Z",
+        "verifiedAt": "2026-11-25T14:46:37.714Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 0.4,
+          "heightDelta": 1,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 0,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-25T14:46:31.862Z"
+        }
+      }
+    },
+    {
+      "slug": "us-en-terms-of-use",
+      "path": "/us/en/terms-of-use",
+      "title": "Terms of Use | Wonka",
+      "templateId": "us-en-privacy-policy",
+      "representative": "us-en-privacy-policy",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:83e0f825e329ddb63d1d50938a615ec6015b043e8c01dc0e0567956f4ab81c42",
+        "currentStatePath": "stardust/current/pages/us-en-terms-of-use.json",
+        "sourceUrl": "https://www.wonka.com/us/en/terms-of-use"
+      },
+      "blocks": [
+        "legal-accordion"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a6216fe5--aemcoder.aem.page/us/en/terms-of-use",
+        "deployedAt": "2026-11-25T12:31:17.735Z",
+        "verifiedAt": "2026-11-25T14:46:37.714Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 0.74,
+          "heightDelta": 1,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 0,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-25T14:46:31.862Z"
+        }
+      }
+    },
+    {
+      "slug": "us-en-xp-golden-ticket",
+      "path": "/us/en/xp/golden-ticket",
+      "title": "Home | Wonka",
+      "templateId": "us-en-xp-golden-ticket",
+      "source": {
+        "migratedHtml": "stardust/migrated/us/en/xp/golden-ticket/index.html",
+        "metaJson": "stardust/migrated/us/en/xp/golden-ticket/_meta.json",
+        "sourceHash": "sha256:01103b6337c8caecc21afc46db531283804845c68653134e4390050f348714e9",
+        "sourceUrl": "https://www.wonka.com/us/en/xp/golden-ticket/"
+      },
+      "blocks": [
+        "promo-visual",
+        "promo-editorial",
+        "promo-steps",
+        "promo-prizes",
+        "promo-title-text",
+        "ar-banner"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a6216fe5--aemcoder.aem.page/us/en/xp/golden-ticket/",
+        "deployedAt": "2026-11-25T12:18:59.250Z",
+        "verifiedAt": "2026-11-25T14:46:37.714Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 1.02,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 0,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-25T14:46:31.862Z"
+        }
+      }
+    }
+  ]
+}

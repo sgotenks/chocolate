@@ -1,0 +1,976 @@
+{
+ "_provenance": {
+  "writtenBy": "unit-geometry.mjs",
+  "at": "2026-11-25T12:41:21.545Z",
+  "tol": 4,
+  "n": 13,
+  "width": 2560,
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://www.wonka.com/us/en/privacy-policy",
+  "at": "2026-11-25T12:41:06.669Z",
+  "docH": 1433
+ },
+ "eds": {
+  "url": "https://main--a6216fe5--aemcoder.aem.live/us/en/privacy-policy",
+  "at": "2026-11-25T12:41:21.496Z",
+  "docH": 1432
+ },
+ "results": [
+  {
+   "sel": ".otnotice-section-content > .ot-notice-layer-break-container=.legal-body > .legal-acc",
+   "family": null,
+   "required": true,
+   "originMatches": 13,
+   "edsMatches": 13,
+   "units": [
+    {
+     "index": 0,
+     "origin": {
+      "path": "section#otnotice-section-541eb71b-0038-46e2-a4d7-50ba1805263e > div.otnotice-section-content > div.ot-notice-layer-break-container"
+     },
+     "eds": {
+      "path": "div.legal-accordion.notice > div.legal-body.legal-body-notice > div#collection-of-information-from-and-about-you"
+     },
+     "rows": [
+      {
+       "key": "text:1. collection of information from and ab",
+       "role": "text",
+       "text": "1. collection of information from and about you.",
+       "edsText": "1. collection of information from and about you.",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 0,
+        "w": 768,
+        "h": 30
+       },
+       "eds": {
+        "x": 0,
+        "y": 0,
+        "w": 768,
+        "h": 30,
+        "sel": "p#collection-of-information-from-and-about-you-title",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/700",
+        "eds": "16/24/700"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 726,
+       "y": 578,
+       "w": 768,
+       "h": 30
+      },
+      "eds": {
+       "x": 726,
+       "y": 578,
+       "w": 768,
+       "h": 30
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 1,
+      "within": 1,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 1,
+     "origin": {
+      "path": "section#otnotice-section-541eb71b-0038-46e2-a4d7-50ba1805263e > div.otnotice-section-content > div.ot-notice-layer-break-container"
+     },
+     "eds": {
+      "path": "div.legal-accordion.notice > div.legal-body.legal-body-notice > div#sources-of-your-information"
+     },
+     "rows": [
+      {
+       "key": "text:2. sources of your information.",
+       "role": "text",
+       "text": "2. sources of your information.",
+       "edsText": "2. sources of your information.",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 0,
+        "w": 768,
+        "h": 30
+       },
+       "eds": {
+        "x": 0,
+        "y": 0,
+        "w": 768,
+        "h": 30,
+        "sel": "p#sources-of-your-information-title",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/700",
+        "eds": "16/24/700"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 726,
+       "y": 608,
+       "w": 768,
+       "h": 30
+      },
+      "eds": {
+       "x": 726,
+       "y": 608,
+       "w": 768,
+       "h": 30
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 1,
+      "within": 1,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 2,
+     "origin": {
+      "path": "section#otnotice-section-541eb71b-0038-46e2-a4d7-50ba1805263e > div.otnotice-section-content > div.ot-notice-layer-break-container"
+     },
+     "eds": {
+      "path": "div.legal-accordion.notice > div.legal-body.legal-body-notice > div#use-of-your-information"
+     },
+     "rows": [
+      {
+       "key": "text:3. use of your information",
+       "role": "text",
+       "text": "3. use of your information",
+       "edsText": "3. use of your information",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 0,
+        "w": 768,
+        "h": 30
+       },
+       "eds": {
+        "x": 0,
+        "y": 0,
+        "w": 768,
+        "h": 30,
+        "sel": "p#use-of-your-information-title",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/700",
+        "eds": "16/24/700"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 726,
+       "y": 638,
+       "w": 768,
+       "h": 30
+      },
+      "eds": {
+       "x": 726,
+       "y": 638,
+       "w": 768,
+       "h": 30
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 1,
+      "within": 1,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 3,
+     "origin": {
+      "path": "section#otnotice-section-541eb71b-0038-46e2-a4d7-50ba1805263e > div.otnotice-section-content > div.ot-notice-layer-break-container"
+     },
+     "eds": {
+      "path": "div.legal-accordion.notice > div.legal-body.legal-body-notice > div#sharing-your-information-with-other-parties"
+     },
+     "rows": [
+      {
+       "key": "text:4. sharing your information with other p",
+       "role": "text",
+       "text": "4. sharing your information with other parties",
+       "edsText": "4. sharing your information with other parties",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 0,
+        "w": 768,
+        "h": 30
+       },
+       "eds": {
+        "x": 0,
+        "y": 0,
+        "w": 768,
+        "h": 30,
+        "sel": "p#sharing-your-information-with-other-parties-title",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/700",
+        "eds": "16/24/700"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 726,
+       "y": 668,
+       "w": 768,
+       "h": 30
+      },
+      "eds": {
+       "x": 726,
+       "y": 668,
+       "w": 768,
+       "h": 30
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 1,
+      "within": 1,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 4,
+     "origin": {
+      "path": "section#otnotice-section-541eb71b-0038-46e2-a4d7-50ba1805263e > div.otnotice-section-content > div.ot-notice-layer-break-container"
+     },
+     "eds": {
+      "path": "div.legal-accordion.notice > div.legal-body.legal-body-notice > div#your-choices-and-your-privacy-rights"
+     },
+     "rows": [
+      {
+       "key": "text:5. your choices and your privacy rights.",
+       "role": "text",
+       "text": "5. your choices and your privacy rights.",
+       "edsText": "5. your choices and your privacy rights.",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 0,
+        "w": 768,
+        "h": 30
+       },
+       "eds": {
+        "x": 0,
+        "y": 0,
+        "w": 768,
+        "h": 30,
+        "sel": "p#your-choices-and-your-privacy-rights-title",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/700",
+        "eds": "16/24/700"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 726,
+       "y": 698,
+       "w": 768,
+       "h": 30
+      },
+      "eds": {
+       "x": 726,
+       "y": 698,
+       "w": 768,
+       "h": 30
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 1,
+      "within": 1,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 5,
+     "origin": {
+      "path": "section#otnotice-section-541eb71b-0038-46e2-a4d7-50ba1805263e > div.otnotice-section-content > div.ot-notice-layer-break-container"
+     },
+     "eds": {
+      "path": "div.legal-accordion.notice > div.legal-body.legal-body-notice > div#your-california-privacy-rights"
+     },
+     "rows": [
+      {
+       "key": "text:6. your california privacy rights",
+       "role": "text",
+       "text": "6. your california privacy rights",
+       "edsText": "6. your california privacy rights",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 0,
+        "w": 768,
+        "h": 30
+       },
+       "eds": {
+        "x": 0,
+        "y": 0,
+        "w": 768,
+        "h": 30,
+        "sel": "p#your-california-privacy-rights-title",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/700",
+        "eds": "16/24/700"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 726,
+       "y": 728,
+       "w": 768,
+       "h": 30
+      },
+      "eds": {
+       "x": 726,
+       "y": 728,
+       "w": 768,
+       "h": 30
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 1,
+      "within": 1,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 6,
+     "origin": {
+      "path": "section#otnotice-section-541eb71b-0038-46e2-a4d7-50ba1805263e > div.otnotice-section-content > div.ot-notice-layer-break-container"
+     },
+     "eds": {
+      "path": "div.legal-accordion.notice > div.legal-body.legal-body-notice > div#links-to-other-sites"
+     },
+     "rows": [
+      {
+       "key": "text:7. links to other sites.",
+       "role": "text",
+       "text": "7. links to other sites.",
+       "edsText": "7. links to other sites.",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 0,
+        "w": 768,
+        "h": 30
+       },
+       "eds": {
+        "x": 0,
+        "y": 0,
+        "w": 768,
+        "h": 30,
+        "sel": "p#links-to-other-sites-title",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/700",
+        "eds": "16/24/700"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 726,
+       "y": 758,
+       "w": 768,
+       "h": 30
+      },
+      "eds": {
+       "x": 726,
+       "y": 758,
+       "w": 768,
+       "h": 30
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 1,
+      "within": 1,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 7,
+     "origin": {
+      "path": "section#otnotice-section-541eb71b-0038-46e2-a4d7-50ba1805263e > div.otnotice-section-content > div.ot-notice-layer-break-container"
+     },
+     "eds": {
+      "path": "div.legal-accordion.notice > div.legal-body.legal-body-notice > div#protection-of-childrens-privacy"
+     },
+     "rows": [
+      {
+       "key": "text:8. protection of children’s privacy.",
+       "role": "text",
+       "text": "8. protection of children’s privacy.",
+       "edsText": "8. protection of children’s privacy.",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 0,
+        "w": 768,
+        "h": 30
+       },
+       "eds": {
+        "x": 0,
+        "y": 0,
+        "w": 768,
+        "h": 30,
+        "sel": "p#protection-of-childrens-privacy-title",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/700",
+        "eds": "16/24/700"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 726,
+       "y": 788,
+       "w": 768,
+       "h": 30
+      },
+      "eds": {
+       "x": 726,
+       "y": 788,
+       "w": 768,
+       "h": 30
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 1,
+      "within": 1,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 8,
+     "origin": {
+      "path": "section#otnotice-section-541eb71b-0038-46e2-a4d7-50ba1805263e > div.otnotice-section-content > div.ot-notice-layer-break-container"
+     },
+     "eds": {
+      "path": "div.legal-accordion.notice > div.legal-body.legal-body-notice > div#security-practices"
+     },
+     "rows": [
+      {
+       "key": "text:9. security practices.",
+       "role": "text",
+       "text": "9. security practices.",
+       "edsText": "9. security practices.",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 0,
+        "w": 768,
+        "h": 30
+       },
+       "eds": {
+        "x": 0,
+        "y": 0,
+        "w": 768,
+        "h": 30,
+        "sel": "p#security-practices-title",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/700",
+        "eds": "16/24/700"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 726,
+       "y": 818,
+       "w": 768,
+       "h": 30
+      },
+      "eds": {
+       "x": 726,
+       "y": 818,
+       "w": 768,
+       "h": 30
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 1,
+      "within": 1,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 9,
+     "origin": {
+      "path": "section#otnotice-section-541eb71b-0038-46e2-a4d7-50ba1805263e > div.otnotice-section-content > div.ot-notice-layer-break-container"
+     },
+     "eds": {
+      "path": "div.legal-accordion.notice > div.legal-body.legal-body-notice > div#retention-period"
+     },
+     "rows": [
+      {
+       "key": "text:10. retention period.",
+       "role": "text",
+       "text": "10. retention period.",
+       "edsText": "10. retention period.",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 0,
+        "w": 768,
+        "h": 30
+       },
+       "eds": {
+        "x": 0,
+        "y": 0,
+        "w": 768,
+        "h": 30,
+        "sel": "p#retention-period-title",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/700",
+        "eds": "16/24/700"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 726,
+       "y": 848,
+       "w": 768,
+       "h": 30
+      },
+      "eds": {
+       "x": 726,
+       "y": 848,
+       "w": 768,
+       "h": 30
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 1,
+      "within": 1,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 10,
+     "origin": {
+      "path": "section#otnotice-section-541eb71b-0038-46e2-a4d7-50ba1805263e > div.otnotice-section-content > div.ot-notice-layer-break-container"
+     },
+     "eds": {
+      "path": "div.legal-accordion.notice > div.legal-body.legal-body-notice > div#jurisdiction"
+     },
+     "rows": [
+      {
+       "key": "text:11. jurisdiction.",
+       "role": "text",
+       "text": "11. jurisdiction.",
+       "edsText": "11. jurisdiction.",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 0,
+        "w": 768,
+        "h": 30
+       },
+       "eds": {
+        "x": 0,
+        "y": 0,
+        "w": 768,
+        "h": 30,
+        "sel": "p#jurisdiction-title",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/700",
+        "eds": "16/24/700"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 726,
+       "y": 878,
+       "w": 768,
+       "h": 30
+      },
+      "eds": {
+       "x": 726,
+       "y": 878,
+       "w": 768,
+       "h": 30
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 1,
+      "within": 1,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 11,
+     "origin": {
+      "path": "section#otnotice-section-541eb71b-0038-46e2-a4d7-50ba1805263e > div.otnotice-section-content > div.ot-notice-layer-break-container"
+     },
+     "eds": {
+      "path": "div.legal-accordion.notice > div.legal-body.legal-body-notice > div#changes-and-updates-to-our-privacy-policy"
+     },
+     "rows": [
+      {
+       "key": "text:12. changes and updates to our privacy p",
+       "role": "text",
+       "text": "12. changes and updates to our privacy policy.",
+       "edsText": "12. changes and updates to our privacy policy.",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 0,
+        "w": 768,
+        "h": 30
+       },
+       "eds": {
+        "x": 0,
+        "y": 0,
+        "w": 768,
+        "h": 30,
+        "sel": "p#changes-and-updates-to-our-privacy-policy-title",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/700",
+        "eds": "16/24/700"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 726,
+       "y": 908,
+       "w": 768,
+       "h": 30
+      },
+      "eds": {
+       "x": 726,
+       "y": 908,
+       "w": 768,
+       "h": 30
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 1,
+      "within": 1,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 12,
+     "origin": {
+      "path": "section#otnotice-section-541eb71b-0038-46e2-a4d7-50ba1805263e > div.otnotice-section-content > div.ot-notice-layer-break-container"
+     },
+     "eds": {
+      "path": "div.legal-accordion.notice > div.legal-body.legal-body-notice > div#contact-information"
+     },
+     "rows": [
+      {
+       "key": "text:13. contact information.",
+       "role": "text",
+       "text": "13. contact information.",
+       "edsText": "13. contact information.",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 0,
+        "w": 768,
+        "h": 30
+       },
+       "eds": {
+        "x": 0,
+        "y": 0,
+        "w": 768,
+        "h": 30,
+        "sel": "p#contact-information-title",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/700",
+        "eds": "16/24/700"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 726,
+       "y": 938,
+       "w": 768,
+       "h": 30
+      },
+      "eds": {
+       "x": 726,
+       "y": 938,
+       "w": 768,
+       "h": 30
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 1,
+      "within": 1,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    }
+   ]
+  }
+ ],
+ "verdict": {
+  "units": 13,
+  "within": 13,
+  "off": 0,
+  "hidden": 0,
+  "missing": 0,
+  "errors": 0,
+  "requiredOff": 0
+ }
+}

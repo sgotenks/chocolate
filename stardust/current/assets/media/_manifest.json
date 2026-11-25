@@ -1,0 +1,450 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:extract phase 2 media save",
+    "writtenAt": "2026-11-25T10:16:07.048Z",
+    "source": "pages/*.json media.imgs+cssBackgrounds"
+  },
+  "items": [
+    {
+      "url": "https://www.wonka.com/themes/custom/sling/assets/decorative/clouds/cloud-3.webp",
+      "status": 200,
+      "file": "assets/media/cloud-3-1ebd825c.webp",
+      "bytes": 18936,
+      "contentType": "image/webp"
+    },
+    {
+      "url": "https://www.wonka.com/themes/custom/sling/assets/decorative/clouds/cloud-2.webp",
+      "status": 200,
+      "file": "assets/media/cloud-2-8fc94f71.webp",
+      "bytes": 15182,
+      "contentType": "image/webp"
+    },
+    {
+      "url": "https://www.wonka.com/themes/custom/sling/assets/decorative/clouds/cloud-5.webp",
+      "status": 200,
+      "file": "assets/media/cloud-5-faf33737.webp",
+      "bytes": 23478,
+      "contentType": "image/webp"
+    },
+    {
+      "url": "https://www.wonka.com/themes/custom/sling/assets/decorative/clouds/cloud-4.webp",
+      "status": 200,
+      "file": "assets/media/cloud-4-ff4650ac.webp",
+      "bytes": 10372,
+      "contentType": "image/webp"
+    },
+    {
+      "url": "https://www.wonka.com/themes/custom/sling/assets/decorative/clouds/cloud-1.webp",
+      "status": 200,
+      "file": "assets/media/cloud-1-51fd92d8.webp",
+      "bytes": 13820,
+      "contentType": "image/webp"
+    },
+    {
+      "url": "https://www.wonka.com/themes/custom/sling/assets/decorative/decorative-star.svg",
+      "status": 200,
+      "file": "assets/media/decorative-star-a0c6604d.svg",
+      "bytes": 590,
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://www.wonka.com/themes/custom/sling/assets/images/hero-banner/clouds-top-right.webp",
+      "status": 200,
+      "file": "assets/media/clouds-top-right-c62848a1.webp",
+      "bytes": 14912,
+      "contentType": "image/webp"
+    },
+    {
+      "url": "https://www.wonka.com/themes/custom/sling/assets/icons/social-instagram.svg",
+      "status": 200,
+      "file": "assets/media/social-instagram-014c59dd.svg",
+      "bytes": 3238,
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://www.wonka.com/themes/custom/sling/assets/icons/social-tiktok.svg",
+      "status": 200,
+      "file": "assets/media/social-tiktok-aaeee379.svg",
+      "bytes": 1718,
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://www.wonka.com/themes/custom/sling/assets/images/hero-banner/clouds-top-left.webp",
+      "status": 200,
+      "file": "assets/media/clouds-top-left-e229a3ec.webp",
+      "bytes": 14566,
+      "contentType": "image/webp"
+    },
+    {
+      "url": "https://ferrero-kube-stack-prod-static.s3.eu-west-1.amazonaws.com/wonka-us-d11/sites/wonka.com.us/s3fs-public/2026-08/wonka-logo.svg",
+      "status": 200,
+      "file": "assets/media/wonka-logo-b0140c6b.svg",
+      "bytes": 20553,
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://ferrero-kube-stack-prod-static.s3.eu-west-1.amazonaws.com/wonka-us-d11/sites/wonka.com.us/s3fs-public/styles/hero_ship/public/2026-08/Wonka-ship.png?itok=ynFZDB_A",
+      "status": 200,
+      "file": "assets/media/Wonka-ship-59243e89.png",
+      "bytes": 165319,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://www.wonka.com/themes/custom/sling/assets/images/hero-banner/clouds-bottom-front-desktop.webp",
+      "status": 200,
+      "file": "assets/media/clouds-bottom-front-desktop-d2261684.webp",
+      "bytes": 31330,
+      "contentType": "image/webp"
+    },
+    {
+      "url": "https://www.wonka.com/themes/custom/sling/assets/images/hero-banner/clouds-bottom-back.webp",
+      "status": 200,
+      "file": "assets/media/clouds-bottom-back-3ba5766e.webp",
+      "bytes": 83260,
+      "contentType": "image/webp"
+    },
+    {
+      "url": "https://www.wonka.com/themes/custom/sling/assets/images/product-card/stars.webp",
+      "status": 200,
+      "file": "assets/media/stars-0a6910c3.webp",
+      "bytes": 129470,
+      "contentType": "image/webp"
+    },
+    {
+      "url": "https://ferrero-kube-stack-prod-static.s3.eu-west-1.amazonaws.com/wonka-us-d11/sites/wonka.com.us/s3fs-public/2026-08/arrow_downward_brown.svg",
+      "status": 200,
+      "file": "assets/media/arrow_downward_brown-fdf4e005.svg",
+      "bytes": 456,
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://ferrero-kube-stack-prod-static.s3.eu-west-1.amazonaws.com/wonka-us-d11/sites/wonka.com.us/s3fs-public/styles/extra_large/public/2026-09/us-magic-hats-12-x2.webp?itok=I5gwodbQ",
+      "status": 200,
+      "file": "assets/media/us-magic-hats-12-x2-88831000.webp",
+      "bytes": 43838,
+      "contentType": "image/webp"
+    },
+    {
+      "url": "https://ferrero-kube-stack-prod-static.s3.eu-west-1.amazonaws.com/wonka-us-d11/sites/wonka.com.us/s3fs-public/styles/hero_product_range_desktop/public/2026-11/US-desktop-golden-ticket.png?itok=kHw8SrsH",
+      "status": 200,
+      "file": "assets/media/US-desktop-golden-ticket-479a7e43.png",
+      "bytes": 848041,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://www.wonka.com/themes/custom/sling/assets/icons/sparkle.svg",
+      "status": 200,
+      "file": "assets/media/sparkle-94e11116.svg",
+      "bytes": 599,
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://www.wonka.com/themes/custom/sling/assets/images/coming-soon/coming-soon-clouds.webp",
+      "status": 200,
+      "file": "assets/media/coming-soon-clouds-b903bc05.webp",
+      "bytes": 77562,
+      "contentType": "image/webp"
+    },
+    {
+      "url": "https://ferrero-kube-stack-prod-static.s3.eu-west-1.amazonaws.com/wonka-us-d11/sites/wonka.com.us/s3fs-public/styles/extra_large/public/2026-09/us-magic-hats-18-x2.webp?itok=ZOtJaGO-",
+      "status": 200,
+      "file": "assets/media/us-magic-hats-18-x2-41ec232b.webp",
+      "bytes": 41878,
+      "contentType": "image/webp"
+    },
+    {
+      "url": "https://ferrero-kube-stack-prod-static.s3.eu-west-1.amazonaws.com/wonka-us-d11/sites/wonka.com.us/s3fs-public/styles/extra_large/public/2026-09/us-magic-garden-x2.webp?itok=k6Vab7XB",
+      "status": 200,
+      "file": "assets/media/us-magic-garden-x2-3deb5d7f.webp",
+      "bytes": 45964,
+      "contentType": "image/webp"
+    },
+    {
+      "url": "https://ferrero-kube-stack-prod-static.s3.eu-west-1.amazonaws.com/wonka-us-d11/sites/wonka.com.us/s3fs-public/styles/extra_large/public/2026-09/us-purplepurple-x2.webp?itok=8z_6Q4vS",
+      "status": 200,
+      "file": "assets/media/us-purplepurple-x2-fcc0818e.webp",
+      "bytes": 40328,
+      "contentType": "image/webp"
+    },
+    {
+      "url": "https://ferrero-kube-stack-prod-static.s3.eu-west-1.amazonaws.com/wonka-us-d11/sites/wonka.com.us/s3fs-public/styles/extra_large/public/2026-09/oompa-blueberry-x2-us.webp?itok=E52jMPQi",
+      "status": 200,
+      "file": "assets/media/oompa-blueberry-x2-us-75508d8c.webp",
+      "bytes": 59212,
+      "contentType": "image/webp"
+    },
+    {
+      "url": "https://www.wonka.com/themes/custom/sling/assets/images/wonka-hat-portal/clouds/cloud-right.webp",
+      "status": 200,
+      "file": "assets/media/cloud-right-9a76bb58.webp",
+      "bytes": 19414,
+      "contentType": "image/webp"
+    },
+    {
+      "url": "https://www.wonka.com/themes/custom/sling/assets/images/wonka-hat-portal/clouds/cloud-left-top.webp",
+      "status": 200,
+      "file": "assets/media/cloud-left-top-f100efba.webp",
+      "bytes": 19934,
+      "contentType": "image/webp"
+    },
+    {
+      "url": "https://www.wonka.com/themes/custom/sling/assets/images/wonka-hat-portal/clouds/cloud-left-bottom.webp",
+      "status": 200,
+      "file": "assets/media/cloud-left-bottom-e8e0e038.webp",
+      "bytes": 28778,
+      "contentType": "image/webp"
+    },
+    {
+      "url": "https://www.wonka.com/themes/custom/sling/assets/images/wonka-hat-portal/hat/desktop/animHat-1.webp",
+      "status": 200,
+      "file": "assets/media/animHat-1-c6a2bc05.webp",
+      "bytes": 105268,
+      "contentType": "image/webp"
+    },
+    {
+      "url": "https://ferrero-kube-stack-prod-static.s3.eu-west-1.amazonaws.com/wonka-us-d11/sites/wonka.com.us/s3fs-public/styles/extra_large/public/2026-08/wonka-ship-background.webp?itok=a1wHryPc",
+      "status": 200,
+      "file": "assets/media/wonka-ship-background-f2e39da8.webp",
+      "bytes": 191454,
+      "contentType": "image/webp"
+    },
+    {
+      "url": "https://ferrero-kube-stack-prod-static.s3.eu-west-1.amazonaws.com/wonka-us-d11/sites/wonka.com.us/s3fs-public/styles/wonka_ticket_desktop/public/2026-09/golden-ticket-desktop.webp?itok=ZUwMvQP3",
+      "status": 200,
+      "file": "assets/media/golden-ticket-desktop-af624b18.webp",
+      "bytes": 106336,
+      "contentType": "image/webp"
+    },
+    {
+      "url": "https://www.wonka.com/themes/custom/sling/assets/images/discover-hero/clouds.webp",
+      "status": 200,
+      "file": "assets/media/clouds-f6d1fd92.webp",
+      "bytes": 110350,
+      "contentType": "image/webp"
+    },
+    {
+      "url": "https://www.wonka.com/themes/custom/sling/assets/icons/arrow-external.svg",
+      "status": 200,
+      "file": "assets/media/arrow-external-dd65a511.svg",
+      "bytes": 224,
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://www.wonka.com/themes/custom/sling/assets/images/discover-hero/clouds-mobile.webp",
+      "status": 200,
+      "file": "assets/media/clouds-mobile-2928dd24.webp",
+      "bytes": 12500,
+      "contentType": "image/webp"
+    },
+    {
+      "url": "https://www.wonka.com/themes/custom/sling/assets/icons/arrow-down.svg",
+      "status": 200,
+      "file": "assets/media/arrow-down-433893cc.svg",
+      "bytes": 250,
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://www.wonka.com/themes/custom/sling/assets/images/discover-hero/gold-dust.webp",
+      "status": 200,
+      "file": "assets/media/gold-dust-7de8e7db.webp",
+      "bytes": 493962,
+      "contentType": "image/webp"
+    },
+    {
+      "url": "https://ferrero-kube-stack-prod-static.s3.eu-west-1.amazonaws.com/wonka-us-d11/sites/wonka.com.us/s3fs-public/styles/extra_large/public/2026-08/wonka-big-book_1920.webp?itok=BKymzbu7",
+      "status": 200,
+      "file": "assets/media/wonka-big-book_1920-79f9b80c.webp",
+      "bytes": 189032,
+      "contentType": "image/webp"
+    },
+    {
+      "url": "https://www.wonka.com/themes/custom/sling/assets/images/story-cards/seal-stars.webp",
+      "status": 200,
+      "file": "assets/media/seal-stars-5ed9cc83.webp",
+      "bytes": 10648,
+      "contentType": "image/webp"
+    },
+    {
+      "url": "https://www.wonka.com/themes/custom/sling/assets/images/story-cards/seal-background.png",
+      "status": 200,
+      "file": "assets/media/seal-background-5dcdc03b.png",
+      "bytes": 72811,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://ferrero-kube-stack-prod-static.s3.eu-west-1.amazonaws.com/wonka-us-d11/sites/wonka.com.us/s3fs-public/styles/extra_large/public/2026-09/icon-2-x2.png?itok=Se-0wKbT",
+      "status": 200,
+      "file": "assets/media/icon-2-x2-08ab4c6d.png",
+      "bytes": 27832,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://ferrero-kube-stack-prod-static.s3.eu-west-1.amazonaws.com/wonka-us-d11/sites/wonka.com.us/s3fs-public/styles/extra_large/public/2026-09/icon-3-x2.png?itok=qUs_yZze",
+      "status": 200,
+      "file": "assets/media/icon-3-x2-b1f9448a.png",
+      "bytes": 25235,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://ferrero-kube-stack-prod-static.s3.eu-west-1.amazonaws.com/wonka-us-d11/sites/wonka.com.us/s3fs-public/styles/extra_large/public/2026-09/icon-1-x2.png?itok=iOzBo-QT",
+      "status": 200,
+      "file": "assets/media/icon-1-x2-0c2c6a05.png",
+      "bytes": 33755,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://ferrero-kube-stack-prod-static.s3.eu-west-1.amazonaws.com/wonka-us-d11/sites/wonka.com.us/s3fs-public/styles/extra_large/public/2026-09/wonka-factory-x2.webp?itok=ovpCPIn9",
+      "status": 200,
+      "file": "assets/media/wonka-factory-x2-257f34a6.webp",
+      "bytes": 174470,
+      "contentType": "image/webp"
+    },
+    {
+      "url": "https://www.wonka.com/themes/custom/sling/assets/images/promo-section/clouds.webp",
+      "status": 200,
+      "file": "assets/media/clouds-8a751e16.webp",
+      "bytes": 63878,
+      "contentType": "image/webp"
+    },
+    {
+      "url": "https://www.wonka.com/themes/custom/sling/assets/icons/arrow.svg",
+      "status": 200,
+      "file": "assets/media/arrow-a76cc9bd.svg",
+      "bytes": 452,
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://www.wonka.com/us/en/xp/golden-ticket/themes/custom/gpp_wonka_theme/logo.svg",
+      "status": 200,
+      "file": "assets/media/logo-a32fcbca.svg",
+      "bytes": 20850,
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://www.wonka.com/us/en/xp/golden-ticket/themes/custom/gpp_promo_theme/assets/images/q1.png",
+      "status": 200,
+      "file": "assets/media/q1-74a92b6f.png",
+      "bytes": 5138,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://ferrero-kube-stack-prod-static.s3.eu-west-1.amazonaws.com/wonka-us-d11/sites/wonka.com.us/s3fs-public/styles/extra_large/public/2026-09/us-version-products-group-desktop.webp?itok=9QT6cJ56",
+      "status": 200,
+      "file": "assets/media/us-version-products-group-desktop-e361685f.webp",
+      "bytes": 125216,
+      "contentType": "image/webp"
+    },
+    {
+      "url": "https://ferrero-gpp-wonka-prod-static.s3.eu-west-1.amazonaws.com/golden-ticket-us-d11/s3fs-public/2026-10/wonka_visual_US_desk.jpg",
+      "status": 200,
+      "file": "assets/media/wonka_visual_US_desk-f3172928.jpg",
+      "bytes": 318263,
+      "contentType": "image/jpeg"
+    },
+    {
+      "url": "https://www.wonka.com/us/en/xp/golden-ticket/themes/custom/gpp_promo_theme/assets/images/caramel-pop.png",
+      "status": 200,
+      "file": "assets/media/caramel-pop-da820787.png",
+      "bytes": 25771,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://www.wonka.com/us/en/xp/golden-ticket/themes/custom/gpp_promo_theme/assets/images/bubblegumjoy.png",
+      "status": 200,
+      "file": "assets/media/bubblegumjoy-05efe9c1.png",
+      "bytes": 8618,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://www.wonka.com/us/en/xp/golden-ticket/themes/custom/gpp_promo_theme/assets/images/q2.png",
+      "status": 200,
+      "file": "assets/media/q2-fcee4e65.png",
+      "bytes": 23188,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://www.wonka.com/us/en/xp/golden-ticket/themes/custom/gpp_promo_theme/assets/images/berry_elixir.png",
+      "status": 200,
+      "file": "assets/media/berry_elixir-f334b86c.png",
+      "bytes": 8541,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://www.wonka.com/us/en/xp/golden-ticket/themes/custom/gpp_promo_theme/assets/images/q3.png",
+      "status": 200,
+      "file": "assets/media/q3-ce5f28c4.png",
+      "bytes": 8635,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://ferrero-gpp-wonka-prod-static.s3.eu-west-1.amazonaws.com/golden-ticket-us-d11/s3fs-public/2026-10/qr-code-WONKA-LIVE-US.png",
+      "status": 200,
+      "file": "assets/media/qr-code-WONKA-LIVE-US-d43e4894.png",
+      "bytes": 3021,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://www.wonka.com/us/en/xp/golden-ticket/themes/custom/main_theme/assets/images/icons/arrow-down-menu.svg",
+      "status": 200,
+      "file": "assets/media/arrow-down-menu-f9bfd352.svg",
+      "bytes": 533,
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://ferrero-gpp-wonka-prod-static.s3.eu-west-1.amazonaws.com/golden-ticket-us-d11/s3fs-public/2026-08/img_0.png",
+      "status": 200,
+      "file": "assets/media/img_0-26762b2c.png",
+      "bytes": 1820239,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://ferrero-gpp-wonka-prod-static.s3.eu-west-1.amazonaws.com/golden-ticket-us-d11/s3fs-public/2026-10/step-3.png",
+      "status": 200,
+      "file": "assets/media/step-3-802152bc.png",
+      "bytes": 56907,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://ferrero-gpp-wonka-prod-static.s3.eu-west-1.amazonaws.com/golden-ticket-us-d11/s3fs-public/2026-06/step-1.png",
+      "status": 200,
+      "file": "assets/media/step-1-3cb85bc7.png",
+      "bytes": 39227,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://ferrero-gpp-wonka-prod-static.s3.eu-west-1.amazonaws.com/golden-ticket-us-d11/s3fs-public/2026-10/Step2-Register-and-play.png",
+      "status": 200,
+      "file": "assets/media/Step2-Register-and-play-b7fd19ff.png",
+      "bytes": 29539,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://ferrero-gpp-wonka-prod-static.s3.eu-west-1.amazonaws.com/golden-ticket-us-d11/s3fs-public/2026-10/Wonka-prize-Las-Vegas-trip-slider_0.png",
+      "status": 200,
+      "file": "assets/media/Wonka-prize-Las-Vegas-trip-slider_0-b7b48609.png",
+      "bytes": 480450,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://www.wonka.com/us/en/xp/golden-ticket/themes/custom/gpp_promo_theme/assets/images/particles-02.png",
+      "status": 200,
+      "file": "assets/media/particles-02-c7cefd09.png",
+      "bytes": 36071,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://www.wonka.com/us/en/xp/golden-ticket/themes/custom/gpp_promo_theme/assets/images/particles-01.png",
+      "status": 200,
+      "file": "assets/media/particles-01-97c8b33a.png",
+      "bytes": 48895,
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://www.wonka.com/us/en/xp/golden-ticket/themes/custom/gpp_promo_theme/assets/images/particles-03.png",
+      "status": 200,
+      "file": "assets/media/particles-03-03363f86.png",
+      "bytes": 60354,
+      "contentType": "image/png"
+    }
+  ]
+}

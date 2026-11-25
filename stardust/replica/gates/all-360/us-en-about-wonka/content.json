@@ -1,0 +1,3381 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-25T14:44:36.612Z",
+  "width": 360,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://www.wonka.com/us/en/about-wonka",
+  "at": "2026-11-25T14:44:36.326Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 5368,
+  "root": "main.w-full",
+  "items": [
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.layout-container > div.wonka-page-clouds > img.wonka-page-cloud",
+    "x": 0,
+    "y": 1211,
+    "w": 216,
+    "h": 193,
+    "text": "",
+    "file": "cloud-1"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.layout-container > div.wonka-page-clouds > img.wonka-page-cloud",
+    "x": 144,
+    "y": 1632,
+    "w": 216,
+    "h": 185,
+    "text": "",
+    "file": "cloud-2"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.layout-container > div.wonka-page-clouds > img.wonka-page-cloud",
+    "x": 0,
+    "y": 2027,
+    "w": 216,
+    "h": 275,
+    "text": "",
+    "file": "cloud-3"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.layout-container > div.wonka-page-clouds > img.wonka-page-cloud",
+    "x": 144,
+    "y": 3439,
+    "w": 216,
+    "h": 181,
+    "text": "",
+    "file": "cloud-4"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.layout-container > div.wonka-page-clouds > img.wonka-page-cloud",
+    "x": 144,
+    "y": 3767,
+    "w": 216,
+    "h": 161,
+    "text": "",
+    "file": "cloud-6"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.navigation-mobile-panel__stage > div.navigation-mobile-panel__chrome > a.navigation-mobile-panel__logo.absolute",
+    "x": 75,
+    "y": 11,
+    "w": 70,
+    "h": 40,
+    "text": "golden wonka brand logo",
+    "href": "/us/en/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.navigation-mobile-panel__chrome > a.navigation-mobile-panel__logo.absolute > img.h-10.w-auto",
+    "x": 75,
+    "y": 11,
+    "w": 70,
+    "h": 40,
+    "text": "golden wonka brand logo",
+    "file": "wonka-logo"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.navigation-mobile-panel__stage > div.navigation-mobile-panel__chrome > button.navigation-mobile-panel__toggle.absolute",
+    "x": 292,
+    "y": 26,
+    "w": 52,
+    "h": 36,
+    "text": "open menu"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.navigation-mobile-panel__stage > div.navigation-mobile-panel__chrome > button.navigation-mobile-panel__toggle.absolute",
+    "x": 292,
+    "y": 26,
+    "w": 52,
+    "h": 36,
+    "label": "open menu",
+    "value": "open menu",
+    "via": "trigger"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pointer-events-none.absolute > div.absolute.left-1/2 > img.block.size-full",
+    "x": -128,
+    "y": 198,
+    "w": 616,
+    "h": 616,
+    "text": "an open vintage leather-bound sketchbook showing detailed te",
+    "file": "wonka-big-book_1920"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pointer-events-none.absolute > div.absolute.top-[119px] > img.h-[414px].w-[512px]",
+    "x": -134,
+    "y": 119,
+    "w": 628,
+    "h": 572,
+    "text": "",
+    "file": "gold-dust"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.paragraph.paragraph--type--discover-hero > section.discover-hero.relative > img.pointer-events-none.absolute",
+    "x": 0,
+    "y": 748,
+    "w": 360,
+    "h": 202,
+    "text": "",
+    "file": "clouds-mobile"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.relative.z-10 > div.flex.w-full > p.font-heading.font-semibold",
+    "x": 109,
+    "y": 104,
+    "w": 142,
+    "h": 18,
+    "text": "EST. IN WONDER"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.relative.z-10 > div.flex.w-full > h1.font-heading.font-semibold",
+    "x": 23,
+    "y": 126,
+    "w": 315,
+    "h": 126,
+    "level": 1,
+    "text": "discover wonka world"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "section.discover-hero.relative > div.relative.z-10 > p.font-default.text-neutral-50",
+    "x": 23,
+    "y": 268,
+    "w": 315,
+    "h": 96,
+    "text": "Where inventive creations, unexpected flavors and delicious surprises turn every"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "section.discover-hero.relative > div.relative.z-20 > a.inline-flex.shrink-0",
+    "x": 149,
+    "y": 797,
+    "w": 62,
+    "h": 48,
+    "text": "scroll down",
+    "href": "/us/en/about-wonka"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a.inline-flex.shrink-0 > span.flex.shrink-0 > img.size-5",
+    "x": 170,
+    "y": 811,
+    "w": 20,
+    "h": 20,
+    "text": "",
+    "file": "arrow-down"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "section.discover-hero.relative > div.relative.z-20 > span.relative.z-[1]",
+    "x": 145,
+    "y": 852,
+    "w": 69,
+    "h": 16,
+    "text": "Scroll Down"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "section.story-cards.relative > div.section-container.section-container--lg > h2.text-center.font-heading",
+    "x": 16,
+    "y": 980,
+    "w": 328,
+    "h": 136,
+    "level": 2,
+    "text": "where imagination becomes delicious"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li.relative.flex > div.pointer-events-none.absolute > img.h-auto.w-full",
+    "x": 118,
+    "y": 1263,
+    "w": 306,
+    "h": 259,
+    "text": "",
+    "file": "stars"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li.relative.flex > div.blurred-button-noise.relative > p",
+    "x": 41,
+    "y": 1287,
+    "w": 278,
+    "h": 96,
+    "text": "Wonka turns the ordinary into the extraordinary through inventive creations, une"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.m-0.flex > li.relative.flex > img.pointer-events-none.absolute",
+    "x": 75,
+    "y": 1168,
+    "w": 195,
+    "h": 175,
+    "text": "",
+    "file": "seal-stars"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li.relative.flex > div.pointer-events-none.absolute > img.absolute.inset-0",
+    "x": 130,
+    "y": 1172,
+    "w": 100,
+    "h": 100,
+    "text": "",
+    "file": "seal-background"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li.relative.flex > div.pointer-events-none.absolute > img.relative.z-10",
+    "x": 144,
+    "y": 1186,
+    "w": 72,
+    "h": 72,
+    "text": "neon purple icon featuring willy wonka's top hat and a lolli",
+    "file": "icon-1-x2"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li.relative.flex > div.blurred-button-noise.relative > p",
+    "x": 41,
+    "y": 1555,
+    "w": 278,
+    "h": 120,
+    "text": "Every Wonka product is made to spark curiosity and delight, bringing together im"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.m-0.flex > li.relative.flex > img.pointer-events-none.absolute",
+    "x": 75,
+    "y": 1436,
+    "w": 195,
+    "h": 175,
+    "text": "",
+    "file": "seal-stars"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li.relative.flex > div.pointer-events-none.absolute > img.absolute.inset-0",
+    "x": 130,
+    "y": 1440,
+    "w": 100,
+    "h": 100,
+    "text": "",
+    "file": "seal-background"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li.relative.flex > div.pointer-events-none.absolute > img.relative.z-10",
+    "x": 144,
+    "y": 1454,
+    "w": 72,
+    "h": 72,
+    "text": "neon purple icon showing a chocolate bar mold crossed with a",
+    "file": "icon-2-x2"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li.relative.flex > div.pointer-events-none.absolute > img.h-auto.w-full",
+    "x": -80,
+    "y": 1635,
+    "w": 337,
+    "h": 303,
+    "text": "",
+    "file": "stars"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li.relative.flex > div.blurred-button-noise.relative > p",
+    "x": 41,
+    "y": 1847,
+    "w": 278,
+    "h": 120,
+    "text": "Across fruity gummies, assorted chocolates and many more imaginative treats, eve"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.m-0.flex > li.relative.flex > img.pointer-events-none.absolute",
+    "x": 75,
+    "y": 1728,
+    "w": 195,
+    "h": 175,
+    "text": "",
+    "file": "seal-stars"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li.relative.flex > div.pointer-events-none.absolute > img.absolute.inset-0",
+    "x": 130,
+    "y": 1732,
+    "w": 100,
+    "h": 100,
+    "text": "",
+    "file": "seal-background"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li.relative.flex > div.pointer-events-none.absolute > img.relative.z-10",
+    "x": 144,
+    "y": 1746,
+    "w": 72,
+    "h": 72,
+    "text": "neon purple icon of a cocoa pod with leaves and cocoa beans ",
+    "file": "icon-3-x2"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section-container.section-container--lg > div.blurred-button-noise.relative > h2.mb-6.md:mb-4",
+    "x": 0,
+    "y": 2072,
+    "w": 360,
+    "h": 126,
+    "level": 2,
+    "text": "born in the wonka factory"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.blurred-button-noise.relative > div.relative.order-2 > img.block.h-auto",
+    "x": 0,
+    "y": 2222,
+    "w": 360,
+    "h": 269,
+    "text": "wonka's chocolate factory filled with copper machinery, colo",
+    "file": "wonka-factory-x2"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.flex.w-full > div.font-default.text-body-md > p",
+    "x": 16,
+    "y": 2507,
+    "w": 328,
+    "h": 126,
+    "text": "Beyond the golden gates lies a place where imagination is always at work. A plac"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.order-3.flex > div.flex.w-full > img.size-6.shrink-0",
+    "x": 168,
+    "y": 2649,
+    "w": 24,
+    "h": 24,
+    "text": "",
+    "file": "decorative-star"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.flex.w-full > div.font-default.text-body-md > p",
+    "x": 16,
+    "y": 2689,
+    "w": 328,
+    "h": 126,
+    "text": "This is the Wonka Factory: where curiosity fuels invention and craftsmanship bri"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section-container.!px-0 > div.flex.w-full > h2.font-heading.text-heading-h3",
+    "x": 16,
+    "y": 2895,
+    "w": 328,
+    "h": 68,
+    "level": 2,
+    "text": "ready to step inside?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section-container.!px-0 > div.flex.w-full > p.font-default.text-body-md",
+    "x": 16,
+    "y": 2979,
+    "w": 328,
+    "h": 105,
+    "text": "The factory doors are open. Discover the full Wonka collection before finding yo"
+   },
+   {
+    "kind": "image",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section-container.!px-0 > div.relative.flex > img.pointer-events-none.absolute",
+    "x": -563,
+    "y": 3377,
+    "w": 1018,
+    "h": 188,
+    "text": "",
+    "file": "clouds"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.relative.z-10 > picture > img.mx-auto.w-screen",
+    "x": 8,
+    "y": 3123,
+    "w": 360,
+    "h": 333,
+    "text": "a stacked layout of purple wonka candy packages, including o",
+    "file": "us-products-group-mobile"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.relative.flex > div.relative.z-20 > a.inline-flex.shrink-0",
+    "x": -1,
+    "y": 3517,
+    "w": 363,
+    "h": 64,
+    "text": "explore the wonka range",
+    "href": "/us/en/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a.inline-flex.shrink-0 > span.flex.shrink-0 > img.size-5",
+    "x": 299,
+    "y": 3539,
+    "w": 20,
+    "h": 20,
+    "text": "",
+    "file": "arrow"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "section.social.relative > div.section-container.section-container--sm > h2.font-heading.text-heading-h3",
+    "x": 16,
+    "y": 3661,
+    "w": 328,
+    "h": 68,
+    "level": 2,
+    "text": "follow the magic"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "section.social.relative > div.section-container.section-container--sm > p",
+    "x": 16,
+    "y": 3761,
+    "w": 328,
+    "h": 72,
+    "text": "Stay up to date with the latest from the Wonka world — new products, stories and"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.m-0.flex > li.flex.flex-col > a.inline-flex.shrink-0",
+    "x": 110,
+    "y": 3865,
+    "w": 62,
+    "h": 48,
+    "text": "instagram",
+    "href": "/wonka_usa"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a.inline-flex.shrink-0 > span.flex.shrink-0 > img.size-5",
+    "x": 131,
+    "y": 3879,
+    "w": 20,
+    "h": 20,
+    "text": "instagram",
+    "file": "social-instagram"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.m-0.flex > li.flex.flex-col > span.font-default.text-body-sm",
+    "x": 108,
+    "y": 3929,
+    "w": 67,
+    "h": 18,
+    "text": "Instagram"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.m-0.flex > li.flex.flex-col > a.inline-flex.shrink-0",
+    "x": 190,
+    "y": 3865,
+    "w": 62,
+    "h": 48,
+    "text": "tik tok",
+    "href": "/@wonka_usa"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a.inline-flex.shrink-0 > span.flex.shrink-0 > img.size-5",
+    "x": 211,
+    "y": 3879,
+    "w": 20,
+    "h": 20,
+    "text": "tik tok",
+    "file": "social-tiktok"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.m-0.flex > li.flex.flex-col > span.font-default.text-body-sm",
+    "x": 197,
+    "y": 3929,
+    "w": 49,
+    "h": 18,
+    "text": "Tik Tok"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "section.accordion.relative > div.section-container.section-container--sm > h2.text-center.font-heading",
+    "x": 16,
+    "y": 4027,
+    "w": 328,
+    "h": 68,
+    "level": 2,
+    "text": "unwrapping your questions"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.m-0.flex > li.accordion__item.bg-purple-800/70 > button#accordion-question-accordion-149-1",
+    "x": 16,
+    "y": 4119,
+    "w": 328,
+    "h": 58,
+    "text": "1. when will wonka be on shelves?"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.m-0.flex > li.accordion__item.bg-purple-800/70 > button#accordion-question-accordion-149-1",
+    "x": 16,
+    "y": 4119,
+    "w": 328,
+    "h": 58,
+    "label": "trigger",
+    "value": "1. when will wonka be on shelves?",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.m-0.flex > li.accordion__item.bg-purple-800/70 > button#accordion-question-accordion-149-2",
+    "x": 16,
+    "y": 4193,
+    "w": 328,
+    "h": 58,
+    "text": "2. what kind of treats can i expect?"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.m-0.flex > li.accordion__item.bg-purple-800/70 > button#accordion-question-accordion-149-2",
+    "x": 16,
+    "y": 4193,
+    "w": 328,
+    "h": 58,
+    "label": "trigger",
+    "value": "2. what kind of treats can i expect?",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.m-0.flex > li.accordion__item.bg-purple-800/70 > button#accordion-question-accordion-149-3",
+    "x": 16,
+    "y": 4267,
+    "w": 328,
+    "h": 58,
+    "text": "3. where can i find wonka products?"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.m-0.flex > li.accordion__item.bg-purple-800/70 > button#accordion-question-accordion-149-3",
+    "x": 16,
+    "y": 4267,
+    "w": 328,
+    "h": 58,
+    "label": "trigger",
+    "value": "3. where can i find wonka products?",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.m-0.flex > li.accordion__item.bg-purple-800/70 > button#accordion-question-accordion-149-4",
+    "x": 16,
+    "y": 4341,
+    "w": 328,
+    "h": 58,
+    "text": "4. is wonka a ferrero brand?"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.m-0.flex > li.accordion__item.bg-purple-800/70 > button#accordion-question-accordion-149-4",
+    "x": 16,
+    "y": 4341,
+    "w": 328,
+    "h": 58,
+    "label": "trigger",
+    "value": "4. is wonka a ferrero brand?",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.m-0.flex > li.accordion__item.bg-purple-800/70 > button#accordion-question-accordion-149-5",
+    "x": 16,
+    "y": 4415,
+    "w": 328,
+    "h": 76,
+    "text": "5. is this connected to the new netflix film and series?"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.m-0.flex > li.accordion__item.bg-purple-800/70 > button#accordion-question-accordion-149-5",
+    "x": 16,
+    "y": 4415,
+    "w": 328,
+    "h": 76,
+    "label": "trigger",
+    "value": "5. is this connected to the new netflix film and series?",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.m-0.flex > li.accordion__item.bg-purple-800/70 > button#accordion-question-accordion-149-6",
+    "x": 16,
+    "y": 4507,
+    "w": 328,
+    "h": 58,
+    "text": "6. who are these products for?"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.m-0.flex > li.accordion__item.bg-purple-800/70 > button#accordion-question-accordion-149-6",
+    "x": 16,
+    "y": 4507,
+    "w": 328,
+    "h": 58,
+    "label": "trigger",
+    "value": "6. who are these products for?",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.m-0.flex > li.accordion__item.bg-purple-800/70 > button#accordion-question-accordion-149-7",
+    "x": 16,
+    "y": 4581,
+    "w": 328,
+    "h": 58,
+    "text": "7. where are wonka products made?"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.m-0.flex > li.accordion__item.bg-purple-800/70 > button#accordion-question-accordion-149-7",
+    "x": 16,
+    "y": 4581,
+    "w": 328,
+    "h": 58,
+    "label": "trigger",
+    "value": "7. where are wonka products made?",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.flex.flex-col > div.flex.w-full > a.flex.h-20",
+    "x": 110,
+    "y": 4759,
+    "w": 141,
+    "h": 80,
+    "text": "golden wonka brand logo",
+    "href": "/us/en/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.flex.w-full > a.flex.h-20 > img.h-20.w-auto",
+    "x": 110,
+    "y": 4759,
+    "w": 141,
+    "h": 80,
+    "text": "golden wonka brand logo",
+    "file": "wonka-logo"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.flex.w-full > div.flex.flex-col > p.text-body-md.text-white",
+    "x": 144,
+    "y": 4879,
+    "w": 72,
+    "h": 21,
+    "text": "Follow us"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.flex.flex-col > div.flex.items-center > a.inline-flex.shrink-0",
+    "x": 110,
+    "y": 4916,
+    "w": 62,
+    "h": 48,
+    "text": "instagram",
+    "href": "/wonka_usa"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a.inline-flex.shrink-0 > span.flex.shrink-0 > img.size-5",
+    "x": 131,
+    "y": 4930,
+    "w": 20,
+    "h": 20,
+    "text": "instagram",
+    "file": "social-instagram"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.flex.flex-col > div.flex.items-center > a.inline-flex.shrink-0",
+    "x": 188,
+    "y": 4916,
+    "w": 62,
+    "h": 48,
+    "text": "tik tok",
+    "href": "/@wonka_usa"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a.inline-flex.shrink-0 > span.flex.shrink-0 > img.size-5",
+    "x": 209,
+    "y": 4930,
+    "w": 20,
+    "h": 20,
+    "text": "tik tok",
+    "file": "social-tiktok"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.flex.flex-col > div.flex.w-full > a.pointer-events-auto",
+    "x": 125,
+    "y": 5060,
+    "w": 110,
+    "h": 24,
+    "text": "privacy policy",
+    "href": "/us/en/privacy-policy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.flex.flex-col > div.flex.w-full > a.pointer-events-auto",
+    "x": 127,
+    "y": 5102,
+    "w": 105,
+    "h": 24,
+    "text": "terms of use",
+    "href": "/us/en/terms-of-use"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.flex.flex-col > div.flex.w-full > a.pointer-events-auto",
+    "x": 127,
+    "y": 5144,
+    "w": 107,
+    "h": 24,
+    "text": "cookie policy",
+    "href": "/us/en/cookie-policy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.flex.flex-col > div.flex.w-full > a.pointer-events-auto",
+    "x": 24,
+    "y": 5186,
+    "w": 312,
+    "h": 43,
+    "text": "do not sell or share my personal information",
+    "href": "/us/en/about-wonka"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.flex.flex-col > div.flex.w-full > a.pointer-events-auto",
+    "x": 136,
+    "y": 5247,
+    "w": 87,
+    "h": 24,
+    "text": "contact us",
+    "href": "/us/en/contact-us"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div > footer.relative.z-20 > div.w-full.bg-purple-500",
+    "x": 0,
+    "y": 5311,
+    "w": 360,
+    "h": 56,
+    "text": "© 2026 Ferrero Group. All Rights Reserved."
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 2,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 1,
+    "offPage": 0,
+    "textNodes": 41,
+    "controls": 21,
+    "total": 2
+   },
+   "groups": [
+    {
+     "kind": "TEXT CLIPPED",
+     "advisory": false,
+     "n": 1,
+     "clipper": "div.blurred-button-noise.relative",
+     "path": "section.image-text.relative > div.section-container.section-container--lg > div.blurred-button-noise.relative > h2.mb-6.md:mb-4",
+     "text": "born in the wonka factory",
+     "cutMin": 4,
+     "cutMax": 4
+    },
+    {
+     "kind": "TEXT CLIPPED",
+     "advisory": false,
+     "n": 1,
+     "clipper": "section.promo-section.relative",
+     "path": "section.promo-section.relative > div.section-container.!px-0 > div.flex.w-full > h2.font-heading.text-heading-h3",
+     "text": "ready to step inside?",
+     "cutMin": 3,
+     "cutMax": 3
+    },
+    {
+     "kind": "CONTROL X-CUT",
+     "advisory": true,
+     "n": 1,
+     "clipper": "section.promo-section.relative",
+     "path": "div.section-container.!px-0 > div.relative.flex > div.relative.z-20 > a.inline-flex.shrink-0",
+     "text": "explore the wonka range",
+     "cutMin": 3,
+     "cutMax": 3
+    }
+   ]
+  }
+ },
+ "eds": {
+  "url": "https://main--a6216fe5--aemcoder.aem.live/us/en/about-wonka",
+  "at": "2026-11-25T14:44:36.549Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 5367,
+  "root": "main#main-content",
+  "items": [
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.page-clouds > img",
+    "x": 0,
+    "y": 1211,
+    "w": 216,
+    "h": 193,
+    "text": "",
+    "file": "cloud-1"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.page-clouds > img",
+    "x": 144,
+    "y": 1632,
+    "w": 216,
+    "h": 185,
+    "text": "",
+    "file": "cloud-2"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.page-clouds > img",
+    "x": 0,
+    "y": 2027,
+    "w": 216,
+    "h": 275,
+    "text": "",
+    "file": "cloud-3"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.page-clouds > img",
+    "x": 144,
+    "y": 3759,
+    "w": 216,
+    "h": 181,
+    "text": "",
+    "file": "cloud-4"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.page-clouds > img",
+    "x": 0,
+    "y": 4104,
+    "w": 216,
+    "h": 168,
+    "text": "",
+    "file": "cloud-5"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mnav-stage > div.mnav-chrome > a.mnav-logo",
+    "x": 75,
+    "y": 11,
+    "w": 70,
+    "h": 40,
+    "text": "golden wonka brand logo",
+    "href": "/us/en/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mnav-chrome > a.mnav-logo > img",
+    "x": 75,
+    "y": 11,
+    "w": 70,
+    "h": 40,
+    "text": "golden wonka brand logo",
+    "file": "media_1470daf2e59196e25459cd013be128518e"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mnav-stage > div.mnav-chrome > button.mnav-toggle",
+    "x": 292,
+    "y": 26,
+    "w": 52,
+    "h": 36,
+    "text": "open menu"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mnav-stage > div.mnav-chrome > button.mnav-toggle",
+    "x": 292,
+    "y": 26,
+    "w": 52,
+    "h": 36,
+    "label": "open menu",
+    "value": "open menu",
+    "via": "trigger"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.discover-hero-bg > div.discover-hero-book > img",
+    "x": -128,
+    "y": 198,
+    "w": 616,
+    "h": 616,
+    "text": "an open vintage leather-bound sketchbook showing detailed te",
+    "file": "media_1789c3c6975af366f1a500bb5ae69c28ed"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.discover-hero-bg > div.discover-hero-dust > img",
+    "x": -134,
+    "y": 119,
+    "w": 628,
+    "h": 572,
+    "text": "",
+    "file": "gold-dust"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.discover-hero-wrapper > div.discover-hero.block > img.discover-hero-clouds.discover-hero-clouds-m",
+    "x": 0,
+    "y": 748,
+    "w": 360,
+    "h": 202,
+    "text": "",
+    "file": "clouds-mobile"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.discover-hero-titles > div.discover-hero-eyebrow > p",
+    "x": 109,
+    "y": 104,
+    "w": 142,
+    "h": 18,
+    "text": "EST. IN WONDER"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.discover-hero-titles > div.discover-hero-title > h1#discover-wonka-world",
+    "x": 23,
+    "y": 126,
+    "w": 315,
+    "h": 126,
+    "level": 1,
+    "text": "discover wonka world"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.discover-hero-copy > div.discover-hero-text > p",
+    "x": 23,
+    "y": 268,
+    "w": 315,
+    "h": 96,
+    "text": "Where inventive creations, unexpected flavors and delicious surprises turn every"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.discover-hero-scroll > p > a.btn.btn-md",
+    "x": 149,
+    "y": 797,
+    "w": 62,
+    "h": 48,
+    "text": "scroll down",
+    "href": "/us/en/about-wonka"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a.btn.btn-md > span.btn-icon > img",
+    "x": 170,
+    "y": 811,
+    "w": 20,
+    "h": 20,
+    "text": "",
+    "file": "arrow-down"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.discover-hero-scroll > p > span.discover-hero-hint",
+    "x": 145,
+    "y": 852,
+    "w": 69,
+    "h": 16,
+    "text": "Scroll Down"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-cards-inner > div.story-cards-title > h2#where-imagination-becomes-delicious",
+    "x": 16,
+    "y": 980,
+    "w": 328,
+    "h": 136,
+    "level": 2,
+    "text": "where imagination becomes delicious"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li.story-cards-card > div.story-cards-stars.story-cards-stars-br > img",
+    "x": 118,
+    "y": 1263,
+    "w": 306,
+    "h": 259,
+    "text": "",
+    "file": "stars"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li.story-cards-card > div.story-cards-body > p",
+    "x": 41,
+    "y": 1287,
+    "w": 278,
+    "h": 96,
+    "text": "Wonka turns the ordinary into the extraordinary through inventive creations, une"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.story-cards-list > li.story-cards-card > img.story-cards-seal-stars",
+    "x": 75,
+    "y": 1168,
+    "w": 195,
+    "h": 175,
+    "text": "",
+    "file": "seal-stars"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li.story-cards-card > div.story-cards-seal > img.story-cards-seal-bg",
+    "x": 130,
+    "y": 1172,
+    "w": 100,
+    "h": 100,
+    "text": "",
+    "file": "seal-background"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-cards-icon > picture > img",
+    "x": 144,
+    "y": 1186,
+    "w": 72,
+    "h": 72,
+    "text": "neon purple icon featuring willy wonka's top hat and a lolli",
+    "file": "media_153481496a6f9512a9649f51e9d00ad72b"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li.story-cards-card > div.story-cards-body > p",
+    "x": 41,
+    "y": 1555,
+    "w": 278,
+    "h": 120,
+    "text": "Every Wonka product is made to spark curiosity and delight, bringing together im"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.story-cards-list > li.story-cards-card > img.story-cards-seal-stars",
+    "x": 75,
+    "y": 1436,
+    "w": 195,
+    "h": 175,
+    "text": "",
+    "file": "seal-stars"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li.story-cards-card > div.story-cards-seal > img.story-cards-seal-bg",
+    "x": 130,
+    "y": 1440,
+    "w": 100,
+    "h": 100,
+    "text": "",
+    "file": "seal-background"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-cards-icon > picture > img",
+    "x": 144,
+    "y": 1454,
+    "w": 72,
+    "h": 72,
+    "text": "neon purple icon showing a chocolate bar mold crossed with a",
+    "file": "media_1303a3ea0f454f8c80019f737bf0e6400e"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li.story-cards-card > div.story-cards-stars.story-cards-stars-tl > img",
+    "x": -80,
+    "y": 1635,
+    "w": 337,
+    "h": 303,
+    "text": "",
+    "file": "stars"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li.story-cards-card > div.story-cards-body > p",
+    "x": 41,
+    "y": 1847,
+    "w": 278,
+    "h": 120,
+    "text": "Across fruity gummies, assorted chocolates and many more imaginative treats, eve"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.story-cards-list > li.story-cards-card > img.story-cards-seal-stars",
+    "x": 75,
+    "y": 1728,
+    "w": 195,
+    "h": 175,
+    "text": "",
+    "file": "seal-stars"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li.story-cards-card > div.story-cards-seal > img.story-cards-seal-bg",
+    "x": 130,
+    "y": 1732,
+    "w": 100,
+    "h": 100,
+    "text": "",
+    "file": "seal-background"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-cards-icon > picture > img",
+    "x": 144,
+    "y": 1746,
+    "w": 72,
+    "h": 72,
+    "text": "neon purple icon of a cocoa pod with leaves and cocoa beans ",
+    "file": "media_1256ddb1e12acbb9e8c5ce5360f22ea410"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.image-text-row > div.image-text-title.image-text-title-m > h2",
+    "x": 16,
+    "y": 2072,
+    "w": 328,
+    "h": 126,
+    "level": 2,
+    "text": "born in the wonka factory"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.image-text-media > picture > img",
+    "x": 0,
+    "y": 2222,
+    "w": 360,
+    "h": 269,
+    "text": "wonka's chocolate factory filled with copper machinery, colo",
+    "file": "media_17c79f9bc41ea8d35ea40811da63ed73aa"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.image-text-body > div.image-text-copy > p",
+    "x": 16,
+    "y": 2507,
+    "w": 328,
+    "h": 126,
+    "text": "Beyond the golden gates lies a place where imagination is always at work. A plac"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.image-text-text > div.image-text-body > img.image-text-star",
+    "x": 168,
+    "y": 2649,
+    "w": 24,
+    "h": 24,
+    "text": "",
+    "file": "decorative-star"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.image-text-body > div.image-text-copy > p",
+    "x": 16,
+    "y": 2689,
+    "w": 328,
+    "h": 126,
+    "text": "This is the Wonka Factory: where curiosity fuels invention and craftsmanship bri"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.promo-banner-head > div.promo-banner-title > h2#ready-to-step-inside",
+    "x": 16,
+    "y": 2895,
+    "w": 328,
+    "h": 68,
+    "level": 2,
+    "text": "ready to step inside?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.promo-banner-head > div.promo-banner-text > p",
+    "x": 32,
+    "y": 2979,
+    "w": 296,
+    "h": 105,
+    "text": "The factory doors are open. Discover the full Wonka collection before finding yo"
+   },
+   {
+    "kind": "image",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.promo-banner-inner > div.promo-banner-stage > img.promo-banner-clouds",
+    "x": -563,
+    "y": 3377,
+    "w": 1018,
+    "h": 188,
+    "text": "",
+    "file": "clouds"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.promo-banner-img-m > picture > img",
+    "x": 8,
+    "y": 3124,
+    "w": 360,
+    "h": 334,
+    "text": "a stacked layout of purple wonka candy packages, including o",
+    "file": "media_1f84388daf8226d289ca7d389275bc60ea"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.promo-banner-cta > p.button-wrapper > a.button.primary",
+    "x": 0,
+    "y": 3517,
+    "w": 360,
+    "h": 64,
+    "text": "explore the wonka range",
+    "href": "/us/en/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a.button.primary > span.btn-icon > img",
+    "x": 298,
+    "y": 3539,
+    "w": 20,
+    "h": 20,
+    "text": "",
+    "file": "arrow"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.social-inner > div.social-title > h2#follow-the-magic",
+    "x": 16,
+    "y": 3661,
+    "w": 328,
+    "h": 68,
+    "level": 2,
+    "text": "follow the magic"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.social-inner > div.social-text > p",
+    "x": 16,
+    "y": 3761,
+    "w": 328,
+    "h": 72,
+    "text": "Stay up to date with the latest from the Wonka world — new products, stories and"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a.btn.btn-md",
+    "x": 110,
+    "y": 3865,
+    "w": 62,
+    "h": 48,
+    "text": "instagram",
+    "href": "/wonka_usa"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a.btn.btn-md > span.icon.icon-social-instagram > img",
+    "x": 131,
+    "y": 3879,
+    "w": 20,
+    "h": 20,
+    "text": "",
+    "file": "social-instagram"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > span.social-caption",
+    "x": 108,
+    "y": 3929,
+    "w": 67,
+    "h": 18,
+    "text": "Instagram"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a.btn.btn-md",
+    "x": 190,
+    "y": 3865,
+    "w": 62,
+    "h": 48,
+    "text": "tik tok",
+    "href": "/@wonka_usa"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a.btn.btn-md > span.icon.icon-social-tiktok > img",
+    "x": 211,
+    "y": 3879,
+    "w": 20,
+    "h": 20,
+    "text": "",
+    "file": "social-tiktok"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > span.social-caption",
+    "x": 197,
+    "y": 3929,
+    "w": 49,
+    "h": 18,
+    "text": "Tik Tok"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.faq-inner > div.faq-title > h2#unwrapping-your-questions",
+    "x": 16,
+    "y": 4027,
+    "w": 328,
+    "h": 68,
+    "level": 2,
+    "text": "unwrapping your questions"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.faq-list > li.faq-item > div.faq-toggle",
+    "x": 16,
+    "y": 4119,
+    "w": 328,
+    "h": 58,
+    "text": "1. when will wonka be on shelves?"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.faq-list > li.faq-item > div.faq-toggle",
+    "x": 16,
+    "y": 4119,
+    "w": 328,
+    "h": 58,
+    "label": "trigger",
+    "value": "1. when will wonka be on shelves?",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.faq-list > li.faq-item > div.faq-toggle",
+    "x": 16,
+    "y": 4193,
+    "w": 328,
+    "h": 58,
+    "text": "2. what kind of treats can i expect?"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.faq-list > li.faq-item > div.faq-toggle",
+    "x": 16,
+    "y": 4193,
+    "w": 328,
+    "h": 58,
+    "label": "trigger",
+    "value": "2. what kind of treats can i expect?",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.faq-list > li.faq-item > div.faq-toggle",
+    "x": 16,
+    "y": 4267,
+    "w": 328,
+    "h": 58,
+    "text": "3. where can i find wonka products?"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.faq-list > li.faq-item > div.faq-toggle",
+    "x": 16,
+    "y": 4267,
+    "w": 328,
+    "h": 58,
+    "label": "trigger",
+    "value": "3. where can i find wonka products?",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.faq-list > li.faq-item > div.faq-toggle",
+    "x": 16,
+    "y": 4341,
+    "w": 328,
+    "h": 58,
+    "text": "4. is wonka a ferrero brand?"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.faq-list > li.faq-item > div.faq-toggle",
+    "x": 16,
+    "y": 4341,
+    "w": 328,
+    "h": 58,
+    "label": "trigger",
+    "value": "4. is wonka a ferrero brand?",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.faq-list > li.faq-item > div.faq-toggle",
+    "x": 16,
+    "y": 4415,
+    "w": 328,
+    "h": 76,
+    "text": "5. is this connected to the new netflix film and series?"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.faq-list > li.faq-item > div.faq-toggle",
+    "x": 16,
+    "y": 4415,
+    "w": 328,
+    "h": 76,
+    "label": "trigger",
+    "value": "5. is this connected to the new netflix film and series?",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.faq-list > li.faq-item > div.faq-toggle",
+    "x": 16,
+    "y": 4507,
+    "w": 328,
+    "h": 58,
+    "text": "6. who are these products for?"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.faq-list > li.faq-item > div.faq-toggle",
+    "x": 16,
+    "y": 4507,
+    "w": 328,
+    "h": 58,
+    "label": "trigger",
+    "value": "6. who are these products for?",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.faq-list > li.faq-item > div.faq-toggle",
+    "x": 16,
+    "y": 4581,
+    "w": 328,
+    "h": 58,
+    "text": "7. where are wonka products made?"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.faq-list > li.faq-item > div.faq-toggle",
+    "x": 16,
+    "y": 4581,
+    "w": 328,
+    "h": 58,
+    "label": "trigger",
+    "value": "7. where are wonka products made?",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-body > div.site-footer-top > a.site-footer-logo",
+    "x": 110,
+    "y": 4759,
+    "w": 141,
+    "h": 80,
+    "text": "golden wonka brand logo",
+    "href": "/us/en/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-top > a.site-footer-logo > img",
+    "x": 110,
+    "y": 4759,
+    "w": 141,
+    "h": 80,
+    "text": "golden wonka brand logo",
+    "file": "media_1470daf2e59196e25459cd013be128518e"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-top > div.site-footer-social > p",
+    "x": 144,
+    "y": 4879,
+    "w": 72,
+    "h": 21,
+    "text": "Follow us"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-social > div.site-footer-social-row > a.btn.btn-md",
+    "x": 110,
+    "y": 4916,
+    "w": 62,
+    "h": 48,
+    "text": "instagram",
+    "href": "/wonka_usa"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a.btn.btn-md > span.icon.icon-social-instagram > img",
+    "x": 131,
+    "y": 4930,
+    "w": 20,
+    "h": 20,
+    "text": "",
+    "file": "social-instagram"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-social > div.site-footer-social-row > a.btn.btn-md",
+    "x": 188,
+    "y": 4916,
+    "w": 62,
+    "h": 48,
+    "text": "tik tok",
+    "href": "/@wonka_usa"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a.btn.btn-md > span.icon.icon-social-tiktok > img",
+    "x": 209,
+    "y": 4930,
+    "w": 20,
+    "h": 20,
+    "text": "",
+    "file": "social-tiktok"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-body > div.site-footer-links > a.legal-link",
+    "x": 125,
+    "y": 5060,
+    "w": 110,
+    "h": 24,
+    "text": "privacy policy",
+    "href": "/us/en/privacy-policy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-body > div.site-footer-links > a.legal-link",
+    "x": 127,
+    "y": 5102,
+    "w": 105,
+    "h": 24,
+    "text": "terms of use",
+    "href": "/us/en/terms-of-use"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-body > div.site-footer-links > a.legal-link",
+    "x": 127,
+    "y": 5144,
+    "w": 107,
+    "h": 24,
+    "text": "cookie policy",
+    "href": "/us/en/cookie-policy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-body > div.site-footer-links > a.legal-link",
+    "x": 24,
+    "y": 5186,
+    "w": 312,
+    "h": 43,
+    "text": "do not sell or share my personal information",
+    "href": "/us/en/about-wonka"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-body > div.site-footer-links > a.legal-link",
+    "x": 136,
+    "y": 5247,
+    "w": 87,
+    "h": 24,
+    "text": "contact us",
+    "href": "/us/en/contact-us"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.page-footer > div.site-footer > div.site-footer-copy",
+    "x": 0,
+    "y": 5311,
+    "w": 360,
+    "h": 56,
+    "text": "© 2026 Ferrero Group. All Rights Reserved."
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 41,
+    "controls": 21,
+    "total": 0
+   },
+   "groups": [],
+   "findings": []
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 1,
+    "image": 1
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 1,
+   "heading": "discover wonka world",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 2,
+    "image": 3
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 2,
+    "textHidden": 0,
+    "image": 3,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 2,
+   "heading": "where imagination becomes delicious",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 3,
+    "image": 11
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 3,
+    "textHidden": 0,
+    "image": 11,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 3,
+   "heading": "born in the wonka factory",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 2,
+    "image": 2
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 2,
+    "textHidden": 0,
+    "image": 2,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 4,
+   "heading": "ready to step inside?",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 1,
+    "image": 2
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 2,
+    "imageHidden": 1
+   },
+   "findings": []
+  },
+  {
+   "index": 5,
+   "heading": "follow the magic",
+   "variable": false,
+   "origin": {
+    "link": 2,
+    "button": 0,
+    "text": 3,
+    "image": 2
+   },
+   "eds": {
+    "link": 2,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 3,
+    "textHidden": 0,
+    "image": 2,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 6,
+   "heading": "unwrapping your questions",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 7,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 7,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  }
+ ],
+ "findings": [],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 0,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 0,
+  "missingButtons": 0,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 0,
+  "findings": 0,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 109,
+    "y": 102,
+    "w": 142,
+    "h": 21
+   },
+   {
+    "x": 74,
+    "y": 122,
+    "w": 213,
+    "h": 49
+   },
+   {
+    "x": 100,
+    "y": 164,
+    "w": 160,
+    "h": 49
+   },
+   {
+    "x": 102,
+    "y": 206,
+    "w": 156,
+    "h": 49
+   },
+   {
+    "x": 23,
+    "y": 270,
+    "w": 314,
+    "h": 20
+   },
+   {
+    "x": 38,
+    "y": 294,
+    "w": 284,
+    "h": 20
+   },
+   {
+    "x": 74,
+    "y": 318,
+    "w": 211,
+    "h": 20
+   },
+   {
+    "x": 123,
+    "y": 342,
+    "w": 113,
+    "h": 20
+   },
+   {
+    "x": 145,
+    "y": 852,
+    "w": 69,
+    "h": 15
+   },
+   {
+    "x": 119,
+    "y": 977,
+    "w": 121,
+    "h": 40
+   },
+   {
+    "x": 71,
+    "y": 1011,
+    "w": 218,
+    "h": 40
+   },
+   {
+    "x": 99,
+    "y": 1045,
+    "w": 161,
+    "h": 40
+   },
+   {
+    "x": 92,
+    "y": 1079,
+    "w": 176,
+    "h": 40
+   },
+   {
+    "x": 54,
+    "y": 1289,
+    "w": 252,
+    "h": 20
+   },
+   {
+    "x": 62,
+    "y": 1313,
+    "w": 236,
+    "h": 20
+   },
+   {
+    "x": 43,
+    "y": 1337,
+    "w": 274,
+    "h": 20
+   },
+   {
+    "x": 64,
+    "y": 1361,
+    "w": 232,
+    "h": 20
+   },
+   {
+    "x": 57,
+    "y": 1557,
+    "w": 245,
+    "h": 20
+   },
+   {
+    "x": 44,
+    "y": 1581,
+    "w": 272,
+    "h": 20
+   },
+   {
+    "x": 78,
+    "y": 1605,
+    "w": 204,
+    "h": 20
+   },
+   {
+    "x": 45,
+    "y": 1629,
+    "w": 270,
+    "h": 20
+   },
+   {
+    "x": 100,
+    "y": 1653,
+    "w": 161,
+    "h": 20
+   },
+   {
+    "x": 57,
+    "y": 1849,
+    "w": 245,
+    "h": 20
+   },
+   {
+    "x": 78,
+    "y": 1873,
+    "w": 204,
+    "h": 20
+   },
+   {
+    "x": 54,
+    "y": 1897,
+    "w": 251,
+    "h": 20
+   },
+   {
+    "x": 47,
+    "y": 1921,
+    "w": 265,
+    "h": 20
+   },
+   {
+    "x": 119,
+    "y": 1945,
+    "w": 122,
+    "h": 20
+   },
+   {
+    "x": 48,
+    "y": 2068,
+    "w": 264,
+    "h": 49
+   },
+   {
+    "x": 102,
+    "y": 2110,
+    "w": 156,
+    "h": 49
+   },
+   {
+    "x": 88,
+    "y": 2152,
+    "w": 184,
+    "h": 49
+   },
+   {
+    "x": 41,
+    "y": 2507,
+    "w": 277,
+    "h": 20
+   },
+   {
+    "x": 34,
+    "y": 2528,
+    "w": 293,
+    "h": 20
+   },
+   {
+    "x": 50,
+    "y": 2549,
+    "w": 260,
+    "h": 20
+   },
+   {
+    "x": 21,
+    "y": 2570,
+    "w": 319,
+    "h": 20
+   },
+   {
+    "x": 25,
+    "y": 2591,
+    "w": 311,
+    "h": 20
+   },
+   {
+    "x": 94,
+    "y": 2612,
+    "w": 172,
+    "h": 20
+   },
+   {
+    "x": 19,
+    "y": 2689,
+    "w": 321,
+    "h": 20
+   },
+   {
+    "x": 27,
+    "y": 2710,
+    "w": 307,
+    "h": 20
+   },
+   {
+    "x": 56,
+    "y": 2731,
+    "w": 248,
+    "h": 20
+   },
+   {
+    "x": 56,
+    "y": 2752,
+    "w": 248,
+    "h": 20
+   },
+   {
+    "x": 83,
+    "y": 2794,
+    "w": 195,
+    "h": 20
+   },
+   {
+    "x": 53,
+    "y": 2892,
+    "w": 254,
+    "h": 40
+   },
+   {
+    "x": 116,
+    "y": 2926,
+    "w": 129,
+    "h": 40
+   },
+   {
+    "x": 34,
+    "y": 2979,
+    "w": 293,
+    "h": 20
+   },
+   {
+    "x": 56,
+    "y": 3000,
+    "w": 249,
+    "h": 20
+   },
+   {
+    "x": 59,
+    "y": 3021,
+    "w": 242,
+    "h": 20
+   },
+   {
+    "x": 41,
+    "y": 3042,
+    "w": 279,
+    "h": 20
+   },
+   {
+    "x": 157,
+    "y": 3062,
+    "w": 45,
+    "h": 20
+   },
+   {
+    "x": 41,
+    "y": 3537,
+    "w": 249,
+    "h": 24
+   },
+   {
+    "x": 73,
+    "y": 3658,
+    "w": 214,
+    "h": 40
+   },
+   {
+    "x": 126,
+    "y": 3692,
+    "w": 107,
+    "h": 40
+   },
+   {
+    "x": 34,
+    "y": 3763,
+    "w": 292,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 3787,
+    "w": 320,
+    "h": 20
+   },
+   {
+    "x": 143,
+    "y": 3811,
+    "w": 75,
+    "h": 20
+   },
+   {
+    "x": 108,
+    "y": 3929,
+    "w": 67,
+    "h": 17
+   },
+   {
+    "x": 197,
+    "y": 3929,
+    "w": 49,
+    "h": 17
+   },
+   {
+    "x": 18,
+    "y": 4024,
+    "w": 324,
+    "h": 40
+   },
+   {
+    "x": 85,
+    "y": 4058,
+    "w": 190,
+    "h": 40
+   },
+   {
+    "x": 36,
+    "y": 4139,
+    "w": 234,
+    "h": 17
+   },
+   {
+    "x": 36,
+    "y": 4213,
+    "w": 238,
+    "h": 17
+   },
+   {
+    "x": 36,
+    "y": 4287,
+    "w": 249,
+    "h": 17
+   },
+   {
+    "x": 36,
+    "y": 4361,
+    "w": 193,
+    "h": 17
+   },
+   {
+    "x": 36,
+    "y": 4435,
+    "w": 253,
+    "h": 17
+   },
+   {
+    "x": 36,
+    "y": 4453,
+    "w": 107,
+    "h": 17
+   },
+   {
+    "x": 36,
+    "y": 4527,
+    "w": 208,
+    "h": 17
+   },
+   {
+    "x": 36,
+    "y": 4601,
+    "w": 247,
+    "h": 17
+   },
+   {
+    "x": 144,
+    "y": 4879,
+    "w": 72,
+    "h": 20
+   },
+   {
+    "x": 125,
+    "y": 5062,
+    "w": 110,
+    "h": 20
+   },
+   {
+    "x": 127,
+    "y": 5104,
+    "w": 105,
+    "h": 20
+   },
+   {
+    "x": 127,
+    "y": 5146,
+    "w": 107,
+    "h": 20
+   },
+   {
+    "x": 49,
+    "y": 5186,
+    "w": 261,
+    "h": 20
+   },
+   {
+    "x": 135,
+    "y": 5207,
+    "w": 90,
+    "h": 20
+   },
+   {
+    "x": 136,
+    "y": 5249,
+    "w": 87,
+    "h": 20
+   },
+   {
+    "x": 57,
+    "y": 5331,
+    "w": 247,
+    "h": 15
+   }
+  ],
+  "eds": [
+   {
+    "x": 109,
+    "y": 102,
+    "w": 142,
+    "h": 21
+   },
+   {
+    "x": 74,
+    "y": 122,
+    "w": 213,
+    "h": 49
+   },
+   {
+    "x": 100,
+    "y": 164,
+    "w": 160,
+    "h": 49
+   },
+   {
+    "x": 102,
+    "y": 206,
+    "w": 156,
+    "h": 49
+   },
+   {
+    "x": 23,
+    "y": 270,
+    "w": 314,
+    "h": 20
+   },
+   {
+    "x": 38,
+    "y": 294,
+    "w": 284,
+    "h": 20
+   },
+   {
+    "x": 74,
+    "y": 318,
+    "w": 211,
+    "h": 20
+   },
+   {
+    "x": 123,
+    "y": 342,
+    "w": 113,
+    "h": 20
+   },
+   {
+    "x": 145,
+    "y": 852,
+    "w": 69,
+    "h": 15
+   },
+   {
+    "x": 119,
+    "y": 977,
+    "w": 121,
+    "h": 40
+   },
+   {
+    "x": 71,
+    "y": 1011,
+    "w": 218,
+    "h": 40
+   },
+   {
+    "x": 99,
+    "y": 1045,
+    "w": 161,
+    "h": 40
+   },
+   {
+    "x": 92,
+    "y": 1079,
+    "w": 176,
+    "h": 40
+   },
+   {
+    "x": 54,
+    "y": 1289,
+    "w": 252,
+    "h": 20
+   },
+   {
+    "x": 62,
+    "y": 1313,
+    "w": 236,
+    "h": 20
+   },
+   {
+    "x": 43,
+    "y": 1337,
+    "w": 274,
+    "h": 20
+   },
+   {
+    "x": 64,
+    "y": 1361,
+    "w": 232,
+    "h": 20
+   },
+   {
+    "x": 57,
+    "y": 1557,
+    "w": 245,
+    "h": 20
+   },
+   {
+    "x": 44,
+    "y": 1581,
+    "w": 272,
+    "h": 20
+   },
+   {
+    "x": 78,
+    "y": 1605,
+    "w": 204,
+    "h": 20
+   },
+   {
+    "x": 45,
+    "y": 1629,
+    "w": 270,
+    "h": 20
+   },
+   {
+    "x": 100,
+    "y": 1653,
+    "w": 161,
+    "h": 20
+   },
+   {
+    "x": 57,
+    "y": 1849,
+    "w": 245,
+    "h": 20
+   },
+   {
+    "x": 78,
+    "y": 1873,
+    "w": 204,
+    "h": 20
+   },
+   {
+    "x": 54,
+    "y": 1897,
+    "w": 251,
+    "h": 20
+   },
+   {
+    "x": 47,
+    "y": 1921,
+    "w": 265,
+    "h": 20
+   },
+   {
+    "x": 119,
+    "y": 1945,
+    "w": 122,
+    "h": 20
+   },
+   {
+    "x": 48,
+    "y": 2068,
+    "w": 264,
+    "h": 49
+   },
+   {
+    "x": 102,
+    "y": 2110,
+    "w": 156,
+    "h": 49
+   },
+   {
+    "x": 88,
+    "y": 2152,
+    "w": 184,
+    "h": 49
+   },
+   {
+    "x": 41,
+    "y": 2507,
+    "w": 277,
+    "h": 20
+   },
+   {
+    "x": 34,
+    "y": 2528,
+    "w": 293,
+    "h": 20
+   },
+   {
+    "x": 50,
+    "y": 2549,
+    "w": 260,
+    "h": 20
+   },
+   {
+    "x": 21,
+    "y": 2570,
+    "w": 319,
+    "h": 20
+   },
+   {
+    "x": 25,
+    "y": 2591,
+    "w": 311,
+    "h": 20
+   },
+   {
+    "x": 94,
+    "y": 2612,
+    "w": 172,
+    "h": 20
+   },
+   {
+    "x": 19,
+    "y": 2689,
+    "w": 321,
+    "h": 20
+   },
+   {
+    "x": 27,
+    "y": 2710,
+    "w": 307,
+    "h": 20
+   },
+   {
+    "x": 56,
+    "y": 2731,
+    "w": 248,
+    "h": 20
+   },
+   {
+    "x": 56,
+    "y": 2752,
+    "w": 248,
+    "h": 20
+   },
+   {
+    "x": 83,
+    "y": 2794,
+    "w": 195,
+    "h": 20
+   },
+   {
+    "x": 53,
+    "y": 2892,
+    "w": 254,
+    "h": 40
+   },
+   {
+    "x": 116,
+    "y": 2926,
+    "w": 129,
+    "h": 40
+   },
+   {
+    "x": 34,
+    "y": 2979,
+    "w": 293,
+    "h": 20
+   },
+   {
+    "x": 56,
+    "y": 3000,
+    "w": 249,
+    "h": 20
+   },
+   {
+    "x": 59,
+    "y": 3021,
+    "w": 242,
+    "h": 20
+   },
+   {
+    "x": 41,
+    "y": 3042,
+    "w": 279,
+    "h": 20
+   },
+   {
+    "x": 157,
+    "y": 3063,
+    "w": 45,
+    "h": 20
+   },
+   {
+    "x": 74,
+    "y": 3527,
+    "w": 183,
+    "h": 24
+   },
+   {
+    "x": 134,
+    "y": 3547,
+    "w": 62,
+    "h": 24
+   },
+   {
+    "x": 73,
+    "y": 3658,
+    "w": 214,
+    "h": 40
+   },
+   {
+    "x": 126,
+    "y": 3692,
+    "w": 107,
+    "h": 40
+   },
+   {
+    "x": 34,
+    "y": 3763,
+    "w": 292,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 3787,
+    "w": 320,
+    "h": 20
+   },
+   {
+    "x": 143,
+    "y": 3811,
+    "w": 75,
+    "h": 20
+   },
+   {
+    "x": 108,
+    "y": 3929,
+    "w": 67,
+    "h": 17
+   },
+   {
+    "x": 197,
+    "y": 3929,
+    "w": 49,
+    "h": 17
+   },
+   {
+    "x": 18,
+    "y": 4024,
+    "w": 324,
+    "h": 40
+   },
+   {
+    "x": 85,
+    "y": 4058,
+    "w": 190,
+    "h": 40
+   },
+   {
+    "x": 36,
+    "y": 4139,
+    "w": 234,
+    "h": 17
+   },
+   {
+    "x": 36,
+    "y": 4213,
+    "w": 238,
+    "h": 17
+   },
+   {
+    "x": 36,
+    "y": 4287,
+    "w": 249,
+    "h": 17
+   },
+   {
+    "x": 36,
+    "y": 4361,
+    "w": 193,
+    "h": 17
+   },
+   {
+    "x": 36,
+    "y": 4435,
+    "w": 253,
+    "h": 17
+   },
+   {
+    "x": 36,
+    "y": 4453,
+    "w": 107,
+    "h": 17
+   },
+   {
+    "x": 36,
+    "y": 4527,
+    "w": 208,
+    "h": 17
+   },
+   {
+    "x": 36,
+    "y": 4601,
+    "w": 247,
+    "h": 17
+   },
+   {
+    "x": 144,
+    "y": 4879,
+    "w": 72,
+    "h": 20
+   },
+   {
+    "x": 125,
+    "y": 5062,
+    "w": 110,
+    "h": 20
+   },
+   {
+    "x": 127,
+    "y": 5104,
+    "w": 105,
+    "h": 20
+   },
+   {
+    "x": 127,
+    "y": 5146,
+    "w": 107,
+    "h": 20
+   },
+   {
+    "x": 49,
+    "y": 5186,
+    "w": 261,
+    "h": 20
+   },
+   {
+    "x": 135,
+    "y": 5207,
+    "w": 90,
+    "h": 20
+   },
+   {
+    "x": 136,
+    "y": 5249,
+    "w": 87,
+    "h": 20
+   },
+   {
+    "x": 57,
+    "y": 5331,
+    "w": 247,
+    "h": 15
+   }
+  ]
+ }
+}

@@ -1,0 +1,18 @@
+chrome-parity: --live-cache stardust/replica/gates/us-en-1440/chrome-live.json was probed for a different url/width/regions/overlay state — re-probing live
+[live-session] waiting to pace live navigations to www.wonka.com (1000 ms apart, 2 max parallel; STARDUST_LIVE_PACE_MS / STARDUST_LIVE_MAX_PARALLEL; 0 disables either) — first wait 969 ms
+chrome-parity @ 1440px, tolerance 1px
+  live:  https://www.wonka.com/us/en/
+  build: http://localhost:8791/us-en-proposed.html
+
+■ header: 1 delta(s) — 3 paired of 3/3 texts, 2/2 icons
+  region live:  header.pointer-events-none.absolute — outermost <header>, box 0,0 1440×62; selector body > div:nth-of-type(1) > div > div:nth-of-type(2) > div:nth-of-type(2) > header
+  region build: header.site-header — outermost <header>, box 0,0 1440×62; selector body > div > div:nth-of-type(2) > div:nth-of-type(2) > header
+  ICON         "Golden Wonka brand logo"  icon #1 near "Golden Wonka brand logo": signature "wonka-logo.svg" → "wonka-logo-b0140c6b.svg"
+
+■ footer: 2 delta(s) — 7 paired of 7/7 texts, 4/4 icons
+  region live:  footer.relative.z-20[role=contentinfo] — [role=contentinfo] landmark, box 0,3901 1440×304; selector body > div:nth-of-type(1) > div > div:nth-of-type(2) > div:nth-of-type(3) > footer
+  region build: footer.site-footer[role=contentinfo] — [role=contentinfo] landmark, box 0,3901 1440×304; selector body > div > div:nth-of-type(2) > div:nth-of-type(3) > footer
+  ICON         "Instagram"  icon #1 near "Instagram": signature "social-instagram.svg" → "social-instagram-014c59dd.svg"
+  ICON         "Tik Tok"  icon #2 near "Tik Tok": signature "social-tiktok.svg" → "social-tiktok-aaeee379.svg"
+
+✗ 3 delta(s) — fix these before any pixel iteration on chrome; re-run until quiet, then crop-compare confirms.

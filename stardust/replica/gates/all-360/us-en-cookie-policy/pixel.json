@@ -1,0 +1,266 @@
+{
+  "a": "stardust/replica/gates/all-360/us-en-cookie-policy/origin.png",
+  "b": "stardust/replica/gates/all-360/us-en-cookie-policy/eds.png",
+  "compared": {
+    "width": 360,
+    "height": 5495,
+    "mode": "overlap"
+  },
+  "heightDelta": 1,
+  "differingPixels": 29378,
+  "pct": 1.49,
+  "threshold": 10,
+  "pass": true,
+  "diff": "stardust/replica/gates/all-360/us-en-cookie-policy/diff.png",
+  "masks": [],
+  "maskedRows": 0,
+  "textPct": 4.02,
+  "textBoxes": 154,
+  "textPixels": 631679,
+  "bands": [
+    {
+      "y0": 0,
+      "y1": 500,
+      "pct": 0.6
+    },
+    {
+      "y0": 500,
+      "y1": 1000,
+      "pct": 0.8
+    },
+    {
+      "y0": 1000,
+      "y1": 1500,
+      "pct": 0.8
+    },
+    {
+      "y0": 1500,
+      "y1": 2000,
+      "pct": 0.7
+    },
+    {
+      "y0": 2000,
+      "y1": 2500,
+      "pct": 1.5
+    },
+    {
+      "y0": 2500,
+      "y1": 3000,
+      "pct": 3.4
+    },
+    {
+      "y0": 3000,
+      "y1": 3500,
+      "pct": 2.3
+    },
+    {
+      "y0": 3500,
+      "y1": 4000,
+      "pct": 2.1
+    },
+    {
+      "y0": 4000,
+      "y1": 4500,
+      "pct": 3.1
+    },
+    {
+      "y0": 4500,
+      "y1": 5000,
+      "pct": 0.8
+    },
+    {
+      "y0": 5000,
+      "y1": 5495,
+      "pct": 0.2
+    }
+  ],
+  "verdict": "aligned",
+  "aligned": {
+    "used": false,
+    "pct": 1.49,
+    "differingPixels": 29378,
+    "compared": {
+      "width": 360,
+      "height": 5495,
+      "mode": "overlap"
+    },
+    "steps": [],
+    "maxOffset": 0,
+    "totalShift": 0,
+    "insertedRows": 0,
+    "deletedRows": 0,
+    "bands": [
+      {
+        "y0": 0,
+        "y1": 500,
+        "pct": 0.6,
+        "unaligned": 0.6
+      },
+      {
+        "y0": 500,
+        "y1": 1000,
+        "pct": 0.8,
+        "unaligned": 0.8
+      },
+      {
+        "y0": 1000,
+        "y1": 1500,
+        "pct": 0.8,
+        "unaligned": 0.8
+      },
+      {
+        "y0": 1500,
+        "y1": 2000,
+        "pct": 0.7,
+        "unaligned": 0.7
+      },
+      {
+        "y0": 2000,
+        "y1": 2500,
+        "pct": 1.5,
+        "unaligned": 1.5
+      },
+      {
+        "y0": 2500,
+        "y1": 3000,
+        "pct": 3.4,
+        "unaligned": 3.4
+      },
+      {
+        "y0": 3000,
+        "y1": 3500,
+        "pct": 2.3,
+        "unaligned": 2.3
+      },
+      {
+        "y0": 3500,
+        "y1": 4000,
+        "pct": 2.1,
+        "unaligned": 2.1
+      },
+      {
+        "y0": 4000,
+        "y1": 4500,
+        "pct": 3.1,
+        "unaligned": 3.1
+      },
+      {
+        "y0": 4500,
+        "y1": 5000,
+        "pct": 0.8,
+        "unaligned": 0.8
+      },
+      {
+        "y0": 5000,
+        "y1": 5495,
+        "pct": 0.2,
+        "unaligned": 0.2
+      }
+    ],
+    "diff": null,
+    "reason": "aligned number not lower than the unaligned one",
+    "candidate": {
+      "pct": 1.5,
+      "steps": 1,
+      "totalShift": 1
+    }
+  },
+  "offsets": {
+    "bound": null,
+    "totalShift": 0,
+    "pass": true
+  },
+  "reason": null,
+  "capturesDropped": {
+    "masks": [],
+    "edsUrl": "https://main--a6216fe5--aemcoder.aem.live/us/en/cookie-policy",
+    "key": {
+      "v": 3,
+      "build": "https://main--a6216fe5--aemcoder.aem.live/us/en/cookie-policy",
+      "source": "https://www.wonka.com/us/en/cookie-policy",
+      "masks": "74234e98afe7498f",
+      "presence": "74234e98afe7498f",
+      "clipAllow": "74234e98afe7498f",
+      "override": "74234e98afe7498f",
+      "units": "4a9807a4a722a88b",
+      "options": "bf5047b0a5c65691",
+      "reference": "82f696ce26bc31cf",
+      "archetype": "1d8fc6ceb1f94c63",
+      "captures": "8a8dfa842439470e",
+      "instruments": "eb81d8f0db728617",
+      "page content": "bea144c63fb01cdf",
+      "shared code": "017195a7628ed43c",
+      "block legal-accordion": "5e78a373751364d0"
+    },
+    "probes": {
+      "content": {
+        "totals": {
+          "missingHeadings": 0,
+          "hiddenHeadings": 0,
+          "extraHeadings": 0,
+          "missingLinks": 0,
+          "hiddenLinks": 0,
+          "movedLinks": 0,
+          "extraLinks": 0,
+          "missingButtons": 0,
+          "hiddenButtons": 0,
+          "controlState": 0,
+          "countDeltas": 0,
+          "findings": 0,
+          "structural": 0,
+          "missing": 0,
+          "hidden": 0
+        },
+        "variable": [],
+        "reason": null,
+        "tier": "chrome"
+      },
+      "clip": {
+        "counts": {
+          "textClipped": 0,
+          "textHidden": 0,
+          "controlHidden": 0,
+          "controlClipped": 0,
+          "clamped": 0,
+          "collapsed": 0,
+          "scrollHidden": 0,
+          "horizontal": 0,
+          "offPage": 8,
+          "textNodes": 68,
+          "controls": 22,
+          "total": 0
+        },
+        "groups": [],
+        "origin": {
+          "textClipped": 0,
+          "textHidden": 0,
+          "controlHidden": 0,
+          "controlClipped": 0,
+          "clamped": 0,
+          "collapsed": 0,
+          "scrollHidden": 0,
+          "horizontal": 0,
+          "offPage": 8,
+          "textNodes": 68,
+          "controls": 22,
+          "total": 0
+        },
+        "source": "content-presence"
+      },
+      "units": {
+        "verdict": {
+          "units": 14,
+          "within": 42,
+          "off": 0,
+          "hidden": 0,
+          "missing": 0,
+          "errors": 0,
+          "requiredOff": 0
+        },
+        "required": true,
+        "errors": []
+      }
+    },
+    "at": "2026-11-25T14:45:00.569Z"
+  }
+}

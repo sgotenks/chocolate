@@ -1,0 +1,55 @@
+{
+  "round": "iter2",
+  "width": 360,
+  "stage": "prototype",
+  "pixel": {
+    "rc": 0,
+    "diff": "stardust/replica/gates/us-en-about-wonka-360/diff-iter2.png",
+    "json": "stardust/replica/gates/us-en-about-wonka-360/pixel-iter2.json",
+    "pct": 0.49,
+    "alignedPct": 0.49,
+    "alignedUsed": false,
+    "totalShift": 0,
+    "steps": [],
+    "offsetBound": null,
+    "maskedRows": 0,
+    "noiseFloor": 0,
+    "reason": null
+  },
+  "reference": {
+    "origin": "frozen",
+    "capturedAt": "2026-11-25T11:11:17.407Z",
+    "primed": true,
+    "stable": true,
+    "maskArg": ""
+  },
+  "probes": {
+    "content-diff": {
+      "rc": 0,
+      "evidence": "stardust/replica/gates/us-en-about-wonka-360/content-diff-iter2.txt"
+    },
+    "visual-diff": {
+      "rc": 0,
+      "evidence": "stardust/replica/gates/us-en-about-wonka-360/visual-diff-iter2.txt"
+    },
+    "chrome-parity": {
+      "rc": 0,
+      "evidence": "stardust/replica/gates/us-en-about-wonka-360/chrome-parity-iter2.txt"
+    },
+    "clip-probe": {
+      "rc": 0,
+      "evidence": "stardust/replica/gates/us-en-about-wonka-360/clip-iter2.txt"
+    },
+    "unit-geometry": {
+      "rc": 0,
+      "evidence": "stardust/replica/gates/us-en-about-wonka-360/units-iter2.txt"
+    },
+    "header-contract": {
+      "rc": 2,
+      "evidence": "stardust/replica/gates/us-en-about-wonka-360/header-contract-iter2.txt"
+    }
+  },
+  "structural": 0,
+  "nothingLost": 0,
+  "at": "2026-11-25T11:14:41.563Z"
+}

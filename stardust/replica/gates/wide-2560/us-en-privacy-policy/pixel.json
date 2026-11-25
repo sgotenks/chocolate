@@ -1,0 +1,143 @@
+{
+  "a": "stardust/replica/gates/wide-2560/us-en-privacy-policy/origin.png",
+  "b": "stardust/replica/gates/wide-2560/us-en-privacy-policy/eds.png",
+  "compared": {
+    "width": 2560,
+    "height": 1432,
+    "mode": "overlap"
+  },
+  "heightDelta": 1,
+  "differingPixels": 4337,
+  "pct": 0.12,
+  "threshold": 10,
+  "pass": true,
+  "diff": "stardust/replica/gates/wide-2560/us-en-privacy-policy/diff.png",
+  "masks": [],
+  "maskedRows": 0,
+  "textPct": null,
+  "textBoxes": null,
+  "textPixels": null,
+  "bands": [
+    {
+      "y0": 0,
+      "y1": 500,
+      "pct": 0.2
+    },
+    {
+      "y0": 500,
+      "y1": 1000,
+      "pct": 0.1
+    },
+    {
+      "y0": 1000,
+      "y1": 1432,
+      "pct": 0
+    }
+  ],
+  "verdict": "aligned",
+  "aligned": {
+    "used": false,
+    "pct": 0.12,
+    "differingPixels": 4337,
+    "compared": {
+      "width": 2560,
+      "height": 1432,
+      "mode": "overlap"
+    },
+    "steps": [],
+    "maxOffset": 0,
+    "totalShift": 0,
+    "insertedRows": 0,
+    "deletedRows": 0,
+    "bands": [
+      {
+        "y0": 0,
+        "y1": 500,
+        "pct": 0.2,
+        "unaligned": 0.2
+      },
+      {
+        "y0": 500,
+        "y1": 1000,
+        "pct": 0.1,
+        "unaligned": 0.1
+      },
+      {
+        "y0": 1000,
+        "y1": 1432,
+        "pct": 0,
+        "unaligned": 0
+      }
+    ],
+    "diff": null,
+    "reason": "aligned number not lower than the unaligned one",
+    "candidate": {
+      "pct": 0.19,
+      "steps": 1,
+      "totalShift": 1
+    }
+  },
+  "offsets": {
+    "bound": null,
+    "totalShift": 0,
+    "pass": true
+  },
+  "reason": null,
+  "capturesDropped": {
+    "masks": [],
+    "edsUrl": "https://main--a6216fe5--aemcoder.aem.live/us/en/privacy-policy",
+    "key": {
+      "v": 3,
+      "build": "https://main--a6216fe5--aemcoder.aem.live/us/en/privacy-policy",
+      "source": "https://www.wonka.com/us/en/privacy-policy",
+      "masks": "74234e98afe7498f",
+      "presence": "74234e98afe7498f",
+      "clipAllow": "74234e98afe7498f",
+      "override": "74234e98afe7498f",
+      "units": "274ab188b0d04c39",
+      "options": "00da2efd9f3b6bfe",
+      "reference": "39c878b9866a3acc",
+      "archetype": "1d8fc6ceb1f94c63",
+      "captures": "3fc2d9f297da40da",
+      "instruments": "eb81d8f0db728617",
+      "page content": "74644e829057d975",
+      "shared code": "017195a7628ed43c",
+      "block legal-accordion": "15a5dfca0c409628"
+    },
+    "probes": {
+      "clip": {
+        "counts": {
+          "textClipped": 0,
+          "textHidden": 0,
+          "controlHidden": 0,
+          "controlClipped": 0,
+          "clamped": 0,
+          "collapsed": 0,
+          "scrollHidden": 0,
+          "horizontal": 0,
+          "offPage": 0,
+          "textNodes": 34,
+          "controls": 14,
+          "total": 0
+        },
+        "groups": [],
+        "source": "clip-probe",
+        "tier": "chrome"
+      },
+      "units": {
+        "verdict": {
+          "units": 13,
+          "within": 13,
+          "off": 0,
+          "hidden": 0,
+          "missing": 0,
+          "errors": 0,
+          "requiredOff": 0
+        },
+        "required": true,
+        "errors": []
+      }
+    },
+    "at": "2026-11-25T12:42:38.599Z"
+  }
+}

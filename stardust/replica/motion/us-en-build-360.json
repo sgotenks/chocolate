@@ -1,0 +1,427 @@
+{
+  "url": "http://localhost:8791/us-en-proposed.html",
+  "width": 360,
+  "headerTimeline": [
+    {
+      "y": 0,
+      "cls": "site-header",
+      "position": "absolute",
+      "height": "62px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 0,
+      "cls": "site-header",
+      "position": "absolute",
+      "height": "62px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 1200,
+      "cls": "site-header",
+      "position": "absolute",
+      "height": "62px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 2400,
+      "cls": "site-header",
+      "position": "absolute",
+      "height": "62px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 3600,
+      "cls": "site-header",
+      "position": "absolute",
+      "height": "62px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 3529,
+      "cls": "site-header",
+      "position": "absolute",
+      "height": "62px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 2029,
+      "cls": "site-header",
+      "position": "absolute",
+      "height": "62px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 2400,
+      "cls": "site-header",
+      "position": "absolute",
+      "height": "62px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 1200,
+      "cls": "site-header",
+      "position": "absolute",
+      "height": "62px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 800,
+      "cls": "site-header",
+      "position": "absolute",
+      "height": "62px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 500,
+      "cls": "site-header",
+      "position": "absolute",
+      "height": "62px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 300,
+      "cls": "site-header",
+      "position": "absolute",
+      "height": "62px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 200,
+      "cls": "site-header",
+      "position": "absolute",
+      "height": "62px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 150,
+      "cls": "site-header",
+      "position": "absolute",
+      "height": "62px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 120,
+      "cls": "site-header",
+      "position": "absolute",
+      "height": "62px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 90,
+      "cls": "site-header",
+      "position": "absolute",
+      "height": "62px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 60,
+      "cls": "site-header",
+      "position": "absolute",
+      "height": "62px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 30,
+      "cls": "site-header",
+      "position": "absolute",
+      "height": "62px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 0,
+      "cls": "site-header",
+      "position": "absolute",
+      "height": "62px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    }
+  ],
+  "widgetSamples": [
+    {
+      "sel": "[data-portal-cta]",
+      "frames": [
+        {
+          "t": 10366.099999997765,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        },
+        {
+          "t": 10569.29999999702,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        },
+        {
+          "t": 10772.199999999255,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        },
+        {
+          "t": 10975.199999999255,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        }
+      ]
+    },
+    {
+      "sel": "[data-mnav-toggle]",
+      "frames": [
+        {
+          "t": 11988.89999999851,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        },
+        {
+          "t": 12192.39999999851,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        },
+        {
+          "t": 12394.699999999255,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        },
+        {
+          "t": 12597.5,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        }
+      ]
+    }
+  ],
+  "hoverSamples": [],
+  "media": {
+    "videos": [
+      {
+        "src": "http://localhost:8791/assets/media/hat-portal-stars-idle.mp4",
+        "autoplay": true,
+        "loop": true,
+        "muted": true,
+        "paused": false,
+        "currentTime": 2.6459,
+        "readyState": 4,
+        "inViewport": true,
+        "currentTimeAfter": 4.1533,
+        "playing": true
+      },
+      {
+        "src": "http://localhost:8791/assets/media/hat-mobile-animHat.webm",
+        "autoplay": false,
+        "loop": false,
+        "muted": true,
+        "paused": true,
+        "currentTime": 0,
+        "readyState": 4,
+        "inViewport": false,
+        "currentTimeAfter": 0,
+        "playing": false
+      }
+    ],
+    "idleClassMutations": [],
+    "idleClassMutationCount": 0
+  },
+  "events": {
+    "animations": [],
+    "transitions": [
+      {
+        "prop": "transform",
+        "el": "div.page > div.portal > div.portal__scene > div.portal__overlay > div.portal__hat-layer",
+        "y": 0,
+        "dur": "1.6s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.page > div.portal > div.portal__scene > div.portal__overlay > div.portal__cta-wrap",
+        "y": 0,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.page > div.portal > div.portal__scene > div.portal__overlay > button.portal__swipe",
+        "y": 0,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "html.portal-active > body > div.page > div.portal > div.portal__scene",
+        "y": 0,
+        "dur": "0.5s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.mnav__stage > div.mnav__chrome > button.mnav__toggle > span.mnav__bars > span",
+        "y": 0,
+        "dur": "0.3s, 0.3s, 0.3s"
+      },
+      {
+        "prop": "top",
+        "el": "div.mnav__stage > div.mnav__chrome > button.mnav__toggle > span.mnav__bars > span",
+        "y": 0,
+        "dur": "0.3s, 0.3s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.mnav__stage > div.mnav__chrome > button.mnav__toggle > span.mnav__bars > span",
+        "y": 0,
+        "dur": "0.3s, 0.3s, 0.3s"
+      },
+      {
+        "prop": "top",
+        "el": "div.mnav__stage > div.mnav__chrome > button.mnav__toggle > span.mnav__bars > span",
+        "y": 0,
+        "dur": "0.3s, 0.3s, 0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.mnav__stage > div.mnav__chrome > button.mnav__toggle > span.mnav__bars > span",
+        "y": 0,
+        "dur": "0.3s, 0.3s, 0.3s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.page__frame > div.site-nav > div.mnav > div.mnav__stage > div.mnav__surface",
+        "y": 0,
+        "dur": "0.7s"
+      },
+      {
+        "prop": "left",
+        "el": "div.site-nav > div.mnav > div.mnav__stage > div.mnav__chrome > a.mnav__logo",
+        "y": 0,
+        "dur": "0.7s, 0.7s"
+      },
+      {
+        "prop": "top",
+        "el": "div.site-nav > div.mnav > div.mnav__stage > div.mnav__chrome > a.mnav__logo",
+        "y": 0,
+        "dur": "0.7s, 0.7s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.site-nav > div.mnav > div.mnav__stage > div.mnav__surface > div.mnav__content",
+        "y": 0,
+        "dur": "0.45s, 0.35s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.site-nav > div.mnav > div.mnav__stage > div.mnav__surface > div.mnav__content",
+        "y": 0,
+        "dur": "0.45s, 0.35s"
+      }
+    ],
+    "classMutations": [
+      {
+        "added": [
+          "is-busy"
+        ],
+        "el": "div.portal__scene > div.portal__overlay > div.portal__cta-wrap > div.portal__cta-slot.portal__cta-slot--hat > button.btn.btn--lg.btn--gold",
+        "y": 0
+      },
+      {
+        "added": [
+          "has-overlay"
+        ],
+        "el": "html.portal-active.has-overlay",
+        "y": 0
+      }
+    ]
+  }
+}

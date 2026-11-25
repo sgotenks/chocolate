@@ -1,0 +1,101 @@
+{
+  "writtenBy": "skills/replica/scripts/reference.mjs freeze",
+  "schema": 1,
+  "capturedAt": "2026-11-25T12:40:49.872Z",
+  "url": "https://www.wonka.com/us/en/",
+  "width": 2560,
+  "vh": 900,
+  "height": 4206,
+  "settle": true,
+  "chunks": 5,
+  "fontsFailed": [],
+  "deadFaces": [],
+  "fixedLayers": {
+    "capture": "once",
+    "count": 7,
+    "late": 0
+  },
+  "timers": {
+    "hold": 2000,
+    "held": 6,
+    "intervals": 4,
+    "chains": 2,
+    "delays": [
+      5000,
+      86400000
+    ]
+  },
+  "primed": true,
+  "prime": {
+    "height": 4206,
+    "pct": 6.79,
+    "heightDelta": 0
+  },
+  "captures": 2,
+  "heights": [
+    4206,
+    4206
+  ],
+  "noiseFloor": 1.45,
+  "heightSpread": 0,
+  "outside": 0.05,
+  "variable": [
+    {
+      "y": 212,
+      "h": 56,
+      "pct": 2
+    },
+    {
+      "y": 452,
+      "h": 196,
+      "pct": 1.7
+    },
+    {
+      "y": 892,
+      "h": 136,
+      "pct": 1
+    },
+    {
+      "y": 1052,
+      "h": 756,
+      "pct": 4.6
+    },
+    {
+      "y": 2012,
+      "h": 56,
+      "pct": 2
+    },
+    {
+      "y": 2252,
+      "h": 196,
+      "pct": 1.7
+    },
+    {
+      "y": 2692,
+      "h": 1514,
+      "pct": 7.6
+    }
+  ],
+  "variableShare": 69.19,
+  "maskArg": "212:56,452:196,892:136,1052:756,2012:56,2252:196,2692:1514",
+  "stable": false,
+  "reason": "69.19% of the rows differ between captures (bar 50%)",
+  "frozenAt": "2026-11-25T12:41:26.730Z",
+  "flags": {
+    "consent": null,
+    "dismiss": null,
+    "noDismiss": false,
+    "locale": "en-US",
+    "vh": null,
+    "headed": true,
+    "holdTimers": 2000
+  },
+  "thresholds": {
+    "floorMax": 1,
+    "heightMax": 8,
+    "variableMax": 50,
+    "band": 20,
+    "bandMin": 0.5,
+    "pad": 8
+  }
+}

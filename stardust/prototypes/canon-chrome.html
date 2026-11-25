@@ -1,0 +1,88 @@
+<!-- canon-chrome.html — shared site chrome for every www.wonka.com/us/en archetype.
+     Copy the HEADER block as the first children of <div class="page__frame"> and the FOOTER block as its last child.
+     Needs canon.css + canon-chrome.css + canon-chrome.js. Asset paths are relative to stardust/prototypes/. -->
+
+<!-- HEADER -->
+<div class="status-tint" aria-hidden="true"></div>
+<div class="site-nav" data-site-nav>
+  <div class="mnav" id="mobile-menu" data-mnav data-open="false" role="dialog" aria-modal="true" aria-label="Mobile navigation">
+    <div class="mnav__stage">
+      <div class="mnav__surface">
+        <div class="mnav__content" data-mnav-content inert>
+          <nav class="mnav__links" aria-label="Mobile navigation">
+            <a class="btn btn--text" href="/us/en/"><span>Home</span></a>
+            <a class="btn btn--text" href="/us/en/about-wonka"><span>About Wonka</span></a>
+            <a class="btn btn--text" href="https://www.wonka.com/us/en/xp/golden-ticket/" target="_blank" rel="noopener noreferrer"><span>Golden Ticket Sweepstakes</span></a>
+          </nav>
+          <img class="mnav__star" src="assets/media/decorative-star.svg" alt="" width="24" height="24" aria-hidden="true">
+          <div class="mnav__social">
+            <p>Follow us</p>
+            <div class="mnav__social-row">
+              <a class="btn btn--md btn--blurred" href="https://www.instagram.com/wonka_usa" target="_blank" rel="noopener noreferrer" aria-label="Instagram"><span class="btn__icon" aria-hidden="true"><img src="assets/media/social-instagram.svg" alt="Instagram"></span></a>
+              <a class="btn btn--md btn--blurred" href="https://www.tiktok.com/@wonka_usa" target="_blank" rel="noopener noreferrer" aria-label="Tik Tok"><span class="btn__icon" aria-hidden="true"><img src="assets/media/social-tiktok.svg" alt="Tik Tok"></span></a>
+            </div>
+          </div>
+          <img class="mnav__star" src="assets/media/decorative-star.svg" alt="" width="24" height="24" aria-hidden="true">
+          <div class="mnav__legal" aria-label="Footer links">
+            <a class="legal-link" href="/us/en/privacy-policy"><span class="gold-link" data-content="Privacy Policy">Privacy Policy</span></a>
+            <a class="legal-link" href="/us/en/terms-of-use"><span class="gold-link" data-content="Terms of Use">Terms of Use</span></a>
+            <a class="legal-link" href="/us/en/cookie-policy"><span class="gold-link" data-content="Cookie Policy">Cookie Policy</span></a>
+            <a class="legal-link" href="#ot-sdk-show-settings"><span class="gold-link" data-content="Do Not Sell or Share My Personal Information">Do Not Sell or Share My Personal Information</span></a>
+            <a class="legal-link" href="https://www.ferrero.com/us/en/contact-us" target="_blank" rel="noopener noreferrer"><span class="gold-link" data-content="Contact Us">Contact Us</span></a>
+          </div>
+          <div class="mnav__copy">© 2026 Ferrero Group. All Rights Reserved.</div>
+        </div>
+      </div>
+      <div class="mnav__chrome">
+        <div class="mnav__chrome-bg" aria-hidden="true">
+          <svg height="62" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><path fill="#980186" d="M170.299 35.5243C171.034 25.8724 170.299 12.7351 189.285 12.7351H375V0H0V12.7351H39.9527C55.8764 12.7351 55.4276 27.1459 55.4276 35.5243C55.1826 53.2193 72.9818 62 80.0259 62H147.946C164.482 60.3243 169.38 47.5891 170.299 35.5243Z"/></svg>
+        </div>
+        <a class="mnav__logo" href="/us/en/" aria-label="Golden Wonka brand logo"><img src="assets/media/wonka-logo.svg" alt="Golden Wonka brand logo"></a>
+        <button class="mnav__toggle" type="button" data-mnav-toggle aria-expanded="false" aria-controls="mobile-menu" aria-label="Open menu">
+          <span class="mnav__bars" aria-hidden="true"><span></span><span></span><span></span></span>
+        </button>
+      </div>
+    </div>
+  </div>
+  <header class="site-header">
+    <div class="site-header__band" aria-hidden="true"></div>
+    <svg class="site-header__tab" viewBox="0 0 189.285 62" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><path fill="#980186" d="M170.299 35.5243C171.034 25.8724 170.299 12.7351 189.285 12.7351V0H0V12.7351H39.9527C55.8764 12.7351 55.4276 27.1459 55.4276 35.5243C55.1826 53.2193 72.9818 62 80.0259 62H147.946C164.482 60.3243 169.38 47.5891 170.299 35.5243Z"/></svg>
+    <a class="site-header__logo" href="/us/en/" aria-label="Golden Wonka brand logo"><img src="assets/media/wonka-logo.svg" alt="Golden Wonka brand logo"></a>
+    <nav class="site-header__nav" aria-label="Main navigation">
+      <a href="/us/en/"><span class="gold-link" data-content="Home">Home</span></a>
+      <a href="/us/en/about-wonka"><span class="gold-link" data-content="About Wonka">About Wonka</span></a>
+      <a href="https://www.wonka.com/us/en/xp/golden-ticket/" target="_blank" rel="noopener noreferrer"><span class="gold-link" data-content="Golden Ticket Sweepstakes">Golden Ticket Sweepstakes</span></a>
+    </nav>
+  </header>
+</div>
+<!-- /HEADER -->
+
+<!-- FOOTER -->
+<div class="page__footer" data-cloud-avoid>
+  <footer class="site-footer" role="contentinfo">
+    <div class="site-footer__body">
+      <div class="site-footer__top">
+        <a class="site-footer__logo" href="/us/en/"><img src="assets/media/wonka-logo.svg" alt="Golden Wonka brand logo"></a>
+        <div class="site-footer__social">
+          <p>Follow us</p>
+          <div class="site-footer__social-row">
+            <a class="btn btn--md btn--blurred" href="https://www.instagram.com/wonka_usa" target="_blank" rel="noopener noreferrer" aria-label="Instagram"><span class="btn__icon" aria-hidden="true"><img src="assets/media/social-instagram.svg" alt="Instagram"></span></a>
+            <a class="btn btn--md btn--blurred" href="https://www.tiktok.com/@wonka_usa" target="_blank" rel="noopener noreferrer" aria-label="Tik Tok"><span class="btn__icon" aria-hidden="true"><img src="assets/media/social-tiktok.svg" alt="Tik Tok"></span></a>
+          </div>
+        </div>
+      </div>
+      <div class="site-footer__star" aria-hidden="true">
+        <svg viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M8 0L9.41 6.59L16 8L9.41 9.41L8 16L6.59 9.41L0 8L6.59 6.59L8 0Z"/></svg>
+      </div>
+      <div class="site-footer__links" aria-label="Footer links">
+        <a class="legal-link" href="/us/en/privacy-policy"><span class="gold-link" data-content="Privacy Policy">Privacy Policy</span></a>
+        <a class="legal-link" href="/us/en/terms-of-use"><span class="gold-link" data-content="Terms of Use">Terms of Use</span></a>
+        <a class="legal-link" href="/us/en/cookie-policy"><span class="gold-link" data-content="Cookie Policy">Cookie Policy</span></a>
+        <a class="legal-link" href="#ot-sdk-show-settings"><span class="gold-link" data-content="Do Not Sell or Share My Personal Information">Do Not Sell or Share My Personal Information</span></a>
+        <a class="legal-link" href="https://www.ferrero.com/us/en/contact-us" target="_blank" rel="noopener noreferrer"><span class="gold-link" data-content="Contact Us">Contact Us</span></a>
+      </div>
+    </div>
+    <div class="site-footer__copy">© 2026 Ferrero Group. All Rights Reserved.</div>
+  </footer>
+</div>
+<!-- /FOOTER -->

@@ -1,0 +1,3414 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-25T14:42:41.820Z",
+  "width": 1440,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://www.wonka.com/us/en/cookie-policy",
+  "at": "2026-11-25T14:42:41.747Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 2811,
+  "root": "main.w-full",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.pointer-events-none.fixed > header.pointer-events-none.absolute > a.pointer-events-auto.absolute",
+    "x": 75,
+    "y": 11,
+    "w": 70,
+    "h": 40,
+    "text": "golden wonka brand logo",
+    "href": "/us/en/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "header.pointer-events-none.absolute > a.pointer-events-auto.absolute > img.h-10.w-auto",
+    "x": 75,
+    "y": 11,
+    "w": 70,
+    "h": 40,
+    "text": "golden wonka brand logo",
+    "file": "wonka-logo"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "header.pointer-events-none.absolute > nav.pointer-events-auto.absolute > a.text-body-md.font-bold",
+    "x": 210,
+    "y": 36,
+    "w": 46,
+    "h": 16,
+    "text": "home",
+    "href": "/us/en/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "header.pointer-events-none.absolute > nav.pointer-events-auto.absolute > a.text-body-md.font-bold",
+    "x": 280,
+    "y": 36,
+    "w": 106,
+    "h": 16,
+    "text": "about wonka",
+    "href": "/us/en/about-wonka"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "header.pointer-events-none.absolute > nav.pointer-events-auto.absolute > a.text-body-md.font-bold",
+    "x": 410,
+    "y": 36,
+    "w": 217,
+    "h": 16,
+    "text": "golden ticket sweepstakes",
+    "href": "/us/en/xp/golden-ticket/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ml-0.flex > header.flex.flex-col > h1.font-heading.text-[42px]",
+    "x": 150,
+    "y": 144,
+    "w": 800,
+    "h": 42,
+    "level": 1,
+    "text": "cookie policy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "section#otnotice-section-8e84b3ea-15db-44a6-bbd9-9edec4b1af84 > div.otnotice-section-content > p#isPasted",
+    "x": 166,
+    "y": 202,
+    "w": 768,
+    "h": 48,
+    "text": "This Cookie Policy explains what cookies are, which types of cookies are being u"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.otnotice-section-content > p > strong",
+    "x": 166,
+    "y": 268,
+    "w": 171,
+    "h": 20,
+    "text": "WHAT ARE COOKIES?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "section#otnotice-section-8e84b3ea-15db-44a6-bbd9-9edec4b1af84 > div.otnotice-section-content > p",
+    "x": 166,
+    "y": 306,
+    "w": 768,
+    "h": 96,
+    "text": "Cookies and similar technologies such as pixels or tags (together ‘cookies’) are"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "section#otnotice-section-8e84b3ea-15db-44a6-bbd9-9edec4b1af84 > div.otnotice-section-content > p",
+    "x": 166,
+    "y": 418,
+    "w": 768,
+    "h": 96,
+    "text": "Strictly necessary cookies are cookies that are essential for a website to work "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "section#otnotice-section-8e84b3ea-15db-44a6-bbd9-9edec4b1af84 > div.otnotice-section-content > p",
+    "x": 166,
+    "y": 530,
+    "w": 768,
+    "h": 144,
+    "text": "Other categories of cookies include, among others, functional cookies (i.e., to "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.otnotice-section-content > p > strong",
+    "x": 166,
+    "y": 692,
+    "w": 152,
+    "h": 20,
+    "text": "Lifespan of cookies"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "section#otnotice-section-8e84b3ea-15db-44a6-bbd9-9edec4b1af84 > div.otnotice-section-content > p",
+    "x": 166,
+    "y": 730,
+    "w": 768,
+    "h": 168,
+    "text": "Cookies may remain on users’ device for different periods of time. So-called “se"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.otnotice-section-content > p > strong",
+    "x": 166,
+    "y": 916,
+    "w": 259,
+    "h": 20,
+    "text": "First-party or third-party cookies"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "section#otnotice-section-8e84b3ea-15db-44a6-bbd9-9edec4b1af84 > div.otnotice-section-content > p",
+    "x": 166,
+    "y": 954,
+    "w": 768,
+    "h": 72,
+    "text": "Finally, a distinction can be made between first-party cookies and third-party c"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.otnotice-section-content > p > strong",
+    "x": 166,
+    "y": 1044,
+    "w": 266,
+    "h": 20,
+    "text": "COOKIES USED ON THIS WEBSITE"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "section#otnotice-section-8e84b3ea-15db-44a6-bbd9-9edec4b1af84 > div.otnotice-section-content > p",
+    "x": 166,
+    "y": 1082,
+    "w": 768,
+    "h": 96,
+    "text": "In this section, you can find out more about the cookies being used on this webs"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div#ot-sdk-cookie-policy > div#ot-sdk-cookie-policy-v2 > h3#cookie-policy-title",
+    "x": 166,
+    "y": 1234,
+    "w": 768,
+    "h": 24,
+    "level": 3,
+    "text": "cookie list"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div#ot-sdk-cookie-policy-v2 > section > h4.ot-sdk-cookie-policy-group",
+    "x": 166,
+    "y": 1287,
+    "w": 768,
+    "h": 24,
+    "level": 4,
+    "text": "strictly necessary cookies"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div#ot-sdk-cookie-policy-v2 > section > p.ot-sdk-cookie-policy-group-desc",
+    "x": 166,
+    "y": 1320,
+    "w": 768,
+    "h": 120,
+    "text": "These cookies are necessary for the website to function and cannot be switched o"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "thead > tr > th.ot-table-header.ot-host",
+    "x": 167,
+    "y": 1456,
+    "w": 192,
+    "h": 49,
+    "text": "Cookie Subgroup"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "thead > tr > th.ot-table-header.ot-cookies",
+    "x": 359,
+    "y": 1456,
+    "w": 266,
+    "h": 49,
+    "text": "Cookies"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "thead > tr > th.ot-table-header.ot-cookies-type",
+    "x": 625,
+    "y": 1456,
+    "w": 192,
+    "h": 49,
+    "text": "Cookies used"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "thead > tr > th.ot-table-header.ot-life-span",
+    "x": 817,
+    "y": 1456,
+    "w": 118,
+    "h": 49,
+    "text": "Lifespan"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tbody > tr > td.ot-host-td",
+    "x": 167,
+    "y": 1505,
+    "w": 192,
+    "h": 73,
+    "text": ".wonka.com/us"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "td.ot-cookies-td > span.ot-cookies-td-content > a",
+    "x": 374,
+    "y": 1517,
+    "w": 133,
+    "h": 20,
+    "text": "optanonconsent",
+    "href": "/cookies/OptanonConsent"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "td.ot-cookies-td > span.ot-cookies-td-content > a",
+    "x": 374,
+    "y": 1541,
+    "w": 182,
+    "h": 20,
+    "text": "optanonalertboxclosed",
+    "href": "/cookies/OptanonAlertBoxClosed"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td.ot-cookies-type > span.ot-cookies-type-td-content",
+    "x": 640,
+    "y": 1520,
+    "w": 70,
+    "h": 17,
+    "text": "First Party"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td.ot-life-span-td > span.ot-life-span-td-content",
+    "x": 832,
+    "y": 1520,
+    "w": 68,
+    "h": 41,
+    "text": "365 Days, 365 Days"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tbody > tr > td.ot-host-td",
+    "x": 167,
+    "y": 1578,
+    "w": 192,
+    "h": 97,
+    "text": "www.wonka.com"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td.ot-cookies-td > span.ot-cookies-td-content",
+    "x": 374,
+    "y": 1593,
+    "w": 216,
+    "h": 41,
+    "text": ", ,"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "td.ot-cookies-td > span.ot-cookies-td-content > a",
+    "x": 374,
+    "y": 1590,
+    "w": 212,
+    "h": 20,
+    "text": "mod_auth_openidc_session",
+    "href": "/cookies/mod_auth_openidc_session"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "td.ot-cookies-td > span.ot-cookies-td-content > a",
+    "x": 374,
+    "y": 1614,
+    "w": 87,
+    "h": 20,
+    "text": "xc-cookie",
+    "href": "/cookies/XC-Cookie"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "td.ot-cookies-td > span.ot-cookies-td-content > a",
+    "x": 469,
+    "y": 1614,
+    "w": 107,
+    "h": 20,
+    "text": "ts01xxxxxxxx",
+    "href": "/cookies/TS01xxxxxxxx"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td.ot-cookies-type > span.ot-cookies-type-td-content",
+    "x": 640,
+    "y": 1593,
+    "w": 70,
+    "h": 17,
+    "text": "First Party"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td.ot-life-span-td > span.ot-life-span-td-content",
+    "x": 832,
+    "y": 1593,
+    "w": 58,
+    "h": 65,
+    "text": "Session, Session, Session"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tbody > tr > td.ot-host-td",
+    "x": 167,
+    "y": 1675,
+    "w": 192,
+    "h": 73,
+    "text": "wonka.com"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "td.ot-cookies-td > span.ot-cookies-td-content > a",
+    "x": 374,
+    "y": 1687,
+    "w": 133,
+    "h": 20,
+    "text": "optanonconsent",
+    "href": "/cookies/OptanonConsent"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "td.ot-cookies-td > span.ot-cookies-td-content > a",
+    "x": 374,
+    "y": 1711,
+    "w": 182,
+    "h": 20,
+    "text": "optanonalertboxclosed",
+    "href": "/cookies/OptanonAlertBoxClosed"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td.ot-cookies-type > span.ot-cookies-type-td-content",
+    "x": 640,
+    "y": 1690,
+    "w": 70,
+    "h": 17,
+    "text": "First Party"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td.ot-life-span-td > span.ot-life-span-td-content",
+    "x": 832,
+    "y": 1690,
+    "w": 69,
+    "h": 41,
+    "text": "364 Days, 364 Days"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td.ot-host-td > a",
+    "x": 182,
+    "y": 1760,
+    "w": 124,
+    "h": 40,
+    "text": "privacyportal-eu.onetrust.com",
+    "href": "/host/privacyportal-eu.onetrust.com"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td.ot-cookies-td > span.ot-cookies-td-content",
+    "x": 374,
+    "y": 1763,
+    "w": 39,
+    "h": 17,
+    "text": "__cflb"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td.ot-cookies-type > span.ot-cookies-type-td-content",
+    "x": 640,
+    "y": 1763,
+    "w": 75,
+    "h": 17,
+    "text": "Third Party"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td.ot-life-span-td > span.ot-life-span-td-content",
+    "x": 832,
+    "y": 1763,
+    "w": 58,
+    "h": 41,
+    "text": "A few seconds"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td.ot-host-td > a",
+    "x": 182,
+    "y": 1833,
+    "w": 132,
+    "h": 20,
+    "text": "www.google.com",
+    "href": "/host/www.google.com"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td.ot-cookies-td > span.ot-cookies-td-content",
+    "x": 374,
+    "y": 1836,
+    "w": 104,
+    "h": 17,
+    "text": "_GRECAPTCHA"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td.ot-cookies-type > span.ot-cookies-type-td-content",
+    "x": 640,
+    "y": 1836,
+    "w": 75,
+    "h": 17,
+    "text": "Third Party"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td.ot-life-span-td > span.ot-life-span-td-content",
+    "x": 832,
+    "y": 1836,
+    "w": 61,
+    "h": 17,
+    "text": "179 Days"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div#ot-sdk-cookie-policy-v2 > section > h4.ot-sdk-cookie-policy-group",
+    "x": 166,
+    "y": 1902,
+    "w": 768,
+    "h": 24,
+    "level": 4,
+    "text": "performance measurement cookies"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div#ot-sdk-cookie-policy-v2 > section > p.ot-sdk-cookie-policy-group-desc",
+    "x": 166,
+    "y": 1935,
+    "w": 768,
+    "h": 96,
+    "text": "These cookies allow us to count visits and traffic sources so we can measure and"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "thead > tr > th.ot-table-header.ot-host",
+    "x": 167,
+    "y": 2047,
+    "w": 192,
+    "h": 49,
+    "text": "Cookie Subgroup"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "thead > tr > th.ot-table-header.ot-cookies",
+    "x": 359,
+    "y": 2047,
+    "w": 204,
+    "h": 49,
+    "text": "Cookies"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "thead > tr > th.ot-table-header.ot-cookies-type",
+    "x": 563,
+    "y": 2047,
+    "w": 192,
+    "h": 49,
+    "text": "Cookies used"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "thead > tr > th.ot-table-header.ot-life-span",
+    "x": 755,
+    "y": 2047,
+    "w": 180,
+    "h": 49,
+    "text": "Lifespan"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tbody > tr > td.ot-host-td",
+    "x": 167,
+    "y": 2096,
+    "w": 192,
+    "h": 48,
+    "text": "wonka.com"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "td.ot-cookies-td > span.ot-cookies-td-content > a",
+    "x": 374,
+    "y": 2108,
+    "w": 125,
+    "h": 20,
+    "text": "_ga_xxxxxxxxxx",
+    "href": "/cookies/_ga_xxxxxxxxxx"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "td.ot-cookies-td > span.ot-cookies-td-content > a",
+    "x": 507,
+    "y": 2108,
+    "w": 26,
+    "h": 20,
+    "text": "_ga",
+    "href": "/cookies/_ga"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td.ot-cookies-type > span.ot-cookies-type-td-content",
+    "x": 578,
+    "y": 2111,
+    "w": 70,
+    "h": 17,
+    "text": "First Party"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td.ot-life-span-td > span.ot-life-span-td-content",
+    "x": 770,
+    "y": 2111,
+    "w": 138,
+    "h": 17,
+    "text": "399 Days, 399 Days"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "section#otnotice-section-8e84b3ea-15db-44a6-bbd9-9edec4b1af84 > div.otnotice-section-content > button#ot-sdk-btn",
+    "x": 166,
+    "y": 2257,
+    "w": 406,
+    "h": 50,
+    "text": "do not sell or share my personal information"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.flex.flex-col > div.flex.w-full > a.flex.h-20",
+    "x": 516,
+    "y": 2546,
+    "w": 141,
+    "h": 80,
+    "text": "golden wonka brand logo",
+    "href": "/us/en/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.flex.w-full > a.flex.h-20 > img.h-20.w-auto",
+    "x": 516,
+    "y": 2546,
+    "w": 141,
+    "h": 80,
+    "text": "golden wonka brand logo",
+    "file": "wonka-logo"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.flex.w-full > div.flex.flex-col > p.text-body-md.text-white",
+    "x": 696,
+    "y": 2576,
+    "w": 72,
+    "h": 21,
+    "text": "Follow us"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.flex.flex-col > div.flex.items-center > a.inline-flex.shrink-0",
+    "x": 784,
+    "y": 2562,
+    "w": 62,
+    "h": 48,
+    "text": "instagram",
+    "href": "/wonka_usa"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a.inline-flex.shrink-0 > span.flex.shrink-0 > img.size-5",
+    "x": 805,
+    "y": 2576,
+    "w": 20,
+    "h": 20,
+    "text": "instagram",
+    "file": "social-instagram"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.flex.flex-col > div.flex.items-center > a.inline-flex.shrink-0",
+    "x": 862,
+    "y": 2562,
+    "w": 62,
+    "h": 48,
+    "text": "tik tok",
+    "href": "/@wonka_usa"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a.inline-flex.shrink-0 > span.flex.shrink-0 > img.size-5",
+    "x": 883,
+    "y": 2576,
+    "w": 20,
+    "h": 20,
+    "text": "tik tok",
+    "file": "social-tiktok"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.flex.flex-col > div.flex.w-full > a.pointer-events-auto",
+    "x": 241,
+    "y": 2690,
+    "w": 110,
+    "h": 24,
+    "text": "privacy policy",
+    "href": "/us/en/privacy-policy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.flex.flex-col > div.flex.w-full > a.pointer-events-auto",
+    "x": 399,
+    "y": 2690,
+    "w": 105,
+    "h": 24,
+    "text": "terms of use",
+    "href": "/us/en/terms-of-use"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.flex.flex-col > div.flex.w-full > a.pointer-events-auto",
+    "x": 553,
+    "y": 2690,
+    "w": 107,
+    "h": 24,
+    "text": "cookie policy",
+    "href": "/us/en/cookie-policy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.flex.flex-col > div.flex.w-full > a.pointer-events-auto",
+    "x": 707,
+    "y": 2690,
+    "w": 356,
+    "h": 24,
+    "text": "do not sell or share my personal information",
+    "href": "/us/en/cookie-policy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.flex.flex-col > div.flex.w-full > a.pointer-events-auto",
+    "x": 1111,
+    "y": 2690,
+    "w": 87,
+    "h": 24,
+    "text": "contact us",
+    "href": "/us/en/contact-us"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div > footer.relative.z-20 > div.w-full.bg-purple-500",
+    "x": 0,
+    "y": 2754,
+    "w": 1440,
+    "h": 56,
+    "text": "© 2026 Ferrero Group. All Rights Reserved."
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 71,
+    "controls": 24,
+    "total": 0
+   },
+   "groups": []
+  }
+ },
+ "eds": {
+  "url": "https://main--a6216fe5--aemcoder.aem.live/us/en/cookie-policy",
+  "at": "2026-11-25T14:42:41.492Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 2810,
+  "root": "main#main-content",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-nav > div.site-header > a.site-header-logo",
+    "x": 75,
+    "y": 11,
+    "w": 70,
+    "h": 40,
+    "text": "golden wonka brand logo",
+    "href": "/us/en/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header > a.site-header-logo > img",
+    "x": 75,
+    "y": 11,
+    "w": 70,
+    "h": 40,
+    "text": "golden wonka brand logo",
+    "file": "media_1470daf2e59196e25459cd013be128518e"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header > nav.site-header-nav > a",
+    "x": 210,
+    "y": 36,
+    "w": 46,
+    "h": 16,
+    "text": "home",
+    "href": "/us/en/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header > nav.site-header-nav > a",
+    "x": 280,
+    "y": 36,
+    "w": 106,
+    "h": 16,
+    "text": "about wonka",
+    "href": "/us/en/about-wonka"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header > nav.site-header-nav > a",
+    "x": 410,
+    "y": 36,
+    "w": 217,
+    "h": 16,
+    "text": "golden ticket sweepstakes",
+    "href": "/us/en/xp/golden-ticket/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.legal-accordion-container > div.default-content-wrapper > h1#cookie-policy",
+    "x": 150,
+    "y": 144,
+    "w": 800,
+    "h": 42,
+    "level": 1,
+    "text": "cookie policy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-accordion.cookies > div.legal-body.legal-body-cookies > p",
+    "x": 166,
+    "y": 202,
+    "w": 768,
+    "h": 48,
+    "text": "This Cookie Policy explains what cookies are, which types of cookies are being u"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-body.legal-body-cookies > p > strong",
+    "x": 166,
+    "y": 268,
+    "w": 171,
+    "h": 20,
+    "text": "WHAT ARE COOKIES?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-accordion.cookies > div.legal-body.legal-body-cookies > p",
+    "x": 166,
+    "y": 306,
+    "w": 768,
+    "h": 96,
+    "text": "Cookies and similar technologies such as pixels or tags (together ‘cookies’) are"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-accordion.cookies > div.legal-body.legal-body-cookies > p",
+    "x": 166,
+    "y": 418,
+    "w": 768,
+    "h": 96,
+    "text": "Strictly necessary cookies are cookies that are essential for a website to work "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-accordion.cookies > div.legal-body.legal-body-cookies > p",
+    "x": 166,
+    "y": 530,
+    "w": 768,
+    "h": 144,
+    "text": "Other categories of cookies include, among others, functional cookies (i.e., to "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-body.legal-body-cookies > p > strong",
+    "x": 166,
+    "y": 692,
+    "w": 152,
+    "h": 20,
+    "text": "Lifespan of cookies"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-accordion.cookies > div.legal-body.legal-body-cookies > p",
+    "x": 166,
+    "y": 730,
+    "w": 768,
+    "h": 168,
+    "text": "Cookies may remain on users’ device for different periods of time. So-called “se"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-body.legal-body-cookies > p > strong",
+    "x": 166,
+    "y": 916,
+    "w": 259,
+    "h": 20,
+    "text": "First-party or third-party cookies"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-accordion.cookies > div.legal-body.legal-body-cookies > p",
+    "x": 166,
+    "y": 954,
+    "w": 768,
+    "h": 72,
+    "text": "Finally, a distinction can be made between first-party cookies and third-party c"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-body.legal-body-cookies > p > strong",
+    "x": 166,
+    "y": 1044,
+    "w": 266,
+    "h": 20,
+    "text": "COOKIES USED ON THIS WEBSITE"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-accordion.cookies > div.legal-body.legal-body-cookies > p",
+    "x": 166,
+    "y": 1082,
+    "w": 768,
+    "h": 96,
+    "text": "In this section, you can find out more about the cookies being used on this webs"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-body.legal-body-cookies > div.legal-cookie-list > h3#cookie-list",
+    "x": 166,
+    "y": 1234,
+    "w": 768,
+    "h": 24,
+    "level": 3,
+    "text": "cookie list"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-body.legal-body-cookies > div.legal-cookie-list > h4#strictly-necessary-cookies",
+    "x": 166,
+    "y": 1287,
+    "w": 768,
+    "h": 24,
+    "level": 4,
+    "text": "strictly necessary cookies"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-body.legal-body-cookies > div.legal-cookie-list > p",
+    "x": 166,
+    "y": 1320,
+    "w": 768,
+    "h": 120,
+    "text": "These cookies are necessary for the website to function and cannot be switched o"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "thead > tr > th",
+    "x": 167,
+    "y": 1456,
+    "w": 192,
+    "h": 49,
+    "text": "Cookie Subgroup"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "thead > tr > th",
+    "x": 359,
+    "y": 1456,
+    "w": 266,
+    "h": 49,
+    "text": "Cookies"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "thead > tr > th",
+    "x": 625,
+    "y": 1456,
+    "w": 192,
+    "h": 49,
+    "text": "Cookies used"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "thead > tr > th",
+    "x": 817,
+    "y": 1456,
+    "w": 118,
+    "h": 49,
+    "text": "Lifespan"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 167,
+    "y": 1505,
+    "w": 192,
+    "h": 73,
+    "text": ".wonka.com/us"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "td > p > a",
+    "x": 374,
+    "y": 1518,
+    "w": 133,
+    "h": 20,
+    "text": "optanonconsent",
+    "href": "/cookies/OptanonConsent"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "td > p > a",
+    "x": 374,
+    "y": 1542,
+    "w": 182,
+    "h": 20,
+    "text": "optanonalertboxclosed",
+    "href": "/cookies/OptanonAlertBoxClosed"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 640,
+    "y": 1520,
+    "w": 70,
+    "h": 17,
+    "text": "First Party"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 832,
+    "y": 1520,
+    "w": 68,
+    "h": 41,
+    "text": "365 Days, 365 Days"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 167,
+    "y": 1578,
+    "w": 192,
+    "h": 97,
+    "text": "www.wonka.com"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 374,
+    "y": 1593,
+    "w": 216,
+    "h": 41,
+    "text": ", ,"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "td > p > a",
+    "x": 374,
+    "y": 1591,
+    "w": 212,
+    "h": 20,
+    "text": "mod_auth_openidc_session",
+    "href": "/cookies/mod_auth_openidc_session"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "td > p > a",
+    "x": 374,
+    "y": 1615,
+    "w": 87,
+    "h": 20,
+    "text": "xc-cookie",
+    "href": "/cookies/XC-Cookie"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "td > p > a",
+    "x": 469,
+    "y": 1615,
+    "w": 107,
+    "h": 20,
+    "text": "ts01xxxxxxxx",
+    "href": "/cookies/TS01xxxxxxxx"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 640,
+    "y": 1593,
+    "w": 70,
+    "h": 17,
+    "text": "First Party"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 832,
+    "y": 1593,
+    "w": 58,
+    "h": 65,
+    "text": "Session, Session, Session"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 167,
+    "y": 1675,
+    "w": 192,
+    "h": 73,
+    "text": "wonka.com"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "td > p > a",
+    "x": 374,
+    "y": 1688,
+    "w": 133,
+    "h": 20,
+    "text": "optanonconsent",
+    "href": "/cookies/OptanonConsent"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "td > p > a",
+    "x": 374,
+    "y": 1712,
+    "w": 182,
+    "h": 20,
+    "text": "optanonalertboxclosed",
+    "href": "/cookies/OptanonAlertBoxClosed"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 640,
+    "y": 1690,
+    "w": 70,
+    "h": 17,
+    "text": "First Party"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 832,
+    "y": 1690,
+    "w": 69,
+    "h": 41,
+    "text": "364 Days, 364 Days"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > a",
+    "x": 182,
+    "y": 1760,
+    "w": 124,
+    "h": 40,
+    "text": "privacyportal-eu.onetrust.com",
+    "href": "/host/privacyportal-eu.onetrust.com"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 374,
+    "y": 1763,
+    "w": 39,
+    "h": 17,
+    "text": "__cflb"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 640,
+    "y": 1763,
+    "w": 75,
+    "h": 17,
+    "text": "Third Party"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 832,
+    "y": 1763,
+    "w": 58,
+    "h": 41,
+    "text": "A few seconds"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > a",
+    "x": 182,
+    "y": 1833,
+    "w": 132,
+    "h": 20,
+    "text": "www.google.com",
+    "href": "/host/www.google.com"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 374,
+    "y": 1836,
+    "w": 104,
+    "h": 17,
+    "text": "_GRECAPTCHA"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 640,
+    "y": 1836,
+    "w": 75,
+    "h": 17,
+    "text": "Third Party"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 832,
+    "y": 1836,
+    "w": 61,
+    "h": 17,
+    "text": "179 Days"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-body.legal-body-cookies > div.legal-cookie-list > h4#performance-measurement-cookies",
+    "x": 166,
+    "y": 1902,
+    "w": 768,
+    "h": 24,
+    "level": 4,
+    "text": "performance measurement cookies"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-body.legal-body-cookies > div.legal-cookie-list > p",
+    "x": 166,
+    "y": 1935,
+    "w": 768,
+    "h": 96,
+    "text": "These cookies allow us to count visits and traffic sources so we can measure and"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "thead > tr > th",
+    "x": 167,
+    "y": 2047,
+    "w": 192,
+    "h": 49,
+    "text": "Cookie Subgroup"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "thead > tr > th",
+    "x": 359,
+    "y": 2047,
+    "w": 204,
+    "h": 49,
+    "text": "Cookies"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "thead > tr > th",
+    "x": 563,
+    "y": 2047,
+    "w": 192,
+    "h": 49,
+    "text": "Cookies used"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "thead > tr > th",
+    "x": 755,
+    "y": 2047,
+    "w": 180,
+    "h": 49,
+    "text": "Lifespan"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 167,
+    "y": 2096,
+    "w": 192,
+    "h": 48,
+    "text": "wonka.com"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "td > p > a",
+    "x": 374,
+    "y": 2109,
+    "w": 125,
+    "h": 20,
+    "text": "_ga_xxxxxxxxxx",
+    "href": "/cookies/_ga_xxxxxxxxxx"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "td > p > a",
+    "x": 507,
+    "y": 2109,
+    "w": 26,
+    "h": 20,
+    "text": "_ga",
+    "href": "/cookies/_ga"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 578,
+    "y": 2111,
+    "w": 70,
+    "h": 17,
+    "text": "First Party"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 770,
+    "y": 2111,
+    "w": 138,
+    "h": 17,
+    "text": "399 Days, 399 Days"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-body.legal-body-cookies > p > span.legal-consent-btn",
+    "x": 166,
+    "y": 2257,
+    "w": 406,
+    "h": 50,
+    "text": "do not sell or share my personal information"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-body > div.site-footer-top > a.site-footer-logo",
+    "x": 516,
+    "y": 2546,
+    "w": 141,
+    "h": 80,
+    "text": "golden wonka brand logo",
+    "href": "/us/en/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-top > a.site-footer-logo > img",
+    "x": 516,
+    "y": 2546,
+    "w": 141,
+    "h": 80,
+    "text": "golden wonka brand logo",
+    "file": "media_1470daf2e59196e25459cd013be128518e"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-top > div.site-footer-social > p",
+    "x": 696,
+    "y": 2576,
+    "w": 72,
+    "h": 21,
+    "text": "Follow us"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-social > div.site-footer-social-row > a.btn.btn-md",
+    "x": 784,
+    "y": 2562,
+    "w": 62,
+    "h": 48,
+    "text": "instagram",
+    "href": "/wonka_usa"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a.btn.btn-md > span.icon.icon-social-instagram > img",
+    "x": 805,
+    "y": 2576,
+    "w": 20,
+    "h": 20,
+    "text": "",
+    "file": "social-instagram"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-social > div.site-footer-social-row > a.btn.btn-md",
+    "x": 862,
+    "y": 2562,
+    "w": 62,
+    "h": 48,
+    "text": "tik tok",
+    "href": "/@wonka_usa"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a.btn.btn-md > span.icon.icon-social-tiktok > img",
+    "x": 883,
+    "y": 2576,
+    "w": 20,
+    "h": 20,
+    "text": "",
+    "file": "social-tiktok"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-body > div.site-footer-links > a.legal-link",
+    "x": 241,
+    "y": 2690,
+    "w": 110,
+    "h": 24,
+    "text": "privacy policy",
+    "href": "/us/en/privacy-policy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-body > div.site-footer-links > a.legal-link",
+    "x": 399,
+    "y": 2690,
+    "w": 105,
+    "h": 24,
+    "text": "terms of use",
+    "href": "/us/en/terms-of-use"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-body > div.site-footer-links > a.legal-link",
+    "x": 553,
+    "y": 2690,
+    "w": 107,
+    "h": 24,
+    "text": "cookie policy",
+    "href": "/us/en/cookie-policy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-body > div.site-footer-links > a.legal-link",
+    "x": 707,
+    "y": 2690,
+    "w": 356,
+    "h": 24,
+    "text": "do not sell or share my personal information",
+    "href": "/us/en/cookie-policy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-body > div.site-footer-links > a.legal-link",
+    "x": 1111,
+    "y": 2690,
+    "w": 87,
+    "h": 24,
+    "text": "contact us",
+    "href": "/us/en/contact-us"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.page-footer > div.site-footer > div.site-footer-copy",
+    "x": 0,
+    "y": 2754,
+    "w": 1440,
+    "h": 56,
+    "text": "© 2026 Ferrero Group. All Rights Reserved."
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 71,
+    "controls": 24,
+    "total": 0
+   },
+   "groups": [],
+   "findings": []
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 1,
+   "heading": "cookie policy",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 11,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 11,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 2,
+   "heading": "cookie list",
+   "variable": false,
+   "origin": {
+    "link": 11,
+    "button": 1,
+    "text": 29,
+    "image": 0
+   },
+   "eds": {
+    "link": 11,
+    "linkHidden": 0,
+    "button": 1,
+    "buttonHidden": 0,
+    "text": 29,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  }
+ ],
+ "findings": [],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 0,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 0,
+  "missingButtons": 0,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 0,
+  "findings": 0,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 210,
+    "y": 34,
+    "w": 46,
+    "h": 20
+   },
+   {
+    "x": 280,
+    "y": 34,
+    "w": 106,
+    "h": 20
+   },
+   {
+    "x": 410,
+    "y": 34,
+    "w": 217,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 140,
+    "w": 323,
+    "h": 49
+   },
+   {
+    "x": 166,
+    "y": 204,
+    "w": 763,
+    "h": 20
+   },
+   {
+    "x": 166,
+    "y": 228,
+    "w": 679,
+    "h": 20
+   },
+   {
+    "x": 166,
+    "y": 268,
+    "w": 171,
+    "h": 20
+   },
+   {
+    "x": 166,
+    "y": 308,
+    "w": 697,
+    "h": 20
+   },
+   {
+    "x": 166,
+    "y": 332,
+    "w": 763,
+    "h": 20
+   },
+   {
+    "x": 166,
+    "y": 356,
+    "w": 703,
+    "h": 20
+   },
+   {
+    "x": 166,
+    "y": 380,
+    "w": 536,
+    "h": 20
+   },
+   {
+    "x": 166,
+    "y": 420,
+    "w": 171,
+    "h": 20
+   },
+   {
+    "x": 166,
+    "y": 444,
+    "w": 711,
+    "h": 20
+   },
+   {
+    "x": 166,
+    "y": 468,
+    "w": 738,
+    "h": 20
+   },
+   {
+    "x": 166,
+    "y": 492,
+    "w": 705,
+    "h": 20
+   },
+   {
+    "x": 166,
+    "y": 532,
+    "w": 707,
+    "h": 20
+   },
+   {
+    "x": 166,
+    "y": 556,
+    "w": 711,
+    "h": 20
+   },
+   {
+    "x": 166,
+    "y": 580,
+    "w": 744,
+    "h": 20
+   },
+   {
+    "x": 166,
+    "y": 604,
+    "w": 739,
+    "h": 20
+   },
+   {
+    "x": 166,
+    "y": 628,
+    "w": 758,
+    "h": 20
+   },
+   {
+    "x": 166,
+    "y": 652,
+    "w": 408,
+    "h": 20
+   },
+   {
+    "x": 166,
+    "y": 692,
+    "w": 152,
+    "h": 20
+   },
+   {
+    "x": 166,
+    "y": 732,
+    "w": 743,
+    "h": 20
+   },
+   {
+    "x": 166,
+    "y": 756,
+    "w": 762,
+    "h": 20
+   },
+   {
+    "x": 166,
+    "y": 780,
+    "w": 762,
+    "h": 20
+   },
+   {
+    "x": 166,
+    "y": 804,
+    "w": 768,
+    "h": 20
+   },
+   {
+    "x": 166,
+    "y": 828,
+    "w": 750,
+    "h": 20
+   },
+   {
+    "x": 166,
+    "y": 852,
+    "w": 710,
+    "h": 20
+   },
+   {
+    "x": 166,
+    "y": 876,
+    "w": 59,
+    "h": 20
+   },
+   {
+    "x": 166,
+    "y": 916,
+    "w": 259,
+    "h": 20
+   },
+   {
+    "x": 166,
+    "y": 956,
+    "w": 736,
+    "h": 20
+   },
+   {
+    "x": 166,
+    "y": 980,
+    "w": 754,
+    "h": 20
+   },
+   {
+    "x": 166,
+    "y": 1004,
+    "w": 456,
+    "h": 20
+   },
+   {
+    "x": 166,
+    "y": 1044,
+    "w": 266,
+    "h": 20
+   },
+   {
+    "x": 166,
+    "y": 1084,
+    "w": 752,
+    "h": 20
+   },
+   {
+    "x": 166,
+    "y": 1108,
+    "w": 764,
+    "h": 20
+   },
+   {
+    "x": 166,
+    "y": 1132,
+    "w": 730,
+    "h": 20
+   },
+   {
+    "x": 166,
+    "y": 1156,
+    "w": 753,
+    "h": 20
+   },
+   {
+    "x": 166,
+    "y": 1231,
+    "w": 126,
+    "h": 29
+   },
+   {
+    "x": 166,
+    "y": 1289,
+    "w": 209,
+    "h": 20
+   },
+   {
+    "x": 166,
+    "y": 1323,
+    "w": 743,
+    "h": 17
+   },
+   {
+    "x": 166,
+    "y": 1347,
+    "w": 765,
+    "h": 17
+   },
+   {
+    "x": 166,
+    "y": 1371,
+    "w": 735,
+    "h": 17
+   },
+   {
+    "x": 166,
+    "y": 1395,
+    "w": 734,
+    "h": 17
+   },
+   {
+    "x": 166,
+    "y": 1419,
+    "w": 81,
+    "h": 17
+   },
+   {
+    "x": 182,
+    "y": 1471,
+    "w": 121,
+    "h": 17
+   },
+   {
+    "x": 374,
+    "y": 1471,
+    "w": 57,
+    "h": 17
+   },
+   {
+    "x": 640,
+    "y": 1471,
+    "w": 95,
+    "h": 17
+   },
+   {
+    "x": 832,
+    "y": 1471,
+    "w": 61,
+    "h": 17
+   },
+   {
+    "x": 182,
+    "y": 1520,
+    "w": 104,
+    "h": 17
+   },
+   {
+    "x": 374,
+    "y": 1517,
+    "w": 133,
+    "h": 20
+   },
+   {
+    "x": 507,
+    "y": 1520,
+    "w": 4,
+    "h": 17
+   },
+   {
+    "x": 374,
+    "y": 1541,
+    "w": 182,
+    "h": 20
+   },
+   {
+    "x": 640,
+    "y": 1520,
+    "w": 70,
+    "h": 17
+   },
+   {
+    "x": 832,
+    "y": 1520,
+    "w": 68,
+    "h": 17
+   },
+   {
+    "x": 832,
+    "y": 1544,
+    "w": 64,
+    "h": 17
+   },
+   {
+    "x": 182,
+    "y": 1593,
+    "w": 117,
+    "h": 17
+   },
+   {
+    "x": 374,
+    "y": 1590,
+    "w": 212,
+    "h": 20
+   },
+   {
+    "x": 586,
+    "y": 1593,
+    "w": 4,
+    "h": 17
+   },
+   {
+    "x": 374,
+    "y": 1614,
+    "w": 87,
+    "h": 20
+   },
+   {
+    "x": 461,
+    "y": 1617,
+    "w": 8,
+    "h": 17
+   },
+   {
+    "x": 469,
+    "y": 1614,
+    "w": 107,
+    "h": 20
+   },
+   {
+    "x": 640,
+    "y": 1593,
+    "w": 70,
+    "h": 17
+   },
+   {
+    "x": 832,
+    "y": 1593,
+    "w": 58,
+    "h": 17
+   },
+   {
+    "x": 832,
+    "y": 1617,
+    "w": 58,
+    "h": 17
+   },
+   {
+    "x": 832,
+    "y": 1641,
+    "w": 53,
+    "h": 17
+   },
+   {
+    "x": 182,
+    "y": 1690,
+    "w": 78,
+    "h": 17
+   },
+   {
+    "x": 374,
+    "y": 1687,
+    "w": 133,
+    "h": 20
+   },
+   {
+    "x": 507,
+    "y": 1690,
+    "w": 4,
+    "h": 17
+   },
+   {
+    "x": 374,
+    "y": 1711,
+    "w": 182,
+    "h": 20
+   },
+   {
+    "x": 640,
+    "y": 1690,
+    "w": 70,
+    "h": 17
+   },
+   {
+    "x": 832,
+    "y": 1690,
+    "w": 69,
+    "h": 17
+   },
+   {
+    "x": 832,
+    "y": 1714,
+    "w": 65,
+    "h": 17
+   },
+   {
+    "x": 182,
+    "y": 1760,
+    "w": 107,
+    "h": 20
+   },
+   {
+    "x": 182,
+    "y": 1780,
+    "w": 124,
+    "h": 20
+   },
+   {
+    "x": 374,
+    "y": 1763,
+    "w": 39,
+    "h": 17
+   },
+   {
+    "x": 640,
+    "y": 1763,
+    "w": 75,
+    "h": 17
+   },
+   {
+    "x": 832,
+    "y": 1763,
+    "w": 39,
+    "h": 17
+   },
+   {
+    "x": 832,
+    "y": 1787,
+    "w": 58,
+    "h": 17
+   },
+   {
+    "x": 182,
+    "y": 1833,
+    "w": 132,
+    "h": 20
+   },
+   {
+    "x": 374,
+    "y": 1836,
+    "w": 104,
+    "h": 17
+   },
+   {
+    "x": 640,
+    "y": 1836,
+    "w": 75,
+    "h": 17
+   },
+   {
+    "x": 832,
+    "y": 1836,
+    "w": 61,
+    "h": 17
+   },
+   {
+    "x": 166,
+    "y": 1904,
+    "w": 278,
+    "h": 20
+   },
+   {
+    "x": 166,
+    "y": 1938,
+    "w": 749,
+    "h": 17
+   },
+   {
+    "x": 166,
+    "y": 1962,
+    "w": 767,
+    "h": 17
+   },
+   {
+    "x": 166,
+    "y": 1986,
+    "w": 729,
+    "h": 17
+   },
+   {
+    "x": 166,
+    "y": 2010,
+    "w": 708,
+    "h": 17
+   },
+   {
+    "x": 182,
+    "y": 2062,
+    "w": 121,
+    "h": 17
+   },
+   {
+    "x": 374,
+    "y": 2062,
+    "w": 57,
+    "h": 17
+   },
+   {
+    "x": 578,
+    "y": 2062,
+    "w": 95,
+    "h": 17
+   },
+   {
+    "x": 770,
+    "y": 2062,
+    "w": 61,
+    "h": 17
+   },
+   {
+    "x": 182,
+    "y": 2111,
+    "w": 78,
+    "h": 17
+   },
+   {
+    "x": 374,
+    "y": 2108,
+    "w": 125,
+    "h": 20
+   },
+   {
+    "x": 499,
+    "y": 2111,
+    "w": 8,
+    "h": 17
+   },
+   {
+    "x": 507,
+    "y": 2108,
+    "w": 26,
+    "h": 20
+   },
+   {
+    "x": 578,
+    "y": 2111,
+    "w": 70,
+    "h": 17
+   },
+   {
+    "x": 770,
+    "y": 2111,
+    "w": 138,
+    "h": 17
+   },
+   {
+    "x": 198,
+    "y": 2272,
+    "w": 342,
+    "h": 20
+   },
+   {
+    "x": 696,
+    "y": 2576,
+    "w": 72,
+    "h": 20
+   },
+   {
+    "x": 241,
+    "y": 2692,
+    "w": 110,
+    "h": 20
+   },
+   {
+    "x": 399,
+    "y": 2692,
+    "w": 105,
+    "h": 20
+   },
+   {
+    "x": 553,
+    "y": 2692,
+    "w": 107,
+    "h": 20
+   },
+   {
+    "x": 707,
+    "y": 2692,
+    "w": 356,
+    "h": 20
+   },
+   {
+    "x": 1111,
+    "y": 2692,
+    "w": 87,
+    "h": 20
+   },
+   {
+    "x": 597,
+    "y": 2774,
+    "w": 247,
+    "h": 15
+   }
+  ],
+  "eds": [
+   {
+    "x": 210,
+    "y": 34,
+    "w": 46,
+    "h": 20
+   },
+   {
+    "x": 280,
+    "y": 34,
+    "w": 106,
+    "h": 20
+   },
+   {
+    "x": 410,
+    "y": 34,
+    "w": 217,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 140,
+    "w": 323,
+    "h": 49
+   },
+   {
+    "x": 166,
+    "y": 204,
+    "w": 763,
+    "h": 20
+   },
+   {
+    "x": 166,
+    "y": 228,
+    "w": 675,
+    "h": 20
+   },
+   {
+    "x": 166,
+    "y": 268,
+    "w": 171,
+    "h": 20
+   },
+   {
+    "x": 166,
+    "y": 308,
+    "w": 697,
+    "h": 20
+   },
+   {
+    "x": 166,
+    "y": 332,
+    "w": 763,
+    "h": 20
+   },
+   {
+    "x": 166,
+    "y": 356,
+    "w": 703,
+    "h": 20
+   },
+   {
+    "x": 166,
+    "y": 380,
+    "w": 532,
+    "h": 20
+   },
+   {
+    "x": 166,
+    "y": 420,
+    "w": 171,
+    "h": 20
+   },
+   {
+    "x": 166,
+    "y": 444,
+    "w": 711,
+    "h": 20
+   },
+   {
+    "x": 166,
+    "y": 468,
+    "w": 738,
+    "h": 20
+   },
+   {
+    "x": 166,
+    "y": 492,
+    "w": 701,
+    "h": 20
+   },
+   {
+    "x": 166,
+    "y": 532,
+    "w": 707,
+    "h": 20
+   },
+   {
+    "x": 166,
+    "y": 556,
+    "w": 711,
+    "h": 20
+   },
+   {
+    "x": 166,
+    "y": 580,
+    "w": 744,
+    "h": 20
+   },
+   {
+    "x": 166,
+    "y": 604,
+    "w": 739,
+    "h": 20
+   },
+   {
+    "x": 166,
+    "y": 628,
+    "w": 758,
+    "h": 20
+   },
+   {
+    "x": 166,
+    "y": 652,
+    "w": 403,
+    "h": 20
+   },
+   {
+    "x": 166,
+    "y": 692,
+    "w": 152,
+    "h": 20
+   },
+   {
+    "x": 166,
+    "y": 732,
+    "w": 743,
+    "h": 20
+   },
+   {
+    "x": 166,
+    "y": 756,
+    "w": 762,
+    "h": 20
+   },
+   {
+    "x": 166,
+    "y": 780,
+    "w": 762,
+    "h": 20
+   },
+   {
+    "x": 166,
+    "y": 804,
+    "w": 768,
+    "h": 20
+   },
+   {
+    "x": 166,
+    "y": 828,
+    "w": 750,
+    "h": 20
+   },
+   {
+    "x": 166,
+    "y": 852,
+    "w": 710,
+    "h": 20
+   },
+   {
+    "x": 166,
+    "y": 876,
+    "w": 55,
+    "h": 20
+   },
+   {
+    "x": 166,
+    "y": 916,
+    "w": 259,
+    "h": 20
+   },
+   {
+    "x": 166,
+    "y": 956,
+    "w": 736,
+    "h": 20
+   },
+   {
+    "x": 166,
+    "y": 980,
+    "w": 754,
+    "h": 20
+   },
+   {
+    "x": 166,
+    "y": 1004,
+    "w": 447,
+    "h": 20
+   },
+   {
+    "x": 166,
+    "y": 1044,
+    "w": 266,
+    "h": 20
+   },
+   {
+    "x": 166,
+    "y": 1084,
+    "w": 752,
+    "h": 20
+   },
+   {
+    "x": 166,
+    "y": 1108,
+    "w": 764,
+    "h": 20
+   },
+   {
+    "x": 166,
+    "y": 1132,
+    "w": 730,
+    "h": 20
+   },
+   {
+    "x": 166,
+    "y": 1156,
+    "w": 748,
+    "h": 20
+   },
+   {
+    "x": 166,
+    "y": 1231,
+    "w": 126,
+    "h": 29
+   },
+   {
+    "x": 166,
+    "y": 1289,
+    "w": 209,
+    "h": 20
+   },
+   {
+    "x": 166,
+    "y": 1323,
+    "w": 743,
+    "h": 17
+   },
+   {
+    "x": 166,
+    "y": 1347,
+    "w": 765,
+    "h": 17
+   },
+   {
+    "x": 166,
+    "y": 1371,
+    "w": 735,
+    "h": 17
+   },
+   {
+    "x": 166,
+    "y": 1395,
+    "w": 734,
+    "h": 17
+   },
+   {
+    "x": 166,
+    "y": 1419,
+    "w": 81,
+    "h": 17
+   },
+   {
+    "x": 182,
+    "y": 1471,
+    "w": 121,
+    "h": 17
+   },
+   {
+    "x": 374,
+    "y": 1471,
+    "w": 57,
+    "h": 17
+   },
+   {
+    "x": 640,
+    "y": 1471,
+    "w": 95,
+    "h": 17
+   },
+   {
+    "x": 832,
+    "y": 1471,
+    "w": 61,
+    "h": 17
+   },
+   {
+    "x": 182,
+    "y": 1517,
+    "w": 104,
+    "h": 17
+   },
+   {
+    "x": 374,
+    "y": 1518,
+    "w": 128,
+    "h": 20
+   },
+   {
+    "x": 507,
+    "y": 1520,
+    "w": 4,
+    "h": 17
+   },
+   {
+    "x": 374,
+    "y": 1542,
+    "w": 182,
+    "h": 20
+   },
+   {
+    "x": 640,
+    "y": 1520,
+    "w": 70,
+    "h": 17
+   },
+   {
+    "x": 832,
+    "y": 1520,
+    "w": 68,
+    "h": 17
+   },
+   {
+    "x": 832,
+    "y": 1544,
+    "w": 64,
+    "h": 17
+   },
+   {
+    "x": 182,
+    "y": 1590,
+    "w": 117,
+    "h": 17
+   },
+   {
+    "x": 374,
+    "y": 1591,
+    "w": 207,
+    "h": 20
+   },
+   {
+    "x": 586,
+    "y": 1593,
+    "w": 4,
+    "h": 17
+   },
+   {
+    "x": 374,
+    "y": 1615,
+    "w": 82,
+    "h": 20
+   },
+   {
+    "x": 461,
+    "y": 1617,
+    "w": 8,
+    "h": 17
+   },
+   {
+    "x": 469,
+    "y": 1615,
+    "w": 107,
+    "h": 20
+   },
+   {
+    "x": 640,
+    "y": 1593,
+    "w": 70,
+    "h": 17
+   },
+   {
+    "x": 832,
+    "y": 1593,
+    "w": 58,
+    "h": 17
+   },
+   {
+    "x": 832,
+    "y": 1617,
+    "w": 58,
+    "h": 17
+   },
+   {
+    "x": 832,
+    "y": 1641,
+    "w": 53,
+    "h": 17
+   },
+   {
+    "x": 182,
+    "y": 1687,
+    "w": 78,
+    "h": 17
+   },
+   {
+    "x": 374,
+    "y": 1688,
+    "w": 128,
+    "h": 20
+   },
+   {
+    "x": 507,
+    "y": 1690,
+    "w": 4,
+    "h": 17
+   },
+   {
+    "x": 374,
+    "y": 1712,
+    "w": 182,
+    "h": 20
+   },
+   {
+    "x": 640,
+    "y": 1690,
+    "w": 70,
+    "h": 17
+   },
+   {
+    "x": 832,
+    "y": 1690,
+    "w": 69,
+    "h": 17
+   },
+   {
+    "x": 832,
+    "y": 1714,
+    "w": 65,
+    "h": 17
+   },
+   {
+    "x": 182,
+    "y": 1760,
+    "w": 107,
+    "h": 20
+   },
+   {
+    "x": 182,
+    "y": 1780,
+    "w": 124,
+    "h": 20
+   },
+   {
+    "x": 374,
+    "y": 1763,
+    "w": 39,
+    "h": 17
+   },
+   {
+    "x": 640,
+    "y": 1763,
+    "w": 75,
+    "h": 17
+   },
+   {
+    "x": 832,
+    "y": 1763,
+    "w": 39,
+    "h": 17
+   },
+   {
+    "x": 832,
+    "y": 1787,
+    "w": 58,
+    "h": 17
+   },
+   {
+    "x": 182,
+    "y": 1833,
+    "w": 132,
+    "h": 20
+   },
+   {
+    "x": 374,
+    "y": 1836,
+    "w": 104,
+    "h": 17
+   },
+   {
+    "x": 640,
+    "y": 1836,
+    "w": 75,
+    "h": 17
+   },
+   {
+    "x": 832,
+    "y": 1836,
+    "w": 61,
+    "h": 17
+   },
+   {
+    "x": 166,
+    "y": 1904,
+    "w": 278,
+    "h": 20
+   },
+   {
+    "x": 166,
+    "y": 1938,
+    "w": 749,
+    "h": 17
+   },
+   {
+    "x": 166,
+    "y": 1962,
+    "w": 767,
+    "h": 17
+   },
+   {
+    "x": 166,
+    "y": 1986,
+    "w": 729,
+    "h": 17
+   },
+   {
+    "x": 166,
+    "y": 2010,
+    "w": 708,
+    "h": 17
+   },
+   {
+    "x": 182,
+    "y": 2062,
+    "w": 121,
+    "h": 17
+   },
+   {
+    "x": 374,
+    "y": 2062,
+    "w": 57,
+    "h": 17
+   },
+   {
+    "x": 578,
+    "y": 2062,
+    "w": 95,
+    "h": 17
+   },
+   {
+    "x": 770,
+    "y": 2062,
+    "w": 61,
+    "h": 17
+   },
+   {
+    "x": 182,
+    "y": 2108,
+    "w": 78,
+    "h": 17
+   },
+   {
+    "x": 374,
+    "y": 2109,
+    "w": 121,
+    "h": 20
+   },
+   {
+    "x": 499,
+    "y": 2111,
+    "w": 8,
+    "h": 17
+   },
+   {
+    "x": 507,
+    "y": 2109,
+    "w": 26,
+    "h": 20
+   },
+   {
+    "x": 578,
+    "y": 2111,
+    "w": 70,
+    "h": 17
+   },
+   {
+    "x": 770,
+    "y": 2111,
+    "w": 138,
+    "h": 17
+   },
+   {
+    "x": 198,
+    "y": 2272,
+    "w": 342,
+    "h": 20
+   },
+   {
+    "x": 696,
+    "y": 2576,
+    "w": 72,
+    "h": 20
+   },
+   {
+    "x": 241,
+    "y": 2692,
+    "w": 110,
+    "h": 20
+   },
+   {
+    "x": 399,
+    "y": 2692,
+    "w": 105,
+    "h": 20
+   },
+   {
+    "x": 553,
+    "y": 2692,
+    "w": 107,
+    "h": 20
+   },
+   {
+    "x": 707,
+    "y": 2692,
+    "w": 356,
+    "h": 20
+   },
+   {
+    "x": 1111,
+    "y": 2692,
+    "w": 87,
+    "h": 20
+   },
+   {
+    "x": 597,
+    "y": 2774,
+    "w": 247,
+    "h": 15
+   }
+  ]
+ }
+}

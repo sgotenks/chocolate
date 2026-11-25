@@ -1,0 +1,217 @@
+{
+  "a": "stardust/replica/gates/prototypes-360/us-en-xp-golden-ticket/origin.png",
+  "b": "stardust/replica/gates/prototypes-360/us-en-xp-golden-ticket/eds.png",
+  "compared": {
+    "width": 360,
+    "height": 4808,
+    "mode": "overlap"
+  },
+  "heightDelta": 0,
+  "differingPixels": 1191,
+  "pct": 0.07,
+  "threshold": 10,
+  "pass": true,
+  "diff": "stardust/replica/gates/prototypes-360/us-en-xp-golden-ticket/diff.png",
+  "masks": [],
+  "maskedRows": 0,
+  "textPct": null,
+  "textBoxes": null,
+  "textPixels": null,
+  "bands": [
+    {
+      "y0": 0,
+      "y1": 500,
+      "pct": 0
+    },
+    {
+      "y0": 500,
+      "y1": 1000,
+      "pct": 0
+    },
+    {
+      "y0": 1000,
+      "y1": 1500,
+      "pct": 0.7
+    },
+    {
+      "y0": 1500,
+      "y1": 2000,
+      "pct": 0
+    },
+    {
+      "y0": 2000,
+      "y1": 2500,
+      "pct": 0
+    },
+    {
+      "y0": 2500,
+      "y1": 3000,
+      "pct": 0
+    },
+    {
+      "y0": 3000,
+      "y1": 3500,
+      "pct": 0
+    },
+    {
+      "y0": 3500,
+      "y1": 4000,
+      "pct": 0
+    },
+    {
+      "y0": 4000,
+      "y1": 4500,
+      "pct": 0
+    },
+    {
+      "y0": 4500,
+      "y1": 4808,
+      "pct": 0
+    }
+  ],
+  "verdict": "aligned",
+  "aligned": {
+    "used": false,
+    "pct": 0.07,
+    "differingPixels": 1191,
+    "compared": {
+      "width": 360,
+      "height": 4808,
+      "mode": "overlap"
+    },
+    "steps": [],
+    "maxOffset": 0,
+    "totalShift": 0,
+    "insertedRows": 0,
+    "deletedRows": 0,
+    "bands": [
+      {
+        "y0": 0,
+        "y1": 500,
+        "pct": 0,
+        "unaligned": 0
+      },
+      {
+        "y0": 500,
+        "y1": 1000,
+        "pct": 0,
+        "unaligned": 0
+      },
+      {
+        "y0": 1000,
+        "y1": 1500,
+        "pct": 0.7,
+        "unaligned": 0.7
+      },
+      {
+        "y0": 1500,
+        "y1": 2000,
+        "pct": 0,
+        "unaligned": 0
+      },
+      {
+        "y0": 2000,
+        "y1": 2500,
+        "pct": 0,
+        "unaligned": 0
+      },
+      {
+        "y0": 2500,
+        "y1": 3000,
+        "pct": 0,
+        "unaligned": 0
+      },
+      {
+        "y0": 3000,
+        "y1": 3500,
+        "pct": 0,
+        "unaligned": 0
+      },
+      {
+        "y0": 3500,
+        "y1": 4000,
+        "pct": 0,
+        "unaligned": 0
+      },
+      {
+        "y0": 4000,
+        "y1": 4500,
+        "pct": 0,
+        "unaligned": 0
+      },
+      {
+        "y0": 4500,
+        "y1": 4808,
+        "pct": 0,
+        "unaligned": 0
+      }
+    ],
+    "diff": null,
+    "reason": "no offset step found",
+    "candidate": {
+      "pct": 0.07,
+      "steps": 0,
+      "totalShift": 0
+    }
+  },
+  "offsets": {
+    "bound": null,
+    "totalShift": 0,
+    "pass": true
+  },
+  "reason": null,
+  "capturesDropped": {
+    "masks": [],
+    "edsUrl": "http://localhost:8791/us-en-xp-golden-ticket-proposed.html",
+    "key": {
+      "v": 3,
+      "build": "http://localhost:8791/us-en-xp-golden-ticket-proposed.html",
+      "source": "https://www.wonka.com/us/en/xp/golden-ticket/",
+      "masks": "74234e98afe7498f",
+      "presence": "74234e98afe7498f",
+      "clipAllow": "74234e98afe7498f",
+      "override": "74234e98afe7498f",
+      "units": "4f53cda18c2baa0c",
+      "options": "c8f49ca1c9aa3ffb",
+      "reference": "4388923554a90729",
+      "archetype": "4dde048248d5b767",
+      "captures": "99d633190abeb993",
+      "instruments": "eb81d8f0db728617",
+      "prototype": "30b6498cf93503d7",
+      "page content": "ad0ab6b4e3e87760"
+    },
+    "probes": {
+      "clip": {
+        "counts": {
+          "textClipped": 0,
+          "textHidden": 0,
+          "controlHidden": 0,
+          "controlClipped": 0,
+          "clamped": 0,
+          "collapsed": 0,
+          "scrollHidden": 0,
+          "horizontal": 1,
+          "offPage": 4,
+          "textNodes": 37,
+          "controls": 22,
+          "total": 0
+        },
+        "groups": [
+          {
+            "kind": "TEXT X-HIDDEN",
+            "advisory": true,
+            "n": 1,
+            "clipper": "div.promo-prizes__viewport",
+            "path": "div.promo-prize > div.promo-prize__text > div.promo-editorial__body > p",
+            "text": "the factory bundle is a tiny treasure from a bigger wonderla",
+            "cutMin": 322,
+            "cutMax": 322
+          }
+        ],
+        "source": "clip-probe",
+        "tier": "chrome"
+      }
+    },
+    "at": "2026-11-25T11:20:38.618Z"
+  }
+}

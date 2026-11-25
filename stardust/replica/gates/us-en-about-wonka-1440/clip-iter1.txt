@@ -1,0 +1,4 @@
+clip-probe http://localhost:8791/us-en-about-wonka-proposed.html @ 1440px — docH 3892, 44 text nodes, 23 controls (HTTP 200, chrome)
+  🔴 TEXT CLIPPED           ×1     in section.promo  section.promo > div.promo__inner > div.promo__head > h2.promo__title.gold-text  "ready to step inside?"  cut 3px
+Clipped: 1 (text clipped 1, text hidden 0, controls hidden 0, controls clipped 0; advisory: clamped 0, collapsed 0, scroll-hidden 0, horizontal 0)
+json → stardust/replica/gates/us-en-about-wonka-1440/clip-iter1.json

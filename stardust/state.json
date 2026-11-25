@@ -1,0 +1,390 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:migrate",
+    "writtenAt": "2026-11-25T12:09:38Z",
+    "stardustVersion": "0.10.0"
+  },
+  "site": {
+    "originUrl": "https://www.wonka.com",
+    "deployUrl": null,
+    "extractedAt": "2026-11-25T10:24:15.765Z",
+    "pageCap": 7,
+    "totalDiscovered": 7,
+    "crawled": 7,
+    "entryUrl": "https://www.wonka.com/us/en/",
+    "captureGaps": [
+      {
+        "root": "/us/en",
+        "slug": "us-en",
+        "linked": 5,
+        "uncaptured": []
+      }
+    ]
+  },
+  "direction": null,
+  "handsOff": true,
+  "flow": "replica",
+  "flowChosenAt": "2026-11-25T10:24:15.765Z",
+  "flowSource": "user-phrase",
+  "pages": [
+    {
+      "slug": "us-en",
+      "url": "https://www.wonka.com/us/en/",
+      "title": "Wonka | Extraordinary creations from the Wonka Factory",
+      "type": "landing",
+      "status": "approved",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-25T10:14:16.859Z"
+        },
+        {
+          "status": "approved",
+          "at": "2026-11-25T11:00:04Z",
+          "approvedBy": "hands-off"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/us-en.json",
+      "prototypePath": "stardust/prototypes/us-en-proposed.html",
+      "migratedPath": null
+    },
+    {
+      "slug": "index",
+      "url": "https://www.wonka.com/",
+      "title": "Wonka | Extraordinary creations from the Wonka Factory",
+      "type": "landing",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-25T10:14:52.086Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/index.json",
+      "prototypePath": null,
+      "migratedPath": null,
+      "duplicateOf": "us-en",
+      "finalUrl": "https://www.wonka.com/us/en/",
+      "representative": "us-en"
+    },
+    {
+      "slug": "us-en-about-wonka",
+      "url": "https://www.wonka.com/us/en/about-wonka",
+      "title": "About Wonka Brand",
+      "type": "about",
+      "status": "approved",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-25T10:14:19.309Z"
+        },
+        {
+          "at": "2026-11-25T10:28:32.941Z",
+          "note": "type landing→about: no module shared with home (discover-hero, story-cards, image-text, promo-section, social, faq vs hat-portal, hero-banner, product-card, coming-soon); own archetype",
+          "by": "stardust:replica"
+        },
+        {
+          "status": "approved",
+          "at": "2026-11-25T11:18:34Z",
+          "approvedBy": "hands-off"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/us-en-about-wonka.json",
+      "prototypePath": "stardust/prototypes/us-en-about-wonka-proposed.html",
+      "migratedPath": null
+    },
+    {
+      "slug": "us-en-privacy-policy",
+      "url": "https://www.wonka.com/us/en/privacy-policy",
+      "title": "Privacy Policy | Wonka",
+      "type": "static",
+      "status": "approved",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-25T10:14:24.966Z"
+        },
+        {
+          "status": "approved",
+          "at": "2026-11-25T11:14:09Z",
+          "approvedBy": "hands-off"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/us-en-privacy-policy.json",
+      "prototypePath": "stardust/prototypes/us-en-privacy-policy-proposed.html",
+      "migratedPath": null
+    },
+    {
+      "slug": "us-en-terms-of-use",
+      "url": "https://www.wonka.com/us/en/terms-of-use",
+      "title": "Terms of Use | Wonka",
+      "type": "static",
+      "status": "directed",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-25T10:14:27.620Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-11-25T12:09:38Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/us-en-terms-of-use.json",
+      "prototypePath": null,
+      "migratedPath": null,
+      "representative": "us-en-privacy-policy"
+    },
+    {
+      "slug": "us-en-cookie-policy",
+      "url": "https://www.wonka.com/us/en/cookie-policy",
+      "title": "Cookie Policy | Wonka",
+      "type": "static",
+      "status": "directed",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-25T10:14:27.816Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-11-25T12:09:38Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/us-en-cookie-policy.json",
+      "prototypePath": null,
+      "migratedPath": null,
+      "representative": "us-en-privacy-policy"
+    },
+    {
+      "slug": "us-en-xp-golden-ticket",
+      "url": "https://www.wonka.com/us/en/xp/golden-ticket/",
+      "title": "Home | Wonka",
+      "type": "unique",
+      "status": "approved",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-25T10:14:34.075Z"
+        },
+        {
+          "status": "prototyped",
+          "at": "2026-11-25T10:49:14Z"
+        },
+        {
+          "status": "approved",
+          "at": "2026-11-25T10:49:14Z",
+          "approvedBy": "hands-off"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/us-en-xp-golden-ticket.json",
+      "prototypePath": "stardust/prototypes/us-en-xp-golden-ticket-proposed.html",
+      "migratedPath": null
+    }
+  ],
+  "migrate": {
+    "at": "2026-11-25T12:09:38Z",
+    "outputDir": "stardust/migrated/",
+    "selfContained": true,
+    "pageMap": [
+      {
+        "sourceUrl": "/us/en/",
+        "outputPath": "us/en/index.html",
+        "slug": "us-en",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/",
+        "outputPath": "index.html",
+        "slug": "index",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/us/en/about-wonka",
+        "outputPath": "us/en/about-wonka/index.html",
+        "slug": "us-en-about-wonka",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/us/en/privacy-policy",
+        "outputPath": "us/en/privacy-policy/index.html",
+        "slug": "us-en-privacy-policy",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/us/en/terms-of-use",
+        "outputPath": "us/en/terms-of-use/index.html",
+        "slug": "us-en-terms-of-use",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/us/en/cookie-policy",
+        "outputPath": "us/en/cookie-policy/index.html",
+        "slug": "us-en-cookie-policy",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/us/en/xp/golden-ticket/",
+        "outputPath": "us/en/xp/golden-ticket/index.html",
+        "slug": "us-en-xp-golden-ticket",
+        "outputPathDefault": null
+      }
+    ],
+    "totalAssetsBundled": 95,
+    "bundledAssets": [
+      "canon-chrome.css",
+      "canon-chrome.js",
+      "canon.css",
+      "favicon.svg",
+      "fonts/inter-latin-400-normal.woff2",
+      "fonts/inter-latin-500-normal.woff2",
+      "fonts/inter-latin-600-normal.woff2",
+      "fonts/inter-latin-700-normal.woff2",
+      "fonts/work-sans-latin-600-normal.woff2",
+      "gt/Step2-Register-and-play.png",
+      "gt/Wonka-bundle-prize-product-totebag-slider.png",
+      "gt/Wonka-prize-Las-Vegas-trip-slider_0.png",
+      "gt/arrow-down-menu.svg",
+      "gt/berry_elixir.png",
+      "gt/bubblegumjoy.png",
+      "gt/caramel-pop.png",
+      "gt/fonts/worksans-var-latin-italic.woff2",
+      "gt/fonts/worksans-var-latin-normal.woff2",
+      "gt/img_0.png",
+      "gt/logo.svg",
+      "gt/particles-01-mob.png",
+      "gt/particles-01.png",
+      "gt/particles-02-mob.png",
+      "gt/particles-02.png",
+      "gt/particles-03-mob.png",
+      "gt/particles-03.png",
+      "gt/q1.png",
+      "gt/q2.png",
+      "gt/q3.png",
+      "gt/qr-code-WONKA-LIVE-US.png",
+      "gt/step-1.png",
+      "gt/step-3.png",
+      "gt/wonka_visual_US_desk.jpg",
+      "gt/wonka_visual_US_mobile.jpg",
+      "logo.svg",
+      "media/US-desktop-golden-ticket-479a7e43.png",
+      "media/US-products-mobile-golden-ticket.png",
+      "media/Wonka-ship-59243e89.png",
+      "media/accordion-icon.svg",
+      "media/arrow-a76cc9bd.svg",
+      "media/arrow-down-433893cc.svg",
+      "media/arrow-external.svg",
+      "media/arrow_downward_brown.svg",
+      "media/cloud-left-bottom-e8e0e038.webp",
+      "media/cloud-left-top-f100efba.webp",
+      "media/cloud-right-9a76bb58.webp",
+      "media/clouds-8a751e16.webp",
+      "media/clouds-bottom-back-3ba5766e.webp",
+      "media/clouds-bottom-front-desktop-d2261684.webp",
+      "media/clouds-bottom-front-mobile.webp",
+      "media/clouds-f6d1fd92.webp",
+      "media/clouds-mobile-2928dd24.webp",
+      "media/clouds-top-left-e229a3ec.webp",
+      "media/clouds-top-right-c62848a1.webp",
+      "media/coming-soon-clouds-b903bc05.webp",
+      "media/coming-soon-clouds-mobile.webp",
+      "media/decorative-star.svg",
+      "media/favicon.svg",
+      "media/gold-dust-7de8e7db.webp",
+      "media/golden-ticket-desktop-af624b18.webp",
+      "media/golden-ticket-mobile.webp",
+      "media/hat-desktop-animHat-1.webp",
+      "media/hat-mobile-animHat-1.webp",
+      "media/hat-mobile-animHat.webm",
+      "media/hat-portal-animHat.webm",
+      "media/hat-portal-stars-idle-poster.webp",
+      "media/hat-portal-stars-idle.mp4",
+      "media/icon-1-x2-0c2c6a05.png",
+      "media/icon-2-x2-08ab4c6d.png",
+      "media/icon-3-x2-b1f9448a.png",
+      "media/oompa-blueberry-x2-us-75508d8c.webp",
+      "media/seal-background-5dcdc03b.png",
+      "media/seal-stars-5ed9cc83.webp",
+      "media/social-instagram.svg",
+      "media/social-tiktok.svg",
+      "media/sparkle.svg",
+      "media/stars-0a6910c3.webp",
+      "media/us-magic-garden-x2-3deb5d7f.webp",
+      "media/us-magic-hats-12-x2-88831000.webp",
+      "media/us-magic-hats-18-x2-41ec232b.webp",
+      "media/us-products-group-mobile.webp",
+      "media/us-purplepurple-x2-fcc0818e.webp",
+      "media/us-version-products-group-desktop-e361685f.webp",
+      "media/wonka-big-book_1920-79f9b80c.webp",
+      "media/wonka-factory-x2-257f34a6.webp",
+      "media/wonka-logo.svg",
+      "media/wonka-ship-background-f2e39da8.webp",
+      "us-en-about-wonka.css",
+      "us-en-about-wonka.js",
+      "us-en-privacy-policy.css",
+      "us-en-privacy-policy.js",
+      "us-en-xp-golden-ticket.css",
+      "us-en-xp-golden-ticket.js",
+      "us-en.css",
+      "us-en.js"
+    ],
+    "pages": [
+      {
+        "slug": "us-en",
+        "file": "stardust/migrated/us/en/index.html",
+        "assetsBundled": 44
+      },
+      {
+        "slug": "us-en-about-wonka",
+        "file": "stardust/migrated/us/en/about-wonka/index.html",
+        "assetsBundled": 31
+      },
+      {
+        "slug": "us-en-privacy-policy",
+        "file": "stardust/migrated/us/en/privacy-policy/index.html",
+        "assetsBundled": 13
+      },
+      {
+        "slug": "us-en-xp-golden-ticket",
+        "file": "stardust/migrated/us/en/xp/golden-ticket/index.html",
+        "assetsBundled": 28
+      },
+      {
+        "slug": "us-en-terms-of-use",
+        "file": "stardust/migrated/us/en/terms-of-use/index.html",
+        "assetsBundled": 6
+      },
+      {
+        "slug": "us-en-cookie-policy",
+        "file": "stardust/migrated/us/en/cookie-policy/index.html",
+        "assetsBundled": 1
+      }
+    ],
+    "missingAssets": [],
+    "cleanedAssets": [],
+    "lastRun": {
+      "at": "2026-11-25T12:09:38Z",
+      "rendered": [
+        "us-en-terms-of-use",
+        "us-en-cookie-policy"
+      ],
+      "unchanged": [],
+      "refused": [],
+      "passthrough": []
+    }
+  }
+}

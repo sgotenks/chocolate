@@ -1,0 +1,16 @@
+cap-probe  base 1440 → probe 2560 (from DESIGN.json)
+live   https://www.wonka.com/us/en/about-wonka
+  modules  6 sections: capped 1440 ×2, 868 ×2, 1268 ×1, 700 ×1 · full-bleed ×0
+  contentMaxWidth fluid · shellMaxWidth fluid · root div.dialog-off-canvas-main-canvas > div.layout-container > div > main.w-full
+build  http://localhost:8791/us-en-about-wonka-proposed.html
+  modules  6 sections: capped 1440 ×2, 868 ×2, 1268 ×1, 700 ×1 · full-bleed ×0
+  contentMaxWidth fluid · shellMaxWidth fluid · root #main-content
+rows
+  ✓ content cap: fluid on both sides — no wrapper, no shared module cap
+  ✓ module 1/6: 700px = 700px
+  ✓ module 2/6: 1440px = 1440px
+  ✓ module 3/6: 1440px = 1440px
+  ✓ module 4/6: 1268px = 1268px
+  ✓ module 5/6: 868px = 868px
+  ✓ module 6/6: 868px = 868px
+cap-probe: PASS at 2560 — 0 of 7 rows failed (evidence stardust/replica/gates/us-en-about-wonka-2560/cap-iter.json)

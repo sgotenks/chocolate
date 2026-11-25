@@ -1,0 +1,1748 @@
+
+Visual diff @ 360px (profile "generic") — screenshots in stardust/replica/gates/us-en-360/vdiff-iter1/
+
+build red flags (advisory): none
+
+Full metrics JSON (compare source vs build: heading colors, eyebrow colors, image dims, full-bleed):
+{
+ "source": {
+  "viewport": 360,
+  "blankRender": false,
+  "mainHeight": 4801,
+  "textLen": 8229,
+  "images": [
+   {
+    "src": "cloud-1.webp",
+    "natural": "338x302",
+    "rendered": "216x193",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "cloud-2.webp",
+    "natural": "352x302",
+    "rendered": "216x185",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "cloud-3.webp",
+    "natural": "338x430",
+    "rendered": "216x275",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "cloud-4.webp",
+    "natural": "274x230",
+    "rendered": "216x181",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "cloud-5.webp",
+    "natural": "520x404",
+    "rendered": "216x168",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "cloud-6.webp",
+    "natural": "350x261",
+    "rendered": "216x161",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "decorative-star.svg",
+    "natural": "24x24",
+    "rendered": "24x24",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "social-instagram.svg",
+    "natural": "20x20",
+    "rendered": "20x20",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "social-tiktok.svg",
+    "natural": "20x20",
+    "rendered": "20x20",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "decorative-star.svg",
+    "natural": "24x24",
+    "rendered": "24x24",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "wonka-logo.svg",
+    "natural": "146x83",
+    "rendered": "70x40",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "wonka-logo.svg",
+    "natural": "146x83",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "clouds-top-left.webp",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "clouds-top-right.webp",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Wonka-ship.png?itok=ynFZDB_A",
+    "natural": "450x372",
+    "rendered": "291x291",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "clouds-bottom-back.webp",
+    "natural": "2081x383",
+    "rendered": "1472x271",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "US-products-mobile-golden-ticket.png?itok=gZi6WnJk",
+    "natural": "750x553",
+    "rendered": "281x207",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "clouds-bottom-front-desktop.webp",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "clouds-bottom-front-mobile.webp",
+    "natural": "481x166",
+    "rendered": "481x166",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "arrow_downward_brown.svg",
+    "natural": "24x24",
+    "rendered": "20x20",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "stars.webp",
+    "natural": "742x600",
+    "rendered": "741x600",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "us-magic-hats-12-x2.webp?itok=I5gwodbQ",
+    "natural": "768x768",
+    "rendered": "0x0",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "us-magic-hats-12-x2.webp?itok=I5gwodbQ",
+    "natural": "768x768",
+    "rendered": "288x283",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "stars.webp",
+    "natural": "742x600",
+    "rendered": "741x600",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "us-magic-hats-18-x2.webp?itok=ZOtJaGO-",
+    "natural": "768x768",
+    "rendered": "0x0",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "us-magic-hats-18-x2.webp?itok=ZOtJaGO-",
+    "natural": "768x768",
+    "rendered": "288x283",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "stars.webp",
+    "natural": "742x600",
+    "rendered": "741x600",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "us-purplepurple-x2.webp?itok=8z_6Q4vS",
+    "natural": "768x768",
+    "rendered": "0x0",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "us-purplepurple-x2.webp?itok=8z_6Q4vS",
+    "natural": "768x768",
+    "rendered": "288x283",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "stars.webp",
+    "natural": "742x600",
+    "rendered": "741x600",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "us-magic-garden-x2.webp?itok=k6Vab7XB",
+    "natural": "768x768",
+    "rendered": "0x0",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "us-magic-garden-x2.webp?itok=k6Vab7XB",
+    "natural": "768x768",
+    "rendered": "288x283",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "stars.webp",
+    "natural": "742x600",
+    "rendered": "741x600",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "oompa-blueberry-x2-us.webp?itok=E52jMPQi",
+    "natural": "768x768",
+    "rendered": "0x0",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "oompa-blueberry-x2-us.webp?itok=E52jMPQi",
+    "natural": "768x768",
+    "rendered": "288x283",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "coming-soon-clouds-mobile.webp",
+    "natural": "1005x581",
+    "rendered": "1005x581",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "coming-soon-clouds.webp",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "wonka-ship-background.webp?itok=a1wHryPc",
+    "natural": "1920x1004",
+    "rendered": "540x320",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "decorative-star.svg",
+    "natural": "24x24",
+    "rendered": "24x24",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "wonka-logo.svg",
+    "natural": "146x83",
+    "rendered": "141x80",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "social-instagram.svg",
+    "natural": "20x20",
+    "rendered": "20x20",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "social-tiktok.svg",
+    "natural": "20x20",
+    "rendered": "20x20",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "cloud-left-top.webp",
+    "natural": "482x302",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "cloud-left-bottom.webp",
+    "natural": "461x349",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "cloud-right.webp",
+    "natural": "493x302",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "golden-ticket-mobile.webp?itok=JSHaSIQs",
+    "natural": "1000x561",
+    "rendered": "305x223",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "animHat-1.webp",
+    "natural": "768x768",
+    "rendered": "590x590",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "arrow-external.svg",
+    "natural": "14x14",
+    "rendered": "14x14",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "Wonka_logo.png",
+    "natural": "350x109",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "powered_by_logo.svg",
+    "natural": "568x53",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   }
+  ],
+  "headings": [
+   {
+    "tag": "h3",
+    "text": "Magic Hats",
+    "color": "rgba(0, 0, 0, 0)",
+    "fontSize": "34px",
+    "family": "Work Sans",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Magic Hats",
+    "color": "rgba(0, 0, 0, 0)",
+    "fontSize": "34px",
+    "family": "Work Sans",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "PurplyPurple Tablet",
+    "color": "rgba(0, 0, 0, 0)",
+    "fontSize": "34px",
+    "family": "Work Sans",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Magic Garden Ropes",
+    "color": "rgba(0, 0, 0, 0)",
+    "fontSize": "34px",
+    "family": "Work Sans",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Oompa Loompa Gummies",
+    "color": "rgba(0, 0, 0, 0)",
+    "fontSize": "34px",
+    "family": "Work Sans",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "COMING SOON!",
+    "color": "rgb(241, 222, 156)",
+    "fontSize": "42px",
+    "family": "Work Sans",
+    "fontLoaded": true
+   }
+  ],
+  "eyebrows": [],
+  "flushText": [],
+  "contentBoxes": [
+   {
+    "sel": "hero-banner__ship-frame",
+    "width": 291,
+    "left": 34
+   },
+   {
+    "sel": "flex",
+    "width": 288,
+    "left": 36
+   },
+   {
+    "sel": "font-default",
+    "width": 288,
+    "left": 36
+   },
+   {
+    "sel": "text-left",
+    "width": 288,
+    "left": 36
+   },
+   {
+    "sel": "font-default",
+    "width": 288,
+    "left": 36
+   },
+   {
+    "sel": "flex",
+    "width": 288,
+    "left": 36
+   },
+   {
+    "sel": "flex",
+    "width": 288,
+    "left": 36
+   },
+   {
+    "sel": "font-default",
+    "width": 288,
+    "left": 36
+   },
+   {
+    "sel": "text-left",
+    "width": 288,
+    "left": 36
+   },
+   {
+    "sel": "font-default",
+    "width": 288,
+    "left": 36
+   },
+   {
+    "sel": "flex",
+    "width": 288,
+    "left": 36
+   },
+   {
+    "sel": "flex",
+    "width": 288,
+    "left": 36
+   }
+  ]
+ },
+ "build": {
+  "viewport": 360,
+  "blankRender": false,
+  "mainHeight": 4801,
+  "textLen": 8228,
+  "images": [
+   {
+    "src": "cloud-1-51fd92d8.webp",
+    "natural": "338x302",
+    "rendered": "216x193",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "cloud-2-8fc94f71.webp",
+    "natural": "352x302",
+    "rendered": "216x185",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "cloud-3-1ebd825c.webp",
+    "natural": "338x430",
+    "rendered": "216x275",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "cloud-4-ff4650ac.webp",
+    "natural": "274x230",
+    "rendered": "216x181",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "cloud-5-faf33737.webp",
+    "natural": "520x404",
+    "rendered": "216x168",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "decorative-star.svg",
+    "natural": "24x24",
+    "rendered": "24x24",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "social-instagram.svg",
+    "natural": "20x20",
+    "rendered": "20x20",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "social-tiktok.svg",
+    "natural": "20x20",
+    "rendered": "20x20",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "decorative-star.svg",
+    "natural": "24x24",
+    "rendered": "24x24",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "wonka-logo.svg",
+    "natural": "146x83",
+    "rendered": "70x40",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "wonka-logo.svg",
+    "natural": "146x83",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "clouds-top-left-e229a3ec.webp",
+    "natural": "327x302",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "clouds-top-right-c62848a1.webp",
+    "natural": "363x302",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Wonka-ship-59243e89.png",
+    "natural": "450x372",
+    "rendered": "291x291",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "clouds-bottom-back-3ba5766e.webp",
+    "natural": "2081x383",
+    "rendered": "1472x271",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "US-products-mobile-golden-ticket.png",
+    "natural": "750x553",
+    "rendered": "281x207",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "clouds-bottom-front-desktop-d2261684.webp",
+    "natural": "1211x205",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "clouds-bottom-front-mobile.webp",
+    "natural": "481x166",
+    "rendered": "481x166",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "arrow_downward_brown.svg",
+    "natural": "24x24",
+    "rendered": "20x20",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "stars-0a6910c3.webp",
+    "natural": "742x600",
+    "rendered": "741x600",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "us-magic-hats-12-x2-88831000.webp",
+    "natural": "768x768",
+    "rendered": "0x0",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "us-magic-hats-12-x2-88831000.webp",
+    "natural": "768x768",
+    "rendered": "288x283",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "stars-0a6910c3.webp",
+    "natural": "742x600",
+    "rendered": "741x600",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "us-magic-hats-18-x2-41ec232b.webp",
+    "natural": "768x768",
+    "rendered": "0x0",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "us-magic-hats-18-x2-41ec232b.webp",
+    "natural": "768x768",
+    "rendered": "288x283",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "stars-0a6910c3.webp",
+    "natural": "742x600",
+    "rendered": "741x600",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "us-purplepurple-x2-fcc0818e.webp",
+    "natural": "768x768",
+    "rendered": "0x0",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "us-purplepurple-x2-fcc0818e.webp",
+    "natural": "768x768",
+    "rendered": "288x283",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "stars-0a6910c3.webp",
+    "natural": "742x600",
+    "rendered": "741x600",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "us-magic-garden-x2-3deb5d7f.webp",
+    "natural": "768x768",
+    "rendered": "0x0",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "us-magic-garden-x2-3deb5d7f.webp",
+    "natural": "768x768",
+    "rendered": "288x283",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "stars-0a6910c3.webp",
+    "natural": "742x600",
+    "rendered": "741x600",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "oompa-blueberry-x2-us-75508d8c.webp",
+    "natural": "768x768",
+    "rendered": "0x0",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "oompa-blueberry-x2-us-75508d8c.webp",
+    "natural": "768x768",
+    "rendered": "288x283",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sparkle.svg",
+    "natural": "16x16",
+    "rendered": "16x16",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "coming-soon-clouds-mobile.webp",
+    "natural": "1005x581",
+    "rendered": "1005x581",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "coming-soon-clouds-b903bc05.webp",
+    "natural": "1350x568",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "wonka-ship-background-f2e39da8.webp",
+    "natural": "1920x1004",
+    "rendered": "540x320",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "decorative-star.svg",
+    "natural": "24x24",
+    "rendered": "24x24",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "wonka-logo.svg",
+    "natural": "146x83",
+    "rendered": "141x80",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "social-instagram.svg",
+    "natural": "20x20",
+    "rendered": "20x20",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "social-tiktok.svg",
+    "natural": "20x20",
+    "rendered": "20x20",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "cloud-left-top-f100efba.webp",
+    "natural": "482x302",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "cloud-left-bottom-e8e0e038.webp",
+    "natural": "461x349",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "cloud-right-9a76bb58.webp",
+    "natural": "493x302",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "golden-ticket-mobile.webp",
+    "natural": "1000x561",
+    "rendered": "305x223",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "hat-mobile-animHat-1.webp",
+    "natural": "768x768",
+    "rendered": "590x590",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "arrow-external.svg",
+    "natural": "14x14",
+    "rendered": "14x14",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   }
+  ],
+  "headings": [
+   {
+    "tag": "h3",
+    "text": "Magic Hats",
+    "color": "rgba(0, 0, 0, 0)",
+    "fontSize": "34px",
+    "family": "Work Sans",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Magic Hats",
+    "color": "rgba(0, 0, 0, 0)",
+    "fontSize": "34px",
+    "family": "Work Sans",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "PurplyPurple Tablet",
+    "color": "rgba(0, 0, 0, 0)",
+    "fontSize": "34px",
+    "family": "Work Sans",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Magic Garden Ropes",
+    "color": "rgba(0, 0, 0, 0)",
+    "fontSize": "34px",
+    "family": "Work Sans",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Oompa Loompa Gummies",
+    "color": "rgba(0, 0, 0, 0)",
+    "fontSize": "34px",
+    "family": "Work Sans",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "COMING SOON!",
+    "color": "rgb(241, 222, 156)",
+    "fontSize": "42px",
+    "family": "Work Sans",
+    "fontLoaded": true
+   }
+  ],
+  "eyebrows": [],
+  "flushText": [],
+  "contentBoxes": [
+   {
+    "sel": "hero__frame",
+    "width": 291,
+    "left": 34
+   },
+   {
+    "sel": "pcard__titles",
+    "width": 288,
+    "left": 36
+   },
+   {
+    "sel": "pcard__desc",
+    "width": 288,
+    "left": 36
+   },
+   {
+    "sel": "pcard__lead",
+    "width": 288,
+    "left": 36
+   },
+   {
+    "sel": "pcard__small",
+    "width": 288,
+    "left": 36
+   },
+   {
+    "sel": "pcard__small",
+    "width": 288,
+    "left": 36
+   },
+   {
+    "sel": "pcard__titles",
+    "width": 288,
+    "left": 36
+   },
+   {
+    "sel": "pcard__desc",
+    "width": 288,
+    "left": 36
+   },
+   {
+    "sel": "pcard__lead",
+    "width": 288,
+    "left": 36
+   },
+   {
+    "sel": "pcard__small",
+    "width": 288,
+    "left": 36
+   },
+   {
+    "sel": "pcard__small",
+    "width": 288,
+    "left": 36
+   },
+   {
+    "sel": "pcard__titles",
+    "width": 288,
+    "left": 36
+   }
+  ]
+ }
+}

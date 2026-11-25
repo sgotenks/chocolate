@@ -1,0 +1,217 @@
+{
+  "a": "stardust/replica/gates/prototypes-1440/us-en/origin.png",
+  "b": "stardust/replica/gates/prototypes-1440/us-en/eds.png",
+  "compared": {
+    "width": 1440,
+    "height": 4205,
+    "mode": "overlap"
+  },
+  "heightDelta": 1,
+  "differingPixels": 95061,
+  "pct": 6.79,
+  "threshold": 10,
+  "pass": true,
+  "diff": "stardust/replica/gates/prototypes-1440/us-en/diff.png",
+  "masks": [
+    {
+      "yA": 0,
+      "h": 128,
+      "yB": 0
+    },
+    {
+      "yA": 192,
+      "h": 716,
+      "yB": 192
+    },
+    {
+      "yA": 1792,
+      "h": 276,
+      "yB": 1792
+    },
+    {
+      "yA": 2092,
+      "h": 2114,
+      "yB": 2092
+    }
+  ],
+  "maskedRows": 3233,
+  "textPct": null,
+  "textBoxes": null,
+  "textPixels": null,
+  "bands": [
+    {
+      "y0": 0,
+      "y1": 500,
+      "pct": 0.1
+    },
+    {
+      "y0": 500,
+      "y1": 1000,
+      "pct": 0.7
+    },
+    {
+      "y0": 1000,
+      "y1": 1500,
+      "pct": 7.3
+    },
+    {
+      "y0": 1500,
+      "y1": 2000,
+      "pct": 4.8
+    },
+    {
+      "y0": 2000,
+      "y1": 2500,
+      "pct": 0.3
+    },
+    {
+      "y0": 2500,
+      "y1": 3000,
+      "pct": 0
+    },
+    {
+      "y0": 3000,
+      "y1": 3500,
+      "pct": 0
+    },
+    {
+      "y0": 3500,
+      "y1": 4000,
+      "pct": 0
+    },
+    {
+      "y0": 4000,
+      "y1": 4205,
+      "pct": 0
+    }
+  ],
+  "verdict": "aligned",
+  "aligned": {
+    "used": false,
+    "pct": 6.79,
+    "differingPixels": 95061,
+    "compared": {
+      "width": 1440,
+      "height": 4205,
+      "mode": "overlap"
+    },
+    "steps": [],
+    "maxOffset": 0,
+    "totalShift": 0,
+    "insertedRows": 0,
+    "deletedRows": 0,
+    "bands": [
+      {
+        "y0": 0,
+        "y1": 500,
+        "pct": 0.1,
+        "unaligned": 0.1
+      },
+      {
+        "y0": 500,
+        "y1": 1000,
+        "pct": 0.7,
+        "unaligned": 0.7
+      },
+      {
+        "y0": 1000,
+        "y1": 1500,
+        "pct": 7.3,
+        "unaligned": 7.3
+      },
+      {
+        "y0": 1500,
+        "y1": 2000,
+        "pct": 4.8,
+        "unaligned": 4.8
+      },
+      {
+        "y0": 2000,
+        "y1": 2500,
+        "pct": 0.3,
+        "unaligned": 0.3
+      },
+      {
+        "y0": 2500,
+        "y1": 3000,
+        "pct": 0,
+        "unaligned": 0
+      },
+      {
+        "y0": 3000,
+        "y1": 3500,
+        "pct": 0,
+        "unaligned": 0
+      },
+      {
+        "y0": 3500,
+        "y1": 4000,
+        "pct": 0,
+        "unaligned": 0
+      },
+      {
+        "y0": 4000,
+        "y1": 4205,
+        "pct": 0,
+        "unaligned": 0
+      }
+    ],
+    "diff": null,
+    "reason": "aligned number not lower than the unaligned one",
+    "candidate": {
+      "pct": 6.79,
+      "steps": 1,
+      "totalShift": 1
+    }
+  },
+  "offsets": {
+    "bound": null,
+    "totalShift": 0,
+    "pass": true
+  },
+  "reason": null,
+  "maskReason": "self-varying rows of the frozen reference (noise floor 2.5%)",
+  "capturesDropped": {
+    "masks": [],
+    "edsUrl": "http://localhost:8791/us-en-proposed.html",
+    "key": {
+      "v": 3,
+      "build": "http://localhost:8791/us-en-proposed.html",
+      "source": "https://www.wonka.com/us/en/",
+      "masks": "74234e98afe7498f",
+      "presence": "74234e98afe7498f",
+      "clipAllow": "74234e98afe7498f",
+      "override": "74234e98afe7498f",
+      "units": "4f53cda18c2baa0c",
+      "options": "8c831c41e5234bf5",
+      "reference": "3e23fd0a52f7c408",
+      "archetype": "2380145bb789675f",
+      "captures": "a31df197aab5fe84",
+      "instruments": "eb81d8f0db728617",
+      "prototype": "96bb46ae927777b6",
+      "page content": "0c5760eb46a434f0"
+    },
+    "probes": {
+      "clip": {
+        "counts": {
+          "textClipped": 0,
+          "textHidden": 0,
+          "controlHidden": 0,
+          "controlClipped": 0,
+          "clamped": 0,
+          "collapsed": 0,
+          "scrollHidden": 0,
+          "horizontal": 0,
+          "offPage": 0,
+          "textNodes": 226,
+          "controls": 20,
+          "total": 0
+        },
+        "groups": [],
+        "source": "clip-probe",
+        "tier": "chrome"
+      }
+    },
+    "at": "2026-11-25T11:19:20.839Z"
+  }
+}

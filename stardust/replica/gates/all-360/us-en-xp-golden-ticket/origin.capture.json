@@ -1,0 +1,22 @@
+{
+  "writtenBy": "gate-all.mjs",
+  "copiedFrom": "stardust/replica/gates/us-en-xp-golden-ticket-360/baseline.png",
+  "fixedLayers": {
+    "capture": "once",
+    "count": 5,
+    "late": 0
+  },
+  "timers": {
+    "hold": 2000,
+    "held": 15,
+    "intervals": 4,
+    "chains": 11,
+    "delays": [
+      2500,
+      5000,
+      86400000
+    ]
+  },
+  "fontsFailed": [],
+  "deadFaces": []
+}

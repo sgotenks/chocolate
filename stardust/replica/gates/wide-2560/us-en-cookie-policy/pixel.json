@@ -1,0 +1,169 @@
+{
+  "a": "stardust/replica/gates/wide-2560/us-en-cookie-policy/origin.png",
+  "b": "stardust/replica/gates/wide-2560/us-en-cookie-policy/eds.png",
+  "compared": {
+    "width": 2560,
+    "height": 2811,
+    "mode": "overlap"
+  },
+  "heightDelta": -4,
+  "differingPixels": 80608,
+  "pct": 1.12,
+  "threshold": 10,
+  "pass": true,
+  "diff": "stardust/replica/gates/wide-2560/us-en-cookie-policy/diff.png",
+  "masks": [],
+  "maskedRows": 0,
+  "textPct": null,
+  "textBoxes": null,
+  "textPixels": null,
+  "bands": [
+    {
+      "y0": 0,
+      "y1": 500,
+      "pct": 0.1
+    },
+    {
+      "y0": 500,
+      "y1": 1000,
+      "pct": 0.3
+    },
+    {
+      "y0": 1000,
+      "y1": 1500,
+      "pct": 0.6
+    },
+    {
+      "y0": 1500,
+      "y1": 2000,
+      "pct": 2.3
+    },
+    {
+      "y0": 2000,
+      "y1": 2500,
+      "pct": 1.4
+    },
+    {
+      "y0": 2500,
+      "y1": 2811,
+      "pct": 2.6
+    }
+  ],
+  "verdict": "aligned",
+  "aligned": {
+    "used": true,
+    "pct": 0.78,
+    "differingPixels": 56528,
+    "compared": {
+      "width": 2560,
+      "height": 2816,
+      "mode": "aligned"
+    },
+    "steps": [
+      {
+        "y": 1940,
+        "shift": 5,
+        "cumulative": 5
+      },
+      {
+        "y": 2810,
+        "shift": -1,
+        "cumulative": 4
+      }
+    ],
+    "maxOffset": 5,
+    "totalShift": 6,
+    "insertedRows": 5,
+    "deletedRows": 1,
+    "bands": [
+      {
+        "y0": 0,
+        "y1": 500,
+        "pct": 0.1,
+        "unaligned": 0.1
+      },
+      {
+        "y0": 500,
+        "y1": 1000,
+        "pct": 0.3,
+        "unaligned": 0.3
+      },
+      {
+        "y0": 1000,
+        "y1": 1500,
+        "pct": 0.6,
+        "unaligned": 0.6
+      },
+      {
+        "y0": 1500,
+        "y1": 2000,
+        "pct": 2.7,
+        "unaligned": 2.3
+      },
+      {
+        "y0": 2000,
+        "y1": 2500,
+        "pct": 0.5,
+        "unaligned": 1.4
+      },
+      {
+        "y0": 2500,
+        "y1": 2811,
+        "pct": 0.4,
+        "unaligned": 2.6
+      }
+    ],
+    "diff": "stardust/replica/gates/wide-2560/us-en-cookie-policy/diff-aligned.png",
+    "reason": null
+  },
+  "offsets": {
+    "bound": 28,
+    "totalShift": 6,
+    "pass": true
+  },
+  "reason": null,
+  "capturesDropped": {
+    "masks": [],
+    "edsUrl": "https://main--a6216fe5--aemcoder.aem.live/us/en/cookie-policy",
+    "key": {
+      "v": 3,
+      "build": "https://main--a6216fe5--aemcoder.aem.live/us/en/cookie-policy",
+      "source": "https://www.wonka.com/us/en/cookie-policy",
+      "masks": "74234e98afe7498f",
+      "presence": "74234e98afe7498f",
+      "clipAllow": "74234e98afe7498f",
+      "override": "74234e98afe7498f",
+      "units": "4f53cda18c2baa0c",
+      "options": "00da2efd9f3b6bfe",
+      "reference": "f3444e7f26ba6350",
+      "archetype": "1d8fc6ceb1f94c63",
+      "captures": "f35790d8f267266e",
+      "instruments": "eb81d8f0db728617",
+      "page content": "bea144c63fb01cdf",
+      "shared code": "017195a7628ed43c",
+      "block legal-accordion": "15a5dfca0c409628"
+    },
+    "probes": {
+      "clip": {
+        "counts": {
+          "textClipped": 0,
+          "textHidden": 0,
+          "controlHidden": 0,
+          "controlClipped": 0,
+          "clamped": 0,
+          "collapsed": 0,
+          "scrollHidden": 0,
+          "horizontal": 0,
+          "offPage": 0,
+          "textNodes": 71,
+          "controls": 24,
+          "total": 0
+        },
+        "groups": [],
+        "source": "clip-probe",
+        "tier": "chrome"
+      }
+    },
+    "at": "2026-11-25T12:42:39.284Z"
+  }
+}

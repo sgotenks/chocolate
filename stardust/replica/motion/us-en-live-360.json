@@ -1,0 +1,445 @@
+{
+  "url": "https://www.wonka.com/us/en/",
+  "width": 360,
+  "headerTimeline": [
+    {
+      "y": 0,
+      "cls": "pointer-events-none absolute inset-x-0 top-0 z-20 hidden h-[62px] w-full md:block",
+      "position": "absolute",
+      "height": "62px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 0,
+      "cls": "pointer-events-none absolute inset-x-0 top-0 z-20 hidden h-[62px] w-full md:block",
+      "position": "absolute",
+      "height": "62px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 1200,
+      "cls": "pointer-events-none absolute inset-x-0 top-0 z-20 hidden h-[62px] w-full md:block",
+      "position": "absolute",
+      "height": "62px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 2400,
+      "cls": "pointer-events-none absolute inset-x-0 top-0 z-20 hidden h-[62px] w-full md:block",
+      "position": "absolute",
+      "height": "62px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 3600,
+      "cls": "pointer-events-none absolute inset-x-0 top-0 z-20 hidden h-[62px] w-full md:block",
+      "position": "absolute",
+      "height": "62px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 3530,
+      "cls": "pointer-events-none absolute inset-x-0 top-0 z-20 hidden h-[62px] w-full md:block",
+      "position": "absolute",
+      "height": "62px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 2030,
+      "cls": "pointer-events-none absolute inset-x-0 top-0 z-20 hidden h-[62px] w-full md:block",
+      "position": "absolute",
+      "height": "62px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 2400,
+      "cls": "pointer-events-none absolute inset-x-0 top-0 z-20 hidden h-[62px] w-full md:block",
+      "position": "absolute",
+      "height": "62px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 1200,
+      "cls": "pointer-events-none absolute inset-x-0 top-0 z-20 hidden h-[62px] w-full md:block",
+      "position": "absolute",
+      "height": "62px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 800,
+      "cls": "pointer-events-none absolute inset-x-0 top-0 z-20 hidden h-[62px] w-full md:block",
+      "position": "absolute",
+      "height": "62px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 500,
+      "cls": "pointer-events-none absolute inset-x-0 top-0 z-20 hidden h-[62px] w-full md:block",
+      "position": "absolute",
+      "height": "62px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 300,
+      "cls": "pointer-events-none absolute inset-x-0 top-0 z-20 hidden h-[62px] w-full md:block",
+      "position": "absolute",
+      "height": "62px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 200,
+      "cls": "pointer-events-none absolute inset-x-0 top-0 z-20 hidden h-[62px] w-full md:block",
+      "position": "absolute",
+      "height": "62px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 150,
+      "cls": "pointer-events-none absolute inset-x-0 top-0 z-20 hidden h-[62px] w-full md:block",
+      "position": "absolute",
+      "height": "62px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 120,
+      "cls": "pointer-events-none absolute inset-x-0 top-0 z-20 hidden h-[62px] w-full md:block",
+      "position": "absolute",
+      "height": "62px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 90,
+      "cls": "pointer-events-none absolute inset-x-0 top-0 z-20 hidden h-[62px] w-full md:block",
+      "position": "absolute",
+      "height": "62px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 60,
+      "cls": "pointer-events-none absolute inset-x-0 top-0 z-20 hidden h-[62px] w-full md:block",
+      "position": "absolute",
+      "height": "62px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 30,
+      "cls": "pointer-events-none absolute inset-x-0 top-0 z-20 hidden h-[62px] w-full md:block",
+      "position": "absolute",
+      "height": "62px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 0,
+      "cls": "pointer-events-none absolute inset-x-0 top-0 z-20 hidden h-[62px] w-full md:block",
+      "position": "absolute",
+      "height": "62px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    }
+  ],
+  "widgetSamples": [
+    {
+      "sel": "[data-wonka-cta]",
+      "frames": [
+        {
+          "t": 17238.89999999851,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        },
+        {
+          "t": 17441.5,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        },
+        {
+          "t": 17645.099999997765,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        },
+        {
+          "t": 17851.599999997765,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        }
+      ]
+    },
+    {
+      "sel": "[data-navigation-toggle]",
+      "frames": [
+        {
+          "t": 18861.39999999851,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        },
+        {
+          "t": 19070.599999997765,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        },
+        {
+          "t": 19273.099999997765,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        },
+        {
+          "t": 19476.199999999255,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        }
+      ]
+    }
+  ],
+  "hoverSamples": [],
+  "media": {
+    "videos": [
+      {
+        "src": "",
+        "autoplay": false,
+        "loop": true,
+        "muted": true,
+        "paused": true,
+        "currentTime": 0,
+        "readyState": 0,
+        "inViewport": false,
+        "currentTimeAfter": 0,
+        "playing": false
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/images/wonka-hat-portal/video/stars-idle.mp4",
+        "autoplay": true,
+        "loop": true,
+        "muted": true,
+        "paused": false,
+        "currentTime": 9.1258,
+        "readyState": 4,
+        "inViewport": true,
+        "currentTimeAfter": 0.5834,
+        "playing": false
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/images/wonka-hat-portal/hat/mobile/animHat.webm",
+        "autoplay": false,
+        "loop": false,
+        "muted": true,
+        "paused": true,
+        "currentTime": 0,
+        "readyState": 4,
+        "inViewport": false,
+        "currentTimeAfter": 0,
+        "playing": false
+      }
+    ],
+    "idleClassMutations": [],
+    "idleClassMutationCount": 0
+  },
+  "events": {
+    "animations": [
+      {
+        "name": "wonka-cta-spin",
+        "el": "div.wonka-hat-portal.wonka-hat-portal--overlay > div.wonka-scene.wonka-scene--v3 > div.wonka-scene__overlay > div.wonka-scene__cta-wrap > span.wonka-scene__cta-spinner",
+        "txt": "",
+        "y": 0
+      }
+    ],
+    "transitions": [
+      {
+        "prop": "opacity",
+        "el": "div.layout-container > div.wonka-hat-portal.wonka-hat-portal--overlay > div.wonka-scene.wonka-scene--v3 > div.wonka-scene__overlay > div.wonka-scene__cta-wrap",
+        "y": 0,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.layout-container > div.wonka-hat-portal.wonka-hat-portal--overlay > div.wonka-scene.wonka-scene--v3 > div.wonka-scene__overlay > button.wonka-scene__swipe",
+        "y": 0,
+        "dur": "0.3s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.wonka-scene.wonka-scene--v3 > div.wonka-scene__overlay > div.wonka-scene__layer.wonka-scene__hat-layer > div.wonka-scene__hat-scaler > div.wonka-scene__orbit-item.wonka-scene__orbit-item--ticket",
+        "y": 0,
+        "dur": "0.3s, 0.4s"
+      },
+      {
+        "prop": "left",
+        "el": "div.pointer-events-none.fixed.inset-x-0 > div.navigation-mobile-panel.absolute.inset-x-0 > div.navigation-mobile-panel__stage > div.navigation-mobile-panel__chrome > a.navigation-mobile-panel__logo.absolute.flex",
+        "y": 0,
+        "dur": "0.7s, 0.7s"
+      },
+      {
+        "prop": "top",
+        "el": "div.pointer-events-none.fixed.inset-x-0 > div.navigation-mobile-panel.absolute.inset-x-0 > div.navigation-mobile-panel__stage > div.navigation-mobile-panel__chrome > a.navigation-mobile-panel__logo.absolute.flex",
+        "y": 0,
+        "dur": "0.7s, 0.7s"
+      },
+      {
+        "prop": "transform",
+        "el": "div > div.pointer-events-none.fixed.inset-x-0 > div.navigation-mobile-panel.absolute.inset-x-0 > div.navigation-mobile-panel__stage > svg.navigation-mobile-panel__surface-border",
+        "y": 0,
+        "dur": "0.7s"
+      },
+      {
+        "prop": "transform",
+        "el": "div > div.pointer-events-none.fixed.inset-x-0 > div.navigation-mobile-panel.absolute.inset-x-0 > div.navigation-mobile-panel__stage > div.navigation-mobile-panel__surface.text-white",
+        "y": 0,
+        "dur": "0.7s, 0.7s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.pointer-events-none.fixed.inset-x-0 > div.navigation-mobile-panel.absolute.inset-x-0 > div.navigation-mobile-panel__stage > div.navigation-mobile-panel__surface.text-white > div",
+        "y": 0,
+        "dur": "0.45s, 0.35s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.pointer-events-none.fixed.inset-x-0 > div.navigation-mobile-panel.absolute.inset-x-0 > div.navigation-mobile-panel__stage > div.navigation-mobile-panel__surface.text-white > div",
+        "y": 0,
+        "dur": "0.45s, 0.35s"
+      }
+    ],
+    "classMutations": [
+      {
+        "added": [
+          "opacity-50",
+          "pointer-events-none"
+        ],
+        "el": "div.wonka-scene.wonka-scene--v3 > div.wonka-scene__overlay > div.wonka-scene__cta-wrap > div.wonka-scene__cta-slot.wonka-scene__cta-slot--hat > button.inline-flex.shrink-0.items-center",
+        "y": 0
+      },
+      {
+        "added": [
+          "pointer-events-none"
+        ],
+        "el": "div.wonka-scene.wonka-scene--v3 > div.wonka-scene__overlay > div.wonka-scene__cta-wrap > div.wonka-scene__cta-slot.wonka-scene__cta-slot--hat > button.inline-flex.shrink-0.items-center",
+        "y": 0
+      },
+      {
+        "added": [
+          "cursor-pointer"
+        ],
+        "el": "div.wonka-scene.wonka-scene--v3 > div.wonka-scene__overlay > div.wonka-scene__cta-wrap > div.wonka-scene__cta-slot.wonka-scene__cta-slot--hat > button.inline-flex.shrink-0.items-center",
+        "y": 0
+      },
+      {
+        "added": [
+          "cursor-pointer"
+        ],
+        "el": "div.wonka-scene.wonka-scene--v3 > div.wonka-scene__overlay > div.wonka-scene__cta-wrap > div.wonka-scene__cta-slot.wonka-scene__cta-slot--hat > button.inline-flex.shrink-0.items-center",
+        "y": 0
+      },
+      {
+        "added": [
+          "cursor-pointer"
+        ],
+        "el": "div.wonka-scene.wonka-scene--v3 > div.wonka-scene__overlay > div.wonka-scene__cta-wrap > div.wonka-scene__cta-slot.wonka-scene__cta-slot--hat > button.inline-flex.shrink-0.items-center",
+        "y": 0
+      },
+      {
+        "added": [
+          "overflow-hidden"
+        ],
+        "el": "html.js.wonka-hat-portal-active.overflow-hidden",
+        "y": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+
+Content diff @ 1440px (profile "generic", roots: main, header, footer)
+root "main"
+  source: 198 text nodes — 16 headings, 0 eyebrows, 2 CTAs, 180 body; 72 img
+  build: 198 text nodes — 16 headings, 0 eyebrows, 2 CTAs, 180 body; 72 img
+  editable texts (outermost h*/p/ul/ol): source 43 / build 43
+  attributes (placeholder/aria-label/title): source 2 / build 2; icons: source 57 / build 57
+root "header"
+  source: 3 text nodes — 0 headings, 0 eyebrows, 3 CTAs, 0 body; 1 img
+  build: 3 text nodes — 0 headings, 0 eyebrows, 3 CTAs, 0 body; 1 img
+  editable texts (outermost h*/p/ul/ol): source 0 / build 0
+  attributes (placeholder/aria-label/title): source 2 / build 2; icons: source 1 / build 1
+root "footer"
+  source: 7 text nodes — 0 headings, 0 eyebrows, 5 CTAs, 2 body; 3 img
+  build: 7 text nodes — 0 headings, 0 eyebrows, 5 CTAs, 2 body; 3 img
+  editable texts (outermost h*/p/ul/ol): source 1 / build 1
+  attributes (placeholder/aria-label/title): source 3 / build 3; icons: source 3 / build 3
+
+Findings: 49 (3 structural 🔴)
+Tiers: looks-same 🔴 3 · nothing-lost 🟡 0 · accepted 🟢 0 (owner 0, auto 0) · advisory 46
+  🔴 ICON DIFF [main]: source image arrow_downward_brown.svg (20×20) vs build image arrow_downward_brown-fdf4e005.svg (20×20) at "unwrap the wonder". Same anchor, different icon — lift the source's glyph, file or svg (or register the change).
+  🔴 ICON DIFF [footer]: source image social-instagram.svg (20×20) vs build image social-instagram-014c59dd.svg (20×20) at "instagram". Same anchor, different icon — lift the source's glyph, file or svg (or register the change).
+  🔴 ICON DIFF [footer]: source image social-tiktok.svg (20×20) vs build image social-tiktok-aaeee379.svg (20×20) at "tik tok". Same anchor, different icon — lift the source's glyph, file or svg (or register the change).
+  🟡 ICON DIFF [main]: source image sparkle.svg (16×16) vs build image sparkle-94e11116.svg (16×16) at "servings: 4". Same anchor, different icon — lift the source's glyph, file or svg (or register the change).
+  🟡 ICON DIFF [main]: source image sparkle.svg (16×16) vs build image sparkle-94e11116.svg (16×16) at "serving size: 3 pieces (29g)". Same anchor, different icon — lift the source's glyph, file or svg (or register the change).
+  🟡 ICON DIFF [main]: source image sparkle.svg (16×16) vs build image sparkle-94e11116.svg (16×16) at "amount per serving". Same anchor, different icon — lift the source's glyph, file or svg (or register the change).
+  🟡 ICON DIFF [main]: source image sparkle.svg (16×16) vs build image sparkle-94e11116.svg (16×16) at "calories". Same anchor, different icon — lift the source's glyph, file or svg (or register the change).
+  🟡 ICON DIFF [main]: source image sparkle.svg (16×16) vs build image sparkle-94e11116.svg (16×16) at "total fat 10g". Same anchor, different icon — lift the source's glyph, file or svg (or register the change).
+  🟡 ICON DIFF [main]: source image sparkle.svg (16×16) vs build image sparkle-94e11116.svg (16×16) at "cholesterol 10mg". Same anchor, different icon — lift the source's glyph, file or svg (or register the change).
+  🟡 ICON DIFF [main]: source image sparkle.svg (16×16) vs build image sparkle-94e11116.svg (16×16) at "sodium 30mg". Same anchor, different icon — lift the source's glyph, file or svg (or register the change).
+  🟡 ICON DIFF [main]: source image sparkle.svg (16×16) vs build image sparkle-94e11116.svg (16×16) at "total carbohydrate 17g". Same anchor, different icon — lift the source's glyph, file or svg (or register the change).
+  🟡 ICON DIFF [main]: source image sparkle.svg (16×16) vs build image sparkle-94e11116.svg (16×16) at "protein 2g". Same anchor, different icon — lift the source's glyph, file or svg (or register the change).
+  🟡 ICON DIFF [main]: source image sparkle.svg (16×16) vs build image sparkle-94e11116.svg (16×16) at "servings: 6". Same anchor, different icon — lift the source's glyph, file or svg (or register the change).
+  🟡 ICON DIFF [main]: source image sparkle.svg (16×16) vs build image sparkle-94e11116.svg (16×16) at "serving size: 3 pieces (29g)". Same anchor, different icon — lift the source's glyph, file or svg (or register the change).
+  🟡 ICON DIFF [main]: source image sparkle.svg (16×16) vs build image sparkle-94e11116.svg (16×16) at "amount per serving". Same anchor, different icon — lift the source's glyph, file or svg (or register the change).
+  🟡 ICON DIFF [main]: source image sparkle.svg (16×16) vs build image sparkle-94e11116.svg (16×16) at "calories". Same anchor, different icon — lift the source's glyph, file or svg (or register the change).
+  🟡 ICON DIFF [main]: source image sparkle.svg (16×16) vs build image sparkle-94e11116.svg (16×16) at "total fat 10g". Same anchor, different icon — lift the source's glyph, file or svg (or register the change).
+  🟡 ICON DIFF [main]: source image sparkle.svg (16×16) vs build image sparkle-94e11116.svg (16×16) at "cholesterol 5mg". Same anchor, different icon — lift the source's glyph, file or svg (or register the change).
+  🟡 ICON DIFF [main]: source image sparkle.svg (16×16) vs build image sparkle-94e11116.svg (16×16) at "sodium 30mg". Same anchor, different icon — lift the source's glyph, file or svg (or register the change).
+  🟡 ICON DIFF [main]: source image sparkle.svg (16×16) vs build image sparkle-94e11116.svg (16×16) at "total carbohydrate 17g". Same anchor, different icon — lift the source's glyph, file or svg (or register the change).
+  🟡 ICON DIFF [main]: source image sparkle.svg (16×16) vs build image sparkle-94e11116.svg (16×16) at "protein 2g". Same anchor, different icon — lift the source's glyph, file or svg (or register the change).
+  🟡 ICON DIFF [main]: source image sparkle.svg (16×16) vs build image sparkle-94e11116.svg (16×16) at "about 3 servings". Same anchor, different icon — lift the source's glyph, file or svg (or register the change).
+  🟡 ICON DIFF [main]: source image sparkle.svg (16×16) vs build image sparkle-94e11116.svg (16×16) at "serving size 5 squares (30g)". Same anchor, different icon — lift the source's glyph, file or svg (or register the change).
+  🟡 ICON DIFF [main]: source image sparkle.svg (16×16) vs build image sparkle-94e11116.svg (16×16) at "amount per serving". Same anchor, different icon — lift the source's glyph, file or svg (or register the change).
+  🟡 ICON DIFF [main]: source image sparkle.svg (16×16) vs build image sparkle-94e11116.svg (16×16) at "calories". Same anchor, different icon — lift the source's glyph, file or svg (or register the change).
+  🟡 ICON DIFF [main]: source image sparkle.svg (16×16) vs build image sparkle-94e11116.svg (16×16) at "total fat 12g". Same anchor, different icon — lift the source's glyph, file or svg (or register the change).
+  🟡 ICON DIFF [main]: source image sparkle.svg (16×16) vs build image sparkle-94e11116.svg (16×16) at "cholesterol 10mg". Same anchor, different icon — lift the source's glyph, file or svg (or register the change).
+  🟡 ICON DIFF [main]: source image sparkle.svg (16×16) vs build image sparkle-94e11116.svg (16×16) at "sodium 25mg". Same anchor, different icon — lift the source's glyph, file or svg (or register the change).
+  🟡 ICON DIFF [main]: source image sparkle.svg (16×16) vs build image sparkle-94e11116.svg (16×16) at "total carbohydrate 16g". Same anchor, different icon — lift the source's glyph, file or svg (or register the change).
+  🟡 ICON DIFF [main]: source image sparkle.svg (16×16) vs build image sparkle-94e11116.svg (16×16) at "protein 2g". Same anchor, different icon — lift the source's glyph, file or svg (or register the change).
+  🟡 ICON DIFF [main]: source image sparkle.svg (16×16) vs build image sparkle-94e11116.svg (16×16) at "servings: about 5". Same anchor, different icon — lift the source's glyph, file or svg (or register the change).
+  🟡 ICON DIFF [main]: source image sparkle.svg (16×16) vs build image sparkle-94e11116.svg (16×16) at "serving size: 2 pieces (26g)". Same anchor, different icon — lift the source's glyph, file or svg (or register the change).
+  🟡 ICON DIFF [main]: source image sparkle.svg (16×16) vs build image sparkle-94e11116.svg (16×16) at "amount per serving". Same anchor, different icon — lift the source's glyph, file or svg (or register the change).
+  🟡 ICON DIFF [main]: source image sparkle.svg (16×16) vs build image sparkle-94e11116.svg (16×16) at "calories". Same anchor, different icon — lift the source's glyph, file or svg (or register the change).
+  🟡 ICON DIFF [main]: source image sparkle.svg (16×16) vs build image sparkle-94e11116.svg (16×16) at "total fat 1g". Same anchor, different icon — lift the source's glyph, file or svg (or register the change).
+  🟡 ICON DIFF [main]: source image sparkle.svg (16×16) vs build image sparkle-94e11116.svg (16×16) at "cholesterol 0mg". Same anchor, different icon — lift the source's glyph, file or svg (or register the change).
+  🟡 ICON DIFF [main]: source image sparkle.svg (16×16) vs build image sparkle-94e11116.svg (16×16) at "sodium 50mg". Same anchor, different icon — lift the source's glyph, file or svg (or register the change).
+  🟡 ICON DIFF [main]: source image sparkle.svg (16×16) vs build image sparkle-94e11116.svg (16×16) at "total carbohydrate 22g". Same anchor, different icon — lift the source's glyph, file or svg (or register the change).
+  🟡 ICON DIFF [main]: source image sparkle.svg (16×16) vs build image sparkle-94e11116.svg (16×16) at "protein". Same anchor, different icon — lift the source's glyph, file or svg (or register the change).
+  🟡 ICON DIFF [main]: source image sparkle.svg (16×16) vs build image sparkle-94e11116.svg (16×16) at "servings: about 5". Same anchor, different icon — lift the source's glyph, file or svg (or register the change).
+  🟡 ICON DIFF [main]: source image sparkle.svg (16×16) vs build image sparkle-94e11116.svg (16×16) at "serving size: 5 pieces (27g)". Same anchor, different icon — lift the source's glyph, file or svg (or register the change).
+  🟡 ICON DIFF [main]: source image sparkle.svg (16×16) vs build image sparkle-94e11116.svg (16×16) at "amount per serving". Same anchor, different icon — lift the source's glyph, file or svg (or register the change).
+  🟡 ICON DIFF [main]: source image sparkle.svg (16×16) vs build image sparkle-94e11116.svg (16×16) at "calories". Same anchor, different icon — lift the source's glyph, file or svg (or register the change).
+  🟡 ICON DIFF [main]: source image sparkle.svg (16×16) vs build image sparkle-94e11116.svg (16×16) at "total fat 0g". Same anchor, different icon — lift the source's glyph, file or svg (or register the change).
+  🟡 ICON DIFF [main]: source image sparkle.svg (16×16) vs build image sparkle-94e11116.svg (16×16) at "cholesterol 0mg". Same anchor, different icon — lift the source's glyph, file or svg (or register the change).
+  🟡 ICON DIFF [main]: source image sparkle.svg (16×16) vs build image sparkle-94e11116.svg (16×16) at "sodium 10mg". Same anchor, different icon — lift the source's glyph, file or svg (or register the change).
+  🟡 ICON DIFF [main]: source image sparkle.svg (16×16) vs build image sparkle-94e11116.svg (16×16) at "total carbohydrate 21g". Same anchor, different icon — lift the source's glyph, file or svg (or register the change).
+  🟡 ICON DIFF [main]: source image sparkle.svg (16×16) vs build image sparkle-94e11116.svg (16×16) at "protein 1g". Same anchor, different icon — lift the source's glyph, file or svg (or register the change).
+  🟡 ICON DIFF [main]: source image decorative-star.svg (24×24) vs build image decorative-star-a0c6604d.svg (24×24) at "coming soon! check back november 2nd to ". Same anchor, different icon — lift the source's glyph, file or svg (or register the change).

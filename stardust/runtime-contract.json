@@ -1,0 +1,25 @@
+{
+  "runtime": "vanilla-eds",
+  "blockWrapperClass": "block",
+  "buttonClasses": ".button / .button.primary / .button.secondary / .button.accent, in p.button-wrapper",
+  "buttonization": "formatted-only",
+  "fragmentScriptPolicy": "inert-innerHTML",
+  "emptySectionCollapse": true,
+  "chrome": {
+    "header": "blocks/header — overlay (fixed) chrome, --nav-height 0; reads /nav (+ /footer for the mobile panel)",
+    "footer": "blocks/footer — reads /footer",
+    "themeMetadata": "Theme | golden-ticket → body.golden-ticket → promo chrome from /us/en/xp/golden-ticket/nav + /footer",
+    "overrides": "nav / footer page metadata"
+  },
+  "pageMetadata": {
+    "Theme": "golden-ticket (promo theme: fluid rem root, Work Sans GT, promo chrome)",
+    "Clouds": "1-6 — decorative page clouds (scripts/clouds.js); omit for none (legal, golden-ticket)"
+  },
+  "sectionAttributes": {
+    "data-cloud-avoid": "clouds keep 160px clear of it — section metadata `Cloud Avoid | true` or set by a block"
+  },
+  "buttonPaint": {
+    "default": "strong = gold lg (.btn-gold .btn-lg), em = blurred lg (.btn-blurred), strong+em = text (.btn-text)",
+    "golden-ticket": "strong = .btn-primary (yellow pill), em = .btn-secondary (underlined link)"
+  }
+}

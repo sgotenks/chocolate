@@ -1,0 +1,82 @@
+{
+  "slug": "us-en-privacy-policy",
+  "type": "static",
+  "renderBranch": "A",
+  "template": null,
+  "modules": [
+    "legal-accordion"
+  ],
+  "widgets": [],
+  "slotsFilled": [
+    "page__sections"
+  ],
+  "canonShas": {
+    "header": "780b39051e92",
+    "footer": "f3a40d305ffb",
+    "css": "e674aed98c37"
+  },
+  "deviations": [],
+  "migrationDecisions": [],
+  "metadata": {
+    "title": "Privacy Policy | Wonka",
+    "description": "Read the official Wonka US Privacy Policy. Learn how Ferrero collects, uses, and protects your personal data and rights when visiting our website.",
+    "canonical": "https://www.wonka.com/us/en/privacy-policy",
+    "lang": "en"
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Privacy Policy | Wonka",
+    "description": "Read the official Wonka US Privacy Policy. Learn how Ferrero collects, uses, and protects your personal data and rights when visiting our website.",
+    "url": "https://www.wonka.com/us/en/privacy-policy"
+  },
+  "migratedAt": "2026-11-25T11:22:40Z",
+  "designMdSha": "b830f5f77c7c",
+  "designJsonSha": "cc2e3d5fbccd",
+  "sourceCurrentSha": "c3dead8e6235",
+  "sourceProposedSha": "d9941056daf2",
+  "fidelityTier": "archetype",
+  "archetypeSource": null,
+  "archetypeSha": null,
+  "variants": [],
+  "gatesPassed": [],
+  "gateEvidence": {},
+  "contentDeviations": [
+    {
+      "kind": "dynamic-dependency",
+      "source": "i18n-locale-trees (dynamic-features.md row 5)",
+      "target": "locale-switch links kept absolute to https://www.wonka.com",
+      "reason": "only /us/en/ roster migrates; owner decision pending"
+    },
+    {
+      "kind": "dynamic-dependency",
+      "source": "t-tags-consent (row 6): GTM/GA/OneTrust",
+      "target": "not wired; cookie banner not replicated",
+      "reason": "awaiting owner property ids / CMP domain"
+    }
+  ],
+  "assetsBundled": 13,
+  "missingAssets": [],
+  "brokenInternalLinks": [
+    {
+      "href": "/us/en/terms-of-use",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "/us/en/cookie-policy",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "/us/en/terms-of-use",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "/us/en/cookie-policy",
+      "reason": "in-inventory-not-migrated"
+    }
+  ],
+  "outputPath": "us/en/privacy-policy/index.html",
+  "outputPathDefault": "trailing-slash",
+  "sidecar": "us/en/privacy-policy/_meta.json",
+  "driverVersion": "1"
+}

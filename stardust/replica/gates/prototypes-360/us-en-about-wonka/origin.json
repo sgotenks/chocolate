@@ -1,0 +1,17 @@
+{
+  "instrument": "stitch-live",
+  "url": "https://www.wonka.com/us/en/about-wonka",
+  "reference": {
+    "dir": "stardust/replica/gates/us-en-about-wonka-360",
+    "capturedAt": "2026-11-25T11:11:17.407Z",
+    "primed": true,
+    "stable": true,
+    "noiseFloor": 0,
+    "variableRows": 0,
+    "maskArg": ""
+  },
+  "note": "reused stardust/replica/gates/us-en-about-wonka-360/baseline.png (the page's frozen reference — primed, not re-captured)",
+  "fontsFailed": [],
+  "deadFaces": [],
+  "at": "2026-11-25T11:19:50.098Z"
+}

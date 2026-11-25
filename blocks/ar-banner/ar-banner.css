@@ -1,0 +1,49 @@
+/* ar-banner — golden-ticket AR call-out (hidden at rest, as on the source) */
+.ar-banner[hidden] {
+  display: none;
+}
+
+.ar-banner .ar-banner-title {
+  text-transform: uppercase;
+}
+
+/*
+ * The closing section of the promo page holds the rules link and the legal copy as default
+ * content (the source's promo-title-text rows): centred 2/3 column, theme row gap, and the
+ * bottom padding the footer tab overlaps.
+ */
+main > .section.ar-banner-container {
+  padding-bottom: calc(var(--gt-row-gap) + 40px);
+  color: #fff;
+  text-align: center;
+}
+
+main > .section.ar-banner-container > .default-content-wrapper {
+  display: flex;
+  flex-direction: column;
+  row-gap: var(--gt-row-gap);
+  width: 100%;
+  max-width: var(--gt-container-width);
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: var(--gt-container-padding);
+  padding-right: var(--gt-container-padding);
+  font-size: var(--gt-text);
+}
+
+main > .section.ar-banner-container > .default-content-wrapper p {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+main > .section.ar-banner-container > .default-content-wrapper p.button-wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+@media (width >= 1024px) {
+  main > .section.ar-banner-container > .default-content-wrapper p {
+    max-width: 66.6667%;
+  }
+}

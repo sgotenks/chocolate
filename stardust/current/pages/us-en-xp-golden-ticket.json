@@ -1,0 +1,587 @@
+{
+  "_provenance": {
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-11-25T10:14:34.075Z",
+    "waitMode": "slow",
+    "waitMs": 5000,
+    "httpStatus": 200
+  },
+  "slug": "us-en-xp-golden-ticket",
+  "url": "https://www.wonka.com/us/en/xp/golden-ticket/",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-11-25T10:14:34.075Z",
+  "finalUrl": "https://www.wonka.com/us/en/xp/golden-ticket/",
+  "title": "Home | Wonka",
+  "description": null,
+  "og": {
+    "title": null,
+    "description": null,
+    "image": null,
+    "type": null
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Could you be the lucky one to win a golden ticket?"
+    },
+    {
+      "tag": "h2",
+      "text": "YOUR GOLDEN CHANCE TO ENTER WONKA'S WORLD!"
+    },
+    {
+      "tag": "h3",
+      "text": "Scan Your Wonka Product"
+    },
+    {
+      "tag": "h3",
+      "text": "Complete Your Entry"
+    },
+    {
+      "tag": "h3",
+      "text": "You're Entered for Your Chance to Win"
+    },
+    {
+      "tag": "h3",
+      "text": "THE WONKA GOLDEN TICKET EXPERIENCE"
+    },
+    {
+      "tag": "h3",
+      "text": "WONKA FACTORY BUNDLE"
+    }
+  ],
+  "body": [
+    "Step into a world of wonder and enter for a chance to win a Golden Ticket Experience! You could win a truly extraordinary grand prize: A magical trip to the Netflix House in Las Vegas.",
+    "To interact with Wonka’s World, open the camera on your smartphone and scan the code above.",
+    "Activate your phone’s camera to enjoy a magical digital unwrapping experience. Find out if you've won the legendary Wonka Golden Ticket!",
+    "Winner and and three guests will receive a four day, three night trip to Las Vegas and VIP tickets for admission to the Netflix House on the Las Vegas Strip.",
+    "The Factory Bundle is a tiny treasure from a bigger wonderland: a tote bag with Wonka goodies.",
+    "NO PURCHASE NECESSARY TO ENTER OR WIN. A PURCHASE DOES NOT INCREASE YOUR CHANCES OF WINNING. Open only to legal residents of the 50 United States and D.C., who are 21 years of age or older with a valid email account as of the time of entry. Void where prohibited. Sweepstakes begins at 9:00:00 AM (ET) on November 2, 2026, and ends at 11:59:59 PM (ET) on July 31, 2027. One (1) Golden Ticket Experience Prize (via Instant Win or Random Drawing) and one (1) Wonka Factory Bundle Instant Win Prize per person for the entire Promotion Period. Unclaimed or forfeited Instant Win Prizes will not be awarded. For complete details including how to enter, odds of winning and prizing see Official Rules at www.wonka.com or scan QR code on specially marked packs of Ferrero brand Wonka products or advertising display. Data usage rates may apply. Sponsor: Ferrero U.S.A., Inc., Parsippany, NJ 07054 and Wells Enterprises, Inc., 1 Blue Bunny Drive, Le Mars, Iowa 51031"
+  ],
+  "codeBlocks": [],
+  "ctas": [
+    {
+      "label": "Unwrap the magic",
+      "href": "/us/en/xp/golden-ticket/lead/register"
+    },
+    {
+      "label": "Get Started",
+      "href": "/us/en/xp/golden-ticket/lead/register"
+    },
+    {
+      "label": "See Official Rules for details",
+      "href": "/us/en/xp/golden-ticket/terms-and-conditions"
+    },
+    {
+      "label": "See Official Rules for details",
+      "href": "/us/en/xp/golden-ticket/terms-and-conditions"
+    },
+    {
+      "label": "See Official Rules for details",
+      "href": "/us/en/xp/golden-ticket/terms-and-conditions"
+    },
+    {
+      "label": "www.wonka.com",
+      "href": "/us/en/xp/golden-ticket/terms-and-conditions"
+    },
+    {
+      "label": "Home",
+      "href": "/us/en/xp/golden-ticket/"
+    },
+    {
+      "label": "Play",
+      "href": "/us/en/xp/golden-ticket/lead/register"
+    },
+    {
+      "label": "Official Rules",
+      "href": "/us/en/xp/golden-ticket/terms-and-conditions"
+    },
+    {
+      "label": "Privacy Policy",
+      "href": "https://www.wonka.com/us/en/privacy-policy"
+    },
+    {
+      "label": "Terms of Use",
+      "href": "https://www.wonka.com/us/en/terms-of-use"
+    },
+    {
+      "label": "Cookie Policy",
+      "href": "https://www.wonka.com/us/en/cookie-policy"
+    },
+    {
+      "label": "Do Not Sell or Share My Personal Information",
+      "href": "#ot-sdk-show-settings"
+    },
+    {
+      "label": "Contact Us",
+      "href": "https://www.ferrero.com/us/en/contact-us"
+    }
+  ],
+  "links": [
+    "https://www.wonka.com/us/en/xp/golden-ticket/#main-content",
+    "https://www.wonka.com/us/en/xp/golden-ticket/",
+    "https://www.wonka.com/us/en/xp/golden-ticket/lead/register",
+    "https://www.wonka.com/us/en/xp/golden-ticket/terms-and-conditions",
+    "https://www.facebook.com/wonkaglobal",
+    "https://www.instagram.com/wonka_global/",
+    "https://www.tiktok.com/@wonka_global",
+    "https://www.wonka.com/us/en/privacy-policy",
+    "https://www.wonka.com/us/en/terms-of-use",
+    "https://www.wonka.com/us/en/cookie-policy",
+    "https://www.wonka.com/us/en/xp/golden-ticket/#ot-sdk-show-settings",
+    "https://www.ferrero.com/us/en/contact-us"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://www.wonka.com/us/en/xp/golden-ticket/themes/custom/gpp_wonka_theme/logo.svg",
+        "alt": "Wonka Logo",
+        "w": 90,
+        "h": 51
+      },
+      {
+        "src": "https://ferrero-gpp-wonka-prod-static.s3.eu-west-1.amazonaws.com/golden-ticket-us-d11/s3fs-public/2026-10/wonka_visual_US_desk.jpg",
+        "alt": "Wonka chocolate products promoting the Golden Ticket competition",
+        "w": 3072,
+        "h": 1044
+      },
+      {
+        "src": "https://www.wonka.com/us/en/xp/golden-ticket/themes/custom/gpp_promo_theme/assets/images/q1.png",
+        "alt": "",
+        "w": 110,
+        "h": 110
+      },
+      {
+        "src": "https://www.wonka.com/us/en/xp/golden-ticket/themes/custom/gpp_promo_theme/assets/images/q2.png",
+        "alt": "",
+        "w": 203,
+        "h": 186
+      },
+      {
+        "src": "https://www.wonka.com/us/en/xp/golden-ticket/themes/custom/gpp_promo_theme/assets/images/q3.png",
+        "alt": "",
+        "w": 152,
+        "h": 149
+      },
+      {
+        "src": "https://ferrero-gpp-wonka-prod-static.s3.eu-west-1.amazonaws.com/golden-ticket-us-d11/s3fs-public/2026-10/qr-code-WONKA-LIVE-US.png",
+        "alt": "Open the camera on your smartphone and scan the QR code",
+        "w": 128,
+        "h": 128
+      },
+      {
+        "src": "https://www.wonka.com/us/en/xp/golden-ticket/themes/custom/gpp_promo_theme/assets/images/caramel-pop.png",
+        "alt": "",
+        "w": 266,
+        "h": 289
+      },
+      {
+        "src": "https://www.wonka.com/us/en/xp/golden-ticket/themes/custom/gpp_promo_theme/assets/images/berry_elixir.png",
+        "alt": "",
+        "w": 198,
+        "h": 197
+      },
+      {
+        "src": "https://www.wonka.com/us/en/xp/golden-ticket/themes/custom/gpp_promo_theme/assets/images/bubblegumjoy.png",
+        "alt": "",
+        "w": 173,
+        "h": 160
+      },
+      {
+        "src": "https://ferrero-gpp-wonka-prod-static.s3.eu-west-1.amazonaws.com/golden-ticket-us-d11/s3fs-public/2026-08/img_0.png",
+        "alt": "Wonka-Golden-Ticket",
+        "w": 1406,
+        "h": 846
+      },
+      {
+        "src": "https://ferrero-gpp-wonka-prod-static.s3.eu-west-1.amazonaws.com/golden-ticket-us-d11/s3fs-public/2026-06/step-1.png",
+        "alt": "Step 1",
+        "w": 480,
+        "h": 337
+      },
+      {
+        "src": "https://ferrero-gpp-wonka-prod-static.s3.eu-west-1.amazonaws.com/golden-ticket-us-d11/s3fs-public/2026-10/Step2-Register-and-play.png",
+        "alt": "Step 2",
+        "w": 480,
+        "h": 337
+      },
+      {
+        "src": "https://ferrero-gpp-wonka-prod-static.s3.eu-west-1.amazonaws.com/golden-ticket-us-d11/s3fs-public/2026-10/step-3.png",
+        "alt": "Step 3",
+        "w": 480,
+        "h": 337
+      },
+      {
+        "src": "https://ferrero-gpp-wonka-prod-static.s3.eu-west-1.amazonaws.com/golden-ticket-us-d11/s3fs-public/2026-10/Wonka-prize-Las-Vegas-trip-slider_0.png",
+        "alt": "Netflix House on the Vegas Strip prize in the Wonka Golden Ticket competition",
+        "w": 1406,
+        "h": 846
+      },
+      {
+        "src": "https://www.wonka.com/us/en/xp/golden-ticket/themes/custom/gpp_wonka_theme/logo.svg",
+        "alt": "Home",
+        "w": 90,
+        "h": 51
+      },
+      {
+        "src": "https://www.wonka.com/us/en/xp/golden-ticket/themes/custom/main_theme/assets/images/icons/arrow-down-menu.svg",
+        "alt": "close",
+        "w": 38,
+        "h": 38
+      }
+    ],
+    "allImgCount": 72,
+    "cssBackgrounds": [
+      "https://www.wonka.com/us/en/xp/golden-ticket/themes/custom/gpp_promo_theme/assets/images/particles-01.png",
+      "https://www.wonka.com/us/en/xp/golden-ticket/themes/custom/gpp_promo_theme/assets/images/particles-02.png",
+      "https://www.wonka.com/us/en/xp/golden-ticket/themes/custom/gpp_promo_theme/assets/images/particles-03.png"
+    ],
+    "modals": [],
+    "videos": [],
+    "iframes": []
+  },
+  "customProps": {
+    "--theme-color": "#980186",
+    "--theme-color-light": "#FFF5D9",
+    "--theme-secondary-color": "#27174E",
+    "--body-text-color": "#FFF",
+    "--white": "#FFFFFF",
+    "--base-font-family": "\"Work Sans\",sans-serif",
+    "--font-family-title": "\"Work Sans\",sans-serif",
+    "--font-size-title": "40px",
+    "--font-weight": "400",
+    "--font-size-h1": "2.5rem",
+    "--font-size-h2": "2rem",
+    "--font-size-h3": "2rem",
+    "--font-size-h4": "1.38rem",
+    "--line-height-text": "1.75",
+    "--row-gap-paragraph": "5rem",
+    "--base-font-size": "1.0416666667vw",
+    "--container-padding": "40px",
+    "--swiper-theme-color": "#007aff",
+    "--yellow": "#EEC60D",
+    "--dark-font-color": "#570B00",
+    "--theme-color-dark": "#23000D",
+    "--pink": "#EC3790",
+    "--body-bg-color": "#77186E",
+    "--btn-hover-bg-color": "#ffe365",
+    "--btn-hover-color": "#29144E",
+    "--main-pagging-top": "20px",
+    "--container-width": "1536px",
+    "--headings-line-height": "1",
+    "--headings-font-weight": "700",
+    "--headings-text-transform": "uppercase",
+    "--main-menu-height": "20px",
+    "--btn-shadow": "0 4px 0 0 #980186",
+    "--btn-font-family": "\"Work Sans\",sans-serif",
+    "--btn-bg-color": "#EEC60D",
+    "--btn-color": "#29144E",
+    "--btn-font-weight": "normal",
+    "--btn-secondary-color": "#EEC60D",
+    "--btn-secondary-font-weight": "400",
+    "--btn-secondary-font-size": "1rem",
+    "--btn-secondary-hover-color": "#EEC60D",
+    "--btn-font-size": "1rem",
+    "--btn-paddingY": "1.13rem",
+    "--default-font-size": "1rem",
+    "--p-editorial-title-color": "#EEC60D",
+    "--p-editorial-text-color": "#FFF",
+    "--p-title-text-color": "#EEC60D",
+    "--line-height-h3": "1",
+    "--form-column-gap": "1.5rem",
+    "--form-text-color": "#570B00",
+    "--form-text-border-width": "2px",
+    "--form-text-border-color": "rgba(35,0,13,0.10)",
+    "--form-text-border-style": "solid",
+    "--form-text-font-size": "1rem",
+    "--form-text-padding": "0 1.5rem",
+    "--form-text-border-radius": "1.88rem",
+    "--form-text-font-family": "\"Work Sans\",sans-serif",
+    "--form-text-height": "50px",
+    "--form-text-focus-border-color": "#980186",
+    "--date-of-birth-wrapper-width": "100%",
+    "--otp-phone-prefixed-left": "1.5rem",
+    "--otp-phone-prefixed-color": "#570B00",
+    "--otp-phone-input-pl": "3.75rem",
+    "--otp-button-disabled-color": "#570B00",
+    "--otp-button-mt": "24px",
+    "--form-checkbox-label-color": "#570B00",
+    "--form-upload-border-radius": "1.88rem",
+    "--form-upload-border-width": "2px",
+    "--form-upload-border-style": "solid",
+    "--form-upload-border-color": "rgba(35,0,13,0.10)",
+    "--form-upload-label-display": "block",
+    "--form-upload-height": "50px",
+    "--form-upload-pt": "0",
+    "--form-upload-pb": "0",
+    "--form-upload-flex-direction": "row",
+    "--form-upload-upload-text-display": "none",
+    "--form-upload-upload-icon-display": "none",
+    "--form-label-font-size": "0.75rem",
+    "--form-checkbox-label-font-size": "0.75rem",
+    "--form-label-font-weight": "500",
+    "--form-label-color": "#980186",
+    "--form-label-margin-bottom": "8px",
+    "--form-description-font-size": "0.75rem",
+    "--form-checkbox-border-color": "#EC3790",
+    "--form-checkbox-checked-color": "#EC3790",
+    "--form-checkbox-border-radius": "4px",
+    "--privacy-introduction-size": "0.75rem",
+    "--serivce-page-title-color": "#EEC60D",
+    "--serivce-page-text-color": "#FFF",
+    "--serivce-page-content-gap": "2.5rem",
+    "--serivce-page-intro-gap": "12px",
+    "--promo-code-content-max-width": "none",
+    "--promo-code-content-border-radius": "1.5rem",
+    "--promo-code-content-box-shadow": "0 8px 11.4px 0 rgba(0,0,0,0.25),0 4px 0 0 #980186",
+    "--main-menu-font-family": "\"Work Sans\",sans-serif",
+    "--main-menu-font-size": "1.13rem",
+    "--main-menu-top": "auto",
+    "--main-menu-position": "relative",
+    "--main-menu-justify-content": "center",
+    "--main-menu-gap": "5rem",
+    "--main-menu-link-color": "#FFF",
+    "--main-menu-active-link-color": "#FFF",
+    "--main-menu-font-weight": "700",
+    "--p-editorial-link-display": "flex",
+    "--p-editorial-link-flex-direction": "column",
+    "--p-editorial-link-gap": "2rem",
+    "--p-editorial-link-align-items": "center",
+    "--p-editorial-text-pr": "1rem",
+    "--p-editorial-text-pl": "1rem",
+    "--p-icons-title-size": "2.5rem",
+    "--container-width-small": "720px",
+    "--main-min-height": "100px",
+    "--serivce-page-padding-top": "6.25rem",
+    "--serivce-page-padding-bottom": "calc(6.25rem + 40px)",
+    "--lp-padding-top-without-visual": "6.25rem"
+  },
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 7,
+    "mainTextLen": 2260,
+    "realImageCount": 16,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false,
+    "screenshotMode": "fullPage",
+    "pageSize": {
+      "w": 1440,
+      "h": 3641
+    }
+  },
+  "dynamic": {
+    "endpoints": [
+      {
+        "method": "GET",
+        "host": "cdn.cookielaw.org",
+        "path": "/consent/{uuid}/{uuid}.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://cdn.cookielaw.org/consent/019ddcb5-1afd-74e9-920e-7e5a2287f1be/019ddcb5-1afd-74e9-920e-7e5a2287f1be.json",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "cdn.cookielaw.org",
+        "path": "/consent/{uuid}/{uuid}/en.json",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://cdn.cookielaw.org/consent/019ddcb5-1afd-74e9-920e-7e5a2287f1be/019dbb0b-c528-71df-9add-c261d11398e9/en.json",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "cdn.cookielaw.org",
+        "path": "/scripttemplates/202610.1.0/assets/otFlat.json",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 4023,
+        "hits": 1,
+        "example": "https://cdn.cookielaw.org/scripttemplates/202610.1.0/assets/otFlat.json",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "cdn.cookielaw.org",
+        "path": "/scripttemplates/202610.1.0/assets/v2/otPcTab.json",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 15104,
+        "hits": 1,
+        "example": "https://cdn.cookielaw.org/scripttemplates/202610.1.0/assets/v2/otPcTab.json",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "cdn.cookielaw.org",
+        "path": "/scripttemplates/202610.1.0/assets/otCommonStyles.css",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "text/css",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://cdn.cookielaw.org/scripttemplates/202610.1.0/assets/otCommonStyles.css",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "cdn.cookielaw.org",
+        "path": "/logos/static/ot_guard_logo.svg",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "image/svg+xml",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://cdn.cookielaw.org/logos/static/ot_guard_logo.svg",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "www.google-analytics.com",
+        "path": "/g/collect",
+        "query": [
+          "_fv",
+          "_nsi",
+          "_p",
+          "_s",
+          "_ss",
+          "_tu",
+          "cid",
+          "dl",
+          "dma",
+          "dma_cps",
+          "dt",
+          "en",
+          "ep.anonymize_ip",
+          "frm",
+          "gcd",
+          "gcs",
+          "gdid",
+          "gtm",
+          "ngs",
+          "npa",
+          "pscdl",
+          "rcb",
+          "sct",
+          "seg",
+          "sid",
+          "sr",
+          "tag_exp",
+          "tfd",
+          "tid",
+          "uaa",
+          "uab",
+          "uafvl",
+          "uam",
+          "uamb",
+          "uap",
+          "uapv",
+          "uaw",
+          "ul",
+          "v"
+        ],
+        "resourceType": "fetch",
+        "contentType": "text/plain",
+        "status": 204,
+        "bytes": null,
+        "hits": 5,
+        "example": "https://www.google-analytics.com/g/collect",
+        "sameSite": false
+      }
+    ],
+    "thirdPartyScriptHosts": [
+      {
+        "host": "www.googletagmanager.com",
+        "count": 4
+      },
+      {
+        "host": "cdn.cookielaw.org",
+        "count": 2
+      },
+      {
+        "host": "ferrero-gpp-wonka-prod-static.s3.eu-west-1.amazonaws.com",
+        "count": 1
+      }
+    ],
+    "truncated": false,
+    "inlineData": [
+      {
+        "id": null,
+        "type": "application/json",
+        "bytes": 1138,
+        "topLevelKeys": [
+          "path",
+          "pluralDelimiter",
+          "suppressDeprecationErrors",
+          "ajaxPageState",
+          "ajaxTrustedUrl",
+          "dataLayer",
+          "publicPath",
+          "ar_text",
+          "cdn_url",
+          "hat_variation",
+          "drupal_hash",
+          "campaign"
+        ]
+      }
+    ],
+    "globalState": [
+      "drupalSettings",
+      "dataLayer"
+    ],
+    "frameworkHints": [],
+    "forms": [],
+    "ariaLiveRegions": 3,
+    "triggers": [],
+    "mediaIds": [],
+    "summary": {
+      "sameSiteEndpoints": 0,
+      "thirdPartyEndpoints": 7,
+      "thirdPartyScriptHosts": 3,
+      "inlineDataBlobs": 1,
+      "forms": 0,
+      "searchForms": 0,
+      "hydrated": true
+    }
+  },
+  "screenshot": "assets/screenshots/us-en-xp-golden-ticket.png",
+  "renderedHtml": "pages/us-en-xp-golden-ticket.html",
+  "slots": {
+    "type": "unique",
+    "hero": {
+      "module": "promo-editorial (qr)",
+      "headline": "Could you be the lucky one to win a golden ticket?"
+    },
+    "feature": {
+      "module": "promo-editorial (golden-ticket)",
+      "headline": "YOUR GOLDEN CHANCE TO ENTER WONKA'S WORLD!",
+      "cta": "Get Started"
+    },
+    "steps": {
+      "module": "promo-steps",
+      "headline": "ENTER FOR YOUR CHANCE TO WIN A GOLDEN TICKET",
+      "count": 3
+    },
+    "prizes": {
+      "module": "promo-prize-slider",
+      "headline": "FIND DELIGHTFULLY EXCLUSIVE PRIZES"
+    },
+    "legal": {
+      "module": "promo-title-text"
+    }
+  },
+  "type": "unique"
+}

@@ -1,0 +1,41 @@
+/* us-en-privacy-policy.css — the LEGAL template (static archetype): privacy policy, terms of use, cookie policy.
+   Shell = sling legal-page (section-container + 800px column + gold h1); body = rich text from the
+   OneTrust notice (otnotice-core.css v2 values) with its layer-breaker accordions. Needs canon.css + canon-chrome.css. */
+
+/* ---------- shell ---------- */
+.legal-page { position: relative; width: 100%; }
+.legal-page__container { margin-inline: auto; width: 100%; max-width: 1172px; padding: 104px 1rem 0; }
+.legal-page__column { display: flex; width: 100%; max-width: 800px; flex-direction: column; gap: 1rem; margin-left: 0; }
+.legal-page__header { display: flex; flex-direction: column; gap: 1rem; }
+.legal-page__title { font-family: var(--font-heading); font-size: 42px; line-height: 42px; font-weight: 600; text-transform: uppercase; letter-spacing: normal; }
+@media (min-width: 768px) { .legal-page__container { max-width: 1204px; padding: 144px 2rem 0; } }
+@media (min-width: 1024px) { .legal-page__container { max-width: 1268px; padding-inline: 4rem; } }
+
+/* ---------- body: rich text (otnotice-content values) ---------- */
+.legal-body { width: 100%; font-size: 16px; line-height: 1.5; }
+/* notice bodies sit 1rem in from the title; the vendor's leading/trailing empty paragraphs are spacing, not content */
+.legal-body--notice { padding: 40px 1rem 80px; }
+.legal-body p { margin: 0 0 1rem; }
+.legal-body ul, .legal-body ol { list-style: none; margin: 0 0 1rem; padding: 0 2.5rem; }
+.legal-body li { margin: 0 0 .5rem; }
+.legal-body h2, .legal-body h3, .legal-body h4 { margin: 0 0 .5rem; }
+.legal-body strong, .legal-body b { font-weight: bolder; }
+.legal-body .legal-center { text-align: center; }
+/* authored inline colours from the notice editor (paint only when a section is open) */
+.legal-body .legal-ink { color: #000; }
+.legal-body .legal-blue { color: #2c82c9; }
+/* OneTrust consent-settings button (#ot-sdk-btn.ot-sdk-show-settings, site theme overrides) */
+.legal-consent-btn { height: auto; white-space: normal; overflow-wrap: break-word; padding: .8em 2em; font-size: 16px; line-height: 24px; color: #fff; background-color: var(--purple-500); border: 0 solid #fff; cursor: pointer; transition: .1s ease; }
+.legal-consent-btn:hover { background-color: #fff; border-color: var(--purple-500); color: var(--purple-500); }
+.legal-consent-btn:active { border: 1px solid rgb(162 192 169 / .5); }
+
+/* ---------- accordion (OneTrust layer breaker): bold row + " +" / " -" marker, panel display toggles ---------- */
+.legal-acc { margin: 0; padding: 0; }
+.legal-body .legal-acc__heading { margin: 0; font: inherit; }
+.legal-acc__toggle { display: block; width: 100%; padding: 0; margin: 0; border: 0; background: none; color: inherit; font: inherit; font-weight: 700; text-align: left; cursor: pointer; }
+.legal-acc__toggle::after { content: " +"; font-size: 20px; font-weight: bolder; }
+.legal-acc__toggle[aria-expanded="true"]::after { content: " -"; font-size: 25px; }
+.legal-acc__toggle:focus { outline: none; }
+.legal-acc__toggle:focus-visible { outline: 2px solid currentColor; outline-offset: 2px; }
+.legal-acc__panel { overflow: hidden; }
+.legal-acc__panel[hidden] { display: none; }

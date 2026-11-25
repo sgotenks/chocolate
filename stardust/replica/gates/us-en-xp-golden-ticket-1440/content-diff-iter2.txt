@@ -1,0 +1,23 @@
+[live-session] waiting to pace live navigations to www.wonka.com (1000 ms apart, 2 max parallel; STARDUST_LIVE_PACE_MS / STARDUST_LIVE_MAX_PARALLEL; 0 disables either) — first wait 883 ms
+
+Content diff @ 1440px (profile "generic", roots: main, header, footer)
+root "main"
+  source: 30 text nodes — 7 headings, 1 eyebrows, 11 CTAs, 11 body; 69 img
+  build: 30 text nodes — 7 headings, 1 eyebrows, 11 CTAs, 11 body; 23 img
+  editable texts (outermost h*/p/ul/ol): source 14 / build 14
+  attributes (placeholder/aria-label/title): source 6 / build 6; icons: source 4 / build 3
+root "header"
+  source: 0 text nodes — 0 headings, 0 eyebrows, 0 CTAs, 0 body; 1 img
+  build: 0 text nodes — 0 headings, 0 eyebrows, 0 CTAs, 0 body; 1 img
+  editable texts (outermost h*/p/ul/ol): source 0 / build 0
+  attributes (placeholder/aria-label/title): source 0 / build 0; icons: source 2 / build 2
+root "footer"
+  source: 11 text nodes — 1 headings, 0 eyebrows, 8 CTAs, 2 body; 2 img
+  build: 11 text nodes — 1 headings, 0 eyebrows, 8 CTAs, 2 body; 2 img
+  editable texts (outermost h*/p/ul/ol): source 2 / build 2
+  attributes (placeholder/aria-label/title): source 3 / build 3; icons: source 4 / build 4
+  accepted (invisible, nothing lost): 3 SAME IMAGE — "#icon-facebook ↔ 0 0 24 24 / 1 shape(s)", "#icon-instagram ↔ 0 0 24 24 / 1 shape(s)", "#icon-tiktok ↔ 0 0 24 24 / 1 shape(s)"
+
+Findings: 1 (0 structural 🔴)
+Tiers: looks-same 🔴 0 · nothing-lost 🟡 0 · accepted 🟢 3 (owner 0, auto 3) · advisory 1
+  🟡 MISSING ICON [main]: source image data:image/gif… (1×1) at "could you be the lucky one to win a gold" has no build icon there. A source icon with no build icon at the same anchor — an empty icon box or a dropped glyph; lift the same glyph, file or svg.

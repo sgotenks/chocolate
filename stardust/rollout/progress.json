@@ -1,0 +1,237 @@
+{
+  "units": {
+    "foundation": {
+      "status": "done",
+      "kind": "foundation",
+      "templates": [
+        "us-en",
+        "us-en-about-wonka",
+        "us-en-privacy-policy",
+        "us-en-xp-golden-ticket"
+      ],
+      "pages": 0,
+      "blocks": 2,
+      "gates": {
+        "360": {
+          "chromeParity": "0 deltas (2 advisory: rest state, region offset)",
+          "geometry": "header/footer/mobile panel = prototype (0 px)"
+        },
+        "1440": {
+          "chromeParity": "0 deltas (header+footer vs live about-wonka; 1 advisory region offset)",
+          "geometry": "header/footer rects = prototype (0 px)"
+        },
+        "crop": "carried by archetype-landing (no published content page yet)",
+        "chrome": "0/0 deltas at 1440/360; promo chrome = prototype geometry (injected-theme probe), parity carried by archetype-unique"
+      },
+      "startedAt": "2026-11-25T11:30:01Z",
+      "endedAt": "2026-11-25T11:42:48.848Z",
+      "verdict": "foundation: chrome docs 4/4 live (/nav, /footer, /us/en/xp/golden-ticket/{nav,footer}), blocks 2 (header, footer; site + golden-ticket theme), lint clean, chrome-parity 0 deltas 1440/360; crop-compare gate carried by archetype-landing (no content page live); frozen 27 files",
+      "note": "styles/, fonts, favicon, header + footer blocks (canon chrome + golden-ticket promo theme), /nav + /footer docs; freeze at end"
+    },
+    "archetype-landing": {
+      "status": "done",
+      "kind": "archetype",
+      "templates": [
+        "us-en"
+      ],
+      "pages": 1,
+      "blocks": 4,
+      "gates": {
+        "360": {
+          "pixel": "3.01%",
+          "dh": "1px",
+          "clipped": 0,
+          "crop": "header 0.00% footer 0.13%"
+        },
+        "1440": {
+          "pixel": "6.05%",
+          "dh": "1px",
+          "clipped": 0,
+          "crop": "header 0.13% footer 0.07%"
+        },
+        "chrome": "1 delta/width: logo media filename (hashed), not visual"
+      },
+      "startedAt": "2026-11-25T11:44:03Z",
+      "endedAt": "2026-11-25T12:08:22Z",
+      "verdict": "archetype-landing: pages 1/1 live, blocks 4, gate 1440 6.05% / 360 3.01%, requests 0"
+    },
+    "archetype-about": {
+      "status": "done",
+      "kind": "archetype",
+      "templates": [
+        "us-en-about-wonka"
+      ],
+      "pages": 1,
+      "blocks": 6,
+      "gates": {
+        "360": {
+          "pixel": "2.48%",
+          "dh": "1px",
+          "clipped": 0,
+          "units": "cards 3/3, faq 7/7 within 4px"
+        },
+        "1440": {
+          "pixel": "2.39%",
+          "dh": "1px",
+          "clipped": 0,
+          "units": "cards 3/3, faq 7/7 within 4px"
+        }
+      },
+      "startedAt": "2026-11-25T12:03:47Z",
+      "endedAt": "2026-11-25T12:26:02Z",
+      "verdict": "archetype-about: pages 1/1 live, blocks 6, gate 1440 2.39% / 360 2.48%, requests 0"
+    },
+    "archetype-static": {
+      "status": "done",
+      "kind": "archetype",
+      "templates": [
+        "us-en-privacy-policy"
+      ],
+      "pages": 1,
+      "blocks": 1,
+      "gates": {
+        "360": {
+          "pixel": "0.40%",
+          "dh": "1px",
+          "clipped": 0,
+          "units": "0/13 off"
+        },
+        "1440": {
+          "pixel": "0.21%",
+          "dh": "1px",
+          "clipped": 0,
+          "units": "0/13 off"
+        }
+      },
+      "startedAt": "2026-11-25T11:44:03Z",
+      "endedAt": "2026-11-25T12:03:35Z",
+      "verdict": "archetype-static: pages 1/1 live, blocks 1, gate 1440 0.21% / 360 0.40%, requests 0"
+    },
+    "archetype-unique": {
+      "status": "done",
+      "kind": "archetype",
+      "templates": [
+        "us-en-xp-golden-ticket"
+      ],
+      "pages": 1,
+      "blocks": 5,
+      "gates": {
+        "360": {
+          "pixel": "1.02%",
+          "dh": "0px",
+          "clipped": 0
+        },
+        "1440": {
+          "pixel": "0.83%",
+          "dh": "0px",
+          "clipped": 0
+        }
+      },
+      "startedAt": "2026-11-25T12:09:20Z",
+      "endedAt": "2026-11-25T12:24:36Z",
+      "verdict": "archetype-unique: pages 1/1 live, blocks 5, gate 1440 0.83% / 360 1.02%, requests 1"
+    },
+    "cluster-landing": {
+      "status": "done",
+      "kind": "cluster",
+      "templates": [
+        "us-en"
+      ],
+      "pages": 1,
+      "blocks": 0,
+      "gates": {
+        "redirect": "/ and /index.html 301 → /us/en/ on .aem.page and .aem.live, -L ends 200"
+      },
+      "startedAt": "2026-11-25T12:08:30Z",
+      "endedAt": "2026-11-25T12:09:13Z",
+      "verdict": "cluster-landing: redirect / → /us/en/ live (preview 200, live 200), pages 0, requests 0",
+      "note": "index is a REDIRECT row, not a page: source https://www.wonka.com/ answers 301 → /us/en/ (contract § 3 row D) — redirects sheet carries / and /index.html → /us/en/; no index document, no gate row; closes once the sheet is wired and curl -sIL <preview>/ ends 200"
+    },
+    "cluster-static": {
+      "status": "done",
+      "kind": "cluster",
+      "templates": [
+        "us-en-privacy-policy"
+      ],
+      "pages": 2,
+      "blocks": 1,
+      "gates": {
+        "360": {
+          "cookie": "1.80% -6px",
+          "terms": "0.74% 1px",
+          "privacy": "0.40% 1px"
+        },
+        "1440": {
+          "cookie": "1.23% -4px",
+          "terms": "0.38% 1px",
+          "privacy": "0.21% 1px"
+        }
+      },
+      "startedAt": "2026-11-25T12:10:17Z",
+      "endedAt": "2026-11-25T12:35:09Z",
+      "verdict": "cluster-static: pages 2/2 live, blocks 1, gate 1440 1.23% / 360 1.80%, requests 0",
+      "note": "us-en-terms-of-use (plain rich text, no OneTrust notice wrapper) + us-en-cookie-policy (OneTrust notice + cookie tables); render via migrate.mjs render --archetype <slug>=us-en-privacy-policy after archetype-static is done"
+    },
+    "cluster-about": {
+      "status": "done",
+      "kind": "cluster",
+      "templates": [
+        "us-en-about-wonka"
+      ],
+      "pages": 0,
+      "blocks": 0,
+      "gates": {},
+      "startedAt": "2026-11-25T12:26:02Z",
+      "endedAt": "2026-11-25T12:26:02Z",
+      "verdict": "cluster-about: no siblings — closed after archetype-about",
+      "note": "no siblings — close immediately after archetype-about"
+    },
+    "cluster-unique": {
+      "status": "done",
+      "kind": "cluster",
+      "templates": [
+        "us-en-xp-golden-ticket"
+      ],
+      "pages": 0,
+      "blocks": 0,
+      "gates": {},
+      "startedAt": "2026-11-25T12:24:36Z",
+      "endedAt": "2026-11-25T12:24:36Z",
+      "verdict": "cluster-unique: no siblings — closed after archetype-unique",
+      "note": "no siblings — close immediately after archetype-unique"
+    },
+    "gate-all": {
+      "status": "done",
+      "kind": "final",
+      "templates": [],
+      "pages": 6,
+      "blocks": 0,
+      "gates": {
+        "360": "6/6 PASS on aem.live: us-en 2.96%, about 2.48%, cookie 1.80%, privacy 0.40%, gt 1.02%, terms 0.74%; Δh ≤6px; clipped 0; content 0",
+        "1440": "6/6 PASS on aem.live: us-en 3.19%, about 2.39%, cookie 1.23%, privacy 0.21%, gt 0.83%, terms 0.38%; Δh ≤4px; clipped 0; content 0",
+        "wide": "2560: 5 PASS / 1 error (us-en source reference unstable — animated hat-portal intro), report only"
+      },
+      "startedAt": "2026-11-25T12:35:29Z",
+      "endedAt": "2026-11-25T12:44:29Z",
+      "verdict": "gate-all: live host 1440 6/6 PASS, 360 6/6 PASS; wide 2560px: 0 pages over threshold, us-en reference unstable (report)",
+      "note": "gate-all-1440 / gate-all-360 / gate-all-wide on the live host over the 6 delivered pages (index is a redirect)"
+    },
+    "final": {
+      "status": "done",
+      "kind": "final",
+      "templates": [],
+      "pages": 6,
+      "blocks": 0,
+      "gates": {
+        "freeze": "unchanged 27 files",
+        "requests": "1 — kept as scoped block override (single-template theme), no foundation edit",
+        "verify": "7/7 verified on aem.live",
+        "coverage": "update-coverage --gate 1440 + 360, 0 flips"
+      },
+      "startedAt": "2026-11-25T12:44:36Z",
+      "endedAt": "2026-11-25T12:46:25Z",
+      "verdict": "final: freeze clean, 1 request kept scoped, gate 6/6 both widths on live host, verify 7/7, redirects 8 rows live",
+      "note": "C-final: foundation-freeze check, foundation-requests applied once, archetype re-gate, update-coverage --gate, C-deliver end"
+    }
+  }
+}

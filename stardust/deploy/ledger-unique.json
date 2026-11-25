@@ -1,0 +1,11 @@
+{
+  "/us/en/xp/golden-ticket/index": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-11-25T12:18:34.112Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  }
+}

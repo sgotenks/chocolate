@@ -1,0 +1,4 @@
+clip-probe http://localhost:8791/us-en-about-wonka-proposed.html @ 360px — docH 5367, 41 text nodes, 21 controls (HTTP 200, chrome)
+  🔴 TEXT CLIPPED           ×1     in div.itext__row  section.itext > div.container.container--lg > div.itext__row > h2.itext__title.itext__title--m  "born in the wonka factory"  cut 4px
+Clipped: 1 (text clipped 1, text hidden 0, controls hidden 0, controls clipped 0; advisory: clamped 0, collapsed 0, scroll-hidden 0, horizontal 1)
+json → stardust/replica/gates/us-en-about-wonka-360/clip-iter1.json

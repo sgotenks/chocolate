@@ -1,0 +1,236 @@
+{
+ "_provenance": {
+  "writtenBy": "skills/replica/scripts/source-spec.mjs",
+  "writtenAt": "2026-11-25T10:30:18.342Z",
+  "url": "https://www.wonka.com/us/en/xp/golden-ticket/",
+  "width": 1440,
+  "main": "main",
+  "locale": "en-US"
+ },
+ "page": {
+  "url": "https://www.wonka.com/us/en/xp/golden-ticket/",
+  "width": 1440,
+  "viewport": 1440,
+  "docHeight": 3641,
+  "scrollWidth": 1440,
+  "root": "main",
+  "rootFallback": false,
+  "records": [
+   "scroll",
+   "shape"
+  ],
+  "rootWrapsChrome": false,
+  "tier": "chrome"
+ },
+ "tokens": {
+  "fonts": [
+   {
+    "stack": "\"Work Sans\", sans-serif",
+    "n": 27
+   }
+  ],
+  "loadedFaces": [
+   "Work Sans 100 900 normal"
+  ],
+  "textStyles": [
+   {
+    "key": "15/21 400 Work Sans",
+    "fontSize": 15,
+    "lineHeight": 21,
+    "fontWeight": "400",
+    "fontFamily": "Work Sans",
+    "textTransform": "none",
+    "n": 7,
+    "roles": {
+     "p": 3,
+     "link": 4
+    },
+    "sample": "Activate your phone’s camera to enjoy a magical digital unwrapping experience. …"
+   },
+   {
+    "key": "14/19.6 400 Work Sans",
+    "fontSize": 14,
+    "lineHeight": 19.6,
+    "fontWeight": "400",
+    "fontFamily": "Work Sans",
+    "textTransform": "none",
+    "n": 6,
+    "roles": {
+     "div": 1,
+     "link": 5
+    },
+    "sample": "Follow us"
+   },
+   {
+    "key": "30/30 700 Work Sans uppercase",
+    "fontSize": 30,
+    "lineHeight": 30,
+    "fontWeight": "700",
+    "fontFamily": "Work Sans",
+    "textTransform": "uppercase",
+    "n": 5,
+    "roles": {
+     "h2": 1,
+     "h3": 4
+    },
+    "sample": "YOUR GOLDEN CHANCE TO ENTER WONKA'S WORLD!"
+   },
+   {
+    "key": "16.95/23.73 700 Work Sans",
+    "fontSize": 16.95,
+    "lineHeight": 23.73,
+    "fontWeight": "700",
+    "fontFamily": "Work Sans",
+    "textTransform": "none",
+    "n": 3,
+    "roles": {
+     "link": 3
+    },
+    "sample": "Home"
+   },
+   {
+    "key": "37.5/37.5 700 Work Sans uppercase",
+    "fontSize": 37.5,
+    "lineHeight": 37.5,
+    "fontWeight": "700",
+    "fontFamily": "Work Sans",
+    "textTransform": "uppercase",
+    "n": 2,
+    "roles": {
+     "h1": 1,
+     "div": 1
+    },
+    "sample": "Could you be the lucky one to win a golden ticket?"
+   },
+   {
+    "key": "12/16.8 400 Work Sans",
+    "fontSize": 12,
+    "lineHeight": 16.8,
+    "fontWeight": "400",
+    "fontFamily": "Work Sans",
+    "textTransform": "none",
+    "n": 2,
+    "roles": {
+     "p": 1,
+     "div": 1
+    },
+    "sample": "To interact with Wonka’s World, open the camera on your smartphone and scan the…"
+   },
+   {
+    "key": "37.5/37.5 700 Work Sans",
+    "fontSize": 37.5,
+    "lineHeight": 37.5,
+    "fontWeight": "700",
+    "fontFamily": "Work Sans",
+    "textTransform": "none",
+    "n": 1,
+    "roles": {
+     "div": 1
+    },
+    "sample": "FIND DELIGHTFULLY EXCLUSIVE PRIZES"
+   },
+   {
+    "key": "16.95/23.73 400 Work Sans",
+    "fontSize": 16.95,
+    "lineHeight": 23.73,
+    "fontWeight": "400",
+    "fontFamily": "Work Sans",
+    "textTransform": "none",
+    "n": 1,
+    "roles": {
+     "p": 1
+    },
+    "sample": "Step into a world of wonder and enter for a chance to win a Golden Ticket Exper…"
+   }
+  ],
+  "colours": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "n": 15
+   },
+   {
+    "color": "rgb(238, 198, 13)",
+    "n": 6
+   },
+   {
+    "color": "rgb(152, 1, 134)",
+    "n": 4
+   },
+   {
+    "color": "rgb(41, 20, 78)",
+    "n": 2
+   }
+  ],
+  "container": {
+   "left": 40,
+   "right": 40,
+   "content": 1360,
+   "leftCommon": {
+    "x": 40,
+    "n": 5
+   }
+  }
+ },
+ "truncated": {
+  "text": 0,
+  "image": 0
+ },
+ "sections": [
+  {"i":0,"region":"header","y":0,"h":20,"background":"rgb(152, 1, 134)","paddingTop":0,"paddingBottom":0,"selectorHint":"header.header","firstText":""},
+  {"i":1,"region":"main","y":20,"h":489,"background":"none","paddingTop":0,"paddingBottom":0,"selectorHint":"div.n-landing-page-full__top","firstText":""},
+  {"i":2,"region":"main","y":472,"h":2776,"background":"rgb(119, 24, 110)","paddingTop":37.5,"paddingBottom":115,"selectorHint":"div.n-landing-page-full__paragraphs.paragraphs","firstText":"Could you be the lucky one to win a golden ticket?"},
+  {"i":3,"region":"footer","y":3208,"h":433,"background":"rgb(152, 1, 134)","paddingTop":40,"paddingBottom":0,"selectorHint":"footer.footer","firstText":"Home"}
+ ],
+ "nodes": [
+  {"section":0,"region":"header","kind":"image","tag":"img","role":"link","text":"Wonka Logo","x":675,"y":15,"w":90,"h":43,"fit":"fill","shape":{"pos":"50% 50%"},"natural":[90,51],"src":"https://www.wonka.com/us/en/xp/golden-ticket/themes/custom/gpp_wonka_theme/logo.svg","href":"/us/en/xp/golden-ticket/","scroll":"fixed 0"},
+  {"section":0,"region":"header","kind":"image","tag":"svg","role":"link","text":"","x":626,"y":20,"w":23,"h":17,"fit":"fill","shape":{"pos":"50% 50%"},"href":"/us/en/xp/golden-ticket/","scroll":"fixed 0"},
+  {"section":0,"region":"header","kind":"image","tag":"svg","role":"link","text":"","x":792,"y":20,"w":23,"h":17,"fit":"fill","shape":{"pos":"50% 50%"},"href":"/us/en/xp/golden-ticket/","scroll":"fixed 0"},
+  {"section":1,"region":"main","kind":"image","tag":"img","role":null,"text":"Wonka chocolate products promoting the Golden Ticket competition","x":0,"y":20,"w":1440,"h":489,"fit":"fill","shape":{"pos":"50% 50%"},"natural":[3072,1044],"src":"https://ferrero-gpp-wonka-prod-static.s3.eu-west-1.amazonaws.com/golden-ticket-us-d11/s3fs-public/2026-10/wonka_visual_US_desk.jpg"},
+  {"section":1,"region":"main","kind":"image","tag":"div","role":null,"text":"","x":-112,"y":120,"w":750,"h":750,"bg":true,"fit":"contain","src":"https://www.wonka.com/us/en/xp/golden-ticket/themes/custom/gpp_promo_theme/assets/images/particles-01.png"},
+  {"section":1,"region":"main","kind":"image","tag":"img","role":null,"text":"","x":38,"y":495,"w":52,"h":52,"fit":"fill","shape":{"pos":"50% 50%"},"natural":[110,110],"src":"https://www.wonka.com/us/en/xp/golden-ticket/themes/custom/gpp_promo_theme/assets/images/q1.png"},
+  {"section":1,"region":"main","kind":"image","tag":"img","role":null,"text":"","x":180,"y":453,"w":96,"h":87,"fit":"fill","shape":{"pos":"50% 50%"},"natural":[203,186],"src":"https://www.wonka.com/us/en/xp/golden-ticket/themes/custom/gpp_promo_theme/assets/images/q2.png"},
+  {"section":1,"region":"main","kind":"image","tag":"img","role":null,"text":"","x":305,"y":523,"w":71,"h":70,"fit":"fill","shape":{"pos":"50% 50%"},"natural":[152,149],"src":"https://www.wonka.com/us/en/xp/golden-ticket/themes/custom/gpp_promo_theme/assets/images/q3.png"},
+  {"section":2,"region":"main","kind":"text","tag":"h1","role":"h1","text":"Could you be the lucky one to win a golden ticket?","x":40,"y":509,"w":1360,"h":131,"fontFamily":"Work Sans","fontSize":37.5,"lineHeight":37.5,"fontWeight":"700","letterSpacing":0,"textTransform":"uppercase","textAlign":"center","color":"rgb(238, 198, 13)","lines":2},
+  {"section":2,"region":"main","kind":"text","tag":"p","role":null,"text":"Step into a world of wonder and enter for a chance to win a Golden Ticket Exper…","x":40,"y":655,"w":1360,"h":47,"fontFamily":"Work Sans","fontSize":16.95,"lineHeight":23.73,"fontWeight":"400","letterSpacing":0,"textTransform":"none","textAlign":"center","color":"rgb(255, 255, 255)","lines":2},
+  {"section":2,"region":"main","kind":"image","tag":"img","role":null,"text":"Open the camera on your smartphone and scan the QR code","x":673,"y":741,"w":94,"h":94,"fit":"fill","shape":{"pos":"50% 50%"},"natural":[128,128],"src":"https://ferrero-gpp-wonka-prod-static.s3.eu-west-1.amazonaws.com/golden-ticket-us-d11/s3fs-public/2026-10/qr-code-WONKA-LIVE-US.png"},
+  {"section":2,"region":"main","kind":"text","tag":"p","role":null,"text":"To interact with Wonka’s World, open the camera on your smartphone and scan the…","x":573,"y":873,"w":295,"h":34,"fontFamily":"Work Sans","fontSize":12,"lineHeight":16.8,"fontWeight":"400","letterSpacing":0,"textTransform":"none","textAlign":"center","color":"rgb(255, 255, 255)","lines":2},
+  {"section":2,"region":"main","kind":"image","tag":"div","role":null,"text":"","x":600,"y":546,"w":750,"h":750,"bg":true,"fit":"contain","src":"https://www.wonka.com/us/en/xp/golden-ticket/themes/custom/gpp_promo_theme/assets/images/particles-02.png"},
+  {"section":2,"region":"main","kind":"image","tag":"img","role":null,"text":"","x":675,"y":935,"w":124,"h":134,"fit":"fill","shape":{"pos":"50% 50%"},"natural":[266,289],"src":"https://www.wonka.com/us/en/xp/golden-ticket/themes/custom/gpp_promo_theme/assets/images/caramel-pop.png"},
+  {"section":2,"region":"main","kind":"image","tag":"img","role":null,"text":"","x":956,"y":897,"w":93,"h":92,"fit":"fill","shape":{"pos":"50% 50%"},"natural":[198,197],"src":"https://www.wonka.com/us/en/xp/golden-ticket/themes/custom/gpp_promo_theme/assets/images/berry_elixir.png"},
+  {"section":2,"region":"main","kind":"image","tag":"img","role":null,"text":"","x":1341,"y":1000,"w":81,"h":75,"fit":"fill","shape":{"pos":"50% 50%"},"natural":[173,160],"src":"https://www.wonka.com/us/en/xp/golden-ticket/themes/custom/gpp_promo_theme/assets/images/bubblegumjoy.png"},
+  {"section":2,"region":"main","kind":"text","tag":"h2","role":"h2","text":"YOUR GOLDEN CHANCE TO ENTER WONKA'S WORLD!","x":760,"y":1061,"w":600,"h":116,"fontFamily":"Work Sans","fontSize":30,"lineHeight":30,"fontWeight":"700","letterSpacing":0,"textTransform":"uppercase","textAlign":"center","color":"rgb(238, 198, 13)","lines":2},
+  {"section":2,"region":"main","kind":"text","tag":"p","role":null,"text":"Activate your phone’s camera to enjoy a magical digital unwrapping experience. …","x":760,"y":1192,"w":600,"h":42,"fontFamily":"Work Sans","fontSize":15,"lineHeight":21,"fontWeight":"400","letterSpacing":0,"textTransform":"none","textAlign":"center","color":"rgb(255, 255, 255)","lines":2},
+  {"section":2,"region":"main","kind":"control","tag":"a","role":"link","text":"Unwrap the magic","x":965,"y":1256,"w":190,"h":55,"fontFamily":"Work Sans","fontSize":15,"lineHeight":21,"fontWeight":"400","letterSpacing":0,"textTransform":"none","textAlign":"center","color":"rgb(41, 20, 78)","lines":1,"href":"/us/en/xp/golden-ticket/lead/register"},
+  {"section":2,"region":"main","kind":"image","tag":"img","role":null,"text":"Wonka-Golden-Ticket","x":40,"y":981,"w":680,"h":409,"fit":"fill","shape":{"pos":"50% 50%"},"natural":[1406,846],"src":"https://ferrero-gpp-wonka-prod-static.s3.eu-west-1.amazonaws.com/golden-ticket-us-d11/s3fs-public/2026-08/img_0.png"},
+  {"section":2,"region":"main","kind":"image","tag":"div","role":null,"text":"","x":709,"y":1730,"w":750,"h":750,"bg":true,"fit":"contain","src":"https://www.wonka.com/us/en/xp/golden-ticket/themes/custom/gpp_promo_theme/assets/images/particles-03.png"},
+  {"section":2,"region":"main","kind":"text","tag":"div","role":null,"text":"ENTER FOR YOUR CHANCE TO WIN A GOLDEN TICKET","x":40,"y":1541,"w":1360,"h":94,"fontFamily":"Work Sans","fontSize":37.5,"lineHeight":37.5,"fontWeight":"700","letterSpacing":0,"textTransform":"uppercase","textAlign":"center","color":"rgb(152, 1, 134)","lines":1},
+  {"section":2,"region":"main","kind":"text","tag":"h3","role":"h3","text":"Scan Your Wonka Product","x":188,"y":1830,"w":305,"h":92,"fontFamily":"Work Sans","fontSize":30,"lineHeight":30,"fontWeight":"700","letterSpacing":0,"textTransform":"uppercase","textAlign":"center","color":"rgb(152, 1, 134)","lines":2},
+  {"section":2,"region":"main","kind":"image","tag":"img","role":null,"text":"Step 1","x":228,"y":1672,"w":225,"h":158,"fit":"fill","shape":{"pos":"50% 50%"},"natural":[480,337],"src":"https://ferrero-gpp-wonka-prod-static.s3.eu-west-1.amazonaws.com/golden-ticket-us-d11/s3fs-public/2026-06/step-1.png"},
+  {"section":2,"region":"main","kind":"text","tag":"h3","role":"h3","text":"Complete Your Entry","x":568,"y":1830,"w":305,"h":92,"fontFamily":"Work Sans","fontSize":30,"lineHeight":30,"fontWeight":"700","letterSpacing":0,"textTransform":"uppercase","textAlign":"center","color":"rgb(152, 1, 134)","lines":2},
+  {"section":2,"region":"main","kind":"image","tag":"img","role":null,"text":"Step 2","x":607,"y":1672,"w":225,"h":158,"fit":"fill","shape":{"pos":"50% 50%"},"natural":[480,337],"src":"https://ferrero-gpp-wonka-prod-static.s3.eu-west-1.amazonaws.com/golden-ticket-us-d11/s3fs-public/2026-10/Step2-Register-and-play.png"},
+  {"section":2,"region":"main","kind":"text","tag":"h3","role":"h3","text":"You're Entered for Your Chance to Win","x":947,"y":1830,"w":305,"h":122,"fontFamily":"Work Sans","fontSize":30,"lineHeight":30,"fontWeight":"700","letterSpacing":0,"textTransform":"uppercase","textAlign":"center","color":"rgb(152, 1, 134)","lines":3},
+  {"section":2,"region":"main","kind":"image","tag":"img","role":null,"text":"Step 3","x":987,"y":1672,"w":225,"h":158,"fit":"fill","shape":{"pos":"50% 50%"},"natural":[480,337],"src":"https://ferrero-gpp-wonka-prod-static.s3.eu-west-1.amazonaws.com/golden-ticket-us-d11/s3fs-public/2026-10/step-3.png"},
+  {"section":2,"region":"main","kind":"control","tag":"a","role":"link","text":"Get Started","x":649,"y":1989,"w":141,"h":55,"fontFamily":"Work Sans","fontSize":15,"lineHeight":21,"fontWeight":"400","letterSpacing":0,"textTransform":"none","textAlign":"center","color":"rgb(41, 20, 78)","lines":1,"href":"/us/en/xp/golden-ticket/lead/register"},
+  {"section":2,"region":"main","kind":"text","tag":"div","role":null,"text":"FIND DELIGHTFULLY EXCLUSIVE PRIZES","x":267,"y":2194,"w":907,"h":94,"fontFamily":"Work Sans","fontSize":37.5,"lineHeight":37.5,"fontWeight":"700","letterSpacing":0,"textTransform":"none","textAlign":"center","color":"rgb(238, 198, 13)","lines":1},
+  {"section":2,"region":"main","kind":"text","tag":"h3","role":"h3","text":"THE WONKA GOLDEN TICKET EXPERIENCE","x":40,"y":2469,"w":665,"h":86,"fontFamily":"Work Sans","fontSize":30,"lineHeight":30,"fontWeight":"700","letterSpacing":0,"textTransform":"uppercase","textAlign":"center","color":"rgb(238, 198, 13)","lines":1},
+  {"section":2,"region":"main","kind":"text","tag":"p","role":null,"text":"Winner and and three guests will receive a four day, three night trip to Las Ve…","x":40,"y":2570,"w":665,"h":42,"fontFamily":"Work Sans","fontSize":15,"lineHeight":21,"fontWeight":"400","letterSpacing":0,"textTransform":"none","textAlign":"center","color":"rgb(255, 255, 255)","lines":2},
+  {"section":2,"region":"main","kind":"control","tag":"a","role":"link","text":"See Official Rules for details","x":268,"y":2635,"w":209,"h":21,"fontFamily":"Work Sans","fontSize":15,"lineHeight":21,"fontWeight":"400","letterSpacing":0,"textTransform":"none","textAlign":"center","color":"rgb(238, 198, 13)","lines":1,"href":"/us/en/xp/golden-ticket/terms-and-conditions"},
+  {"section":2,"region":"main","kind":"image","tag":"img","role":null,"text":"Netflix House on the Vegas Strip prize in the Wonka Golden Ticket competition","x":735,"y":2362,"w":665,"h":400,"fit":"fill","shape":{"pos":"50% 50%"},"natural":[1406,846],"src":"https://ferrero-gpp-wonka-prod-static.s3.eu-west-1.amazonaws.com/golden-ticket-us-d11/s3fs-public/2026-10/Wonka-prize-Las-Vegas-trip-slider_0.png"},
+  {"section":2,"region":"main","kind":"control","tag":"a","role":"link","text":"See Official Rules for details","x":616,"y":2848,"w":209,"h":21,"fontFamily":"Work Sans","fontSize":15,"lineHeight":21,"fontWeight":"400","letterSpacing":0,"textTransform":"none","textAlign":"center","color":"rgb(238, 198, 13)","lines":1,"href":"/us/en/xp/golden-ticket/terms-and-conditions"},
+  {"section":2,"region":"main","kind":"text","tag":"p","role":null,"text":"NO PURCHASE NECESSARY TO ENTER OR WIN. A PURCHASE DOES NOT INCREASE YOUR CHANCE…","x":267,"y":2944,"w":907,"h":189,"fontFamily":"Work Sans","fontSize":15,"lineHeight":21,"fontWeight":"400","letterSpacing":0,"textTransform":"none","textAlign":"center","color":"rgb(255, 255, 255)","lines":9},
+  {"section":3,"region":"footer","kind":"image","tag":"img","role":"link","text":"Home","x":675,"y":3248,"w":90,"h":51,"fit":"fill","shape":{"pos":"50% 50%"},"natural":[90,51],"src":"https://www.wonka.com/us/en/xp/golden-ticket/themes/custom/gpp_wonka_theme/logo.svg","href":"/us/en/xp/golden-ticket/"},
+  {"section":3,"region":"footer","kind":"control","tag":"a","role":"link","text":"Home","x":547,"y":3353,"w":48,"h":24,"fontFamily":"Work Sans","fontSize":16.95,"lineHeight":23.73,"fontWeight":"700","letterSpacing":0,"textTransform":"none","textAlign":"left","color":"rgb(255, 255, 255)","lines":1,"href":"/us/en/xp/golden-ticket/"},
+  {"section":3,"region":"footer","kind":"control","tag":"a","role":"link","text":"Play","x":670,"y":3353,"w":36,"h":24,"fontFamily":"Work Sans","fontSize":16.95,"lineHeight":23.73,"fontWeight":"700","letterSpacing":0,"textTransform":"none","textAlign":"left","color":"rgb(255, 255, 255)","lines":1,"href":"/us/en/xp/golden-ticket/lead/register"},
+  {"section":3,"region":"footer","kind":"control","tag":"a","role":"link","text":"Official Rules","x":781,"y":3353,"w":112,"h":24,"fontFamily":"Work Sans","fontSize":16.95,"lineHeight":23.73,"fontWeight":"700","letterSpacing":0,"textTransform":"none","textAlign":"left","color":"rgb(255, 255, 255)","lines":1,"href":"/us/en/xp/golden-ticket/terms-and-conditions"},
+  {"section":3,"region":"footer","kind":"text","tag":"div","role":null,"text":"Follow us","x":632,"y":3433,"w":176,"h":20,"fontFamily":"Work Sans","fontSize":14,"lineHeight":19.6,"fontWeight":"400","letterSpacing":0,"textTransform":"none","textAlign":"center","color":"rgb(255, 255, 255)","lines":1},
+  {"section":3,"region":"footer","kind":"image","tag":"svg","role":"link","text":"","x":644,"y":3480,"w":24,"h":24,"fit":"fill","shape":{"pos":"50% 50%"},"href":"https://www.facebook.com/wonkaglobal"},
+  {"section":3,"region":"footer","kind":"image","tag":"svg","role":"link","text":"","x":708,"y":3480,"w":24,"h":24,"fit":"fill","shape":{"pos":"50% 50%"},"href":"https://www.instagram.com/wonka_global/"},
+  {"section":3,"region":"footer","kind":"image","tag":"svg","role":"link","text":"","x":772,"y":3480,"w":24,"h":24,"fit":"fill","shape":{"pos":"50% 50%"},"href":"https://www.tiktok.com/@wonka_global"},
+  {"section":3,"region":"footer","kind":"control","tag":"a","role":"link","text":"Privacy Policy","x":300,"y":3540,"w":92,"h":20,"fontFamily":"Work Sans","fontSize":14,"lineHeight":19.6,"fontWeight":"400","letterSpacing":0,"textTransform":"none","textAlign":"left","color":"rgb(255, 255, 255)","lines":1,"href":"https://www.wonka.com/us/en/privacy-policy"},
+  {"section":3,"region":"footer","kind":"control","tag":"a","role":"link","text":"Terms of Use","x":437,"y":3540,"w":89,"h":20,"fontFamily":"Work Sans","fontSize":14,"lineHeight":19.6,"fontWeight":"400","letterSpacing":0,"textTransform":"none","textAlign":"left","color":"rgb(255, 255, 255)","lines":1,"href":"https://www.wonka.com/us/en/terms-of-use"},
+  {"section":3,"region":"footer","kind":"control","tag":"a","role":"link","text":"Cookie Policy","x":572,"y":3540,"w":91,"h":20,"fontFamily":"Work Sans","fontSize":14,"lineHeight":19.6,"fontWeight":"400","letterSpacing":0,"textTransform":"none","textAlign":"left","color":"rgb(255, 255, 255)","lines":1,"href":"https://www.wonka.com/us/en/cookie-policy"},
+  {"section":3,"region":"footer","kind":"control","tag":"a","role":"link","text":"Do Not Sell or Share My Personal Information","x":708,"y":3540,"w":311,"h":20,"fontFamily":"Work Sans","fontSize":14,"lineHeight":19.6,"fontWeight":"400","letterSpacing":0,"textTransform":"none","textAlign":"left","color":"rgb(255, 255, 255)","lines":1,"href":"#ot-sdk-show-settings"},
+  {"section":3,"region":"footer","kind":"control","tag":"a","role":"link","text":"Contact Us","x":1064,"y":3540,"w":76,"h":20,"fontFamily":"Work Sans","fontSize":14,"lineHeight":19.6,"fontWeight":"400","letterSpacing":0,"textTransform":"none","textAlign":"left","color":"rgb(255, 255, 255)","lines":1,"href":"https://www.ferrero.com/us/en/contact-us"},
+  {"section":3,"region":"footer","kind":"text","tag":"div","role":null,"text":"Copyright © Ferrero 2026","x":0,"y":3604,"w":1440,"h":17,"fontFamily":"Work Sans","fontSize":12,"lineHeight":16.8,"fontWeight":"400","letterSpacing":0,"textTransform":"none","textAlign":"center","color":"rgb(255, 255, 255)","lines":1}
+ ]
+}

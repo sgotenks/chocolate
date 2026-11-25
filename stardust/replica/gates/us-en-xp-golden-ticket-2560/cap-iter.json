@@ -1,0 +1,243 @@
+{
+  "_provenance": {
+    "writtenBy": "skills/replica/scripts/cap-probe.mjs",
+    "writtenAt": "2026-11-25T10:44:09.161Z",
+    "baseWidth": 1440,
+    "urls": [
+      "https://www.wonka.com/us/en/xp/golden-ticket/",
+      "http://localhost:8791/us-en-xp-golden-ticket-proposed.html"
+    ],
+    "probeWidth": 2560,
+    "probeNote": "from DESIGN.json",
+    "tolerance": 20
+  },
+  "urls": [
+    "https://www.wonka.com/us/en/xp/golden-ticket/",
+    "http://localhost:8791/us-en-xp-golden-ticket-proposed.html"
+  ],
+  "probeNote": "from DESIGN.json",
+  "live": {
+    "baseWidth": 1440,
+    "probeWidth": 2560,
+    "root": {
+      "selector": "body.node.n1 > div.dialog-off-canvas-main-canvas > main",
+      "isBody": false,
+      "leaves": 22,
+      "w2": 2560
+    },
+    "origins": [
+      {
+        "kind": "module",
+        "px": 1536,
+        "via": "max-width",
+        "selector": "article.n-landing-page-full > div.n-landing-page-full__paragraphs.paragraphs > div.p-editorial--no-bg.p-editorial > div.container",
+        "tier": 5,
+        "share": 0.14,
+        "section": 1,
+        "w1": 1440,
+        "maxWidth": "1536px"
+      },
+      {
+        "kind": "module",
+        "px": 295,
+        "via": "max-width",
+        "selector": "div.p-editorial--no-bg.p-editorial > div.container > div.p-editorial__content > div.p-editorial--qr__note",
+        "tier": 7,
+        "share": 0.05,
+        "section": 1,
+        "w1": 295,
+        "maxWidth": "295px"
+      },
+      {
+        "kind": "module",
+        "px": 1536,
+        "via": "max-width",
+        "selector": "article.n-landing-page-full > div.n-landing-page-full__paragraphs.paragraphs > div.p-editorial--no-bg.p-editorial--image-pos-left > div.container",
+        "tier": 5,
+        "share": 0.14,
+        "section": 1,
+        "w1": 1440,
+        "maxWidth": "1536px"
+      },
+      {
+        "kind": "module",
+        "px": 1536,
+        "via": "max-width",
+        "selector": "article.n-landing-page-full > div.n-landing-page-full__paragraphs.paragraphs > div.p-icons--no-bg.p-icons > div.container",
+        "tier": 5,
+        "share": 0.23,
+        "section": 1,
+        "w1": 1440,
+        "maxWidth": "1536px"
+      },
+      {
+        "kind": "module",
+        "px": 1536,
+        "via": "max-width",
+        "selector": "article.n-landing-page-full > div.n-landing-page-full__paragraphs.paragraphs > div.p-slider--no-bg.p-slider > div.container",
+        "tier": 5,
+        "share": 0.32,
+        "section": 1,
+        "w1": 1440,
+        "maxWidth": "1536px"
+      },
+      {
+        "kind": "module",
+        "px": 1536,
+        "via": "max-width",
+        "selector": "article.n-landing-page-full > div.n-landing-page-full__paragraphs.paragraphs > div.p-title_text--no-bg.p-title-text > div.container",
+        "tier": 5,
+        "share": 0.14,
+        "section": 1,
+        "w1": 1440,
+        "maxWidth": "1536px"
+      }
+    ],
+    "modules": [
+      {
+        "index": 0,
+        "selector": "#block-gpp-promo-theme-content > article.n-landing-page-full > div.n-landing-page-full__top",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 1,
+        "selector": "#block-gpp-promo-theme-content > article.n-landing-page-full > div.n-landing-page-full__paragraphs.paragraphs",
+        "px": 1536,
+        "capSelector": "article.n-landing-page-full > div.n-landing-page-full__paragraphs.paragraphs > div.p-editorial--no-bg.p-editorial > div.container"
+      }
+    ],
+    "shellMaxWidth": null,
+    "contentMaxWidth": 1536,
+    "contentFrom": "module",
+    "maxCap": 1536,
+    "fluid": false,
+    "probeNote": "pinned",
+    "candidates": 90
+  },
+  "build": {
+    "baseWidth": 1440,
+    "probeWidth": 2560,
+    "root": {
+      "selector": "#main-content",
+      "isBody": false,
+      "leaves": 22,
+      "w2": 2560
+    },
+    "origins": [
+      {
+        "kind": "module",
+        "px": 1536,
+        "via": "max-width",
+        "selector": "article.promo-page > div.promo-paragraphs > section.promo-editorial.promo-editorial--qr > div.promo-container",
+        "tier": 4,
+        "share": 0.14,
+        "section": 1,
+        "w1": 1440,
+        "maxWidth": "1536px"
+      },
+      {
+        "kind": "module",
+        "px": 295,
+        "via": "max-width",
+        "selector": "section.promo-editorial.promo-editorial--qr > div.promo-container > div.promo-editorial__content > div.promo-editorial__note",
+        "tier": 6,
+        "share": 0.05,
+        "section": 1,
+        "w1": 295,
+        "maxWidth": "295px"
+      },
+      {
+        "kind": "module",
+        "px": 1536,
+        "via": "max-width",
+        "selector": "article.promo-page > div.promo-paragraphs > section.promo-editorial.promo-editorial--image-left > div.promo-container",
+        "tier": 4,
+        "share": 0.14,
+        "section": 1,
+        "w1": 1440,
+        "maxWidth": "1536px"
+      },
+      {
+        "kind": "module",
+        "px": 1536,
+        "via": "max-width",
+        "selector": "article.promo-page > div.promo-paragraphs > section.promo-steps > div.promo-container",
+        "tier": 4,
+        "share": 0.23,
+        "section": 1,
+        "w1": 1440,
+        "maxWidth": "1536px"
+      },
+      {
+        "kind": "module",
+        "px": 1536,
+        "via": "max-width",
+        "selector": "article.promo-page > div.promo-paragraphs > section.promo-prizes > div.promo-container",
+        "tier": 4,
+        "share": 0.32,
+        "section": 1,
+        "w1": 1440,
+        "maxWidth": "1536px"
+      },
+      {
+        "kind": "module",
+        "px": 1536,
+        "via": "max-width",
+        "selector": "article.promo-page > div.promo-paragraphs > section.promo-title-text > div.promo-container",
+        "tier": 4,
+        "share": 0.14,
+        "section": 1,
+        "w1": 1440,
+        "maxWidth": "1536px"
+      }
+    ],
+    "modules": [
+      {
+        "index": 0,
+        "selector": "#main-content > article.promo-page > div.promo-visual",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 1,
+        "selector": "#main-content > article.promo-page > div.promo-paragraphs",
+        "px": 1536,
+        "capSelector": "article.promo-page > div.promo-paragraphs > section.promo-editorial.promo-editorial--qr > div.promo-container"
+      }
+    ],
+    "shellMaxWidth": null,
+    "contentMaxWidth": 1536,
+    "contentFrom": "module",
+    "maxCap": 1536,
+    "fluid": false,
+    "probeNote": "pinned",
+    "candidates": 70
+  },
+  "compare": {
+    "probeWidth": 2560,
+    "rows": [
+      {
+        "ok": true,
+        "label": "content cap",
+        "detail": "live 1536px = build 1536px (±20, shared module cap)",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 1/2",
+        "detail": "full-bleed on both",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 2/2",
+        "detail": "1536px = 1536px",
+        "advisory": false
+      }
+    ],
+    "fails": 0,
+    "pass": true
+  },
+  "evidence": "stardust/replica/gates/us-en-xp-golden-ticket-2560/cap-iter.json"
+}

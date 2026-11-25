@@ -1,0 +1,67 @@
+{
+  "slug": "us-en-terms-of-use",
+  "type": "static",
+  "renderBranch": "A'",
+  "template": "us-en-privacy-policy",
+  "modules": [
+    "legal-accordion"
+  ],
+  "widgets": [],
+  "slotsFilled": [
+    "page__sections"
+  ],
+  "canonShas": {
+    "header": "436c53082a11",
+    "footer": "e531a9fac6b7",
+    "css": "e674aed98c37"
+  },
+  "deviations": [],
+  "migrationDecisions": [],
+  "metadata": {
+    "title": "Terms of Use | Wonka",
+    "description": "Read the official Terms of Use for Wonka US. Understand the rules, guidelines, and legal terms for browsing our website and using our services.",
+    "canonical": "https://www.wonka.com/us/en/terms-of-use",
+    "lang": "en"
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Terms of Use | Wonka",
+    "description": "Read the official Terms of Use for Wonka US. Understand the rules, guidelines, and legal terms for browsing our website and using our services.",
+    "url": "https://www.wonka.com/us/en/terms-of-use"
+  },
+  "migratedAt": "2026-11-25T12:09:38Z",
+  "designMdSha": "b830f5f77c7c",
+  "designJsonSha": "cc2e3d5fbccd",
+  "sourceCurrentSha": "592951e6a93b",
+  "sourceProposedSha": "5262e0f8f874",
+  "fidelityTier": "sibling",
+  "archetypeSource": "us-en-privacy-policy",
+  "archetypeSha": "d9941056daf2",
+  "variants": [
+    "legal-body--plain"
+  ],
+  "gatesPassed": [
+    "content-fidelity",
+    "delivery-lint",
+    "variance-probe",
+    "content-count"
+  ],
+  "gateEvidence": {
+    "content-fidelity": "content-diff capture→render generic: looks-same 0 / nothing-lost 0; main 54=54 text nodes (static-cd-terms2.log)",
+    "pixel-gate-1440": "OPEN: no row in the pixel table (prototypes-1440) — run gate-all.mjs --stage prototype so the page is measured",
+    "pixel-gate-360": "OPEN: no row in the pixel table (prototypes-360) — run gate-all.mjs --stage prototype so the page is measured",
+    "media-reconcile": "n/a: no delivered content file yet (content/us/en/terms-of-use.html) — media-reconcile runs in the delivery chain (row C)",
+    "delivery-lint": "0 P0 · 0 P1 · 1 P2 (delivery-lint --path /us/en/terms-of-use)",
+    "variance-probe": "■ https://www.wonka.com/us/en/terms-of-use: 6 delta(s) — variants [legal-body--plain] (static-variance.log)",
+    "content-count": "role counts capture=render: main 1 h / 1 cta / 52 body, chrome equal; Tiers looks-same 0 · nothing-lost 0 (static-cd-terms2.log)"
+  },
+  "contentDeviations": [],
+  "assetsBundled": 6,
+  "missingAssets": [],
+  "brokenInternalLinks": [],
+  "outputPath": "us/en/terms-of-use/index.html",
+  "outputPathDefault": "trailing-slash",
+  "sidecar": "us/en/terms-of-use/_meta.json",
+  "driverVersion": "1"
+}

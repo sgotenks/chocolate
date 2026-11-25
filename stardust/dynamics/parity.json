@@ -1,0 +1,80 @@
+{
+  "_provenance": { "writtenBy": "stardust:dynamics", "writtenAt": "2026-11-25T00:00:00Z", "phase": "rollout D2-dynamic", "origin": "https://main--a6216fe5--aemcoder.aem.live" },
+  "method": "self rows delivered by the frozen C-deliver blocks (header, product-cards, faq, legal-accordion) and by capture (static snapshots); non-self rows ship their interim tier as named hands-off assumptions. Flows measured on aem.live at 1440/360 by a one-browser probe (verifiedBy); the checks below are the replayable subset.",
+  "features": [
+    {
+      "id": "a-cms-app-settings", "feature": "drupalSettings + dataLayer objects", "class": "A", "pages": 7,
+      "disposition": "static-snapshot", "reproducibility": "self", "status": "done",
+      "verifiedBy": "no settings object on the new host (window.drupalSettings undefined); its values only fed tags (row t-tags-consent); 0 uncaught errors on 6/6 pages",
+      "checks": [
+        { "type": "no-page-errors", "paths": ["/us/en/", "/us/en/about-wonka", "/us/en/privacy-policy", "/us/en/terms-of-use", "/us/en/cookie-policy", "/us/en/xp/golden-ticket/"] }
+      ]
+    },
+    {
+      "id": "cr-privacy-accordion", "feature": "privacy policy main filled after load (13 collapsed accordions)", "class": "CR", "pages": 1,
+      "disposition": "static-snapshot", "reproducibility": "self", "status": "done",
+      "verifiedBy": "settled source DOM captured; served as authored content: 13 legal-acc sections, panel 1 opens to 1056px at 1440, visible text 1555 chars collapsed",
+      "checks": [
+        { "type": "dom-count", "path": "/us/en/privacy-policy", "selector": ".legal-accordion .legal-acc-panel[role='region']", "min": 13 }
+      ]
+    },
+    {
+      "id": "m-chrome-menu", "feature": "header menu (desktop link row + mobile slide-down panel)", "class": "M", "pages": 7,
+      "disposition": "rebuild-native", "reproducibility": "self", "status": "done",
+      "verifiedBy": "1440: 3 nav links; 360: toggle click → aria-expanded=true, panel data-open=true, 3 links visible; Escape → aria-expanded=false. Home needs the portal intro dismissed first (sessionStorage gate, header inert while it shows — same as source). No language toggle on the delivered pages: locale switching is the i18n row",
+      "checks": [
+        { "type": "dom-count", "path": "/us/en/about-wonka", "selector": "header nav.site-header-nav a[href^='/us/en/']", "min": 3 },
+        { "type": "dom-count", "path": "/us/en/about-wonka", "selector": "header button.mnav-toggle[aria-controls][aria-expanded]", "min": 1 }
+      ]
+    },
+    {
+      "id": "m-product-dialogs", "feature": "disclosures: product details (home), FAQ accordion (about), legal accordions (privacy)", "class": "M", "pages": 3,
+      "disposition": "rebuild-native", "reproducibility": "self", "status": "done",
+      "verifiedBy": "source triggers are aria-controls disclosures, rebuilt as in-place disclosures (not <dialog>, so click-dialog does not apply). home: 5 toggles, card 1 panel 0 → 1269px, 14 fact rows, label 'See less details', closes; about: 7 FAQ items, item 1 0 → 87px, Enter toggles back; privacy: 13 toggles, panel hidden → 1056px",
+      "checks": [
+        { "type": "dom-count", "path": "/us/en/", "selector": ".product-cards button.pcard-toggle[aria-controls][aria-expanded='false']", "min": 5 },
+        { "type": "dom-count", "path": "/us/en/about-wonka", "selector": ".faq .faq-toggle[role='button'][aria-controls]", "min": 7 },
+        { "type": "dom-count", "path": "/us/en/privacy-policy", "selector": ".legal-accordion button.legal-acc-toggle[aria-controls]", "min": 13 }
+      ]
+    },
+    {
+      "id": "i18n-locale-trees", "feature": "locale variants en-GB, en-US, de-DE, fr-FR, it-IT", "class": "I18N", "pages": 7,
+      "disposition": "static-snapshot", "reproducibility": "needs-business-decision", "status": "interim",
+      "owner": "Locales: are the uk/en, de/de, fr/fr, it/it trees migrated later? Interim: only /us/en/ is served; no hreflang alternates emitted (source had 6), chrome links stay inside /us/en/",
+      "verifiedBy": "html lang=en; 0 link[hreflang] on /us/en/; nav + footer links all /us/en/",
+      "checks": [
+        { "type": "dom-count", "path": "/us/en/", "selector": "html[lang='en']", "min": 1 },
+        { "type": "dom-count", "path": "/us/en/terms-of-use", "selector": "footer a[href^='/us/en/']", "min": 3 }
+      ]
+    },
+    {
+      "id": "t-tags-consent", "feature": "Google Tag Manager, GA/Ads, OneTrust CMP, runtime-injected tag iframes", "class": "T", "pages": 7,
+      "disposition": "embed-passthrough", "reproducibility": "needs-business-decision", "status": "scaffolded-awaiting-owner",
+      "owner": "Tags & consent: which GTM container / GA property and which OneTrust domain script run on the new host. Interim: consent declined by default (scripts/consent-check.js), no tag or CMP request; the #consent-settings controls render (2 on privacy, 1 on cookie policy) and are a no-op until the OneTrust SDK is present",
+      "verifiedBy": "0 requests to GTM / GA / cookielaw / onetrust on 6/6 pages; window.OneTrust undefined; consent controls role=button",
+      "checks": [
+        { "type": "consent-gate", "path": "/us/en/", "forbiddenHosts": ["www.googletagmanager.com", "www.google-analytics.com", "cdn.cookielaw.org", "privacyportal-eu.onetrust.com", "privacyportal-eu-cdn.onetrust.com"] },
+        { "type": "consent-gate", "path": "/us/en/cookie-policy", "forbiddenHosts": ["www.googletagmanager.com", "www.google-analytics.com", "cdn.cookielaw.org", "privacyportal-eu.onetrust.com", "privacyportal-eu-cdn.onetrust.com"] },
+        { "type": "dom-count", "path": "/us/en/cookie-policy", "selector": ".legal-accordion .legal-consent-btn[role='button']", "min": 1 }
+      ]
+    },
+    {
+      "id": "t-ferrero-static-hosts", "feature": "Ferrero S3 static hosts (media / promo assets)", "class": "T", "pages": 3,
+      "disposition": "static-snapshot", "reproducibility": "self", "status": "done",
+      "verifiedBy": "assets rehosted with the page media: 0 requests to the two S3 hosts and 0 amazonaws img src on home and golden ticket",
+      "checks": [
+        { "type": "consent-gate", "path": "/us/en/", "forbiddenHosts": ["ferrero-kube-stack-prod-static.s3.eu-west-1.amazonaws.com", "ferrero-gpp-wonka-prod-static.s3.eu-west-1.amazonaws.com"] },
+        { "type": "consent-gate", "path": "/us/en/xp/golden-ticket/", "forbiddenHosts": ["ferrero-kube-stack-prod-static.s3.eu-west-1.amazonaws.com", "ferrero-gpp-wonka-prod-static.s3.eu-west-1.amazonaws.com"] }
+      ]
+    },
+    {
+      "id": "x-sweepstakes-signin", "feature": "golden-ticket sign-in / register (/us/en/xp/golden-ticket/lead/...)", "class": "X", "pages": 1,
+      "disposition": "static-snapshot", "reproducibility": "needs-backend", "status": "interim",
+      "owner": "Sweepstakes: does the golden-ticket registration / sign-in flow move to the new host or stay on www.wonka.com? Interim: links kept absolute to the source origin's flow",
+      "verifiedBy": "8 register links + 5 terms links absolute to https://www.wonka.com/us/en/xp/golden-ticket/",
+      "checks": [
+        { "type": "dom-count", "path": "/us/en/xp/golden-ticket/", "selector": "a[href^='https://www.wonka.com/us/en/xp/golden-ticket/lead/register']", "min": 7 }
+      ]
+    }
+  ]
+}

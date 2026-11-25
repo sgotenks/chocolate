@@ -1,0 +1,312 @@
+/* promo-editorial — golden-ticket editorial band (gpp_promo_theme .promo-editorial) */
+.promo-editorial {
+  position: relative;
+  text-align: center;
+}
+
+.promo-editorial .promo-editorial-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.promo-editorial .promo-editorial-text {
+  display: flex;
+  flex-direction: column;
+  order: 2;
+  gap: 1rem;
+  width: 100%;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  color: #fff;
+}
+
+.promo-editorial.qr .promo-editorial-text {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+/* star-bracketed title (✦ above and below) */
+.promo-editorial .promo-editorial-title :is(h1, h2, h3, h4) {
+  font-family: var(--gt-font);
+  font-size: var(--gt-h2);
+  font-weight: 700;
+  line-height: 1;
+  text-transform: uppercase;
+  color: var(--gt-yellow);
+}
+
+.promo-editorial .promo-editorial-title h1 {
+  font-size: var(--gt-h1);
+}
+
+.promo-editorial .promo-editorial-title :is(h1, h2, h3, h4)::before,
+.promo-editorial .promo-editorial-title :is(h1, h2, h3, h4)::after {
+  content: "";
+  display: block;
+  width: 8px;
+  height: 8px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: var(--star-color, currentcolor);
+  mask: var(--gt-star) center / contain no-repeat;
+}
+
+.promo-editorial .promo-editorial-title :is(h1, h2, h3, h4)::before {
+  margin-top: 8px;
+  margin-bottom: 16px;
+}
+
+.promo-editorial .promo-editorial-title :is(h1, h2, h3, h4)::after {
+  margin-top: 16px;
+}
+
+.promo-editorial .promo-editorial-subtitle {
+  color: var(--gt-yellow);
+}
+
+.promo-editorial .promo-editorial-body {
+  display: flex;
+  flex-direction: column;
+  gap: 2.5rem;
+  font-size: var(--gt-text);
+}
+
+.promo-editorial .promo-editorial-links {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2rem;
+  margin-top: 0.5rem;
+}
+
+.promo-editorial .promo-editorial-links p {
+  display: flex;
+  justify-content: center;
+}
+
+/* the source's is-desktop switch: these CTAs are for phone visitors only */
+.promo-editorial:not(.is-phone) .promo-editorial-cta-phone,
+.promo-editorial.qr:not(.is-phone) .promo-editorial-links,
+.promo-editorial.qr .promo-editorial-subtitle {
+  display: none;
+}
+
+.promo-editorial .promo-editorial-media {
+  order: 1;
+  width: 100%;
+}
+
+.promo-editorial .promo-editorial-media :is(picture, img) {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: auto;
+}
+
+.promo-editorial br {
+  display: none;
+}
+
+/* qr variant: centred column, QR card, note */
+.promo-editorial.qr {
+  --star-color: #fff;
+}
+
+.promo-editorial.qr .promo-editorial-media {
+  width: 110px;
+  padding: 8px;
+  border-radius: 12px;
+  background-color: #fff;
+  box-shadow: 0 3px 0 0 var(--gt-theme);
+}
+
+.promo-editorial .promo-editorial-note {
+  order: 4;
+  max-width: 295px;
+  font-size: 12px;
+  color: #fff;
+}
+
+/* decorative particles and floating sweets */
+.promo-editorial .promo-editorial-decor-desktop {
+  display: none;
+}
+
+.promo-editorial .promo-editorial-particles {
+  position: absolute;
+  z-index: 10;
+  background-size: contain;
+  background-repeat: no-repeat;
+  mix-blend-mode: screen;
+  pointer-events: none;
+}
+
+.promo-editorial .promo-editorial-particles-1-mob {
+  width: 29.63rem;
+  height: 29.63rem;
+  left: -1.75rem;
+  bottom: -17.81rem;
+  background-image: url("assets/particles-01-mob.png");
+}
+
+.promo-editorial .promo-editorial-particles-2-mob {
+  width: 21.69rem;
+  height: 20.94rem;
+  left: 0.63rem;
+  bottom: -11.13rem;
+  background-image: url("assets/particles-02-mob.png");
+}
+
+.promo-editorial .promo-editorial-sweet {
+  position: absolute;
+  z-index: 11;
+  height: auto;
+  pointer-events: none;
+  user-select: none;
+}
+
+.promo-editorial .promo-editorial-sweet-1,
+.promo-editorial .promo-editorial-sweet-4 {
+  width: 4.25rem;
+  filter: drop-shadow(0 39.063px 78.126px rgb(0 0 0 / 50%));
+}
+
+.promo-editorial .promo-editorial-sweet-2,
+.promo-editorial .promo-editorial-sweet-5 {
+  width: 3.19rem;
+  filter: drop-shadow(0 39.063px 78.126px rgb(0 0 0 / 50%)) blur(1px);
+}
+
+.promo-editorial .promo-editorial-sweet-3,
+.promo-editorial .promo-editorial-sweet-6 {
+  width: 2.81rem;
+  filter: drop-shadow(0 19.532px 19.532px rgb(0 0 0 / 30%)) blur(1px);
+}
+
+.promo-editorial .promo-editorial-sweet-1 {
+  left: 9.69rem;
+  bottom: -5.5rem;
+}
+
+.promo-editorial .promo-editorial-sweet-2 {
+  left: 3.81rem;
+  bottom: -6.88rem;
+}
+
+.promo-editorial .promo-editorial-sweet-3 {
+  left: 14.31rem;
+  bottom: -6.88rem;
+}
+
+.promo-editorial .promo-editorial-sweet-4 {
+  left: 16.81rem;
+  bottom: -4.63rem;
+}
+
+.promo-editorial .promo-editorial-sweet-5 {
+  left: 9.25rem;
+  bottom: -5.5rem;
+}
+
+.promo-editorial .promo-editorial-sweet-6 {
+  left: 1.69rem;
+  bottom: -2.06rem;
+}
+
+@media (width >= 1024px) {
+  .promo-editorial .promo-editorial-content {
+    flex-direction: row;
+    gap: 0;
+  }
+
+  .promo-editorial .promo-editorial-text {
+    order: 0;
+    width: 50%;
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .promo-editorial .promo-editorial-media {
+    order: 0;
+    width: 50%;
+  }
+
+  .promo-editorial br {
+    display: initial;
+  }
+
+  .promo-editorial.image-left .promo-editorial-text {
+    order: 2;
+    padding-left: 40px;
+    padding-right: 40px;
+  }
+
+  .promo-editorial.image-left .promo-editorial-media {
+    order: 1;
+  }
+
+  .promo-editorial.qr .promo-editorial-content {
+    flex-direction: column;
+    gap: 2rem;
+  }
+
+  .promo-editorial.qr .promo-editorial-text {
+    width: 100%;
+  }
+
+  .promo-editorial.qr .promo-editorial-media {
+    order: 2;
+    width: 110px;
+  }
+
+  .promo-editorial.qr .promo-editorial-body {
+    font-size: 1.13rem;
+  }
+
+  .promo-editorial .promo-editorial-decor-mobile {
+    display: none;
+  }
+
+  .promo-editorial .promo-editorial-decor-desktop {
+    display: block;
+  }
+
+  .promo-editorial .promo-editorial-particles-2 {
+    left: 40rem;
+    top: 0;
+    width: 50rem;
+    height: 50rem;
+    margin-top: -4.06rem;
+    transform: translateY(-50%);
+    background-image: url("assets/particles-02.png");
+  }
+
+  .promo-editorial .promo-editorial-decor-desktop .promo-editorial-sweet {
+    z-index: 3;
+    bottom: auto;
+  }
+
+  .promo-editorial .promo-editorial-decor-desktop .promo-editorial-sweet-4 {
+    width: 8.25rem;
+    left: 45rem;
+    top: -3.13rem;
+    filter: drop-shadow(0 39.063px 78.126px rgb(0 0 0 / 50%));
+  }
+
+  .promo-editorial .promo-editorial-decor-desktop .promo-editorial-sweet-5 {
+    width: 6.19rem;
+    left: 63.75rem;
+    top: -5.63rem;
+    filter: drop-shadow(0 39.063px 78.126px rgb(0 0 0 / 50%)) blur(1.9531px);
+  }
+
+  .promo-editorial .promo-editorial-decor-desktop .promo-editorial-sweet-6 {
+    width: 5.38rem;
+    left: auto;
+    right: 1.25rem;
+    top: 1.25rem;
+    filter: drop-shadow(0 19.532px 19.532px rgb(0 0 0 / 30%)) blur(1.9531px);
+  }
+}

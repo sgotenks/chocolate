@@ -1,0 +1,229 @@
+{
+ "source": "http://127.0.0.1:8797/us-en-xp-golden-ticket-proposed.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "promo-editorial",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Could you be the lucky one to win a golden ticket?"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "To interact with Wonka’s World, open the camera on your smartphone and scan the code above."
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "Step into a world of wonder and enter for a chance to win a Golden Ticket Experience! You could win a truly extraordinary grand prize: A magical trip to the Netflix House in Las Vegas."
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Unwrap the magic",
+     "href": "/us/en/xp/golden-ticket/lead/register"
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "Skip the magic",
+     "href": "/us/en/xp/golden-ticket/lead/register"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "To interact with Wonka’s World, open the camera on your smartphone and scan the code above."
+    }
+   ],
+   "imgCount": 4,
+   "editableTexts": 4,
+   "repeats": []
+  },
+  {
+   "section": "promo-editorial",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "YOUR GOLDEN CHANCE TO ENTER WONKA'S WORLD!"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Activate your phone’s camera to enjoy a magical digital unwrapping experience. Find out if you've won the legendary Wonka Golden Ticket!"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Unwrap the magic",
+     "href": "/us/en/xp/golden-ticket/lead/register"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Skip the magic",
+     "href": "/us/en/xp/golden-ticket/lead/register"
+    }
+   ],
+   "imgCount": 7,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "promo-steps",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "ENTER FOR YOUR CHANCE TO WIN A GOLDEN TICKET"
+    },
+    {
+     "role": "heading",
+     "order": 1,
+     "text": "Scan Your Wonka Product"
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "Complete Your Entry"
+    },
+    {
+     "role": "heading",
+     "order": 3,
+     "text": "You're Entered for Your Chance to Win"
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "Get Started",
+     "href": "/us/en/xp/golden-ticket/lead/register"
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Skip the magic",
+     "href": "/us/en/xp/golden-ticket/lead/register"
+    }
+   ],
+   "imgCount": 6,
+   "editableTexts": 3,
+   "repeats": [
+    {
+     "unitSelector": "DIV.promo-step",
+     "count": 3,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "promo-prizes",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "FIND DELIGHTFULLY EXCLUSIVE PRIZES"
+    },
+    {
+     "role": "heading",
+     "order": 1,
+     "text": "THE WONKA GOLDEN TICKET EXPERIENCE"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "Winner and and three guests will receive a four day, three night trip to Las Vegas and VIP tickets for admission to the Netflix House on the Las Vegas Strip."
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "See Official Rules for details",
+     "href": "/us/en/xp/golden-ticket/terms-and-conditions"
+    },
+    {
+     "role": "heading",
+     "order": 4,
+     "text": "WONKA FACTORY BUNDLE"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "The Factory Bundle is a tiny treasure from a bigger wonderland: a tote bag with Wonka goodies."
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "See Official Rules for details",
+     "href": "/us/en/xp/golden-ticket/terms-and-conditions"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "1/2"
+    }
+   ],
+   "imgCount": 2,
+   "editableTexts": 4,
+   "repeats": [
+    {
+     "unitSelector": "DIV.promo-prize",
+     "count": 2,
+     "unit": {
+      "headings": 1,
+      "ctas": 1,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "promo-title-text",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "See Official Rules for details",
+     "href": "/us/en/xp/golden-ticket/terms-and-conditions"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "promo-title-text",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Open only to legal residents of the 50 United States and D.C., who are 21 years of age or older with a valid email account as of the time of entry. Void where prohibited. Sweepstakes begins at 9:00:00 AM (ET) on November 2, 2026, and ends at 11:59:59 PM (ET) on July 31, 2027. One (1) Golden Ticket Experience Prize (via Instant Win or Random Drawing) and one (1) Wonka Factory Bundle Instant Win Prize per person for the entire Promotion Period. Unclaimed or forfeited Instant Win Prizes will not be awarded. For complete details including how to enter, odds of winning and prizing see Official Rules at or scan QR code on specially marked packs of Ferrero brand Wonka products or advertising display. Data usage rates may apply. Sponsor: Ferrero U.S.A., Inc., Parsippany, NJ 07054 and Wells Enterprises, Inc., 1 Blue Bunny Drive, Le Mars, Iowa 51031"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "NO PURCHASE NECESSARY TO ENTER OR WIN. A PURCHASE DOES NOT INCREASE YOUR CHANCES OF WINNING."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "www.wonka.com",
+     "href": "/us/en/xp/golden-ticket/terms-and-conditions"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  }
+ ]
+}

@@ -1,0 +1,127 @@
+/* coming-soon — announcement band (source coming-soon paragraph) */
+.coming-soon {
+  position: relative;
+  width: 100%;
+  overflow-x: clip;
+}
+
+.coming-soon .coming-soon-clouds {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  z-index: 0;
+  max-width: none;
+  pointer-events: none;
+  user-select: none;
+}
+
+.coming-soon .coming-soon-clouds-m {
+  width: 1005px;
+  transform: translate(-59%, 27%);
+}
+
+.coming-soon .coming-soon-clouds-d {
+  display: none;
+  width: 1350px;
+  transform: translate(-50%, 21%);
+}
+
+.coming-soon .coming-soon-panel {
+  position: relative;
+  z-index: 10;
+  display: flex;
+  width: 100%;
+  min-height: 320px;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  padding: 2.5rem 1.5rem;
+}
+
+.coming-soon .coming-soon-shade {
+  position: absolute;
+  inset: 0;
+  background-color: #00000080;
+}
+
+.coming-soon .coming-soon-tint {
+  position: absolute;
+  inset: 0;
+  background-color: #3e054080;
+}
+
+.coming-soon .coming-soon-bg picture {
+  display: contents;
+}
+
+.coming-soon .coming-soon-bg img {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 50%;
+  z-index: -10;
+  height: 100%;
+  width: 150%;
+  max-width: none;
+  transform: translateX(-50%);
+  object-fit: cover;
+  object-position: center 28%;
+  filter: blur(1.5px);
+  pointer-events: none;
+  user-select: none;
+}
+
+.coming-soon .coming-soon-copy {
+  position: relative;
+  z-index: 10;
+  display: flex;
+  max-width: 100%;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+  text-align: center;
+  color: var(--gold-200);
+}
+
+.coming-soon .coming-soon-copy :is(h1, h2, h3, h4, h5, h6) {
+  font-family: var(--font-heading);
+  font-size: var(--h2);
+  line-height: 1;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0;
+}
+
+.coming-soon .coming-soon-copy .coming-soon-star {
+  width: 1.5rem;
+  height: 1.5rem;
+  flex-shrink: 0;
+}
+
+.coming-soon .coming-soon-copy p {
+  font-family: var(--font-default);
+  font-size: var(--body-lg);
+  line-height: var(--body-lg-lh);
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 4%;
+}
+
+@media (width >= 768px) {
+  .coming-soon .coming-soon-clouds-m {
+    display: none;
+  }
+
+  .coming-soon .coming-soon-clouds-d {
+    display: block;
+  }
+
+  .coming-soon .coming-soon-panel {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+  }
+
+  .coming-soon .coming-soon-bg img {
+    width: 100%;
+  }
+}

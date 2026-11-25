@@ -1,0 +1,29 @@
+{
+  "/us/en/privacy-policy": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-11-25T11:52:24.379Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/us/en/cookie-policy": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-11-25T12:19:52.827Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/us/en/terms-of-use": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-11-25T12:19:59.168Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  }
+}

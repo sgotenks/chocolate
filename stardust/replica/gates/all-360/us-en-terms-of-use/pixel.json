@@ -1,0 +1,475 @@
+{
+  "a": "stardust/replica/gates/all-360/us-en-terms-of-use/origin.png",
+  "b": "stardust/replica/gates/all-360/us-en-terms-of-use/eds.png",
+  "compared": {
+    "width": 360,
+    "height": 14587,
+    "mode": "overlap"
+  },
+  "heightDelta": 1,
+  "differingPixels": 38931,
+  "pct": 0.74,
+  "threshold": 10,
+  "pass": true,
+  "diff": "stardust/replica/gates/all-360/us-en-terms-of-use/diff.png",
+  "masks": [],
+  "maskedRows": 0,
+  "textPct": 1.13,
+  "textBoxes": 621,
+  "textPixels": 3459673,
+  "bands": [
+    {
+      "y0": 0,
+      "y1": 500,
+      "pct": 0.6
+    },
+    {
+      "y0": 500,
+      "y1": 1000,
+      "pct": 0.9
+    },
+    {
+      "y0": 1000,
+      "y1": 1500,
+      "pct": 0.8
+    },
+    {
+      "y0": 1500,
+      "y1": 2000,
+      "pct": 0.9
+    },
+    {
+      "y0": 2000,
+      "y1": 2500,
+      "pct": 0.7
+    },
+    {
+      "y0": 2500,
+      "y1": 3000,
+      "pct": 0.7
+    },
+    {
+      "y0": 3000,
+      "y1": 3500,
+      "pct": 0.6
+    },
+    {
+      "y0": 3500,
+      "y1": 4000,
+      "pct": 0.9
+    },
+    {
+      "y0": 4000,
+      "y1": 4500,
+      "pct": 0.9
+    },
+    {
+      "y0": 4500,
+      "y1": 5000,
+      "pct": 0.8
+    },
+    {
+      "y0": 5000,
+      "y1": 5500,
+      "pct": 0.8
+    },
+    {
+      "y0": 5500,
+      "y1": 6000,
+      "pct": 0.8
+    },
+    {
+      "y0": 6000,
+      "y1": 6500,
+      "pct": 0.7
+    },
+    {
+      "y0": 6500,
+      "y1": 7000,
+      "pct": 0.8
+    },
+    {
+      "y0": 7000,
+      "y1": 7500,
+      "pct": 0.9
+    },
+    {
+      "y0": 7500,
+      "y1": 8000,
+      "pct": 0.6
+    },
+    {
+      "y0": 8000,
+      "y1": 8500,
+      "pct": 0.7
+    },
+    {
+      "y0": 8500,
+      "y1": 9000,
+      "pct": 0.7
+    },
+    {
+      "y0": 9000,
+      "y1": 9500,
+      "pct": 0.9
+    },
+    {
+      "y0": 9500,
+      "y1": 10000,
+      "pct": 0.8
+    },
+    {
+      "y0": 10000,
+      "y1": 10500,
+      "pct": 0.8
+    },
+    {
+      "y0": 10500,
+      "y1": 11000,
+      "pct": 0.9
+    },
+    {
+      "y0": 11000,
+      "y1": 11500,
+      "pct": 0.8
+    },
+    {
+      "y0": 11500,
+      "y1": 12000,
+      "pct": 0.9
+    },
+    {
+      "y0": 12000,
+      "y1": 12500,
+      "pct": 0.7
+    },
+    {
+      "y0": 12500,
+      "y1": 13000,
+      "pct": 0.7
+    },
+    {
+      "y0": 13000,
+      "y1": 13500,
+      "pct": 0.8
+    },
+    {
+      "y0": 13500,
+      "y1": 14000,
+      "pct": 0.4
+    },
+    {
+      "y0": 14000,
+      "y1": 14500,
+      "pct": 0.1
+    },
+    {
+      "y0": 14500,
+      "y1": 14587,
+      "pct": 0.3
+    }
+  ],
+  "verdict": "aligned",
+  "aligned": {
+    "used": false,
+    "pct": 0.74,
+    "differingPixels": 38931,
+    "compared": {
+      "width": 360,
+      "height": 14587,
+      "mode": "overlap"
+    },
+    "steps": [],
+    "maxOffset": 0,
+    "totalShift": 0,
+    "insertedRows": 0,
+    "deletedRows": 0,
+    "bands": [
+      {
+        "y0": 0,
+        "y1": 500,
+        "pct": 0.6,
+        "unaligned": 0.6
+      },
+      {
+        "y0": 500,
+        "y1": 1000,
+        "pct": 0.9,
+        "unaligned": 0.9
+      },
+      {
+        "y0": 1000,
+        "y1": 1500,
+        "pct": 0.8,
+        "unaligned": 0.8
+      },
+      {
+        "y0": 1500,
+        "y1": 2000,
+        "pct": 0.9,
+        "unaligned": 0.9
+      },
+      {
+        "y0": 2000,
+        "y1": 2500,
+        "pct": 0.7,
+        "unaligned": 0.7
+      },
+      {
+        "y0": 2500,
+        "y1": 3000,
+        "pct": 0.7,
+        "unaligned": 0.7
+      },
+      {
+        "y0": 3000,
+        "y1": 3500,
+        "pct": 0.6,
+        "unaligned": 0.6
+      },
+      {
+        "y0": 3500,
+        "y1": 4000,
+        "pct": 0.9,
+        "unaligned": 0.9
+      },
+      {
+        "y0": 4000,
+        "y1": 4500,
+        "pct": 0.9,
+        "unaligned": 0.9
+      },
+      {
+        "y0": 4500,
+        "y1": 5000,
+        "pct": 0.8,
+        "unaligned": 0.8
+      },
+      {
+        "y0": 5000,
+        "y1": 5500,
+        "pct": 0.8,
+        "unaligned": 0.8
+      },
+      {
+        "y0": 5500,
+        "y1": 6000,
+        "pct": 0.8,
+        "unaligned": 0.8
+      },
+      {
+        "y0": 6000,
+        "y1": 6500,
+        "pct": 0.7,
+        "unaligned": 0.7
+      },
+      {
+        "y0": 6500,
+        "y1": 7000,
+        "pct": 0.8,
+        "unaligned": 0.8
+      },
+      {
+        "y0": 7000,
+        "y1": 7500,
+        "pct": 0.9,
+        "unaligned": 0.9
+      },
+      {
+        "y0": 7500,
+        "y1": 8000,
+        "pct": 0.6,
+        "unaligned": 0.6
+      },
+      {
+        "y0": 8000,
+        "y1": 8500,
+        "pct": 0.7,
+        "unaligned": 0.7
+      },
+      {
+        "y0": 8500,
+        "y1": 9000,
+        "pct": 0.7,
+        "unaligned": 0.7
+      },
+      {
+        "y0": 9000,
+        "y1": 9500,
+        "pct": 0.9,
+        "unaligned": 0.9
+      },
+      {
+        "y0": 9500,
+        "y1": 10000,
+        "pct": 0.8,
+        "unaligned": 0.8
+      },
+      {
+        "y0": 10000,
+        "y1": 10500,
+        "pct": 0.8,
+        "unaligned": 0.8
+      },
+      {
+        "y0": 10500,
+        "y1": 11000,
+        "pct": 0.9,
+        "unaligned": 0.9
+      },
+      {
+        "y0": 11000,
+        "y1": 11500,
+        "pct": 0.8,
+        "unaligned": 0.8
+      },
+      {
+        "y0": 11500,
+        "y1": 12000,
+        "pct": 0.9,
+        "unaligned": 0.9
+      },
+      {
+        "y0": 12000,
+        "y1": 12500,
+        "pct": 0.7,
+        "unaligned": 0.7
+      },
+      {
+        "y0": 12500,
+        "y1": 13000,
+        "pct": 0.7,
+        "unaligned": 0.7
+      },
+      {
+        "y0": 13000,
+        "y1": 13500,
+        "pct": 0.8,
+        "unaligned": 0.8
+      },
+      {
+        "y0": 13500,
+        "y1": 14000,
+        "pct": 0.4,
+        "unaligned": 0.4
+      },
+      {
+        "y0": 14000,
+        "y1": 14500,
+        "pct": 0.1,
+        "unaligned": 0.1
+      },
+      {
+        "y0": 14500,
+        "y1": 14587,
+        "pct": 0.3,
+        "unaligned": 0.3
+      }
+    ],
+    "diff": null,
+    "reason": "aligned number not lower than the unaligned one",
+    "candidate": {
+      "pct": 0.75,
+      "steps": 1,
+      "totalShift": 1
+    }
+  },
+  "offsets": {
+    "bound": null,
+    "totalShift": 0,
+    "pass": true
+  },
+  "reason": null,
+  "capturesDropped": {
+    "masks": [],
+    "edsUrl": "https://main--a6216fe5--aemcoder.aem.live/us/en/terms-of-use",
+    "key": {
+      "v": 3,
+      "build": "https://main--a6216fe5--aemcoder.aem.live/us/en/terms-of-use",
+      "source": "https://www.wonka.com/us/en/terms-of-use",
+      "masks": "74234e98afe7498f",
+      "presence": "74234e98afe7498f",
+      "clipAllow": "74234e98afe7498f",
+      "override": "74234e98afe7498f",
+      "units": "810c8ba18240f6f9",
+      "options": "bf5047b0a5c65691",
+      "reference": "2404a58d2c47b570",
+      "archetype": "1d8fc6ceb1f94c63",
+      "captures": "40c98bbe630eaf97",
+      "instruments": "eb81d8f0db728617",
+      "page content": "42116b6f92d36908",
+      "shared code": "017195a7628ed43c",
+      "block legal-accordion": "5e78a373751364d0"
+    },
+    "probes": {
+      "content": {
+        "totals": {
+          "missingHeadings": 0,
+          "hiddenHeadings": 0,
+          "extraHeadings": 0,
+          "missingLinks": 0,
+          "hiddenLinks": 0,
+          "movedLinks": 0,
+          "extraLinks": 0,
+          "missingButtons": 0,
+          "hiddenButtons": 0,
+          "controlState": 0,
+          "countDeltas": 0,
+          "findings": 0,
+          "structural": 0,
+          "missing": 0,
+          "hidden": 0
+        },
+        "variable": [],
+        "reason": null,
+        "tier": "chrome"
+      },
+      "clip": {
+        "counts": {
+          "textClipped": 0,
+          "textHidden": 0,
+          "controlHidden": 0,
+          "controlClipped": 0,
+          "clamped": 0,
+          "collapsed": 0,
+          "scrollHidden": 0,
+          "horizontal": 0,
+          "offPage": 0,
+          "textNodes": 82,
+          "controls": 11,
+          "total": 0
+        },
+        "groups": [],
+        "origin": {
+          "textClipped": 0,
+          "textHidden": 0,
+          "controlHidden": 0,
+          "controlClipped": 0,
+          "clamped": 0,
+          "collapsed": 0,
+          "scrollHidden": 0,
+          "horizontal": 0,
+          "offPage": 0,
+          "textNodes": 82,
+          "controls": 11,
+          "total": 0
+        },
+        "source": "content-presence"
+      },
+      "units": {
+        "verdict": {
+          "units": 22,
+          "within": 20,
+          "off": 0,
+          "hidden": 0,
+          "missing": 0,
+          "errors": 0,
+          "requiredOff": 0
+        },
+        "required": true,
+        "errors": []
+      }
+    },
+    "at": "2026-11-25T14:45:50.420Z"
+  }
+}
