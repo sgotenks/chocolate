@@ -1,0 +1,17 @@
+cap-probe  base 1440 → probe 2560 (from DESIGN.json)
+live   https://www.wonka.com/us/en/privacy-policy
+  shell     1268px  max-width div.layout__region.layout__region--content > div.paragraph.paragraph--type--legal-page > section.legal-page.relative > div.section-container  (tier 10, holds 100% of the text)
+  content    800px  max-width div.paragraph.paragraph--type--legal-page > section.legal-page.relative > div.section-container > div.ml-0.flex  (tier 11, holds 100% of the text)
+  modules  1 sections: capped 756 ×1 · full-bleed ×0
+  contentMaxWidth 800px (content) · shellMaxWidth 1268px · root div.dialog-off-canvas-main-canvas > div.layout-container > div > main.w-full
+build  http://localhost:8791/us-en-privacy-policy-proposed.html
+  shell     1268px  max-width #main-content > div.page__sections > section.legal-page > div.legal-page__container  (tier 3, holds 100% of the text)
+  content    800px  max-width div.page__sections > section.legal-page > div.legal-page__container > div.legal-page__column  (tier 4, holds 100% of the text)
+  modules  2 sections: capped 756 ×1 · full-bleed ×1
+  contentMaxWidth 800px (content) · shellMaxWidth 1268px · root #main-content
+rows
+  ✓ wrapper cap: live 800px = build 800px (±20)
+  ⚠ outer shell: live 1268px (div.layout__region.layout__region--content > div.paragraph.paragraph--type--legal-page > section.legal-page.relative > div.section-container) encloses the 800px wrapper cap — informational, no content bound of its own
+  ⚠ sections: live 1 vs build 2 top-level sections — module rows compared by order up to the shorter side, advisory until the structure matches
+  ⚠ module 1/1: live 756px (section.otnotice-section > div.otnotice-section-content > p > a) → build full-bleed (section.legal-page > div.legal-page__container > div.legal-page__column > header.legal-page__header)
+cap-probe: PASS at 2560 — 0 of 4 rows failed (evidence stardust/replica/gates/us-en-privacy-policy-2560/cap-iter.json)

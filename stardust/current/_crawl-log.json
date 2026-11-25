@@ -1,0 +1,353 @@
+{
+  "discovery": {
+    "fetchTechnique": "chrome",
+    "count": 7,
+    "concurrency": 3
+  },
+  "consent": {
+    "method": "auto"
+  },
+  "favicon": {
+    "url": "https://www.wonka.com/us/themes/custom/sling/favicon.svg",
+    "file": "assets/favicon.svg"
+  },
+  "crawl": {
+    "failures": [],
+    "degraded": [],
+    "pageTimeoutMs": 60000,
+    "recaptures": [
+      {
+        "slug": "index",
+        "reason": "OneTrust banner leaked into 7-page slow-wait run screenshot (consent dismissal race); recaptured alone at wait=slow, banner absent; duplicateOf re-stamped (headings/ctas/body identical to us-en)",
+        "at": "2026-11-25T10:14:52.086Z"
+      }
+    ]
+  },
+  "captureGaps": {
+    "roots": [
+      {
+        "root": "/us/en",
+        "slug": "us-en",
+        "linked": 5,
+        "uncaptured": []
+      }
+    ],
+    "detail": "uncaptured first-level targets: us/en 0"
+  },
+  "dynamicSurface": {
+    "pages": 7,
+    "pagesWithSameSiteData": 0,
+    "pagesWithSearchForm": 0,
+    "pagesHydrated": 7,
+    "truncatedPages": 0,
+    "endpoints": [
+      {
+        "method": "GET",
+        "host": "cdn.cookielaw.org",
+        "path": "/consent/{uuid}/{uuid}.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": false,
+        "example": "https://cdn.cookielaw.org/consent/019ddcb5-1afd-74e9-920e-7e5a2287f1be/019ddcb5-1afd-74e9-920e-7e5a2287f1be.json",
+        "pages": 7,
+        "examples": [
+          "us-en",
+          "index",
+          "us-en-about-wonka"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "cdn.cookielaw.org",
+        "path": "/consent/{uuid}/{uuid}/en.json",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "sameSite": false,
+        "example": "https://cdn.cookielaw.org/consent/019ddcb5-1afd-74e9-920e-7e5a2287f1be/019dbb0b-c528-71df-9add-c261d11398e9/en.json",
+        "pages": 7,
+        "examples": [
+          "us-en",
+          "index",
+          "us-en-about-wonka"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "cdn.cookielaw.org",
+        "path": "/scripttemplates/202610.1.0/assets/otFlat.json",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "sameSite": false,
+        "example": "https://cdn.cookielaw.org/scripttemplates/202610.1.0/assets/otFlat.json",
+        "pages": 7,
+        "examples": [
+          "us-en",
+          "index",
+          "us-en-about-wonka"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "cdn.cookielaw.org",
+        "path": "/scripttemplates/202610.1.0/assets/otCommonStyles.css",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "text/css",
+        "sameSite": false,
+        "example": "https://cdn.cookielaw.org/scripttemplates/202610.1.0/assets/otCommonStyles.css",
+        "pages": 7,
+        "examples": [
+          "us-en",
+          "index",
+          "us-en-about-wonka"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "cdn.cookielaw.org",
+        "path": "/scripttemplates/202610.1.0/assets/v2/otPcTab.json",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "sameSite": false,
+        "example": "https://cdn.cookielaw.org/scripttemplates/202610.1.0/assets/v2/otPcTab.json",
+        "pages": 7,
+        "examples": [
+          "us-en",
+          "index",
+          "us-en-about-wonka"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "cdn.cookielaw.org",
+        "path": "/logos/static/ot_guard_logo.svg",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "image/svg+xml",
+        "sameSite": false,
+        "example": "https://cdn.cookielaw.org/logos/static/ot_guard_logo.svg",
+        "pages": 7,
+        "examples": [
+          "us-en",
+          "index",
+          "us-en-about-wonka"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "www.google-analytics.com",
+        "path": "/g/collect",
+        "query": [
+          "_eu",
+          "_fv",
+          "_nsi",
+          "_p",
+          "_s",
+          "_ss",
+          "_tu",
+          "cid",
+          "dl",
+          "dma",
+          "dma_cps",
+          "dt",
+          "en",
+          "ep.anonymize_ip",
+          "frm",
+          "gcd",
+          "gcs",
+          "gdid",
+          "gtm",
+          "ir",
+          "ngs",
+          "npa",
+          "pscdl",
+          "rcb",
+          "sct",
+          "seg",
+          "sid",
+          "sr",
+          "tag_exp",
+          "tfd",
+          "tid",
+          "uaa",
+          "uab",
+          "uafvl",
+          "uam",
+          "uamb",
+          "uap",
+          "uapv",
+          "uaw",
+          "ul",
+          "v"
+        ],
+        "resourceType": "fetch",
+        "contentType": "text/plain",
+        "sameSite": false,
+        "example": "https://www.google-analytics.com/g/collect",
+        "pages": 7,
+        "examples": [
+          "us-en",
+          "index",
+          "us-en-about-wonka"
+        ]
+      },
+      {
+        "method": "PUT",
+        "host": "privacyportal-eu.onetrust.com",
+        "path": "/request/v1/enterprisepolicy/digitalpolicy/meta-data",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "text/plain",
+        "sameSite": false,
+        "example": "https://privacyportal-eu.onetrust.com/request/v1/enterprisepolicy/digitalpolicy/meta-data",
+        "pages": 2,
+        "examples": [
+          "us-en-privacy-policy",
+          "us-en-cookie-policy"
+        ]
+      },
+      {
+        "method": "PUT",
+        "host": "privacyportal-eu.onetrust.com",
+        "path": "/request/v1/enterprisepolicy/digitalpolicy/content",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "text/plain",
+        "sameSite": false,
+        "example": "https://privacyportal-eu.onetrust.com/request/v1/enterprisepolicy/digitalpolicy/content",
+        "pages": 2,
+        "examples": [
+          "us-en-privacy-policy",
+          "us-en-cookie-policy"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "privacyportal-eu.onetrust.com",
+        "path": "/request/v1/privacyNotices/stats/views",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": null,
+        "sameSite": false,
+        "example": "https://privacyportal-eu.onetrust.com/request/v1/privacyNotices/stats/views",
+        "pages": 2,
+        "examples": [
+          "us-en-privacy-policy",
+          "us-en-cookie-policy"
+        ]
+      }
+    ],
+    "thirdPartyScriptHosts": [
+      {
+        "host": "www.googletagmanager.com",
+        "pages": 7,
+        "examples": [
+          "us-en",
+          "index",
+          "us-en-about-wonka"
+        ]
+      },
+      {
+        "host": "cdn.cookielaw.org",
+        "pages": 7,
+        "examples": [
+          "us-en",
+          "index",
+          "us-en-about-wonka"
+        ]
+      },
+      {
+        "host": "privacyportal-eu-cdn.onetrust.com",
+        "pages": 2,
+        "examples": [
+          "us-en-privacy-policy",
+          "us-en-cookie-policy"
+        ]
+      },
+      {
+        "host": "ferrero-gpp-wonka-prod-static.s3.eu-west-1.amazonaws.com",
+        "pages": 1,
+        "examples": [
+          "us-en-xp-golden-ticket"
+        ]
+      }
+    ],
+    "frameworkHints": [],
+    "globalState": [
+      {
+        "name": "drupalSettings",
+        "pages": 7,
+        "examples": [
+          "us-en",
+          "index",
+          "us-en-about-wonka"
+        ]
+      },
+      {
+        "name": "dataLayer",
+        "pages": 7,
+        "examples": [
+          "us-en",
+          "index",
+          "us-en-about-wonka"
+        ]
+      }
+    ],
+    "formTargets": []
+  },
+  "visionCheck": [
+    {
+      "slug": "us-en",
+      "verdict": "ok",
+      "notes": "purple Wonka home: hat hero with \"The World of Wonka has arrived\" (raster artwork, no h-tag), 5 product cards on purple panels, coming-soon band, rounded footer; headings[]=0 because product h3/h4 live only in hidden product modals — record matches pixels"
+    },
+    {
+      "slug": "index",
+      "verdict": "recaptured",
+      "notes": "https://www.wonka.com/ 301 -> /us/en/ (Akamai geo/locale redirect); slow-wait full run leaked the OneTrust banner into this capture; recaptured alone, banner absent; content identical to us-en (duplicateOf)"
+    },
+    {
+      "slug": "us-en-about-wonka",
+      "verdict": "ok",
+      "notes": "book-illustration discover hero, 3 story cards, image-text factory band, promo product strip, social + FAQ accordion; matches record"
+    },
+    {
+      "slug": "us-en-privacy-policy",
+      "verdict": "ok",
+      "notes": "legal-page: title + intro + 13 collapsed accordion sections (text captured via textContent, mainTextLen 29.6k) — short 1433px page is the collapsed state, not a capture loss"
+    },
+    {
+      "slug": "us-en-terms-of-use",
+      "verdict": "recaptured",
+      "notes": "first run (wait=medium) screenshot carried the OneTrust consent bar at ~y800; full rerun at wait=slow is clean (no Accept Cookies in DOM)"
+    },
+    {
+      "slug": "us-en-cookie-policy",
+      "verdict": "ok",
+      "notes": "legal-page long-form with OneTrust cookie tables (white table on purple) + Do Not Sell button"
+    },
+    {
+      "slug": "us-en-xp-golden-ticket",
+      "verdict": "ok",
+      "notes": "separate Drupal promo microsite (theme gpp_promo_theme, Arial/Work Sans vars): product-pack hero, QR block, golden-ticket video band, 3-step cream panel, prizes, Las Vegas experience, legal fine print, own footer"
+    }
+  ],
+  "siblingCandidates": [
+    {
+      "origin": "https://www.wonka.com/uk/en/ (+ /de/de/, /fr/fr/, /it/it/)",
+      "confidence": "high",
+      "evidence": "hreflang alternates on /us/en/ — same origin, locale paths, not separate origins",
+      "decision": "excluded — same-origin locale siblings; outside the 7-page replica scope (recorded as scope fact)"
+    },
+    {
+      "origin": "https://www.ferrero.com, https://www.ferreronorthamerica.com",
+      "confidence": "low",
+      "evidence": "footer/legal links — parent company, not a Wonka brand surface",
+      "decision": "excluded"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+ "url": "https://main--a6216fe5--aemcoder.aem.live/us/en/about-wonka",
+ "at": "2026-11-25T14:44:36.612Z",
+ "source": "content-presence",
+ "counts": {
+  "textClipped": 0,
+  "textHidden": 0,
+  "controlHidden": 0,
+  "controlClipped": 0,
+  "clamped": 0,
+  "collapsed": 0,
+  "scrollHidden": 0,
+  "horizontal": 0,
+  "offPage": 0,
+  "textNodes": 41,
+  "controls": 21,
+  "total": 0
+ },
+ "groups": [],
+ "origin": {
+  "counts": {
+   "textClipped": 2,
+   "textHidden": 0,
+   "controlHidden": 0,
+   "controlClipped": 0,
+   "clamped": 0,
+   "collapsed": 0,
+   "scrollHidden": 0,
+   "horizontal": 1,
+   "offPage": 0,
+   "textNodes": 41,
+   "controls": 21,
+   "total": 2
+  }
+ }
+}

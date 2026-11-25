@@ -1,0 +1,190 @@
+{
+ "_provenance": {
+  "writtenBy": "stardust:dynamics check",
+  "writtenAt": "2026-11-25T12:54:51.110Z",
+  "origin": "https://main--a6216fe5--aemcoder.aem.live",
+  "parity": "stardust/dynamics/parity.json"
+ },
+ "results": [
+  {
+   "feature": "drupalSettings + dataLayer objects",
+   "id": "a-cms-app-settings",
+   "class": "A",
+   "status": "done",
+   "type": "no-page-errors",
+   "pass": true,
+   "detail": "none on 6 page(s)",
+   "thirdParty": "",
+   "ms": 11913,
+   "environmentLimit": null
+  },
+  {
+   "feature": "privacy policy main filled after load (13 collapsed accordions)",
+   "id": "cr-privacy-accordion",
+   "class": "CR",
+   "status": "done",
+   "type": "dom-count",
+   "pass": true,
+   "detail": "13 × .legal-accordion .legal-acc-panel[role='region'] (min 13)",
+   "thirdParty": "",
+   "ms": 1876,
+   "environmentLimit": null
+  },
+  {
+   "feature": "header menu (desktop link row + mobile slide-down panel)",
+   "id": "m-chrome-menu",
+   "class": "M",
+   "status": "done",
+   "type": "dom-count",
+   "pass": true,
+   "detail": "3 × header nav.site-header-nav a[href^='/us/en/'] (min 3)",
+   "thirdParty": "",
+   "ms": 2007,
+   "environmentLimit": null
+  },
+  {
+   "feature": "header menu (desktop link row + mobile slide-down panel)",
+   "id": "m-chrome-menu",
+   "class": "M",
+   "status": "done",
+   "type": "dom-count",
+   "pass": true,
+   "detail": "1 × header button.mnav-toggle[aria-controls][aria-expanded] (min 1)",
+   "thirdParty": "",
+   "ms": 2016,
+   "environmentLimit": null
+  },
+  {
+   "feature": "disclosures: product details (home), FAQ accordion (about), legal accordions (privacy)",
+   "id": "m-product-dialogs",
+   "class": "M",
+   "status": "done",
+   "type": "dom-count",
+   "pass": true,
+   "detail": "5 × .product-cards button.pcard-toggle[aria-controls][aria-expanded='false'] (min 5)",
+   "thirdParty": "",
+   "ms": 2067,
+   "environmentLimit": null
+  },
+  {
+   "feature": "disclosures: product details (home), FAQ accordion (about), legal accordions (privacy)",
+   "id": "m-product-dialogs",
+   "class": "M",
+   "status": "done",
+   "type": "dom-count",
+   "pass": true,
+   "detail": "7 × .faq .faq-toggle[role='button'][aria-controls] (min 7)",
+   "thirdParty": "",
+   "ms": 2033,
+   "environmentLimit": null
+  },
+  {
+   "feature": "disclosures: product details (home), FAQ accordion (about), legal accordions (privacy)",
+   "id": "m-product-dialogs",
+   "class": "M",
+   "status": "done",
+   "type": "dom-count",
+   "pass": true,
+   "detail": "13 × .legal-accordion button.legal-acc-toggle[aria-controls] (min 13)",
+   "thirdParty": "",
+   "ms": 1891,
+   "environmentLimit": null
+  },
+  {
+   "feature": "locale variants en-GB, en-US, de-DE, fr-FR, it-IT",
+   "id": "i18n-locale-trees",
+   "class": "I18N",
+   "status": "interim",
+   "type": "dom-count",
+   "pass": true,
+   "detail": "1 × html[lang='en'] (min 1)",
+   "thirdParty": "",
+   "ms": 2098,
+   "environmentLimit": null
+  },
+  {
+   "feature": "locale variants en-GB, en-US, de-DE, fr-FR, it-IT",
+   "id": "i18n-locale-trees",
+   "class": "I18N",
+   "status": "interim",
+   "type": "dom-count",
+   "pass": true,
+   "detail": "4 × footer a[href^='/us/en/'] (min 3)",
+   "thirdParty": "",
+   "ms": 1879,
+   "environmentLimit": null
+  },
+  {
+   "feature": "Google Tag Manager, GA/Ads, OneTrust CMP, runtime-injected tag iframes",
+   "id": "t-tags-consent",
+   "class": "T",
+   "status": "scaffolded-awaiting-owner",
+   "type": "consent-gate",
+   "pass": true,
+   "detail": "no request to 5 gated host pattern(s) before consent",
+   "thirdParty": "",
+   "ms": 6058,
+   "environmentLimit": null
+  },
+  {
+   "feature": "Google Tag Manager, GA/Ads, OneTrust CMP, runtime-injected tag iframes",
+   "id": "t-tags-consent",
+   "class": "T",
+   "status": "scaffolded-awaiting-owner",
+   "type": "consent-gate",
+   "pass": true,
+   "detail": "no request to 5 gated host pattern(s) before consent",
+   "thirdParty": "",
+   "ms": 5877,
+   "environmentLimit": null
+  },
+  {
+   "feature": "Google Tag Manager, GA/Ads, OneTrust CMP, runtime-injected tag iframes",
+   "id": "t-tags-consent",
+   "class": "T",
+   "status": "scaffolded-awaiting-owner",
+   "type": "dom-count",
+   "pass": true,
+   "detail": "1 × .legal-accordion .legal-consent-btn[role='button'] (min 1)",
+   "thirdParty": "",
+   "ms": 1880,
+   "environmentLimit": null
+  },
+  {
+   "feature": "Ferrero S3 static hosts (media / promo assets)",
+   "id": "t-ferrero-static-hosts",
+   "class": "T",
+   "status": "done",
+   "type": "consent-gate",
+   "pass": true,
+   "detail": "no request to 2 gated host pattern(s) before consent",
+   "thirdParty": "",
+   "ms": 6146,
+   "environmentLimit": null
+  },
+  {
+   "feature": "Ferrero S3 static hosts (media / promo assets)",
+   "id": "t-ferrero-static-hosts",
+   "class": "T",
+   "status": "done",
+   "type": "consent-gate",
+   "pass": true,
+   "detail": "no request to 2 gated host pattern(s) before consent",
+   "thirdParty": "",
+   "ms": 5910,
+   "environmentLimit": null
+  },
+  {
+   "feature": "golden-ticket sign-in / register (/us/en/xp/golden-ticket/lead/...)",
+   "id": "x-sweepstakes-signin",
+   "class": "X",
+   "status": "interim",
+   "type": "dom-count",
+   "pass": true,
+   "detail": "8 × a[href^='https://www.wonka.com/us/en/xp/golden-ticket/lead/register'] (min 7)",
+   "thirdParty": "",
+   "ms": 1944,
+   "environmentLimit": null
+  }
+ ]
+}

@@ -1,0 +1,328 @@
+/**
+ * rollout/lib.mjs — shared IO + roll-up helpers so every script derives the same
+ * counts from the same per-unit truth (counts are always recomputed, never
+ * incremented). The EDS rules (names, kinds, paths) come from the master skill's
+ * contracts.mjs (skills/stardust/scripts/lib/README.md), resolved here once and
+ * re-exported, so the rollout scripts keep importing them from ./lib.mjs.
+ */
+import { readFileSync, writeFileSync, mkdirSync, existsSync, statSync, renameSync, rmSync } from 'node:fs';
+import { dirname, join } from 'node:path';
+
+// The shared rules live beside browser.mjs in the master skill's scripts dir: the plugin tree or the Setup step 7 copy.
+const CONTRACTS = ['../../stardust/scripts/contracts.mjs', '../stardust/contracts.mjs']
+  .map((p) => new URL(p, import.meta.url)).find((u) => existsSync(u));
+if (!CONTRACTS) throw Object.assign(new Error('rollout/lib.mjs: contracts.mjs not found (looked in ../../stardust/scripts/ and ../stardust/). Copy the master skill\'s scripts dir to stardust/scripts/stardust/ (skills/stardust/SKILL.md § Setup).'), { code: 'FRONT_DOOR_MISSING' });
+const C = await import(CONTRACTS.href);
+export const { RESERVED, edsName, reservedStem, widgetCodePath, pageWidgets, widgetStem, CHROME_IDS, kindOf, DEFAULT_CONTENT, documentKind } = C;
+export const { pathKey, safePath, sidecarName, treePath, rosterPath, pathSlug, sitemapKey, servedPath, isFolderIndexFile } = C;
+export const { daTokenSource, readDaToken, jwtExpiry } = C;
+
+/**
+ * The block library's proof of publication (#160): da-library.mjs writes it once every DA write of a run succeeded and
+ * removes it at the start of every run that is not a dry run; done-check's library_missing gap reads it. One path for
+ * both: `<rollout dir>/library/published.json` (da-library's rollout dir is dirname(--coverage), done-check's --out).
+ */
+export const libraryMarkerPath = (rolloutDir = join('stardust', 'rollout')) => join(rolloutDir, 'library', 'published.json');
+
+/**
+ * done-check's library gap, or null. `marker` is published.json (null when absent); `da` is rollout.json site.da;
+ * `delivered` the delivered coverage rows as `{ path, deployedAt }` (a bare path string has no deployedAt). Missing →
+ * `library_missing`; published to another DA site → `library_missing:published to <org>/<site>, site.da is …`;
+ * otherwise `library_missing:stale: …` naming delivered pages it never read (siblings delivered after it ran,
+ * archetypes-only mode) and pages re-delivered after it ran (`deployedAt` later than the marker's `at`: a fix round
+ * may have added a block or variant). Pure.
+ */
+export function libraryGap(marker, { da = {}, delivered = [] } = {}) {
+  if (!marker || typeof marker !== 'object') return 'library_missing';
+  const want = `${da.org || ''}/${da.site || ''}`;
+  if (da.org && da.site && `${marker.org}/${marker.site}` !== want) return `library_missing:published to ${marker.org}/${marker.site}, site.da is ${want} — re-run da-library.mjs`;
+  const read = new Set((Array.isArray(marker.pages) ? marker.pages : []).map(pathKey));
+  const ranAt = Date.parse(marker.at);
+  const rows = delivered.map((d) => (typeof d === 'string' ? { path: d } : d));
+  const unread = rows.filter((d) => !read.has(pathKey(d.path))).map((d) => d.path);
+  const newer = rows.filter((d) => read.has(pathKey(d.path)) && Date.parse(d.deployedAt) > ranAt).map((d) => d.path);
+  if (!unread.length && !newer.length) return null;
+  const list = (ps) => (ps.length > 20 ? `${ps.slice(0, 20).join(', ')}, … (+${ps.length - 20})` : ps.join(', '));
+  const why = [
+    unread.length && `${unread.length} delivered page(s) not in the library: ${list(unread)}`,
+    newer.length && `${newer.length} page(s) re-delivered after it ran: ${list(newer)}`,
+  ].filter(Boolean).join('; ');
+  return `library_missing:stale: ${why} — re-run da-library.mjs`;
+}
+
+export function readJSON(path, fallback = null) {
+  try { return JSON.parse(readFileSync(path, 'utf8')); } catch { return fallback; }
+}
+
+/** Whole-file write through a sibling tmp file + rename: a reader never sees a half-written file. */
+export function writeJSON(path, obj) {
+  mkdirSync(dirname(path), { recursive: true });
+  const tmp = `${path}.${process.pid}.tmp`;
+  writeFileSync(tmp, `${JSON.stringify(obj, null, 2)}\n`);
+  renameSync(tmp, path);
+}
+
+/**
+ * Cross-process mutual exclusion for a read-modify-write of a shared file: a lock DIRECTORY
+ * `<target>.lock` (mkdir is atomic on every filesystem), an `owner` file naming pid + time, a
+ * bounded wait, and a stale lock (older than `staleMs`, a crashed writer) reclaimed. Several
+ * cluster subagents record coverage rows at once during a fan-out; without this the last writer
+ * won and rows were lost. Returns a release function (also run at process exit).
+ */
+export function acquireLock(target, { timeoutMs = 30000, staleMs = 60000, pollMs = 50 } = {}) {
+  const dir = `${target}.lock`;
+  mkdirSync(dirname(dir), { recursive: true });
+  const deadline = Date.now() + timeoutMs;
+  for (;;) {
+    try {
+      mkdirSync(dir);
+      writeFileSync(join(dir, 'owner'), `${process.pid} ${new Date().toISOString()}\n`);
+      break;
+    } catch (e) {
+      if (e.code !== 'EEXIST') throw e;
+      let st = null;
+      try { st = statSync(dir); } catch { continue; }
+      if (Date.now() - st.mtimeMs > staleMs) { try { rmSync(dir, { recursive: true, force: true }); } catch { /* raced */ } continue; }
+      if (Date.now() > deadline) {
+        let owner = '?'; try { owner = readFileSync(join(dir, 'owner'), 'utf8').trim(); } catch { /* none */ }
+        throw new Error(`lock ${dir} held for over ${timeoutMs} ms (owner ${owner}) — a crashed writer leaves it; remove the directory when no such process runs`);
+      }
+      Atomics.wait(new Int32Array(new SharedArrayBuffer(4)), 0, 0, pollMs);
+    }
+  }
+  let released = false;
+  const release = () => { if (released) return; released = true; try { rmSync(dir, { recursive: true, force: true }); } catch { /* gone */ } };
+  process.once('exit', release);
+  return release;
+}
+
+/** Run `fn` under the lock; the file(s) it touches must be re-read INSIDE `fn`, never before. */
+export function withLock(target, fn, opts) {
+  const release = acquireLock(target, opts);
+  try { return fn(); } finally { release(); }
+}
+
+const countBy = (rows, get, val) => rows.filter((r) => get(r) === val).length;
+
+/** Page delivery counts from coverage/pages.json rows. */
+export function pageCounts(pages) {
+  const g = (p) => (p.delivery && p.delivery.status) || 'pending';
+  return {
+    total: pages.length,
+    verified: countBy(pages, g, 'verified'),
+    deployed: countBy(pages, g, 'deployed'),
+    pending: countBy(pages, g, 'pending'),
+    contentPending: countBy(pages, g, 'content-pending'),
+    stale: countBy(pages, g, 'stale'),
+    failed: countBy(pages, g, 'failed'),
+  };
+}
+
+/**
+ * The `edsBlockName` that records a module mapped to EDS default content (title, text, image,
+ * button, separator — deploy's D1): the mapping is the resolved decision and there is no block to
+ * build, so such a row is never pending whatever its status. A recorded hands-off run left four of
+ * them at `status: pending` and the block roll-up read a finished, verified site as unfinished.
+ * A widget whose file stem is literally `default-content` is still a widget to build, not such a mapping.
+ */
+export const isDefaultContent = (b) => !!(b && b.kind !== 'widget' && b.delivery && b.delivery.edsBlockName === DEFAULT_CONTENT);
+
+/** Block conversion counts from coverage/blocks.json rows; a default-content mapping counts as converted. */
+export function blockCounts(blocks) {
+  const converted = blocks.filter((b) => isDefaultContent(b) || ['converted', 'deployed', 'verified']
+    .includes(b.delivery && b.delivery.status)).length;
+  return { total: blocks.length, converted, pending: blocks.length - converted };
+}
+
+/** Recompute each template's delivery roll-up in place from the page rows. */
+export function rollupTemplates(templatesDoc, pages) {
+  if (!templatesDoc || !Array.isArray(templatesDoc.templates)) return;
+  for (const t of templatesDoc.templates) {
+    const tp = pages.filter((p) => (t.pages || []).includes(p.slug));
+    const g = (p) => (p.delivery && p.delivery.status) || 'pending';
+    const cp = countBy(tp, g, 'content-pending');
+    t.delivery = {
+      verified: countBy(tp, g, 'verified'),
+      deployed: countBy(tp, g, 'deployed'),
+      contentPending: cp,
+      pending: tp.length - countBy(tp, g, 'verified') - countBy(tp, g, 'deployed') - cp,
+    };
+  }
+}
+
+/** Recompute rollout.json lastRun from the page + (optional) block rows. */
+export function rollupConfig(config, pages, blocks, now) {
+  if (!config) return;
+  const counts = pageCounts(pages);
+  config.lastRun = {
+    ...(config.lastRun || {}),
+    at: now,
+    pages: counts,
+    blocks: blocks ? blockCounts(blocks) : (config.lastRun && config.lastRun.blocks) || { total: 0, converted: 0, pending: 0 },
+    verifyFailures: counts.failed,
+  };
+}
+
+/**
+ * The URL EDS serves a page at: its path, plus `/` when the page is a folder index (its migrated file is
+ * `…/index.html`; `/a` 404s on a plain EDS site). `path` stays the page's key (lib/paths.mjs servedPath). Pure.
+ */
+export function publicUrl(page) {
+  const p = page.path || `/${page.slug}`;
+  return servedPath(p, { folderIndex: isFolderIndexFile((page.source && page.source.migratedHtml) || '') });
+}
+
+/** Map a delivered (extensionless) path to a file under root (migrated-tree shape). */
+export function resolveLocalFile(root, p) {
+  const candidates = p === '/' ? ['index.html'] : [`${p.slice(1)}.html`, `${p.slice(1)}/index.html`, p.slice(1)];
+  for (const c of candidates) { const f = join(root, c); if (existsSync(f) && statSync(f).isFile()) return f; }
+  return null;
+}
+
+/** Load a page's HTML by HTTP (base) or from a local root. Returns {ok, body, reason}. */
+export async function loadPageHTML(page, { root, base }) {
+  if (root) {
+    const f = resolveLocalFile(root, page.path);
+    if (!f) return { ok: false, reason: `not found under ${root}` };
+    return { ok: true, body: readFileSync(f, 'utf8') };
+  }
+  try {
+    const res = await fetch(`${base}${publicUrl(page)}`);
+    const body = await res.text();
+    if (!res.ok) return { ok: false, reason: `HTTP ${res.status}` };
+    return { ok: true, body };
+  } catch (e) { return { ok: false, reason: `fetch error: ${e.message}` }; }
+}
+
+// --- optimize: layers, scoring, and the AEM autofix registry --------------------
+export const ALL_LAYERS = ['brand-tensions', 'design-ux', 'accessibility', 'seo', 'content-conversion', 'ai-search', 'cross-page'];
+export const ASSESSED_BY_BASELINE = ['accessibility', 'seo', 'ai-search', 'cross-page'];
+export const SEV_WEIGHT = { P1: 25, P2: 10, P3: 4 };
+
+
+/**
+ * AEM autofix registry: maps a finding's `check` to the EDS fixer that resolves it.
+ * kind: 'deterministic' (mechanical edit) | 'content-draft' (generates copy needing
+ * review — applied under the aggressive policy, logged) | 'manual' (autofix prepares
+ * a payload/guidance but a human applies it). target is aem-eds for v1.
+ */
+export const AEM_AUTOFIX = {
+  'title-missing': { strategy: 'eds-metadata-title', kind: 'content-draft' },
+  'title-length': { strategy: 'eds-metadata-title', kind: 'content-draft' },
+  'meta-description': { strategy: 'eds-metadata-description', kind: 'content-draft' },
+  'single-h1': { strategy: 'eds-fix-h1', kind: 'deterministic' },
+  'img-alt': { strategy: 'eds-alt-draft', kind: 'content-draft' },
+  'duplicate-title': { strategy: 'eds-disambiguate-title', kind: 'content-draft' },
+  'sitemap': { strategy: 'rollout-assemble', kind: 'deterministic' },
+  'jsonld': { strategy: 'eds-jsonld', kind: 'manual' },
+  'canonical': { strategy: 'eds-canonical', kind: 'manual' },
+  'landmark-main': { strategy: 'eds-landmark-main', kind: 'manual' },
+};
+
+/** The autofix descriptor for a finding (check), or an unavailable stub. */
+export function autofixFor(check) {
+  const a = AEM_AUTOFIX[check];
+  if (!a) return { available: false, target: 'aem-eds', strategy: null, kind: null, status: 'unavailable', appliedBy: null, at: null, detail: null };
+  return { available: true, target: 'aem-eds', strategy: a.strategy, kind: a.kind, status: 'pending', appliedBy: null, at: null, detail: null };
+}
+
+// --- optimize: source parity ---------------------------------------------------
+/**
+ * A finding whose condition the SOURCE capture shares — the same <title>, no meta description on
+ * the source either, no JSON-LD on the source either, the same title shared by the same pages —
+ * mirrors the source rather than a delivery defect. A recorded hands-off run accepted 63 such
+ * findings by hand. They stay in the ledger (listed in their own report section) but are
+ * informational: never scored, never counted open, never auto-fixed (a faithful migration is not
+ * rewritten). The findings schema has no parity property, so the tag is `fixability:
+ * out-of-scope` (the schema's own "informational" value) plus this evidence prefix; both are read.
+ */
+export const SOURCE_PARITY_PREFIX = 'source parity: ';
+export const isSourceParity = (f) => !!(f && f.fixability === 'out-of-scope' && typeof f.evidence === 'string' && f.evidence.startsWith(SOURCE_PARITY_PREFIX));
+
+/**
+ * An open finding that keeps a page from "optimised": open or in progress and not source parity — exactly the
+ * findings optimize scores and gates on (isSourceParity: `out-of-scope` with the `source parity: ` evidence). Pure.
+ */
+export const blocksOptimised = (f) => !!f && (f.status === 'open' || f.status === 'in-progress') && !isSourceParity(f);
+
+/**
+ * The verdict a gate-all row carries for update-coverage --gate: true / false, or null for NO verdict — a row
+ * whose pixel step errored (`error`, no percentage: a capture that never happened, an unstable reference) and
+ * whose other criteria (clip, content, units — probed independently of the capture) measured no failure. A
+ * measured failure beside a capture error is still false; an override still decides. Pure.
+ */
+export function gateRowVerdict(r) {
+  if (!r) return null;
+  if (r.pass || ('passWithOverride' in r ? r.passWithOverride : r.override)) return true;
+  if (r.error && (r.pct === null || r.pct === undefined)) {
+    const measured = Array.isArray(r.failing) ? r.failing.some((c) => c !== 'capture') : [r.clipPass, r.contentPass, r.unitPass].includes(false);
+    return measured ? false : null;
+  }
+  return false;
+}
+
+/** True when a page's `gate: …` failure text names only capture errors (no measured criterion). Pure. */
+export const gateFailureIsCaptureErrorOnly = (error) => {
+  const m = /^gate: (.*)$/s.exec(error || '');
+  if (!m) return false;
+  const parts = m[1].split(/;\s*/).filter(Boolean);
+  return parts.length > 0 && parts.every((p) => /pixel error|missing capture|reference-unstable/i.test(p));
+};
+
+/** Tag a detected finding as mirroring the source (`why` names the shared condition). */
+export function markSourceParity(finding, why) {
+  return {
+    ...finding,
+    fixability: 'out-of-scope',
+    evidence: `${SOURCE_PARITY_PREFIX}${finding.evidence} — ${why}`,
+    recommendedMove: 'Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.',
+    autofix: { available: false, target: 'aem-eds', strategy: null, kind: null, status: 'unavailable', appliedBy: null, at: null, detail: 'source parity — a faithful migration is not auto-rewritten' },
+  };
+}
+
+/** Open source-parity findings by severity (the report's own section; never in the score). */
+export function sourceParityCounts(findings) {
+  const rows = findings.filter((x) => (x.status === 'open' || x.status === 'in-progress') && isSourceParity(x));
+  const sev = (s) => rows.filter((x) => x.severity === s).length;
+  return { total: rows.length, P1: sev('P1'), P2: sev('P2'), P3: sev('P3') };
+}
+
+/**
+ * Compute a scorecard snapshot from the full findings list. Open source-parity findings are
+ * excluded from every dimension score and from the open P1/P2/P3 counts (they still mark their
+ * layer as assessed); `fixed` counts are untouched.
+ */
+export function computeScorecard(findings, runId, now) {
+  const open = findings.filter((x) => (x.status === 'open' || x.status === 'in-progress') && !isSourceParity(x));
+  const fixed = findings.filter((x) => x.status === 'fixed');
+  const assessed = new Set();
+  for (const f of findings) assessed.add(f.layer);
+  const dimensions = {};
+  for (const layer of ALL_LAYERS) {
+    if (!assessed.has(layer)) { dimensions[layer] = null; continue; }
+    const penalty = open.filter((x) => x.layer === layer).reduce((n, x) => n + (SEV_WEIGHT[x.severity] || 0), 0);
+    dimensions[layer] = Math.max(0, 100 - penalty);
+  }
+  const scored = ALL_LAYERS.map((l) => dimensions[l]).filter((v) => v !== null);
+  const overall = scored.length ? Math.round(scored.reduce((a, b) => a + b, 0) / scored.length) : null;
+  const sev = (arr, s) => arr.filter((x) => x.severity === s).length;
+  return {
+    runId, at: now, overall, dimensions,
+    severity: { P1: sev(open, 'P1'), P2: sev(open, 'P2'), P3: sev(open, 'P3') },
+    fixed: { P1: sev(fixed, 'P1'), P2: sev(fixed, 'P2'), P3: sev(fixed, 'P3') },
+  };
+}
+
+/** The roster against the site: { pages, discovered, capped } from state.json's site block (extract writes
+ * totalDiscovered and pageCap), or null when the site was never counted. */
+export function scopeOf(pages, site) {
+  const discovered = site && Number.isFinite(site.totalDiscovered) ? site.totalDiscovered : null;
+  if (discovered === null) return null;
+  return { pages, discovered, capped: discovered > pages, pageCap: site.pageCap ?? null };
+}
+
+/** One report line: "94 of 2532 discovered pages in scope — …" (says so loudly when the roster is a subset). */
+export function scopeLine(scope) {
+  if (!scope.capped) return `${scope.pages} of ${scope.discovered} discovered pages in scope — the whole site`;
+  return `${scope.pages} of ${scope.discovered} discovered pages in scope — a SUBSET: the other ${scope.discovered - scope.pages} are not delivered by this rollout (capped roster, decided-out or app-routed — direction.md names which); widen the roster to deliver them`;
+}

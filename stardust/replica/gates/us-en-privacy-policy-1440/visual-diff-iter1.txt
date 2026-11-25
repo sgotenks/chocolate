@@ -1,0 +1,431 @@
+[live-session] waiting to pace live navigations to www.wonka.com (1000 ms apart, 2 max parallel; STARDUST_LIVE_PACE_MS / STARDUST_LIVE_MAX_PARALLEL; 0 disables either) — first wait 817 ms
+
+Visual diff @ 1440px (profile "generic") — screenshots in stardust/replica/gates/us-en-privacy-policy-1440/vdiff-iter1/
+
+build red flags (advisory): none
+
+Full metrics JSON (compare source vs build: heading colors, eyebrow colors, image dims, full-bleed):
+{
+ "source": {
+  "viewport": 1440,
+  "blankRender": false,
+  "mainHeight": 1088,
+  "textLen": 1546,
+  "images": [
+   {
+    "src": "decorative-star.svg",
+    "natural": "24x24",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "social-instagram.svg",
+    "natural": "20x20",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "social-tiktok.svg",
+    "natural": "20x20",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "decorative-star.svg",
+    "natural": "24x24",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "wonka-logo.svg",
+    "natural": "146x83",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "wonka-logo.svg",
+    "natural": "146x83",
+    "rendered": "70x40",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "wonka-logo.svg",
+    "natural": "146x83",
+    "rendered": "141x80",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "social-instagram.svg",
+    "natural": "20x20",
+    "rendered": "20x20",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "social-tiktok.svg",
+    "natural": "20x20",
+    "rendered": "20x20",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "Wonka_logo.png",
+    "natural": "350x109",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "powered_by_logo.svg",
+    "natural": "568x53",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   }
+  ],
+  "headings": [
+   {
+    "tag": "h1",
+    "text": "Privacy policy",
+    "color": "rgba(0, 0, 0, 0)",
+    "fontSize": "42px",
+    "family": "Work Sans",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h1",
+    "text": "1. Collection of Information Fro",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "16px",
+    "family": "Inter",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h1",
+    "text": "2. Sources of Your Information.",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "16px",
+    "family": "Inter",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h1",
+    "text": "3. Use of Your information",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "16px",
+    "family": "Inter",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h1",
+    "text": "4. Sharing Your Information with",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "16px",
+    "family": "Inter",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h1",
+    "text": "5. Your Choices and Your Privacy",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "16px",
+    "family": "Inter",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h1",
+    "text": "6. Your California Privacy Right",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "16px",
+    "family": "Inter",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h1",
+    "text": "7. Links to Other Sites.",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "16px",
+    "family": "Inter",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h1",
+    "text": "8. Protection of Children’s Priv",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "16px",
+    "family": "Inter",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h1",
+    "text": "9. Security Practices.",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "16px",
+    "family": "Inter",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h1",
+    "text": "10. Retention Period.",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "16px",
+    "family": "Inter",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h1",
+    "text": "11. Jurisdiction.",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "16px",
+    "family": "Inter",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h1",
+    "text": "12. Changes and Updates to our P",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "16px",
+    "family": "Inter",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h1",
+    "text": "13. Contact Information.",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "16px",
+    "family": "Inter",
+    "fontLoaded": true
+   }
+  ],
+  "eyebrows": [],
+  "flushText": [],
+  "contentBoxes": [
+   {
+    "sel": "legal-page",
+    "width": 1440,
+    "left": 0
+   }
+  ]
+ },
+ "build": {
+  "viewport": 1440,
+  "blankRender": false,
+  "mainHeight": 1088,
+  "textLen": 1543,
+  "images": [
+   {
+    "src": "decorative-star.svg",
+    "natural": "24x24",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "social-instagram.svg",
+    "natural": "20x20",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "social-tiktok.svg",
+    "natural": "20x20",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "decorative-star.svg",
+    "natural": "24x24",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "wonka-logo.svg",
+    "natural": "146x83",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "wonka-logo.svg",
+    "natural": "146x83",
+    "rendered": "70x40",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "wonka-logo.svg",
+    "natural": "146x83",
+    "rendered": "141x80",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "social-instagram.svg",
+    "natural": "20x20",
+    "rendered": "20x20",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "social-tiktok.svg",
+    "natural": "20x20",
+    "rendered": "20x20",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   }
+  ],
+  "headings": [
+   {
+    "tag": "h1",
+    "text": "Privacy policy",
+    "color": "rgba(0, 0, 0, 0)",
+    "fontSize": "42px",
+    "family": "Work Sans",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "1. Collection of Information Fro",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "16px",
+    "family": "Inter",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "2. Sources of Your Information.",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "16px",
+    "family": "Inter",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "3. Use of Your information",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "16px",
+    "family": "Inter",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "4. Sharing Your Information with",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "16px",
+    "family": "Inter",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "5. Your Choices and Your Privacy",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "16px",
+    "family": "Inter",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "6. Your California Privacy Right",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "16px",
+    "family": "Inter",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "7. Links to Other Sites.",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "16px",
+    "family": "Inter",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "8. Protection of Children’s Priv",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "16px",
+    "family": "Inter",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "9. Security Practices.",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "16px",
+    "family": "Inter",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "10. Retention Period.",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "16px",
+    "family": "Inter",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "11. Jurisdiction.",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "16px",
+    "family": "Inter",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "12. Changes and Updates to our P",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "16px",
+    "family": "Inter",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "13. Contact Information.",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "16px",
+    "family": "Inter",
+    "fontLoaded": true
+   }
+  ],
+  "eyebrows": [],
+  "flushText": [],
+  "contentBoxes": [
+   {
+    "sel": "legal-page__container",
+    "width": 1268,
+    "left": 86
+   }
+  ]
+ }
+}

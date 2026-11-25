@@ -1,0 +1,1947 @@
+{
+ "_provenance": {
+  "writtenBy": "unit-geometry.mjs",
+  "at": "2026-11-25T11:14:41.239Z",
+  "tol": 4,
+  "n": 7,
+  "width": 360,
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://www.wonka.com/us/en/about-wonka",
+  "at": "2026-11-25T11:12:27.129Z",
+  "docH": 5368
+ },
+ "eds": {
+  "url": "http://localhost:8791/us-en-about-wonka-proposed.html",
+  "at": "2026-11-25T11:14:41.177Z",
+  "docH": 5367
+ },
+ "results": [
+  {
+   "sel": "section.story-cards ul > li=.scards__list > li",
+   "family": "story-cards",
+   "required": true,
+   "originMatches": 3,
+   "edsMatches": 3,
+   "units": [
+    {
+     "index": 0,
+     "origin": {
+      "path": "div.section-container.section-container--lg > ul.m-0.flex > li.relative.flex"
+     },
+     "eds": {
+      "path": "div.container.container--lg > ul.scards__list > li.scard"
+     },
+     "rows": [
+      {
+       "key": "image:img.pointer-events-none.absolute#1",
+       "role": "image",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 59,
+        "y": -4,
+        "w": 195,
+        "h": 175
+       },
+       "eds": {
+        "x": 59,
+        "y": -4,
+        "w": 195,
+        "h": 175,
+        "sel": "img.scard__seal-stars",
+        "role": "image"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      },
+      {
+       "key": "box:div.pointer-events-none.absolute#1",
+       "role": "box",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 114,
+        "y": 0,
+        "w": 100,
+        "h": 100
+       },
+       "eds": {
+        "x": 114,
+        "y": 0,
+        "w": 100,
+        "h": 100,
+        "sel": "div.scard__seal",
+        "role": "box"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      },
+      {
+       "key": "image:img.absolute.inset-0#1",
+       "role": "image",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 114,
+        "y": 0,
+        "w": 100,
+        "h": 100
+       },
+       "eds": {
+        "x": 114,
+        "y": 0,
+        "w": 100,
+        "h": 100,
+        "sel": "img.scard__seal-bg",
+        "role": "image"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      },
+      {
+       "key": "image:neon purple icon featuring willy wonka's",
+       "role": "image",
+       "text": "neon purple icon featuring willy wonka's top hat and a lolli",
+       "edsText": "neon purple icon featuring willy wonka's top hat and a lolli",
+       "byPosition": false,
+       "origin": {
+        "x": 128,
+        "y": 14,
+        "w": 72,
+        "h": 72
+       },
+       "eds": {
+        "x": 128,
+        "y": 14,
+        "w": 72,
+        "h": 72,
+        "sel": "img.scard__icon",
+        "role": "image"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      },
+      {
+       "key": "box:div.blurred-button-noise.relative#1",
+       "role": "box",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 50,
+        "w": 328,
+        "h": 186
+       },
+       "eds": {
+        "x": 0,
+        "y": 50,
+        "w": 328,
+        "h": 186,
+        "sel": "div.scard__card",
+        "role": "box"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      },
+      {
+       "key": "image:img.h-auto.w-full#1",
+       "role": "image",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 102,
+        "y": 91,
+        "w": 306,
+        "h": 259
+       },
+       "eds": {
+        "x": 102,
+        "y": 91,
+        "w": 306,
+        "h": 259,
+        "sel": "img",
+        "role": "image"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      },
+      {
+       "key": "text:wonka turns the ordinary into the extrao",
+       "role": "text",
+       "text": "wonka turns the ordinary into the extraordinary through inve",
+       "edsText": "wonka turns the ordinary into the extraordinary through inve",
+       "byPosition": false,
+       "origin": {
+        "x": 25,
+        "y": 115,
+        "w": 278,
+        "h": 96
+       },
+       "eds": {
+        "x": 25,
+        "y": 115,
+        "w": 278,
+        "h": 96,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 16,
+       "y": 1172,
+       "w": 328,
+       "h": 236
+      },
+      "eds": {
+       "x": 16,
+       "y": 1172,
+       "w": 328,
+       "h": 236
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 7,
+      "within": 7,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 1,
+     "origin": {
+      "path": "div.section-container.section-container--lg > ul.m-0.flex > li.relative.flex"
+     },
+     "eds": {
+      "path": "div.container.container--lg > ul.scards__list > li.scard"
+     },
+     "rows": [
+      {
+       "key": "image:img.pointer-events-none.absolute#1",
+       "role": "image",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 59,
+        "y": -4,
+        "w": 195,
+        "h": 175
+       },
+       "eds": {
+        "x": 59,
+        "y": -4,
+        "w": 195,
+        "h": 175,
+        "sel": "img.scard__seal-stars",
+        "role": "image"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      },
+      {
+       "key": "box:div.pointer-events-none.absolute#1",
+       "role": "box",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 114,
+        "y": 0,
+        "w": 100,
+        "h": 100
+       },
+       "eds": {
+        "x": 114,
+        "y": 0,
+        "w": 100,
+        "h": 100,
+        "sel": "div.scard__seal",
+        "role": "box"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      },
+      {
+       "key": "image:img.absolute.inset-0#1",
+       "role": "image",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 114,
+        "y": 0,
+        "w": 100,
+        "h": 100
+       },
+       "eds": {
+        "x": 114,
+        "y": 0,
+        "w": 100,
+        "h": 100,
+        "sel": "img.scard__seal-bg",
+        "role": "image"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      },
+      {
+       "key": "image:neon purple icon showing a chocolate bar",
+       "role": "image",
+       "text": "neon purple icon showing a chocolate bar mold crossed with a",
+       "edsText": "neon purple icon showing a chocolate bar mold crossed with a",
+       "byPosition": false,
+       "origin": {
+        "x": 128,
+        "y": 14,
+        "w": 72,
+        "h": 72
+       },
+       "eds": {
+        "x": 128,
+        "y": 14,
+        "w": 72,
+        "h": 72,
+        "sel": "img.scard__icon",
+        "role": "image"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      },
+      {
+       "key": "box:div.blurred-button-noise.relative#1",
+       "role": "box",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 50,
+        "w": 328,
+        "h": 210
+       },
+       "eds": {
+        "x": 0,
+        "y": 50,
+        "w": 328,
+        "h": 210,
+        "sel": "div.scard__card",
+        "role": "box"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      },
+      {
+       "key": "text:every wonka product is made to spark cur",
+       "role": "text",
+       "text": "every wonka product is made to spark curiosity and delight, ",
+       "edsText": "every wonka product is made to spark curiosity and delight, ",
+       "byPosition": false,
+       "origin": {
+        "x": 25,
+        "y": 115,
+        "w": 278,
+        "h": 120
+       },
+       "eds": {
+        "x": 25,
+        "y": 115,
+        "w": 278,
+        "h": 120,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 16,
+       "y": 1440,
+       "w": 328,
+       "h": 260
+      },
+      "eds": {
+       "x": 16,
+       "y": 1440,
+       "w": 328,
+       "h": 260
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 6,
+      "within": 6,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 2,
+     "origin": {
+      "path": "div.section-container.section-container--lg > ul.m-0.flex > li.relative.flex"
+     },
+     "eds": {
+      "path": "div.container.container--lg > ul.scards__list > li.scard"
+     },
+     "rows": [
+      {
+       "key": "image:img.h-auto.w-full#1",
+       "role": "image",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": -96,
+        "y": -97,
+        "w": 337,
+        "h": 303
+       },
+       "eds": {
+        "x": -96,
+        "y": -97,
+        "w": 337,
+        "h": 303,
+        "sel": "img",
+        "role": "image"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      },
+      {
+       "key": "image:img.pointer-events-none.absolute#1",
+       "role": "image",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 59,
+        "y": -4,
+        "w": 195,
+        "h": 175
+       },
+       "eds": {
+        "x": 59,
+        "y": -4,
+        "w": 195,
+        "h": 175,
+        "sel": "img.scard__seal-stars",
+        "role": "image"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      },
+      {
+       "key": "box:div.pointer-events-none.absolute#1",
+       "role": "box",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 114,
+        "y": 0,
+        "w": 100,
+        "h": 100
+       },
+       "eds": {
+        "x": 114,
+        "y": 0,
+        "w": 100,
+        "h": 100,
+        "sel": "div.scard__seal",
+        "role": "box"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      },
+      {
+       "key": "image:img.absolute.inset-0#1",
+       "role": "image",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 114,
+        "y": 0,
+        "w": 100,
+        "h": 100
+       },
+       "eds": {
+        "x": 114,
+        "y": 0,
+        "w": 100,
+        "h": 100,
+        "sel": "img.scard__seal-bg",
+        "role": "image"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      },
+      {
+       "key": "image:neon purple icon of a cocoa pod with lea",
+       "role": "image",
+       "text": "neon purple icon of a cocoa pod with leaves and cocoa beans ",
+       "edsText": "neon purple icon of a cocoa pod with leaves and cocoa beans ",
+       "byPosition": false,
+       "origin": {
+        "x": 128,
+        "y": 14,
+        "w": 72,
+        "h": 72
+       },
+       "eds": {
+        "x": 128,
+        "y": 14,
+        "w": 72,
+        "h": 72,
+        "sel": "img.scard__icon",
+        "role": "image"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      },
+      {
+       "key": "box:div.blurred-button-noise.relative#1",
+       "role": "box",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 50,
+        "w": 328,
+        "h": 210
+       },
+       "eds": {
+        "x": 0,
+        "y": 50,
+        "w": 328,
+        "h": 210,
+        "sel": "div.scard__card",
+        "role": "box"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      },
+      {
+       "key": "text:across fruity gummies, assorted chocolat",
+       "role": "text",
+       "text": "across fruity gummies, assorted chocolates and many more ima",
+       "edsText": "across fruity gummies, assorted chocolates and many more ima",
+       "byPosition": false,
+       "origin": {
+        "x": 25,
+        "y": 115,
+        "w": 278,
+        "h": 120
+       },
+       "eds": {
+        "x": 25,
+        "y": 115,
+        "w": 278,
+        "h": 120,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 16,
+       "y": 1732,
+       "w": 328,
+       "h": 260
+      },
+      "eds": {
+       "x": 16,
+       "y": 1732,
+       "w": 328,
+       "h": 260
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 7,
+      "within": 7,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    }
+   ]
+  },
+  {
+   "sel": "section.accordion li.accordion__item=.faq__list > .faq__item",
+   "family": "faq-accordion",
+   "required": true,
+   "originMatches": 7,
+   "edsMatches": 7,
+   "units": [
+    {
+     "index": 0,
+     "origin": {
+      "path": "div.section-container.section-container--sm > ul.m-0.flex > li.accordion__item.bg-purple-800/70"
+     },
+     "eds": {
+      "path": "div.container.container--sm > ul.faq__list > li.faq__item"
+     },
+     "rows": [
+      {
+       "key": "button:1. when will wonka be on shelves?",
+       "role": "button",
+       "text": "1. when will wonka be on shelves?",
+       "edsText": "1. when will wonka be on shelves?",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 0,
+        "w": 328,
+        "h": 58
+       },
+       "eds": {
+        "x": 0,
+        "y": 0,
+        "w": 328,
+        "h": 58,
+        "sel": "button#faq-1-q",
+        "role": "button"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      },
+      {
+       "key": "text:1. when will wonka be on shelves?",
+       "role": "text",
+       "text": "1. when will wonka be on shelves?",
+       "edsText": "1. when will wonka be on shelves?",
+       "byPosition": false,
+       "origin": {
+        "x": 20,
+        "y": 20,
+        "w": 260,
+        "h": 18
+       },
+       "eds": {
+        "x": 20,
+        "y": 20,
+        "w": 260,
+        "h": 18,
+        "sel": "span.faq__q.gold-text",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "14/18/600",
+        "eds": "14/18/600"
+       }
+      },
+      {
+       "key": "image:img.accordion__icon-bar.accordion__icon-bar--rotating#1",
+       "role": "image",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 301,
+        "y": 23,
+        "w": 2,
+        "h": 12
+       },
+       "eds": {
+        "x": 301,
+        "y": 23,
+        "w": 2,
+        "h": 12,
+        "sel": "img.faq__icon-rot",
+        "role": "image"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      },
+      {
+       "key": "image:img.accordion__icon-bar#1",
+       "role": "image",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 296,
+        "y": 28,
+        "w": 12,
+        "h": 2
+       },
+       "eds": {
+        "x": 296,
+        "y": 28,
+        "w": 12,
+        "h": 2,
+        "sel": "img",
+        "role": "image"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 16,
+       "y": 4119,
+       "w": 328,
+       "h": 58
+      },
+      "eds": {
+       "x": 16,
+       "y": 4119,
+       "w": 328,
+       "h": 58
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 4,
+      "within": 4,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 1,
+     "origin": {
+      "path": "div.section-container.section-container--sm > ul.m-0.flex > li.accordion__item.bg-purple-800/70"
+     },
+     "eds": {
+      "path": "div.container.container--sm > ul.faq__list > li.faq__item"
+     },
+     "rows": [
+      {
+       "key": "button:2. what kind of treats can i expect?",
+       "role": "button",
+       "text": "2. what kind of treats can i expect?",
+       "edsText": "2. what kind of treats can i expect?",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 0,
+        "w": 328,
+        "h": 58
+       },
+       "eds": {
+        "x": 0,
+        "y": 0,
+        "w": 328,
+        "h": 58,
+        "sel": "button#faq-2-q",
+        "role": "button"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      },
+      {
+       "key": "text:2. what kind of treats can i expect?",
+       "role": "text",
+       "text": "2. what kind of treats can i expect?",
+       "edsText": "2. what kind of treats can i expect?",
+       "byPosition": false,
+       "origin": {
+        "x": 20,
+        "y": 20,
+        "w": 260,
+        "h": 18
+       },
+       "eds": {
+        "x": 20,
+        "y": 20,
+        "w": 260,
+        "h": 18,
+        "sel": "span.faq__q.gold-text",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "14/18/600",
+        "eds": "14/18/600"
+       }
+      },
+      {
+       "key": "image:img.accordion__icon-bar.accordion__icon-bar--rotating#1",
+       "role": "image",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 301,
+        "y": 23,
+        "w": 2,
+        "h": 12
+       },
+       "eds": {
+        "x": 301,
+        "y": 23,
+        "w": 2,
+        "h": 12,
+        "sel": "img.faq__icon-rot",
+        "role": "image"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      },
+      {
+       "key": "image:img.accordion__icon-bar#1",
+       "role": "image",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 296,
+        "y": 28,
+        "w": 12,
+        "h": 2
+       },
+       "eds": {
+        "x": 296,
+        "y": 28,
+        "w": 12,
+        "h": 2,
+        "sel": "img",
+        "role": "image"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 16,
+       "y": 4193,
+       "w": 328,
+       "h": 58
+      },
+      "eds": {
+       "x": 16,
+       "y": 4193,
+       "w": 328,
+       "h": 58
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 4,
+      "within": 4,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 2,
+     "origin": {
+      "path": "div.section-container.section-container--sm > ul.m-0.flex > li.accordion__item.bg-purple-800/70"
+     },
+     "eds": {
+      "path": "div.container.container--sm > ul.faq__list > li.faq__item"
+     },
+     "rows": [
+      {
+       "key": "button:3. where can i find wonka products?",
+       "role": "button",
+       "text": "3. where can i find wonka products?",
+       "edsText": "3. where can i find wonka products?",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 0,
+        "w": 328,
+        "h": 58
+       },
+       "eds": {
+        "x": 0,
+        "y": 0,
+        "w": 328,
+        "h": 58,
+        "sel": "button#faq-3-q",
+        "role": "button"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      },
+      {
+       "key": "text:3. where can i find wonka products?",
+       "role": "text",
+       "text": "3. where can i find wonka products?",
+       "edsText": "3. where can i find wonka products?",
+       "byPosition": false,
+       "origin": {
+        "x": 20,
+        "y": 20,
+        "w": 260,
+        "h": 18
+       },
+       "eds": {
+        "x": 20,
+        "y": 20,
+        "w": 260,
+        "h": 18,
+        "sel": "span.faq__q.gold-text",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "14/18/600",
+        "eds": "14/18/600"
+       }
+      },
+      {
+       "key": "image:img.accordion__icon-bar.accordion__icon-bar--rotating#1",
+       "role": "image",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 301,
+        "y": 23,
+        "w": 2,
+        "h": 12
+       },
+       "eds": {
+        "x": 301,
+        "y": 23,
+        "w": 2,
+        "h": 12,
+        "sel": "img.faq__icon-rot",
+        "role": "image"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      },
+      {
+       "key": "image:img.accordion__icon-bar#1",
+       "role": "image",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 296,
+        "y": 28,
+        "w": 12,
+        "h": 2
+       },
+       "eds": {
+        "x": 296,
+        "y": 28,
+        "w": 12,
+        "h": 2,
+        "sel": "img",
+        "role": "image"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 16,
+       "y": 4267,
+       "w": 328,
+       "h": 58
+      },
+      "eds": {
+       "x": 16,
+       "y": 4267,
+       "w": 328,
+       "h": 58
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 4,
+      "within": 4,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 3,
+     "origin": {
+      "path": "div.section-container.section-container--sm > ul.m-0.flex > li.accordion__item.bg-purple-800/70"
+     },
+     "eds": {
+      "path": "div.container.container--sm > ul.faq__list > li.faq__item"
+     },
+     "rows": [
+      {
+       "key": "button:4. is wonka a ferrero brand?",
+       "role": "button",
+       "text": "4. is wonka a ferrero brand?",
+       "edsText": "4. is wonka a ferrero brand?",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 0,
+        "w": 328,
+        "h": 58
+       },
+       "eds": {
+        "x": 0,
+        "y": 0,
+        "w": 328,
+        "h": 58,
+        "sel": "button#faq-4-q",
+        "role": "button"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      },
+      {
+       "key": "text:4. is wonka a ferrero brand?",
+       "role": "text",
+       "text": "4. is wonka a ferrero brand?",
+       "edsText": "4. is wonka a ferrero brand?",
+       "byPosition": false,
+       "origin": {
+        "x": 20,
+        "y": 20,
+        "w": 260,
+        "h": 18
+       },
+       "eds": {
+        "x": 20,
+        "y": 20,
+        "w": 260,
+        "h": 18,
+        "sel": "span.faq__q.gold-text",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "14/18/600",
+        "eds": "14/18/600"
+       }
+      },
+      {
+       "key": "image:img.accordion__icon-bar.accordion__icon-bar--rotating#1",
+       "role": "image",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 301,
+        "y": 23,
+        "w": 2,
+        "h": 12
+       },
+       "eds": {
+        "x": 301,
+        "y": 23,
+        "w": 2,
+        "h": 12,
+        "sel": "img.faq__icon-rot",
+        "role": "image"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      },
+      {
+       "key": "image:img.accordion__icon-bar#1",
+       "role": "image",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 296,
+        "y": 28,
+        "w": 12,
+        "h": 2
+       },
+       "eds": {
+        "x": 296,
+        "y": 28,
+        "w": 12,
+        "h": 2,
+        "sel": "img",
+        "role": "image"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 16,
+       "y": 4341,
+       "w": 328,
+       "h": 58
+      },
+      "eds": {
+       "x": 16,
+       "y": 4341,
+       "w": 328,
+       "h": 58
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 4,
+      "within": 4,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 4,
+     "origin": {
+      "path": "div.section-container.section-container--sm > ul.m-0.flex > li.accordion__item.bg-purple-800/70"
+     },
+     "eds": {
+      "path": "div.container.container--sm > ul.faq__list > li.faq__item"
+     },
+     "rows": [
+      {
+       "key": "button:5. is this connected to the new netflix ",
+       "role": "button",
+       "text": "5. is this connected to the new netflix film and series?",
+       "edsText": "5. is this connected to the new netflix film and series?",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 0,
+        "w": 328,
+        "h": 76
+       },
+       "eds": {
+        "x": 0,
+        "y": 0,
+        "w": 328,
+        "h": 76,
+        "sel": "button#faq-5-q",
+        "role": "button"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      },
+      {
+       "key": "text:5. is this connected to the new netflix ",
+       "role": "text",
+       "text": "5. is this connected to the new netflix film and series?",
+       "edsText": "5. is this connected to the new netflix film and series?",
+       "byPosition": false,
+       "origin": {
+        "x": 20,
+        "y": 20,
+        "w": 260,
+        "h": 36
+       },
+       "eds": {
+        "x": 20,
+        "y": 20,
+        "w": 260,
+        "h": 36,
+        "sel": "span.faq__q.gold-text",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "14/18/600",
+        "eds": "14/18/600"
+       }
+      },
+      {
+       "key": "image:img.accordion__icon-bar.accordion__icon-bar--rotating#1",
+       "role": "image",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 301,
+        "y": 32,
+        "w": 2,
+        "h": 12
+       },
+       "eds": {
+        "x": 301,
+        "y": 32,
+        "w": 2,
+        "h": 12,
+        "sel": "img.faq__icon-rot",
+        "role": "image"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      },
+      {
+       "key": "image:img.accordion__icon-bar#1",
+       "role": "image",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 296,
+        "y": 37,
+        "w": 12,
+        "h": 2
+       },
+       "eds": {
+        "x": 296,
+        "y": 37,
+        "w": 12,
+        "h": 2,
+        "sel": "img",
+        "role": "image"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 16,
+       "y": 4415,
+       "w": 328,
+       "h": 76
+      },
+      "eds": {
+       "x": 16,
+       "y": 4415,
+       "w": 328,
+       "h": 76
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 4,
+      "within": 4,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 5,
+     "origin": {
+      "path": "div.section-container.section-container--sm > ul.m-0.flex > li.accordion__item.bg-purple-800/70"
+     },
+     "eds": {
+      "path": "div.container.container--sm > ul.faq__list > li.faq__item"
+     },
+     "rows": [
+      {
+       "key": "button:6. who are these products for?",
+       "role": "button",
+       "text": "6. who are these products for?",
+       "edsText": "6. who are these products for?",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 0,
+        "w": 328,
+        "h": 58
+       },
+       "eds": {
+        "x": 0,
+        "y": 0,
+        "w": 328,
+        "h": 58,
+        "sel": "button#faq-6-q",
+        "role": "button"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      },
+      {
+       "key": "text:6. who are these products for?",
+       "role": "text",
+       "text": "6. who are these products for?",
+       "edsText": "6. who are these products for?",
+       "byPosition": false,
+       "origin": {
+        "x": 20,
+        "y": 20,
+        "w": 260,
+        "h": 18
+       },
+       "eds": {
+        "x": 20,
+        "y": 20,
+        "w": 260,
+        "h": 18,
+        "sel": "span.faq__q.gold-text",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "14/18/600",
+        "eds": "14/18/600"
+       }
+      },
+      {
+       "key": "image:img.accordion__icon-bar.accordion__icon-bar--rotating#1",
+       "role": "image",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 301,
+        "y": 23,
+        "w": 2,
+        "h": 12
+       },
+       "eds": {
+        "x": 301,
+        "y": 23,
+        "w": 2,
+        "h": 12,
+        "sel": "img.faq__icon-rot",
+        "role": "image"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      },
+      {
+       "key": "image:img.accordion__icon-bar#1",
+       "role": "image",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 296,
+        "y": 28,
+        "w": 12,
+        "h": 2
+       },
+       "eds": {
+        "x": 296,
+        "y": 28,
+        "w": 12,
+        "h": 2,
+        "sel": "img",
+        "role": "image"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 16,
+       "y": 4507,
+       "w": 328,
+       "h": 58
+      },
+      "eds": {
+       "x": 16,
+       "y": 4507,
+       "w": 328,
+       "h": 58
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 4,
+      "within": 4,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 6,
+     "origin": {
+      "path": "div.section-container.section-container--sm > ul.m-0.flex > li.accordion__item.bg-purple-800/70"
+     },
+     "eds": {
+      "path": "div.container.container--sm > ul.faq__list > li.faq__item"
+     },
+     "rows": [
+      {
+       "key": "button:7. where are wonka products made?",
+       "role": "button",
+       "text": "7. where are wonka products made?",
+       "edsText": "7. where are wonka products made?",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 0,
+        "w": 328,
+        "h": 58
+       },
+       "eds": {
+        "x": 0,
+        "y": 0,
+        "w": 328,
+        "h": 58,
+        "sel": "button#faq-7-q",
+        "role": "button"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      },
+      {
+       "key": "text:7. where are wonka products made?",
+       "role": "text",
+       "text": "7. where are wonka products made?",
+       "edsText": "7. where are wonka products made?",
+       "byPosition": false,
+       "origin": {
+        "x": 20,
+        "y": 20,
+        "w": 260,
+        "h": 18
+       },
+       "eds": {
+        "x": 20,
+        "y": 20,
+        "w": 260,
+        "h": 18,
+        "sel": "span.faq__q.gold-text",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "14/18/600",
+        "eds": "14/18/600"
+       }
+      },
+      {
+       "key": "image:img.accordion__icon-bar.accordion__icon-bar--rotating#1",
+       "role": "image",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 301,
+        "y": 23,
+        "w": 2,
+        "h": 12
+       },
+       "eds": {
+        "x": 301,
+        "y": 23,
+        "w": 2,
+        "h": 12,
+        "sel": "img.faq__icon-rot",
+        "role": "image"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      },
+      {
+       "key": "image:img.accordion__icon-bar#1",
+       "role": "image",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 296,
+        "y": 28,
+        "w": 12,
+        "h": 2
+       },
+       "eds": {
+        "x": 296,
+        "y": 28,
+        "w": 12,
+        "h": 2,
+        "sel": "img",
+        "role": "image"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 16,
+       "y": 4581,
+       "w": 328,
+       "h": 58
+      },
+      "eds": {
+       "x": 16,
+       "y": 4581,
+       "w": 328,
+       "h": 58
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 4,
+      "within": 4,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    }
+   ]
+  }
+ ],
+ "verdict": {
+  "units": 10,
+  "within": 48,
+  "off": 0,
+  "hidden": 0,
+  "missing": 0,
+  "errors": 0,
+  "requiredOff": 0
+ }
+}

@@ -1,0 +1,69 @@
+[live-session] waiting to pace live navigations to www.wonka.com (1000 ms apart, 2 max parallel; STARDUST_LIVE_PACE_MS / STARDUST_LIVE_MAX_PARALLEL; 0 disables either) — first wait 100 ms
+unit-geometry @ 360px, tol 4px — https://www.wonka.com/us/en/privacy-policy vs http://localhost:8791/us-en-privacy-policy-proposed.html
+unit 1 of legal-accordion (required) .otnotice-section-content > .ot-notice-layer-break-container=.legal-body > .legal-acc: origin 32,988 296×54 vs served 32,988 296×54 → Δx 0 Δy 0 Δw 0 Δh 0; 1 elements: 1 within 4px, 0 off, 0 hidden, 0 missing, 1 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| text "1. collection of information from an" | 0,0 296×54 | 0,0 296×54 (heading) | 0 | 0 | 0 | 0 | ✓ |
+| button "1. collection of information from an" | — | 0,0 296×54 | | | | | 🟡 extra |
+unit 2 of legal-accordion (required) .otnotice-section-content > .ot-notice-layer-break-container=.legal-body > .legal-acc: origin 32,1042 296×30 vs served 32,1042 296×30 → Δx 0 Δy 0 Δw 0 Δh 0; 1 elements: 1 within 4px, 0 off, 0 hidden, 0 missing, 1 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| text "2. sources of your information." | 0,0 296×30 | 0,0 296×30 (heading) | 0 | 0 | 0 | 0 | ✓ |
+| button "2. sources of your information." | — | 0,0 296×30 | | | | | 🟡 extra |
+unit 3 of legal-accordion (required) .otnotice-section-content > .ot-notice-layer-break-container=.legal-body > .legal-acc: origin 32,1072 296×30 vs served 32,1072 296×30 → Δx 0 Δy 0 Δw 0 Δh 0; 1 elements: 1 within 4px, 0 off, 0 hidden, 0 missing, 1 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| text "3. use of your information" | 0,0 296×30 | 0,0 296×30 (heading) | 0 | 0 | 0 | 0 | ✓ |
+| button "3. use of your information" | — | 0,0 296×30 | | | | | 🟡 extra |
+unit 4 of legal-accordion (required) .otnotice-section-content > .ot-notice-layer-break-container=.legal-body > .legal-acc: origin 32,1102 296×54 vs served 32,1102 296×54 → Δx 0 Δy 0 Δw 0 Δh 0; 1 elements: 1 within 4px, 0 off, 0 hidden, 0 missing, 1 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| text "4. sharing your information with oth" | 0,0 296×54 | 0,0 296×54 (heading) | 0 | 0 | 0 | 0 | ✓ |
+| button "4. sharing your information with oth" | — | 0,0 296×54 | | | | | 🟡 extra |
+unit 5 of legal-accordion (required) .otnotice-section-content > .ot-notice-layer-break-container=.legal-body > .legal-acc: origin 32,1156 296×54 vs served 32,1156 296×54 → Δx 0 Δy 0 Δw 0 Δh 0; 1 elements: 1 within 4px, 0 off, 0 hidden, 0 missing, 1 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| text "5. your choices and your privacy rig" | 0,0 296×54 | 0,0 296×54 (heading) | 0 | 0 | 0 | 0 | ✓ |
+| button "5. your choices and your privacy rig" | — | 0,0 296×54 | | | | | 🟡 extra |
+unit 6 of legal-accordion (required) .otnotice-section-content > .ot-notice-layer-break-container=.legal-body > .legal-acc: origin 32,1210 296×30 vs served 32,1210 296×30 → Δx 0 Δy 0 Δw 0 Δh 0; 1 elements: 1 within 4px, 0 off, 0 hidden, 0 missing, 1 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| text "6. your california privacy rights" | 0,0 296×30 | 0,0 296×30 (heading) | 0 | 0 | 0 | 0 | ✓ |
+| button "6. your california privacy rights" | — | 0,0 296×30 | | | | | 🟡 extra |
+unit 7 of legal-accordion (required) .otnotice-section-content > .ot-notice-layer-break-container=.legal-body > .legal-acc: origin 32,1240 296×30 vs served 32,1240 296×30 → Δx 0 Δy 0 Δw 0 Δh 0; 1 elements: 1 within 4px, 0 off, 0 hidden, 0 missing, 1 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| text "7. links to other sites." | 0,0 296×30 | 0,0 296×30 (heading) | 0 | 0 | 0 | 0 | ✓ |
+| button "7. links to other sites." | — | 0,0 296×30 | | | | | 🟡 extra |
+unit 8 of legal-accordion (required) .otnotice-section-content > .ot-notice-layer-break-container=.legal-body > .legal-acc: origin 32,1270 296×30 vs served 32,1270 296×30 → Δx 0 Δy 0 Δw 0 Δh 0; 1 elements: 1 within 4px, 0 off, 0 hidden, 0 missing, 1 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| text "8. protection of children’s privacy." | 0,0 296×30 | 0,0 296×30 (heading) | 0 | 0 | 0 | 0 | ✓ |
+| button "8. protection of children’s privacy." | — | 0,0 296×30 | | | | | 🟡 extra |
+unit 9 of legal-accordion (required) .otnotice-section-content > .ot-notice-layer-break-container=.legal-body > .legal-acc: origin 32,1300 296×30 vs served 32,1300 296×30 → Δx 0 Δy 0 Δw 0 Δh 0; 1 elements: 1 within 4px, 0 off, 0 hidden, 0 missing, 1 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| text "9. security practices." | 0,0 296×30 | 0,0 296×30 (heading) | 0 | 0 | 0 | 0 | ✓ |
+| button "9. security practices." | — | 0,0 296×30 | | | | | 🟡 extra |
+unit 10 of legal-accordion (required) .otnotice-section-content > .ot-notice-layer-break-container=.legal-body > .legal-acc: origin 32,1330 296×30 vs served 32,1330 296×30 → Δx 0 Δy 0 Δw 0 Δh 0; 1 elements: 1 within 4px, 0 off, 0 hidden, 0 missing, 1 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| text "10. retention period." | 0,0 296×30 | 0,0 296×30 (heading) | 0 | 0 | 0 | 0 | ✓ |
+| button "10. retention period." | — | 0,0 296×30 | | | | | 🟡 extra |
+unit 11 of legal-accordion (required) .otnotice-section-content > .ot-notice-layer-break-container=.legal-body > .legal-acc: origin 32,1360 296×30 vs served 32,1360 296×30 → Δx 0 Δy 0 Δw 0 Δh 0; 1 elements: 1 within 4px, 0 off, 0 hidden, 0 missing, 1 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| text "11. jurisdiction." | 0,0 296×30 | 0,0 296×30 (heading) | 0 | 0 | 0 | 0 | ✓ |
+| button "11. jurisdiction." | — | 0,0 296×30 | | | | | 🟡 extra |
+unit 12 of legal-accordion (required) .otnotice-section-content > .ot-notice-layer-break-container=.legal-body > .legal-acc: origin 32,1390 296×54 vs served 32,1390 296×54 → Δx 0 Δy 0 Δw 0 Δh 0; 1 elements: 1 within 4px, 0 off, 0 hidden, 0 missing, 1 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| text "12. changes and updates to our priva" | 0,0 296×54 | 0,0 296×54 (heading) | 0 | 0 | 0 | 0 | ✓ |
+| button "12. changes and updates to our priva" | — | 0,0 296×54 | | | | | 🟡 extra |
+unit 13 of legal-accordion (required) .otnotice-section-content > .ot-notice-layer-break-container=.legal-body > .legal-acc: origin 32,1444 296×30 vs served 32,1444 296×30 → Δx 0 Δy 0 Δw 0 Δh 0; 1 elements: 1 within 4px, 0 off, 0 hidden, 0 missing, 1 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| text "13. contact information." | 0,0 296×30 | 0,0 296×30 (heading) | 0 | 0 | 0 | 0 | ✓ |
+| button "13. contact information." | — | 0,0 296×30 | | | | | 🟡 extra |
+Units: 13 compared; elements within 13, off 0, hidden 0, missing 0 → PASS
+json → stardust/replica/gates/us-en-privacy-policy-360/units-iter1.json

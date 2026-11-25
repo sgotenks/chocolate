@@ -1,0 +1,1800 @@
+{
+ "_provenance": {
+  "writtenBy": "unit-geometry.mjs",
+  "at": "2026-11-25T14:44:08.798Z",
+  "tol": 4,
+  "n": 5,
+  "width": 360,
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://www.wonka.com/us/en/",
+  "at": "2026-11-25T13:09:53.367Z",
+  "docH": 5530
+ },
+ "eds": {
+  "url": "https://main--a6216fe5--aemcoder.aem.live/us/en/",
+  "at": "2026-11-25T14:44:08.712Z",
+  "docH": 5529
+ },
+ "results": [
+  {
+   "sel": "#product-section article.product-card=.product-cards > article.pcard",
+   "family": null,
+   "required": true,
+   "originMatches": 5,
+   "edsMatches": 5,
+   "units": [
+    {
+     "index": 0,
+     "origin": {
+      "path": "div.layout__region.layout__region--content > div.paragraph.paragraph--type--product-card > article.product-card.relative"
+     },
+     "eds": {
+      "path": "div.product-cards-wrapper > div#product-section > article.pcard"
+     },
+     "rows": [
+      {
+       "key": "image:img.size-full.max-w-none#1",
+       "role": "image",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": -190,
+        "y": -118,
+        "w": 741,
+        "h": 600
+       },
+       "eds": {
+        "x": -190,
+        "y": -118,
+        "w": 741,
+        "h": 600,
+        "sel": "img",
+        "role": "image"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "hiddenBoth": true,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      },
+      {
+       "key": "box:div.relative.z-10#1",
+       "role": "box",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 16,
+        "y": 0,
+        "w": 328,
+        "h": 622
+       },
+       "eds": {
+        "x": 16,
+        "y": 0,
+        "w": 328,
+        "h": 622,
+        "sel": "div.pcard-body",
+        "role": "box"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      },
+      {
+       "key": "text:wonka chocolate magic hats assorted choc",
+       "role": "text",
+       "text": "wonka chocolate magic hats assorted chocolates, 12ct",
+       "edsText": "wonka chocolate magic hats assorted chocolates, 12ct",
+       "byPosition": false,
+       "origin": {
+        "x": 36,
+        "y": 32,
+        "w": 288,
+        "h": 48
+       },
+       "eds": {
+        "x": 36,
+        "y": 32,
+        "w": 288,
+        "h": 48,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "18/24/600",
+        "eds": "18/24/600"
+       }
+      },
+      {
+       "key": "heading:magic hats",
+       "role": "heading",
+       "text": "magic hats",
+       "edsText": "magic hats",
+       "byPosition": false,
+       "origin": {
+        "x": 36,
+        "y": 84,
+        "w": 288,
+        "h": 34
+       },
+       "eds": {
+        "x": 36,
+        "y": 84,
+        "w": 288,
+        "h": 34,
+        "sel": "h3#magic-hats",
+        "role": "heading"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "34/34/600",
+        "eds": "34/34/600"
+       }
+      },
+      {
+       "key": "text:a refined collection of delicious hat-sh",
+       "role": "text",
+       "text": "a refined collection of delicious hat-shaped chocolate prali",
+       "edsText": "a refined collection of delicious hat-shaped chocolate prali",
+       "byPosition": false,
+       "origin": {
+        "x": 36,
+        "y": 130,
+        "w": 288,
+        "h": 72
+       },
+       "eds": {
+        "x": 36,
+        "y": 130,
+        "w": 288,
+        "h": 72,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "14/18/500",
+        "eds": "14/18/500"
+       }
+      },
+      {
+       "key": "image:purple box of wonka magic hats chocolate",
+       "role": "image",
+       "text": "purple box of wonka magic hats chocolates containing 12 top-",
+       "edsText": "purple box of wonka magic hats chocolates containing 12 top-",
+       "byPosition": false,
+       "origin": {
+        "x": 36,
+        "y": 214,
+        "w": 288,
+        "h": 283
+       },
+       "eds": {
+        "x": 36,
+        "y": 214,
+        "w": 288,
+        "h": 283,
+        "sel": "img",
+        "role": "image"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      },
+      {
+       "key": "button:see more details",
+       "role": "button",
+       "text": "see more details",
+       "edsText": "see more details",
+       "byPosition": false,
+       "origin": {
+        "x": 85,
+        "y": 521,
+        "w": 190,
+        "h": 20
+       },
+       "eds": {
+        "x": 85,
+        "y": 521,
+        "w": 190,
+        "h": 20,
+        "sel": "button#product-card-toggle-magic-hats-1",
+        "role": "button"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/16/700",
+        "eds": "16/16/700"
+       }
+      },
+      {
+       "key": "image:svg#1",
+       "role": "image",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 85,
+        "y": 521,
+        "w": 20,
+        "h": 20
+       },
+       "eds": {
+        "x": 85,
+        "y": 521,
+        "w": 20,
+        "h": 20,
+        "sel": "svg",
+        "role": "image"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/16/700",
+        "eds": "16/16/700"
+       }
+      },
+      {
+       "key": "image:svg#2",
+       "role": "image",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 255,
+        "y": 521,
+        "w": 20,
+        "h": 20
+       },
+       "eds": {
+        "x": 255,
+        "y": 521,
+        "w": 20,
+        "h": 20,
+        "sel": "svg",
+        "role": "image"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/16/700",
+        "eds": "16/16/700"
+       }
+      },
+      {
+       "key": "box:div.h-px.w-full#1",
+       "role": "box",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 36,
+        "y": 565,
+        "w": 288,
+        "h": 1
+       },
+       "eds": {
+        "x": 36,
+        "y": 565,
+        "w": 288,
+        "h": 1,
+        "sel": "div.pcard-rule.pcard-rule-sm",
+        "role": "box"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 0,
+       "y": 880,
+       "w": 360,
+       "h": 622
+      },
+      "eds": {
+       "x": 0,
+       "y": 880,
+       "w": 360,
+       "h": 622
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 10,
+      "within": 10,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 1,
+     "origin": {
+      "path": "div.layout__region.layout__region--content > div.paragraph.paragraph--type--product-card > article.product-card.relative"
+     },
+     "eds": {
+      "path": "div.product-cards-wrapper > div#product-section > article.pcard.pcard-flip"
+     },
+     "rows": [
+      {
+       "key": "image:img.size-full.max-w-none#1",
+       "role": "image",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": -190,
+        "y": -118,
+        "w": 741,
+        "h": 600
+       },
+       "eds": {
+        "x": -190,
+        "y": -118,
+        "w": 741,
+        "h": 600,
+        "sel": "img",
+        "role": "image"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "hiddenBoth": true,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      },
+      {
+       "key": "box:div.relative.z-10#1",
+       "role": "box",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 16,
+        "y": 0,
+        "w": 328,
+        "h": 622
+       },
+       "eds": {
+        "x": 16,
+        "y": 0,
+        "w": 328,
+        "h": 622,
+        "sel": "div.pcard-body",
+        "role": "box"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      },
+      {
+       "key": "text:wonka chocolate magic hats assorted choc",
+       "role": "text",
+       "text": "wonka chocolate magic hats assorted chocolates, 18ct",
+       "edsText": "wonka chocolate magic hats assorted chocolates, 18ct",
+       "byPosition": false,
+       "origin": {
+        "x": 36,
+        "y": 32,
+        "w": 288,
+        "h": 48
+       },
+       "eds": {
+        "x": 36,
+        "y": 32,
+        "w": 288,
+        "h": 48,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "18/24/600",
+        "eds": "18/24/600"
+       }
+      },
+      {
+       "key": "heading:magic hats",
+       "role": "heading",
+       "text": "magic hats",
+       "edsText": "magic hats",
+       "byPosition": false,
+       "origin": {
+        "x": 36,
+        "y": 84,
+        "w": 288,
+        "h": 34
+       },
+       "eds": {
+        "x": 36,
+        "y": 84,
+        "w": 288,
+        "h": 34,
+        "sel": "h3#magic-hats-1",
+        "role": "heading"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "34/34/600",
+        "eds": "34/34/600"
+       }
+      },
+      {
+       "key": "text:a refined collection of delicious hat-sh",
+       "role": "text",
+       "text": "a refined collection of delicious hat-shaped chocolate prali",
+       "edsText": "a refined collection of delicious hat-shaped chocolate prali",
+       "byPosition": false,
+       "origin": {
+        "x": 36,
+        "y": 130,
+        "w": 288,
+        "h": 72
+       },
+       "eds": {
+        "x": 36,
+        "y": 130,
+        "w": 288,
+        "h": 72,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "14/18/500",
+        "eds": "14/18/500"
+       }
+      },
+      {
+       "key": "image:purple box of wonka magic hats chocolate",
+       "role": "image",
+       "text": "purple box of wonka magic hats chocolates containing 18 prem",
+       "edsText": "purple box of wonka magic hats chocolates containing 18 prem",
+       "byPosition": false,
+       "origin": {
+        "x": 36,
+        "y": 214,
+        "w": 288,
+        "h": 283
+       },
+       "eds": {
+        "x": 36,
+        "y": 214,
+        "w": 288,
+        "h": 283,
+        "sel": "img",
+        "role": "image"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      },
+      {
+       "key": "button:see more details",
+       "role": "button",
+       "text": "see more details",
+       "edsText": "see more details",
+       "byPosition": false,
+       "origin": {
+        "x": 85,
+        "y": 521,
+        "w": 190,
+        "h": 20
+       },
+       "eds": {
+        "x": 85,
+        "y": 521,
+        "w": 190,
+        "h": 20,
+        "sel": "button#product-card-toggle-magic-hats-2",
+        "role": "button"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/16/700",
+        "eds": "16/16/700"
+       }
+      },
+      {
+       "key": "image:svg#1",
+       "role": "image",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 85,
+        "y": 521,
+        "w": 20,
+        "h": 20
+       },
+       "eds": {
+        "x": 85,
+        "y": 521,
+        "w": 20,
+        "h": 20,
+        "sel": "svg",
+        "role": "image"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/16/700",
+        "eds": "16/16/700"
+       }
+      },
+      {
+       "key": "image:svg#2",
+       "role": "image",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 255,
+        "y": 521,
+        "w": 20,
+        "h": 20
+       },
+       "eds": {
+        "x": 255,
+        "y": 521,
+        "w": 20,
+        "h": 20,
+        "sel": "svg",
+        "role": "image"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/16/700",
+        "eds": "16/16/700"
+       }
+      },
+      {
+       "key": "box:div.h-px.w-full#1",
+       "role": "box",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 36,
+        "y": 565,
+        "w": 288,
+        "h": 1
+       },
+       "eds": {
+        "x": 36,
+        "y": 565,
+        "w": 288,
+        "h": 1,
+        "sel": "div.pcard-rule.pcard-rule-sm",
+        "role": "box"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 0,
+       "y": 1582,
+       "w": 360,
+       "h": 622
+      },
+      "eds": {
+       "x": 0,
+       "y": 1582,
+       "w": 360,
+       "h": 622
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 10,
+      "within": 10,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 2,
+     "origin": {
+      "path": "div.layout__region.layout__region--content > div.paragraph.paragraph--type--product-card > article.product-card.relative"
+     },
+     "eds": {
+      "path": "div.product-cards-wrapper > div#product-section > article.pcard"
+     },
+     "rows": [
+      {
+       "key": "image:img.size-full.max-w-none#1",
+       "role": "image",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": -190,
+        "y": -120,
+        "w": 741,
+        "h": 600
+       },
+       "eds": {
+        "x": -190,
+        "y": -120,
+        "w": 741,
+        "h": 600,
+        "sel": "img",
+        "role": "image"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "hiddenBoth": true,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      },
+      {
+       "key": "box:div.relative.z-10#1",
+       "role": "box",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 16,
+        "y": 0,
+        "w": 328,
+        "h": 620
+       },
+       "eds": {
+        "x": 16,
+        "y": 0,
+        "w": 328,
+        "h": 620,
+        "sel": "div.pcard-body",
+        "role": "box"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      },
+      {
+       "key": "text:wonka purplypurple chocolate caramel tab",
+       "role": "text",
+       "text": "wonka purplypurple chocolate caramel tablet bar",
+       "edsText": "wonka purplypurple chocolate caramel tablet bar",
+       "byPosition": false,
+       "origin": {
+        "x": 36,
+        "y": 32,
+        "w": 288,
+        "h": 48
+       },
+       "eds": {
+        "x": 36,
+        "y": 32,
+        "w": 288,
+        "h": 48,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "18/24/600",
+        "eds": "18/24/600"
+       }
+      },
+      {
+       "key": "heading:purplypurple tablet",
+       "role": "heading",
+       "text": "purplypurple tablet",
+       "edsText": "purplypurple tablet",
+       "byPosition": false,
+       "origin": {
+        "x": 36,
+        "y": 84,
+        "w": 288,
+        "h": 68
+       },
+       "eds": {
+        "x": 36,
+        "y": 84,
+        "w": 288,
+        "h": 68,
+        "sel": "h3#purplypurple-tablet",
+        "role": "heading"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "34/34/600",
+        "eds": "34/34/600"
+       }
+      },
+      {
+       "key": "text:milk chocolate bar with a purple caramel",
+       "role": "text",
+       "text": "milk chocolate bar with a purple caramel-flavored filling",
+       "edsText": "milk chocolate bar with a purple caramel-flavored filling",
+       "byPosition": false,
+       "origin": {
+        "x": 36,
+        "y": 164,
+        "w": 288,
+        "h": 36
+       },
+       "eds": {
+        "x": 36,
+        "y": 164,
+        "w": 288,
+        "h": 36,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "14/18/500",
+        "eds": "14/18/500"
+       }
+      },
+      {
+       "key": "image:purple packaging of wonka purplypurple 9",
+       "role": "image",
+       "text": "purple packaging of wonka purplypurple 90g milk chocolate ta",
+       "edsText": "purple packaging of wonka purplypurple 90g milk chocolate ta",
+       "byPosition": false,
+       "origin": {
+        "x": 36,
+        "y": 212,
+        "w": 288,
+        "h": 283
+       },
+       "eds": {
+        "x": 36,
+        "y": 212,
+        "w": 288,
+        "h": 283,
+        "sel": "img",
+        "role": "image"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      },
+      {
+       "key": "button:see more details",
+       "role": "button",
+       "text": "see more details",
+       "edsText": "see more details",
+       "byPosition": false,
+       "origin": {
+        "x": 85,
+        "y": 519,
+        "w": 190,
+        "h": 20
+       },
+       "eds": {
+        "x": 85,
+        "y": 519,
+        "w": 190,
+        "h": 20,
+        "sel": "button#product-card-toggle-purplypurple-tablet-3",
+        "role": "button"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/16/700",
+        "eds": "16/16/700"
+       }
+      },
+      {
+       "key": "image:svg#1",
+       "role": "image",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 85,
+        "y": 519,
+        "w": 20,
+        "h": 20
+       },
+       "eds": {
+        "x": 85,
+        "y": 519,
+        "w": 20,
+        "h": 20,
+        "sel": "svg",
+        "role": "image"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/16/700",
+        "eds": "16/16/700"
+       }
+      },
+      {
+       "key": "image:svg#2",
+       "role": "image",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 255,
+        "y": 519,
+        "w": 20,
+        "h": 20
+       },
+       "eds": {
+        "x": 255,
+        "y": 519,
+        "w": 20,
+        "h": 20,
+        "sel": "svg",
+        "role": "image"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/16/700",
+        "eds": "16/16/700"
+       }
+      },
+      {
+       "key": "box:div.h-px.w-full#1",
+       "role": "box",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 36,
+        "y": 563,
+        "w": 288,
+        "h": 1
+       },
+       "eds": {
+        "x": 36,
+        "y": 563,
+        "w": 288,
+        "h": 1,
+        "sel": "div.pcard-rule.pcard-rule-sm",
+        "role": "box"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 0,
+       "y": 2285,
+       "w": 360,
+       "h": 620
+      },
+      "eds": {
+       "x": 0,
+       "y": 2285,
+       "w": 360,
+       "h": 620
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 10,
+      "within": 10,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 3,
+     "origin": {
+      "path": "div.layout__region.layout__region--content > div.paragraph.paragraph--type--product-card > article.product-card.relative"
+     },
+     "eds": {
+      "path": "div.product-cards-wrapper > div#product-section > article.pcard.pcard-flip"
+     },
+     "rows": [
+      {
+       "key": "image:img.size-full.max-w-none#1",
+       "role": "image",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": -190,
+        "y": -84,
+        "w": 741,
+        "h": 600
+       },
+       "eds": {
+        "x": -190,
+        "y": -84,
+        "w": 741,
+        "h": 600,
+        "sel": "img",
+        "role": "image"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "hiddenBoth": true,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      },
+      {
+       "key": "box:div.relative.z-10#1",
+       "role": "box",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 16,
+        "y": 0,
+        "w": 328,
+        "h": 656
+       },
+       "eds": {
+        "x": 16,
+        "y": 0,
+        "w": 328,
+        "h": 656,
+        "sel": "div.pcard-body",
+        "role": "box"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      },
+      {
+       "key": "text:wonka magic garden lemon lime chewy rope",
+       "role": "text",
+       "text": "wonka magic garden lemon lime chewy ropes",
+       "edsText": "wonka magic garden lemon lime chewy ropes",
+       "byPosition": false,
+       "origin": {
+        "x": 36,
+        "y": 32,
+        "w": 288,
+        "h": 48
+       },
+       "eds": {
+        "x": 36,
+        "y": 32,
+        "w": 288,
+        "h": 48,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "18/24/600",
+        "eds": "18/24/600"
+       }
+      },
+      {
+       "key": "heading:magic garden ropes",
+       "role": "heading",
+       "text": "magic garden ropes",
+       "edsText": "magic garden ropes",
+       "byPosition": false,
+       "origin": {
+        "x": 36,
+        "y": 84,
+        "w": 288,
+        "h": 68
+       },
+       "eds": {
+        "x": 36,
+        "y": 84,
+        "w": 288,
+        "h": 68,
+        "sel": "h3#magic-garden-ropes",
+        "role": "heading"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "34/34/600",
+        "eds": "34/34/600"
+       }
+      },
+      {
+       "key": "text:chewy lime ropes with a surprise taste o",
+       "role": "text",
+       "text": "chewy lime ropes with a surprise taste of lemon inside, like",
+       "edsText": "chewy lime ropes with a surprise taste of lemon inside, like",
+       "byPosition": false,
+       "origin": {
+        "x": 36,
+        "y": 164,
+        "w": 288,
+        "h": 72
+       },
+       "eds": {
+        "x": 36,
+        "y": 164,
+        "w": 288,
+        "h": 72,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "14/18/500",
+        "eds": "14/18/500"
+       }
+      },
+      {
+       "key": "image:purple and green 100g pouch of wonka mag",
+       "role": "image",
+       "text": "purple and green 100g pouch of wonka magic garden lemon and ",
+       "edsText": "purple and green 100g pouch of wonka magic garden lemon and ",
+       "byPosition": false,
+       "origin": {
+        "x": 36,
+        "y": 248,
+        "w": 288,
+        "h": 283
+       },
+       "eds": {
+        "x": 36,
+        "y": 248,
+        "w": 288,
+        "h": 283,
+        "sel": "img",
+        "role": "image"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      },
+      {
+       "key": "button:see more details",
+       "role": "button",
+       "text": "see more details",
+       "edsText": "see more details",
+       "byPosition": false,
+       "origin": {
+        "x": 85,
+        "y": 555,
+        "w": 190,
+        "h": 20
+       },
+       "eds": {
+        "x": 85,
+        "y": 555,
+        "w": 190,
+        "h": 20,
+        "sel": "button#product-card-toggle-magic-garden-ropes-4",
+        "role": "button"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/16/700",
+        "eds": "16/16/700"
+       }
+      },
+      {
+       "key": "image:svg#1",
+       "role": "image",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 85,
+        "y": 555,
+        "w": 20,
+        "h": 20
+       },
+       "eds": {
+        "x": 85,
+        "y": 555,
+        "w": 20,
+        "h": 20,
+        "sel": "svg",
+        "role": "image"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/16/700",
+        "eds": "16/16/700"
+       }
+      },
+      {
+       "key": "image:svg#2",
+       "role": "image",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 255,
+        "y": 555,
+        "w": 20,
+        "h": 20
+       },
+       "eds": {
+        "x": 255,
+        "y": 555,
+        "w": 20,
+        "h": 20,
+        "sel": "svg",
+        "role": "image"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/16/700",
+        "eds": "16/16/700"
+       }
+      },
+      {
+       "key": "box:div.h-px.w-full#1",
+       "role": "box",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 36,
+        "y": 599,
+        "w": 288,
+        "h": 1
+       },
+       "eds": {
+        "x": 36,
+        "y": 599,
+        "w": 288,
+        "h": 1,
+        "sel": "div.pcard-rule.pcard-rule-sm",
+        "role": "box"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 0,
+       "y": 2985,
+       "w": 360,
+       "h": 656
+      },
+      "eds": {
+       "x": 0,
+       "y": 2985,
+       "w": 360,
+       "h": 656
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 10,
+      "within": 10,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 4,
+     "origin": {
+      "path": "div.layout__region.layout__region--content > div.paragraph.paragraph--type--product-card > article.product-card.relative"
+     },
+     "eds": {
+      "path": "div.product-cards-wrapper > div#product-section > article.pcard"
+     },
+     "rows": [
+      {
+       "key": "image:img.size-full.max-w-none#1",
+       "role": "image",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": -190,
+        "y": -60,
+        "w": 741,
+        "h": 600
+       },
+       "eds": {
+        "x": -190,
+        "y": -60,
+        "w": 741,
+        "h": 600,
+        "sel": "img",
+        "role": "image"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "hiddenBoth": true,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      },
+      {
+       "key": "box:div.relative.z-10#1",
+       "role": "box",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 16,
+        "y": 0,
+        "w": 328,
+        "h": 680
+       },
+       "eds": {
+        "x": 16,
+        "y": 0,
+        "w": 328,
+        "h": 680,
+        "sel": "div.pcard-body",
+        "role": "box"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      },
+      {
+       "key": "text:wonka oompa loompa blueberry & strawberr",
+       "role": "text",
+       "text": "wonka oompa loompa blueberry & strawberry gummies",
+       "edsText": "wonka oompa loompa blueberry & strawberry gummies",
+       "byPosition": false,
+       "origin": {
+        "x": 36,
+        "y": 32,
+        "w": 288,
+        "h": 72
+       },
+       "eds": {
+        "x": 36,
+        "y": 32,
+        "w": 288,
+        "h": 72,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "18/24/600",
+        "eds": "18/24/600"
+       }
+      },
+      {
+       "key": "heading:oompa loompa gummies",
+       "role": "heading",
+       "text": "oompa loompa gummies",
+       "edsText": "oompa loompa gummies",
+       "byPosition": false,
+       "origin": {
+        "x": 36,
+        "y": 108,
+        "w": 288,
+        "h": 68
+       },
+       "eds": {
+        "x": 36,
+        "y": 108,
+        "w": 288,
+        "h": 68,
+        "sel": "h3#oompa-loompa-gummies",
+        "role": "heading"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "34/34/600",
+        "eds": "34/34/600"
+       }
+      },
+      {
+       "key": "text:delicious fruity gummies with a magical ",
+       "role": "text",
+       "text": "delicious fruity gummies with a magical twist, a juicy berry",
+       "edsText": "delicious fruity gummies with a magical twist, a juicy berry",
+       "byPosition": false,
+       "origin": {
+        "x": 36,
+        "y": 188,
+        "w": 288,
+        "h": 72
+       },
+       "eds": {
+        "x": 36,
+        "y": 188,
+        "w": 288,
+        "h": 72,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "14/18/500",
+        "eds": "14/18/500"
+       }
+      },
+      {
+       "key": "image:purple pouch of wonka oompa loompa blueb",
+       "role": "image",
+       "text": "purple pouch of wonka oompa loompa blueberry and strawberry ",
+       "edsText": "purple pouch of wonka oompa loompa blueberry and strawberry ",
+       "byPosition": false,
+       "origin": {
+        "x": 36,
+        "y": 272,
+        "w": 288,
+        "h": 283
+       },
+       "eds": {
+        "x": 36,
+        "y": 272,
+        "w": 288,
+        "h": 283,
+        "sel": "img",
+        "role": "image"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      },
+      {
+       "key": "button:see more details",
+       "role": "button",
+       "text": "see more details",
+       "edsText": "see more details",
+       "byPosition": false,
+       "origin": {
+        "x": 85,
+        "y": 579,
+        "w": 190,
+        "h": 20
+       },
+       "eds": {
+        "x": 85,
+        "y": 579,
+        "w": 190,
+        "h": 20,
+        "sel": "button#product-card-toggle-oompa-loompa-gummies-5",
+        "role": "button"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/16/700",
+        "eds": "16/16/700"
+       }
+      },
+      {
+       "key": "image:svg#1",
+       "role": "image",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 85,
+        "y": 579,
+        "w": 20,
+        "h": 20
+       },
+       "eds": {
+        "x": 85,
+        "y": 579,
+        "w": 20,
+        "h": 20,
+        "sel": "svg",
+        "role": "image"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/16/700",
+        "eds": "16/16/700"
+       }
+      },
+      {
+       "key": "image:svg#2",
+       "role": "image",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 255,
+        "y": 579,
+        "w": 20,
+        "h": 20
+       },
+       "eds": {
+        "x": 255,
+        "y": 579,
+        "w": 20,
+        "h": 20,
+        "sel": "svg",
+        "role": "image"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/16/700",
+        "eds": "16/16/700"
+       }
+      },
+      {
+       "key": "box:div.h-px.w-full#1",
+       "role": "box",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 36,
+        "y": 623,
+        "w": 288,
+        "h": 1
+       },
+       "eds": {
+        "x": 36,
+        "y": 623,
+        "w": 288,
+        "h": 1,
+        "sel": "div.pcard-rule.pcard-rule-sm",
+        "role": "box"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/400",
+        "eds": "16/24/400"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 0,
+       "y": 3721,
+       "w": 360,
+       "h": 680
+      },
+      "eds": {
+       "x": 0,
+       "y": 3721,
+       "w": 360,
+       "h": 680
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 10,
+      "within": 10,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    }
+   ]
+  }
+ ],
+ "verdict": {
+  "units": 5,
+  "within": 50,
+  "off": 0,
+  "hidden": 0,
+  "missing": 0,
+  "errors": 0,
+  "requiredOff": 0
+ }
+}

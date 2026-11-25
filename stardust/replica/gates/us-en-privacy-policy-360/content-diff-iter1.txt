@@ -1,0 +1,21 @@
+[live-session] waiting to pace live navigations to www.wonka.com (1000 ms apart, 2 max parallel; STARDUST_LIVE_PACE_MS / STARDUST_LIVE_MAX_PARALLEL; 0 disables either) — first wait 893 ms
+
+Content diff @ 360px (profile "generic", roots: main, header, footer)
+root "main"
+  source: 176 text nodes — 14 headings, 0 eyebrows, 29 CTAs, 133 body; 0 img
+  build: 176 text nodes — 14 headings, 0 eyebrows, 29 CTAs, 133 body; 0 img
+  editable texts (outermost h*/p/ul/ol): source 69 / build 82
+  attributes (placeholder/aria-label/title): source 1 / build 1; icons: source 0 / build 0
+root "header"
+  source: 3 text nodes — 0 headings, 0 eyebrows, 3 CTAs, 0 body; 1 img
+  build: 3 text nodes — 0 headings, 0 eyebrows, 3 CTAs, 0 body; 1 img
+  editable texts (outermost h*/p/ul/ol): source 0 / build 0
+  attributes (placeholder/aria-label/title): source 2 / build 2; icons: source 1 / build 1
+root "footer"
+  source: 7 text nodes — 0 headings, 0 eyebrows, 5 CTAs, 2 body; 3 img
+  build: 7 text nodes — 0 headings, 0 eyebrows, 5 CTAs, 2 body; 3 img
+  editable texts (outermost h*/p/ul/ol): source 1 / build 1
+  attributes (placeholder/aria-label/title): source 3 / build 3; icons: source 3 / build 3
+
+Findings: none — content + roles match
+Tiers: looks-same 🔴 0 · nothing-lost 🟡 0 · accepted 🟢 0 (owner 0, auto 0) · advisory 0

@@ -1,0 +1,474 @@
+{
+ "url": "https://main--a6216fe5--aemcoder.aem.live/us/en/xp/golden-ticket/",
+ "at": "2026-11-25T12:41:34.623Z",
+ "width": 2560,
+ "status": 200,
+ "settlePasses": 2,
+ "docH": 4184,
+ "pageW": 2560,
+ "counts": {
+  "textClipped": 0,
+  "textHidden": 0,
+  "controlHidden": 0,
+  "controlClipped": 0,
+  "clamped": 0,
+  "collapsed": 0,
+  "scrollHidden": 0,
+  "horizontal": 4,
+  "offPage": 0,
+  "textNodes": 36,
+  "controls": 21,
+  "total": 0
+ },
+ "findings": [
+  {
+   "kind": "TEXT X-HIDDEN",
+   "advisory": true,
+   "cut": 12,
+   "path": "div.promo-prize > div.promo-prize-text > div.promo-prize-title > h3#wonka-factory-bundle",
+   "text": "wonka factory bundle",
+   "clipper": "div.promo-prizes-viewport",
+   "rect": {
+    "l": 2156,
+    "t": 2991,
+    "r": 2572,
+    "b": 3029,
+    "w": 416,
+    "h": 38
+   },
+   "clip": {
+    "l": 552,
+    "t": 2846,
+    "r": 2008,
+    "b": 3284,
+    "w": 1456,
+    "h": 438
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT X-HIDDEN",
+   "advisory": true,
+   "cut": 144,
+   "path": "div.promo-prize > div.promo-prize-text > div.promo-prize-body > p",
+   "text": "the factory bundle is a tiny treasure from a bigger wonderla",
+   "clipper": "div.promo-prizes-viewport",
+   "rect": {
+    "l": 2024,
+    "t": 3067,
+    "r": 2704,
+    "b": 3086,
+    "w": 680,
+    "h": 19
+   },
+   "clip": {
+    "l": 552,
+    "t": 2846,
+    "r": 2008,
+    "b": 3284,
+    "w": 1456,
+    "h": 438
+   },
+   "lines": 2
+  },
+  {
+   "kind": "CONTROL X-HIDDEN",
+   "advisory": true,
+   "path": "div.promo-prize-text > div.promo-prize-links > p.button-wrapper > a.button.secondary",
+   "text": "see official rules for details",
+   "clipper": "div.promo-prizes-viewport",
+   "rect": {
+    "l": 2253,
+    "t": 3135,
+    "r": 2475,
+    "b": 3157,
+    "w": 223,
+    "h": 22
+   },
+   "clip": {
+    "l": 552,
+    "t": 2846,
+    "r": 2008,
+    "b": 3284,
+    "w": 1456,
+    "h": 438
+   }
+  },
+  {
+   "kind": "TEXT X-HIDDEN",
+   "advisory": true,
+   "cut": 0,
+   "path": "div.promo-prize-text > div.promo-prize-links > p.button-wrapper > a.button.secondary",
+   "text": "see official rules for details",
+   "clipper": "div.promo-prizes-viewport",
+   "rect": {
+    "l": 2253,
+    "t": 3136,
+    "r": 2475,
+    "b": 3155,
+    "w": 223,
+    "h": 19
+   },
+   "clip": {
+    "l": 552,
+    "t": 2846,
+    "r": 2008,
+    "b": 3284,
+    "w": 1456,
+    "h": 438
+   },
+   "lines": 1
+  }
+ ],
+ "textBoxes": [
+  {
+   "x": 967,
+   "y": 918,
+   "w": 625,
+   "h": 47
+  },
+  {
+   "x": 1009,
+   "y": 958,
+   "w": 542,
+   "h": 47
+  },
+  {
+   "x": 684,
+   "y": 1044,
+   "w": 1192,
+   "h": 21
+  },
+  {
+   "x": 1067,
+   "y": 1070,
+   "w": 425,
+   "h": 21
+  },
+  {
+   "x": 1136,
+   "y": 1268,
+   "w": 289,
+   "h": 14
+  },
+  {
+   "x": 1143,
+   "y": 1285,
+   "w": 273,
+   "h": 14
+  },
+  {
+   "x": 1458,
+   "y": 1497,
+   "w": 372,
+   "h": 38
+  },
+  {
+   "x": 1417,
+   "y": 1529,
+   "w": 455,
+   "h": 38
+  },
+  {
+   "x": 1334,
+   "y": 1605,
+   "w": 621,
+   "h": 19
+  },
+  {
+   "x": 1415,
+   "y": 1627,
+   "w": 459,
+   "h": 19
+  },
+  {
+   "x": 1573,
+   "y": 1692,
+   "w": 142,
+   "h": 19
+  },
+  {
+   "x": 754,
+   "y": 2007,
+   "w": 1053,
+   "h": 47
+  },
+  {
+   "x": 718,
+   "y": 2312,
+   "w": 315,
+   "h": 38
+  },
+  {
+   "x": 797,
+   "y": 2344,
+   "w": 155,
+   "h": 38
+  },
+  {
+   "x": 1144,
+   "y": 2312,
+   "w": 273,
+   "h": 38
+  },
+  {
+   "x": 1227,
+   "y": 2344,
+   "w": 107,
+   "h": 38
+  },
+  {
+   "x": 1547,
+   "y": 2312,
+   "w": 275,
+   "h": 38
+  },
+  {
+   "x": 1533,
+   "y": 2344,
+   "w": 303,
+   "h": 38
+  },
+  {
+   "x": 1626,
+   "y": 2376,
+   "w": 118,
+   "h": 38
+  },
+  {
+   "x": 1235,
+   "y": 2470,
+   "w": 91,
+   "h": 19
+  },
+  {
+   "x": 885,
+   "y": 2698,
+   "w": 790,
+   "h": 47
+  },
+  {
+   "x": 572,
+   "y": 2991,
+   "w": 672,
+   "h": 38
+  },
+  {
+   "x": 559,
+   "y": 3067,
+   "w": 698,
+   "h": 19
+  },
+  {
+   "x": 652,
+   "y": 3090,
+   "w": 513,
+   "h": 19
+  },
+  {
+   "x": 797,
+   "y": 3136,
+   "w": 223,
+   "h": 19
+  },
+  {
+   "x": 2156,
+   "y": 2991,
+   "w": 416,
+   "h": 38
+  },
+  {
+   "x": 2024,
+   "y": 3067,
+   "w": 680,
+   "h": 19
+  },
+  {
+   "x": 2332,
+   "y": 3090,
+   "w": 64,
+   "h": 19
+  },
+  {
+   "x": 2253,
+   "y": 3136,
+   "w": 223,
+   "h": 19
+  },
+  {
+   "x": 1169,
+   "y": 3365,
+   "w": 223,
+   "h": 19
+  },
+  {
+   "x": 797,
+   "y": 3467,
+   "w": 883,
+   "h": 19
+  },
+  {
+   "x": 1679,
+   "y": 3467,
+   "w": 84,
+   "h": 19
+  },
+  {
+   "x": 811,
+   "y": 3490,
+   "w": 938,
+   "h": 19
+  },
+  {
+   "x": 809,
+   "y": 3512,
+   "w": 942,
+   "h": 19
+  },
+  {
+   "x": 810,
+   "y": 3535,
+   "w": 939,
+   "h": 19
+  },
+  {
+   "x": 799,
+   "y": 3557,
+   "w": 963,
+   "h": 19
+  },
+  {
+   "x": 848,
+   "y": 3579,
+   "w": 863,
+   "h": 19
+  },
+  {
+   "x": 801,
+   "y": 3602,
+   "w": 130,
+   "h": 19
+  },
+  {
+   "x": 931,
+   "y": 3602,
+   "w": 828,
+   "h": 19
+  },
+  {
+   "x": 805,
+   "y": 3624,
+   "w": 950,
+   "h": 19
+  },
+  {
+   "x": 1203,
+   "y": 3647,
+   "w": 153,
+   "h": 19
+  },
+  {
+   "x": 1095,
+   "y": 3897,
+   "w": 52,
+   "h": 21
+  },
+  {
+   "x": 1227,
+   "y": 3897,
+   "w": 38,
+   "h": 21
+  },
+  {
+   "x": 1345,
+   "y": 3897,
+   "w": 120,
+   "h": 21
+  },
+  {
+   "x": 1247,
+   "y": 3977,
+   "w": 65,
+   "h": 16
+  },
+  {
+   "x": 855,
+   "y": 4085,
+   "w": 92,
+   "h": 16
+  },
+  {
+   "x": 994,
+   "y": 4085,
+   "w": 89,
+   "h": 16
+  },
+  {
+   "x": 1132,
+   "y": 4085,
+   "w": 91,
+   "h": 16
+  },
+  {
+   "x": 1270,
+   "y": 4085,
+   "w": 311,
+   "h": 16
+  },
+  {
+   "x": 1629,
+   "y": 4085,
+   "w": 76,
+   "h": 16
+  },
+  {
+   "x": 1206,
+   "y": 4148,
+   "w": 149,
+   "h": 14
+  }
+ ],
+ "groups": [
+  {
+   "kind": "TEXT X-HIDDEN",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.promo-prizes-viewport",
+   "path": "div.promo-prize > div.promo-prize-text > div.promo-prize-title > h3#wonka-factory-bundle",
+   "text": "wonka factory bundle",
+   "cutMin": 12,
+   "cutMax": 12
+  },
+  {
+   "kind": "TEXT X-HIDDEN",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.promo-prizes-viewport",
+   "path": "div.promo-prize > div.promo-prize-text > div.promo-prize-body > p",
+   "text": "the factory bundle is a tiny treasure from a bigger wonderla",
+   "cutMin": 144,
+   "cutMax": 144
+  },
+  {
+   "kind": "CONTROL X-HIDDEN",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.promo-prizes-viewport",
+   "path": "div.promo-prize-text > div.promo-prize-links > p.button-wrapper > a.button.secondary",
+   "text": "see official rules for details",
+   "cutMin": null,
+   "cutMax": null
+  },
+  {
+   "kind": "TEXT X-HIDDEN",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.promo-prizes-viewport",
+   "path": "div.promo-prize-text > div.promo-prize-links > p.button-wrapper > a.button.secondary",
+   "text": "see official rules for details",
+   "cutMin": 0,
+   "cutMax": 0
+  }
+ ],
+ "tier": "chrome"
+}

@@ -1,0 +1,29 @@
+{
+  "writtenBy": "skills/replica/scripts/stitch-shot.mjs",
+  "url": "https://www.wonka.com/us/en/xp/golden-ticket/",
+  "width": 1440,
+  "vh": 900,
+  "height": 3641,
+  "chunks": 5,
+  "denialCheck": "ok",
+  "freeze": "applied",
+  "fontsFailed": [],
+  "deadFaces": [],
+  "fixedLayers": {
+    "capture": "once",
+    "count": 5,
+    "late": 0
+  },
+  "timers": {
+    "hold": 2000,
+    "held": 10,
+    "intervals": 4,
+    "chains": 6,
+    "delays": [
+      2500,
+      5000,
+      86400000
+    ]
+  },
+  "at": "2026-11-25T10:39:15.799Z"
+}

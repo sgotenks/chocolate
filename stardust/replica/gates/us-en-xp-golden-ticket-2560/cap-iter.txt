@@ -1,0 +1,12 @@
+cap-probe  base 1440 → probe 2560 (from DESIGN.json)
+live   https://www.wonka.com/us/en/xp/golden-ticket/
+  modules  2 sections: capped 1536 ×1 · full-bleed ×1
+  contentMaxWidth 1536px (module) · shellMaxWidth fluid · root body.node.n1 > div.dialog-off-canvas-main-canvas > main
+build  http://localhost:8791/us-en-xp-golden-ticket-proposed.html
+  modules  2 sections: capped 1536 ×1 · full-bleed ×1
+  contentMaxWidth 1536px (module) · shellMaxWidth fluid · root #main-content
+rows
+  ✓ content cap: live 1536px = build 1536px (±20, shared module cap)
+  ✓ module 1/2: full-bleed on both
+  ✓ module 2/2: 1536px = 1536px
+cap-probe: PASS at 2560 — 0 of 3 rows failed (evidence stardust/replica/gates/us-en-xp-golden-ticket-2560/cap-iter.json)

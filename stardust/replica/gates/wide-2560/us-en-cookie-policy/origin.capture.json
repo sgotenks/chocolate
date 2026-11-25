@@ -1,0 +1,21 @@
+{
+  "writtenBy": "gate-all.mjs",
+  "copiedFrom": "stardust/replica/gates/wide-2560/us-en-cookie-policy/baseline.png",
+  "fixedLayers": {
+    "capture": "once",
+    "count": 6,
+    "late": 0
+  },
+  "timers": {
+    "hold": 2000,
+    "held": 5,
+    "intervals": 4,
+    "chains": 1,
+    "delays": [
+      5000,
+      86400000
+    ]
+  },
+  "fontsFailed": [],
+  "deadFaces": []
+}

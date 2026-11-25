@@ -1,0 +1,28 @@
+{
+  "writtenBy": "skills/replica/scripts/stitch-shot.mjs",
+  "url": "https://www.wonka.com/us/en/",
+  "width": 2560,
+  "vh": 900,
+  "height": 4206,
+  "chunks": 5,
+  "denialCheck": "ok",
+  "freeze": "applied",
+  "fontsFailed": [],
+  "deadFaces": [],
+  "fixedLayers": {
+    "capture": "once",
+    "count": 7,
+    "late": 0
+  },
+  "timers": {
+    "hold": 2000,
+    "held": 6,
+    "intervals": 4,
+    "chains": 2,
+    "delays": [
+      5000,
+      86400000
+    ]
+  },
+  "at": "2026-11-25T12:40:49.872Z"
+}

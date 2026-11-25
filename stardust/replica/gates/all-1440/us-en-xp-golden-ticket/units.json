@@ -1,0 +1,797 @@
+{
+ "_provenance": {
+  "writtenBy": "unit-geometry.mjs",
+  "at": "2026-11-25T14:43:39.597Z",
+  "tol": 4,
+  "n": 3,
+  "width": 1440,
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://www.wonka.com/us/en/xp/golden-ticket/",
+  "at": "2026-11-25T14:40:20.852Z",
+  "docH": 3641
+ },
+ "eds": {
+  "url": "https://main--a6216fe5--aemcoder.aem.live/us/en/xp/golden-ticket/",
+  "at": "2026-11-25T14:43:39.532Z",
+  "docH": 3641
+ },
+ "results": [
+  {
+   "sel": ".p-editorial.p-editorial--default=.promo-steps-list > .promo-step",
+   "family": null,
+   "required": true,
+   "originMatches": 3,
+   "edsMatches": 3,
+   "units": [
+    {
+     "index": 0,
+     "origin": {
+      "path": "div.p-icons--content > div.p-icons__paragraphs.paragraphs > div.p-editorial--no-bg.p-editorial"
+     },
+     "eds": {
+      "path": "div.promo-steps-panel > div.promo-steps-list > div.promo-step"
+     },
+     "rows": [
+      {
+       "key": "image:step 1",
+       "role": "image",
+       "text": "step 1",
+       "edsText": "step 1",
+       "byPosition": false,
+       "origin": {
+        "x": 40,
+        "y": 0,
+        "w": 225,
+        "h": 158
+       },
+       "eds": {
+        "x": 40,
+        "y": 0,
+        "w": 225,
+        "h": 158,
+        "sel": "img",
+        "role": "image"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "15/21/400",
+        "eds": "15/21/400"
+       }
+      },
+      {
+       "key": "heading:scan your wonka product",
+       "role": "heading",
+       "text": "scan your wonka product",
+       "edsText": "scan your wonka product",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 158,
+        "w": 305,
+        "h": 92
+       },
+       "eds": {
+        "x": 0,
+        "y": 158,
+        "w": 305,
+        "h": 92,
+        "sel": "h3#scan-your-wonka-product",
+        "role": "heading"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "30/30/700",
+        "eds": "30/30/700"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [
+      {
+       "role": "image",
+       "tag": "picture",
+       "sel": "picture",
+       "text": "",
+       "boxed": false,
+       "x": 40,
+       "y": 0,
+       "w": 225,
+       "h": 158,
+       "absY": 1672,
+       "hidden": false,
+       "fs": 15,
+       "lh": 21,
+       "fw": "400",
+       "color": "rgb(255, 255, 255)",
+       "bg": null,
+       "position": "static",
+       "key": "image:picture#1"
+      }
+     ],
+     "unit": {
+      "origin": {
+       "x": 188,
+       "y": 1672,
+       "w": 305,
+       "h": 280
+      },
+      "eds": {
+       "x": 188,
+       "y": 1672,
+       "w": 305,
+       "h": 280
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 2,
+      "within": 2,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 1,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 1,
+     "origin": {
+      "path": "div.p-icons--content > div.p-icons__paragraphs.paragraphs > div.p-editorial--no-bg.p-editorial"
+     },
+     "eds": {
+      "path": "div.promo-steps-panel > div.promo-steps-list > div.promo-step"
+     },
+     "rows": [
+      {
+       "key": "image:step 2",
+       "role": "image",
+       "text": "step 2",
+       "edsText": "step 2",
+       "byPosition": false,
+       "origin": {
+        "x": 40,
+        "y": 0,
+        "w": 225,
+        "h": 158
+       },
+       "eds": {
+        "x": 40,
+        "y": 0,
+        "w": 225,
+        "h": 158,
+        "sel": "img",
+        "role": "image"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "15/21/400",
+        "eds": "15/21/400"
+       }
+      },
+      {
+       "key": "heading:complete your entry",
+       "role": "heading",
+       "text": "complete your entry",
+       "edsText": "complete your entry",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 158,
+        "w": 305,
+        "h": 92
+       },
+       "eds": {
+        "x": 0,
+        "y": 158,
+        "w": 305,
+        "h": 92,
+        "sel": "h3#complete-your-entry",
+        "role": "heading"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "30/30/700",
+        "eds": "30/30/700"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [
+      {
+       "role": "image",
+       "tag": "picture",
+       "sel": "picture",
+       "text": "",
+       "boxed": false,
+       "x": 40,
+       "y": 0,
+       "w": 225,
+       "h": 158,
+       "absY": 1672,
+       "hidden": false,
+       "fs": 15,
+       "lh": 21,
+       "fw": "400",
+       "color": "rgb(255, 255, 255)",
+       "bg": null,
+       "position": "static",
+       "key": "image:picture#1"
+      }
+     ],
+     "unit": {
+      "origin": {
+       "x": 568,
+       "y": 1672,
+       "w": 305,
+       "h": 280
+      },
+      "eds": {
+       "x": 568,
+       "y": 1672,
+       "w": 305,
+       "h": 280
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 2,
+      "within": 2,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 1,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 2,
+     "origin": {
+      "path": "div.p-icons--content > div.p-icons__paragraphs.paragraphs > div.p-editorial--no-bg.p-editorial"
+     },
+     "eds": {
+      "path": "div.promo-steps-panel > div.promo-steps-list > div.promo-step"
+     },
+     "rows": [
+      {
+       "key": "image:step 3",
+       "role": "image",
+       "text": "step 3",
+       "edsText": "step 3",
+       "byPosition": false,
+       "origin": {
+        "x": 40,
+        "y": 0,
+        "w": 225,
+        "h": 158
+       },
+       "eds": {
+        "x": 40,
+        "y": 0,
+        "w": 225,
+        "h": 158,
+        "sel": "img",
+        "role": "image"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "15/21/400",
+        "eds": "15/21/400"
+       }
+      },
+      {
+       "key": "heading:you're entered for your chance to win",
+       "role": "heading",
+       "text": "you're entered for your chance to win",
+       "edsText": "you're entered for your chance to win",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 158,
+        "w": 305,
+        "h": 122
+       },
+       "eds": {
+        "x": 0,
+        "y": 158,
+        "w": 305,
+        "h": 122,
+        "sel": "h3#youre-entered-for-your-chance-to-win",
+        "role": "heading"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "30/30/700",
+        "eds": "30/30/700"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [
+      {
+       "role": "image",
+       "tag": "picture",
+       "sel": "picture",
+       "text": "",
+       "boxed": false,
+       "x": 40,
+       "y": 0,
+       "w": 225,
+       "h": 158,
+       "absY": 1672,
+       "hidden": false,
+       "fs": 15,
+       "lh": 21,
+       "fw": "400",
+       "color": "rgb(255, 255, 255)",
+       "bg": null,
+       "position": "static",
+       "key": "image:picture#1"
+      }
+     ],
+     "unit": {
+      "origin": {
+       "x": 947,
+       "y": 1672,
+       "w": 305,
+       "h": 280
+      },
+      "eds": {
+       "x": 947,
+       "y": 1672,
+       "w": 305,
+       "h": 280
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 2,
+      "within": 2,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 1,
+      "unitOff": false
+     }
+    }
+   ]
+  },
+  {
+   "sel": ".p-slider .swiper-wrapper > .swiper-slide=.promo-prizes-track > .promo-prize",
+   "family": null,
+   "required": true,
+   "originMatches": 2,
+   "edsMatches": 2,
+   "units": [
+    {
+     "index": 0,
+     "origin": {
+      "path": "div.swiper-editorial.swiper > div#swiper-wrapper-b22c51058ebe9b36f > div.swiper-slide.swiper-slide-active"
+     },
+     "eds": {
+      "path": "div.promo-prizes-viewport > div.promo-prizes-track > div.promo-prize"
+     },
+     "rows": [
+      {
+       "key": "image:netflix house on the vegas strip prize i",
+       "role": "image",
+       "text": "netflix house on the vegas strip prize in the wonka golden t",
+       "edsText": "netflix house on the vegas strip prize in the wonka golden t",
+       "byPosition": false,
+       "origin": {
+        "x": 695,
+        "y": 0,
+        "w": 665,
+        "h": 400
+       },
+       "eds": {
+        "x": 695,
+        "y": 0,
+        "w": 665,
+        "h": 400,
+        "sel": "img",
+        "role": "image"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "15/21/400",
+        "eds": "15/21/400"
+       }
+      },
+      {
+       "key": "heading:the wonka golden ticket experience",
+       "role": "heading",
+       "text": "the wonka golden ticket experience",
+       "edsText": "the wonka golden ticket experience",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 107,
+        "w": 665,
+        "h": 86
+       },
+       "eds": {
+        "x": 0,
+        "y": 107,
+        "w": 665,
+        "h": 86,
+        "sel": "h3#the-wonka-golden-ticket-experience",
+        "role": "heading"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "30/30/700",
+        "eds": "30/30/700"
+       }
+      },
+      {
+       "key": "text:winner and and three guests will receive",
+       "role": "text",
+       "text": "winner and and three guests will receive a four day, three n",
+       "edsText": "winner and and three guests will receive a four day, three n",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 208,
+        "w": 665,
+        "h": 42
+       },
+       "eds": {
+        "x": 0,
+        "y": 208,
+        "w": 665,
+        "h": 42,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "15/21/400",
+        "eds": "15/21/400"
+       }
+      },
+      {
+       "key": "link:see official rules for details",
+       "role": "link",
+       "text": "see official rules for details",
+       "edsText": "see official rules for details",
+       "byPosition": false,
+       "origin": {
+        "x": 228,
+        "y": 272,
+        "w": 209,
+        "h": 21
+       },
+       "eds": {
+        "x": 228,
+        "y": 272,
+        "w": 209,
+        "h": 21,
+        "sel": "a.button.secondary",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "15/21/400",
+        "eds": "15/21/400"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [
+      {
+       "role": "image",
+       "tag": "picture",
+       "sel": "picture",
+       "text": "",
+       "boxed": false,
+       "x": 695,
+       "y": 0,
+       "w": 665,
+       "h": 400,
+       "absY": 2363,
+       "hidden": false,
+       "fs": 15,
+       "lh": 21,
+       "fw": "400",
+       "color": "rgb(255, 255, 255)",
+       "bg": null,
+       "position": "static",
+       "key": "image:picture#1"
+      }
+     ],
+     "unit": {
+      "origin": {
+       "x": 40,
+       "y": 2362,
+       "w": 1360,
+       "h": 400
+      },
+      "eds": {
+       "x": 40,
+       "y": 2363,
+       "w": 1360,
+       "h": 400
+      },
+      "dx": 0,
+      "dy": 1,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 4,
+      "within": 4,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 1,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 1,
+     "origin": {
+      "path": "div.swiper-editorial.swiper > div#swiper-wrapper-b22c51058ebe9b36f > div.swiper-slide.swiper-slide-next"
+     },
+     "eds": {
+      "path": "div.promo-prizes-viewport > div.promo-prizes-track > div.promo-prize"
+     },
+     "rows": [
+      {
+       "key": "image:wonka factory bundle",
+       "role": "image",
+       "text": "wonka factory bundle",
+       "edsText": "wonka factory bundle",
+       "byPosition": false,
+       "origin": {
+        "x": 695,
+        "y": 0,
+        "w": 665,
+        "h": 400
+       },
+       "eds": {
+        "x": 695,
+        "y": 0,
+        "w": 665,
+        "h": 400,
+        "sel": "img",
+        "role": "image"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "hiddenBoth": true,
+       "type": {
+        "origin": "15/21/400",
+        "eds": "15/21/400"
+       }
+      },
+      {
+       "key": "heading:wonka factory bundle",
+       "role": "heading",
+       "text": "wonka factory bundle",
+       "edsText": "wonka factory bundle",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 107,
+        "w": 665,
+        "h": 86
+       },
+       "eds": {
+        "x": 0,
+        "y": 107,
+        "w": 665,
+        "h": 86,
+        "sel": "h3#wonka-factory-bundle",
+        "role": "heading"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "hiddenBoth": true,
+       "type": {
+        "origin": "30/30/700",
+        "eds": "30/30/700"
+       }
+      },
+      {
+       "key": "text:the factory bundle is a tiny treasure fr",
+       "role": "text",
+       "text": "the factory bundle is a tiny treasure from a bigger wonderla",
+       "edsText": "the factory bundle is a tiny treasure from a bigger wonderla",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 208,
+        "w": 665,
+        "h": 42
+       },
+       "eds": {
+        "x": 0,
+        "y": 208,
+        "w": 665,
+        "h": 42,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "hiddenBoth": true,
+       "type": {
+        "origin": "15/21/400",
+        "eds": "15/21/400"
+       }
+      },
+      {
+       "key": "link:a.s.button-secondary#1",
+       "role": "link",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 228,
+        "y": 272,
+        "w": 209,
+        "h": 21
+       },
+       "eds": {
+        "x": 228,
+        "y": 272,
+        "w": 209,
+        "h": 21,
+        "sel": "a.button.secondary",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "hiddenBoth": true,
+       "type": {
+        "origin": "15/21/400",
+        "eds": "15/21/400"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [
+      {
+       "role": "image",
+       "tag": "picture",
+       "sel": "picture",
+       "text": "",
+       "boxed": false,
+       "x": 695,
+       "y": 0,
+       "w": 665,
+       "h": 400,
+       "absY": 2363,
+       "hidden": true,
+       "fs": 15,
+       "lh": 21,
+       "fw": "400",
+       "color": "rgb(255, 255, 255)",
+       "bg": null,
+       "position": "static",
+       "key": "image:picture#1"
+      }
+     ],
+     "unit": {
+      "origin": {
+       "x": 1400,
+       "y": 2362,
+       "w": 1360,
+       "h": 400
+      },
+      "eds": {
+       "x": 1400,
+       "y": 2363,
+       "w": 1360,
+       "h": 400
+      },
+      "dx": 0,
+      "dy": 1,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 4,
+      "within": 4,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 1,
+      "unitOff": false
+     }
+    }
+   ]
+  }
+ ],
+ "verdict": {
+  "units": 5,
+  "within": 14,
+  "off": 0,
+  "hidden": 0,
+  "missing": 0,
+  "errors": 0,
+  "requiredOff": 0
+ }
+}

@@ -1,0 +1,355 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:rollout/blocks",
+    "writtenAt": "2026-11-25T11:27:23.121Z",
+    "readArtifacts": [
+      "stardust/rollout/coverage/pages.json"
+    ],
+    "stardustVersion": "0.0.0"
+  },
+  "generatedAt": "2026-11-25T12:34:58.456Z",
+  "blocks": [
+    {
+      "id": "ar-banner",
+      "label": "ar-banner",
+      "kind": "module",
+      "signature": "module:ar-banner",
+      "source": null,
+      "usedByTemplates": [
+        "us-en-xp-golden-ticket"
+      ],
+      "usedByPages": [
+        "us-en-xp-golden-ticket"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "deployed",
+        "edsBlockName": "ar-banner",
+        "blockPath": null,
+        "convertedAt": "2026-11-25T12:18:59.449Z"
+      }
+    },
+    {
+      "id": "coming-soon",
+      "label": "coming-soon",
+      "kind": "module",
+      "signature": "module:coming-soon",
+      "source": null,
+      "usedByTemplates": [
+        "us-en"
+      ],
+      "usedByPages": [
+        "us-en"
+      ],
+      "instanceCount": 2,
+      "delivery": {
+        "status": "verified",
+        "edsBlockName": "coming-soon",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "discover-hero",
+      "label": "discover-hero",
+      "kind": "module",
+      "signature": "module:discover-hero",
+      "source": null,
+      "usedByTemplates": [
+        "us-en-about-wonka"
+      ],
+      "usedByPages": [
+        "us-en-about-wonka"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "verified",
+        "edsBlockName": "discover-hero",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "faq",
+      "label": "faq",
+      "kind": "module",
+      "signature": "module:faq",
+      "source": null,
+      "usedByTemplates": [
+        "us-en-about-wonka"
+      ],
+      "usedByPages": [
+        "us-en-about-wonka"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "verified",
+        "edsBlockName": "faq",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "hero",
+      "label": "hero",
+      "kind": "module",
+      "signature": "module:hero",
+      "source": null,
+      "usedByTemplates": [
+        "us-en"
+      ],
+      "usedByPages": [
+        "us-en"
+      ],
+      "instanceCount": 2,
+      "delivery": {
+        "status": "verified",
+        "edsBlockName": "home-hero",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "image-text",
+      "label": "image-text",
+      "kind": "module",
+      "signature": "module:image-text",
+      "source": null,
+      "usedByTemplates": [
+        "us-en-about-wonka"
+      ],
+      "usedByPages": [
+        "us-en-about-wonka"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "verified",
+        "edsBlockName": "image-text",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "legal-accordion",
+      "label": "legal-accordion",
+      "kind": "module",
+      "signature": "module:legal-accordion",
+      "source": null,
+      "usedByTemplates": [
+        "us-en-privacy-policy"
+      ],
+      "usedByPages": [
+        "us-en-cookie-policy",
+        "us-en-privacy-policy",
+        "us-en-terms-of-use"
+      ],
+      "instanceCount": 3,
+      "delivery": {
+        "status": "verified",
+        "edsBlockName": "legal-accordion",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "portal",
+      "label": "portal",
+      "kind": "module",
+      "signature": "module:portal",
+      "source": null,
+      "usedByTemplates": [
+        "us-en"
+      ],
+      "usedByPages": [
+        "us-en"
+      ],
+      "instanceCount": 2,
+      "delivery": {
+        "status": "verified",
+        "edsBlockName": "portal",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "product-cards",
+      "label": "product-cards",
+      "kind": "module",
+      "signature": "module:product-cards",
+      "source": null,
+      "usedByTemplates": [
+        "us-en"
+      ],
+      "usedByPages": [
+        "us-en"
+      ],
+      "instanceCount": 2,
+      "delivery": {
+        "status": "verified",
+        "edsBlockName": "product-cards",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "promo-banner",
+      "label": "promo-banner",
+      "kind": "module",
+      "signature": "module:promo-banner",
+      "source": null,
+      "usedByTemplates": [
+        "us-en-about-wonka"
+      ],
+      "usedByPages": [
+        "us-en-about-wonka"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "verified",
+        "edsBlockName": "promo-banner",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "promo-editorial",
+      "label": "promo-editorial",
+      "kind": "module",
+      "signature": "module:promo-editorial",
+      "source": null,
+      "usedByTemplates": [
+        "us-en-xp-golden-ticket"
+      ],
+      "usedByPages": [
+        "us-en-xp-golden-ticket"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "deployed",
+        "edsBlockName": "promo-editorial",
+        "blockPath": null,
+        "convertedAt": "2026-11-25T12:18:59.330Z"
+      }
+    },
+    {
+      "id": "promo-prizes",
+      "label": "promo-prizes",
+      "kind": "module",
+      "signature": "module:promo-prizes",
+      "source": null,
+      "usedByTemplates": [
+        "us-en-xp-golden-ticket"
+      ],
+      "usedByPages": [
+        "us-en-xp-golden-ticket"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "deployed",
+        "edsBlockName": "promo-prizes",
+        "blockPath": null,
+        "convertedAt": "2026-11-25T12:18:59.407Z"
+      }
+    },
+    {
+      "id": "promo-steps",
+      "label": "promo-steps",
+      "kind": "module",
+      "signature": "module:promo-steps",
+      "source": null,
+      "usedByTemplates": [
+        "us-en-xp-golden-ticket"
+      ],
+      "usedByPages": [
+        "us-en-xp-golden-ticket"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "deployed",
+        "edsBlockName": "promo-steps",
+        "blockPath": null,
+        "convertedAt": "2026-11-25T12:18:59.369Z"
+      }
+    },
+    {
+      "id": "promo-title-text",
+      "label": "promo-title-text",
+      "kind": "module",
+      "signature": "module:promo-title-text",
+      "source": null,
+      "usedByTemplates": [
+        "us-en-xp-golden-ticket"
+      ],
+      "usedByPages": [
+        "us-en-xp-golden-ticket"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "converted",
+        "edsBlockName": "default-content",
+        "blockPath": null,
+        "convertedAt": "2026-11-25T12:18:59.486Z"
+      }
+    },
+    {
+      "id": "promo-visual",
+      "label": "promo-visual",
+      "kind": "module",
+      "signature": "module:promo-visual",
+      "source": null,
+      "usedByTemplates": [
+        "us-en-xp-golden-ticket"
+      ],
+      "usedByPages": [
+        "us-en-xp-golden-ticket"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "deployed",
+        "edsBlockName": "promo-visual",
+        "blockPath": null,
+        "convertedAt": "2026-11-25T12:18:59.287Z"
+      }
+    },
+    {
+      "id": "social",
+      "label": "social",
+      "kind": "module",
+      "signature": "module:social",
+      "source": null,
+      "usedByTemplates": [
+        "us-en-about-wonka"
+      ],
+      "usedByPages": [
+        "us-en-about-wonka"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "verified",
+        "edsBlockName": "social",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "story-cards",
+      "label": "story-cards",
+      "kind": "module",
+      "signature": "module:story-cards",
+      "source": null,
+      "usedByTemplates": [
+        "us-en-about-wonka"
+      ],
+      "usedByPages": [
+        "us-en-about-wonka"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "verified",
+        "edsBlockName": "story-cards",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "story-cards": {
+    "origin": "section.story-cards ul > li",
+    "build": ".scards__list > li",
+    "eds": ".story-cards-list > li",
+    "n": 3,
+    "required": true,
+    "pages": [
+      "us-en-about-wonka"
+    ],
+    "templates": [
+      "about"
+    ]
+  },
+  "faq-accordion": {
+    "origin": "section.accordion li.accordion__item",
+    "build": ".faq__list > .faq__item",
+    "eds": ".faq-list > .faq-item",
+    "n": 7,
+    "required": true,
+    "pages": [
+      "us-en-about-wonka"
+    ],
+    "templates": [
+      "about"
+    ]
+  },
+  "legal-accordion": {
+    "origin": ".otnotice-section-content > .ot-notice-layer-break-container",
+    "build": ".legal-body > .legal-acc",
+    "n": 13,
+    "required": true,
+    "pages": [
+      "us-en-privacy-policy"
+    ],
+    "templates": [
+      "static"
+    ]
+  },
+  "product-cards": {
+    "origin": "#product-section article.product-card",
+    "build": "#product-section > article.pcard",
+    "eds": ".product-cards > article.pcard",
+    "n": 5,
+    "required": true,
+    "pages": [
+      "us-en"
+    ],
+    "templates": []
+  },
+  "legal-prose-plain": {
+    "origin": ".legal-page__body > p",
+    "build": ".legal-body > p",
+    "eds": ".legal-body-plain > p",
+    "n": 22,
+    "required": true,
+    "pages": [
+      "us-en-terms-of-use"
+    ],
+    "templates": []
+  },
+  "legal-prose-cookies": {
+    "origin": ".otnotice-section-content > p",
+    "build": ".legal-body > p",
+    "eds": ".legal-body-cookies > p",
+    "n": 12,
+    "required": true,
+    "pages": [
+      "us-en-cookie-policy"
+    ],
+    "templates": []
+  },
+  "legal-cookie-tables": {
+    "origin": "#ot-sdk-cookie-policy table",
+    "build": ".legal-body table.legal-cookie-table",
+    "eds": ".legal-body-cookies table.legal-cookie-table",
+    "n": 2,
+    "required": true,
+    "pages": [
+      "us-en-cookie-policy"
+    ],
+    "templates": []
+  },
+  "promo-steps": {
+    "origin": ".p-editorial.p-editorial--default",
+    "build": ".promo-steps__list > .promo-step",
+    "eds": ".promo-steps-list > .promo-step",
+    "n": 3,
+    "required": true,
+    "pages": [
+      "us-en-xp-golden-ticket"
+    ],
+    "templates": []
+  },
+  "promo-prizes": {
+    "origin": ".p-slider .swiper-wrapper > .swiper-slide",
+    "build": ".promo-prizes__track > .promo-prize",
+    "eds": ".promo-prizes-track > .promo-prize",
+    "n": 2,
+    "required": true,
+    "pages": [
+      "us-en-xp-golden-ticket"
+    ],
+    "templates": []
+  }
+}

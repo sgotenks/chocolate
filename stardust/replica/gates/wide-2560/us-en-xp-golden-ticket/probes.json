@@ -1,0 +1,64 @@
+{
+ "writtenBy": "gate-all.mjs",
+ "at": "2026-11-25T12:41:34.732Z",
+ "clip": {
+  "counts": {
+   "textClipped": 0,
+   "textHidden": 0,
+   "controlHidden": 0,
+   "controlClipped": 0,
+   "clamped": 0,
+   "collapsed": 0,
+   "scrollHidden": 0,
+   "horizontal": 4,
+   "offPage": 0,
+   "textNodes": 36,
+   "controls": 21,
+   "total": 0
+  },
+  "groups": [
+   {
+    "kind": "TEXT X-HIDDEN",
+    "advisory": true,
+    "n": 1,
+    "clipper": "div.promo-prizes-viewport",
+    "path": "div.promo-prize > div.promo-prize-text > div.promo-prize-title > h3#wonka-factory-bundle",
+    "text": "wonka factory bundle",
+    "cutMin": 12,
+    "cutMax": 12
+   },
+   {
+    "kind": "TEXT X-HIDDEN",
+    "advisory": true,
+    "n": 1,
+    "clipper": "div.promo-prizes-viewport",
+    "path": "div.promo-prize > div.promo-prize-text > div.promo-prize-body > p",
+    "text": "the factory bundle is a tiny treasure from a bigger wonderla",
+    "cutMin": 144,
+    "cutMax": 144
+   },
+   {
+    "kind": "CONTROL X-HIDDEN",
+    "advisory": true,
+    "n": 1,
+    "clipper": "div.promo-prizes-viewport",
+    "path": "div.promo-prize-text > div.promo-prize-links > p.button-wrapper > a.button.secondary",
+    "text": "see official rules for details",
+    "cutMin": null,
+    "cutMax": null
+   },
+   {
+    "kind": "TEXT X-HIDDEN",
+    "advisory": true,
+    "n": 1,
+    "clipper": "div.promo-prizes-viewport",
+    "path": "div.promo-prize-text > div.promo-prize-links > p.button-wrapper > a.button.secondary",
+    "text": "see official rules for details",
+    "cutMin": 0,
+    "cutMax": 0
+   }
+  ],
+  "source": "clip-probe",
+  "tier": "chrome"
+ }
+}

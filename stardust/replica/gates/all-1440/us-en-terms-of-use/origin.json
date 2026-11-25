@@ -1,0 +1,17 @@
+{
+  "instrument": "stitch-live",
+  "url": "https://www.wonka.com/us/en/terms-of-use",
+  "reference": {
+    "dir": "stardust/replica/gates/all-1440/us-en-terms-of-use",
+    "capturedAt": "2026-11-25T12:25:41.077Z",
+    "primed": true,
+    "stable": true,
+    "noiseFloor": 0,
+    "variableRows": 0,
+    "maskArg": ""
+  },
+  "note": "reused stardust/replica/gates/all-1440/us-en-terms-of-use/baseline.png (the page's frozen reference — primed, not re-captured)",
+  "fontsFailed": [],
+  "deadFaces": [],
+  "at": "2026-11-25T14:41:34.552Z"
+}

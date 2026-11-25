@@ -1,0 +1,80 @@
+{
+  "slug": "us-en-cookie-policy",
+  "type": "static",
+  "renderBranch": "A'",
+  "template": "us-en-privacy-policy",
+  "modules": [
+    "legal-accordion"
+  ],
+  "widgets": [],
+  "slotsFilled": [
+    "page__sections"
+  ],
+  "canonShas": {
+    "header": "436c53082a11",
+    "footer": "e531a9fac6b7",
+    "css": "e674aed98c37"
+  },
+  "deviations": [],
+  "migrationDecisions": [],
+  "metadata": {
+    "title": "Cookie Policy | Wonka",
+    "description": "Read the Wonka US Cookie Policy. Learn about the cookies we use, how they enhance your experience, and how to manage your cookie preferences.",
+    "canonical": "https://www.wonka.com/us/en/cookie-policy",
+    "lang": "en"
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Cookie Policy | Wonka",
+    "description": "Read the Wonka US Cookie Policy. Learn about the cookies we use, how they enhance your experience, and how to manage your cookie preferences.",
+    "url": "https://www.wonka.com/us/en/cookie-policy"
+  },
+  "migratedAt": "2026-11-25T12:09:38Z",
+  "designMdSha": "b830f5f77c7c",
+  "designJsonSha": "cc2e3d5fbccd",
+  "sourceCurrentSha": "0c44ef3d8ccb",
+  "sourceProposedSha": "f7b3b66535da",
+  "fidelityTier": "sibling",
+  "archetypeSource": "us-en-privacy-policy",
+  "archetypeSha": "d9941056daf2",
+  "variants": [
+    "legal-body--notice legal-cookie-list"
+  ],
+  "gatesPassed": [
+    "content-fidelity",
+    "delivery-lint",
+    "variance-probe",
+    "content-count"
+  ],
+  "gateEvidence": {
+    "content-fidelity": "content-diff capture→render generic: looks-same 0 / nothing-lost 0; main 62=62 text nodes, attrs 12=12 (static-cd-cookie2.log)",
+    "pixel-gate-1440": "OPEN: no row in the pixel table (prototypes-1440) — run gate-all.mjs --stage prototype so the page is measured",
+    "pixel-gate-360": "OPEN: no row in the pixel table (prototypes-360) — run gate-all.mjs --stage prototype so the page is measured",
+    "media-reconcile": "n/a: no delivered content file yet (content/us/en/cookie-policy.html) — media-reconcile runs in the delivery chain (row C)",
+    "delivery-lint": "0 P0 · 0 P1 · 1 P2 (delivery-lint --path /us/en/cookie-policy)",
+    "variance-probe": "■ https://www.wonka.com/us/en/cookie-policy: 5 delta(s) — variants [legal-body--notice legal-cookie-list] (static-variance.log)",
+    "content-count": "role counts capture=render: main 4 h / 11 cta / 47 body, 12 attrs; Tiers looks-same 0 · nothing-lost 0 (static-cd-cookie2.log)"
+  },
+  "contentDeviations": [
+    {
+      "kind": "drop",
+      "source": "#cookie-policy-description (empty div), span.ot-mobile-border (empty)",
+      "target": "-",
+      "reason": "empty OneTrust SDK scaffolding; spacing carried by CSS (h3 margin)"
+    },
+    {
+      "kind": "transform",
+      "source": "OneTrust SDK ids/classes (#ot-sdk-cookie-policy-v2, ot-sdk-cookie-policy-group[-desc], #ot-sdk-btn)",
+      "target": ".legal-cookie-list/.legal-cookie-group/.legal-cookie-desc/.legal-cookie-table, consent button",
+      "reason": "client-rendered SDK markup re-authored as static rich text; td data-label from header cells"
+    }
+  ],
+  "assetsBundled": 1,
+  "missingAssets": [],
+  "brokenInternalLinks": [],
+  "outputPath": "us/en/cookie-policy/index.html",
+  "outputPathDefault": "trailing-slash",
+  "sidecar": "us/en/cookie-policy/_meta.json",
+  "driverVersion": "1"
+}

@@ -1,0 +1,8 @@
+measure  http://localhost:8791/us-en-xp-golden-ticket-proposed.html
+  widths 360 · 1 selector(s) · 1 props · first match
+
+@ 360px
+  root  scrollWidth   360  viewport 360  scrollHeight   4808
+  html
+       x     0  y      0  w   360  h  4808  vis  "Skip to main content COULD YOU BE THE L…"
+      display: block

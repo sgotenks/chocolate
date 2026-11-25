@@ -1,0 +1,62 @@
+{
+ "source": "http://127.0.0.1:8793/us-en-proposed.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "hero",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Extraordinary creations from the Wonka Factory"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Unwrap the Wonder",
+     "href": "#product-section"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Enter Golden Ticket Sweepstakes",
+     "href": "https://www.wonka.com/us/en/xp/golden-ticket/"
+    }
+   ],
+   "imgCount": 8,
+   "editableTexts": 1,
+   "repeats": [
+    {
+     "unitSelector": "A.btn",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 1
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "soon",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "COMING SOON!"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Check back November 2nd to enter the Golden Ticket Sweepstakes"
+    }
+   ],
+   "imgCount": 4,
+   "editableTexts": 2,
+   "repeats": []
+  }
+ ]
+}

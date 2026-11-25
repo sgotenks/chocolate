@@ -1,0 +1,947 @@
+{
+ "source": "file:///workspace/a6216fe5/stardust/prototypes/us-en-privacy-policy-proposed.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "legal-page",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Privacy policy"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Last Updated: January 1, 2026"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "This Privacy Policy applies to the websites on which it is posted, which are operated by (“Company,” “we,” or us”). This Policy also applies when you respond to our emails, place orders via mail, fax or phone, or otherwise contact us. We refer to each of these websites, services, and offerings as a “Site,” and collectively as the “Sites.” This Policy discloses our practices with respect to the collection of information through the Sites and our use of the information. This Policy applies solely to information collected through the Sites. This Policy does not apply to third-party websites, applications, and services, even if they are linked to or accessible from our Sites. By using the Sites, you agree with the terms of this Policy. If you do not agree with any term in this Policy, please do not use the Sites or provide any information to us."
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Wonka"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": ", a Ferrero brand"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Click and ” and our notice at collection."
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "here to view Section 5, “Your Choices and Your Privacy Rights,”",
+     "href": "#ot-notice-layer-break-header-161"
+    },
+    {
+     "role": "cta",
+     "order": 7,
+     "text": "Section 6, “Your California Privacy Rights,",
+     "href": "#ot-notice-layer-break-header-270"
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "1. Collection of Information From and About You."
+    },
+    {
+     "role": "body",
+     "order": 9,
+     "text": "We collect certain categories of personal information from and about you, depending on how you interact with us."
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": ". We collect your name, address, telephone number, and email address through a Site when you voluntarily submit it. On some Sites, we may also collect a username if you create one."
+    },
+    {
+     "role": "body",
+     "order": 11,
+     "text": "We collect Contact Information"
+    },
+    {
+     "role": "body",
+     "order": 12,
+     "text": ". Where our Site offers you the ability to buy products from us directly, we collect information about your purchases on our Site. We collect your order history, including the products you purchased or browsed through our Site. We collect information about your product or shopping preferences. We also collect billing information, including your credit card information and billing address."
+    },
+    {
+     "role": "body",
+     "order": 13,
+     "text": "We collect Purchase and Payment Information"
+    },
+    {
+     "role": "body",
+     "order": 14,
+     "text": ". We collect information such as your age, gender, and birthdate."
+    },
+    {
+     "role": "body",
+     "order": 15,
+     "text": "We collect Demographic Information"
+    },
+    {
+     "role": "body",
+     "order": 16,
+     "text": ". We collect information about your general location, using your zip code and IP address. If you are ordering directly from Company’s Site, in addition, we collect any general location information provided with your order."
+    },
+    {
+     "role": "body",
+     "order": 17,
+     "text": "We collect Location Information"
+    },
+    {
+     "role": "body",
+     "order": 18,
+     "text": ". When you connect to a Site, there is certain technical information that may be collected through the use of cookies and other tracking tools. This information includes your IP address, operating system, device identifiers, browser type, settings, information about your Internet connection, and the number, duration, and character of page visits. We collect information about users over time and across different websites when you use the Site. For example, we may look at what site you came from, or what site you visit when you leave us. We also look at how you engage with our emails, including whether you open them or click on links. Third parties help us collect personal information this way. This information helps us update a Site so that it stays interesting to our visitors and includes content that is tailored to visitors’ interests. You can set your computer browser to disable cookies. If you disable cookies, certain features on the Site may not work. Learn more about the types of cookies and specific tools we use, and how you can control them, in Section 5 and in our ."
+    },
+    {
+     "role": "body",
+     "order": 19,
+     "text": "We collect Device, Internet, and Network Activity Information"
+    },
+    {
+     "role": "body",
+     "order": 20,
+     "text": ","
+    },
+    {
+     "role": "cta",
+     "order": 21,
+     "text": "“Your Choices” below",
+     "href": "#ot-notice-layer-break-header-161"
+    },
+    {
+     "role": "cta",
+     "order": 22,
+     "text": ",",
+     "href": "#ot-notice-layer-break-header-161"
+    },
+    {
+     "role": "cta",
+     "order": 23,
+     "text": "Cookie Policy",
+     "href": "https://www.nutella.com/us/en/cookie-policy"
+    },
+    {
+     "role": "body",
+     "order": 24,
+     "text": ". We draw inferences about you, your preferences, and your characteristics using the pieces of personal information collected about you."
+    },
+    {
+     "role": "body",
+     "order": 25,
+     "text": "We collect and develop Inferences"
+    },
+    {
+     "role": "body",
+     "order": 26,
+     "text": "We collect other categories of information you provide when you contact us, make a request, complete a survey, or participate in a sweepstakes. If you reach out to our customer care team, we may record and keep a transcript of our interaction for quality assurance and training purposes. If you win a prize in one of our promotions, we’ll collect a Social Security Number or tax ID number for tax purposes."
+    },
+    {
+     "role": "body",
+     "order": 27,
+     "text": "We collect other information you submit or send."
+    },
+    {
+     "role": "body",
+     "order": 28,
+     "text": "Some of the information described above may be considered “sensitive” under the laws of certain jurisdictions (including payment information, government ID numbers, and account login credentials) (“Sensitive Information”). Whether information is Sensitive Information will depend on the laws of your jurisdiction."
+    },
+    {
+     "role": "body",
+     "order": 29,
+     "text": "Sensitive Information."
+    },
+    {
+     "role": "heading",
+     "order": 30,
+     "text": "1. Collection of Information From and About You."
+    },
+    {
+     "role": "body",
+     "order": 31,
+     "text": "2. Sources of Your Information."
+    },
+    {
+     "role": "body",
+     "order": 32,
+     "text": "We collect each of the categories of personal information described above from the following sources, depending on how you interact with us and the Site you visit:"
+    },
+    {
+     "role": "body",
+     "order": 33,
+     "text": ". We ask you to submit information in certain instances, such as when you make a purchase, submit comments or questions, request information, participate in a promotion, contest or sweepstakes, or use other features or functions of a Site."
+    },
+    {
+     "role": "body",
+     "order": 34,
+     "text": "We collect information directly from you"
+    },
+    {
+     "role": "body",
+     "order": 35,
+     "text": ". We use tracking tools like browser cookies, web beacons, pixels, and tags. We do this when you interact with our Sites, our ads, and in emails that we send to you. Learn more about the types of cookies and specific tools we use, and how you can control them, in Section 5, , and in our ."
+    },
+    {
+     "role": "body",
+     "order": 36,
+     "text": "We collect information from you and your devices passively"
+    },
+    {
+     "role": "cta",
+     "order": 37,
+     "text": "“Your Choices” below",
+     "href": "#ot-notice-layer-break-header-161"
+    },
+    {
+     "role": "cta",
+     "order": 38,
+     "text": "Cookie Policy",
+     "href": "https://www.nutella.com/us/en/cookie-policy"
+    },
+    {
+     "role": "body",
+     "order": 39,
+     "text": ". For example, our vendors and service providers give us information about you. Social media platforms also give us information about you."
+    },
+    {
+     "role": "body",
+     "order": 40,
+     "text": "We get information about you from other companies"
+    },
+    {
+     "role": "body",
+     "order": 41,
+     "text": ". For example, we combine information that we have collected offline with information we collect online. We combine information we get from a third party with information we already have. We aggregate information with other visitors’ information to understand preferences and trends over time."
+    },
+    {
+     "role": "body",
+     "order": 42,
+     "text": "We also combine information"
+    },
+    {
+     "role": "heading",
+     "order": 43,
+     "text": "2. Sources of Your Information."
+    },
+    {
+     "role": "body",
+     "order": 44,
+     "text": "3. Use of Your information"
+    },
+    {
+     "role": "body",
+     "order": 45,
+     "text": "We use each of the categories of personal information described above as permitted by law and for the purposes listed below:"
+    },
+    {
+     "role": "body",
+     "order": 46,
+     "text": ". We use your information to make our Sites available, present content on them, and keep them functional. We use your information to fulfill purchases you make on our Sites. We also use your information to provide you with access to certain areas and features on a Site – for example, if you create an account on our Site or to integrate with third party social media platforms."
+    },
+    {
+     "role": "body",
+     "order": 47,
+     "text": "To provide you with products and services and fulfill orders"
+    },
+    {
+     "role": "body",
+     "order": 48,
+     "text": "We use your information to respond to your questions, comments, and requests. We will communicate with you about your activities on a Site, including your purchases and your account. We communicate with you about our relationship or your feedback. We may also contact you about this Privacy Policy or our website Terms."
+    },
+    {
+     "role": "body",
+     "order": 49,
+     "text": "To communicate with you."
+    },
+    {
+     "role": "body",
+     "order": 50,
+     "text": "We use your information to analyze how our Sites are used and whether visitors are interacting with or interested in certain features or areas. We also measure and monitor visitor traffic to evaluate how the Sites perform. We use cookies and other common tracking tools for this kind of analysis, as well as to recognize returning visitors, to store your password if you register, and customize or personalize our Site for you. We use information this way to understand how visitors use our Sites, to make our Sites and products better, to make updates, and to customize your experience with us."
+    },
+    {
+     "role": "body",
+     "order": 51,
+     "text": "To evaluate, personalize, and improve our Sites."
+    },
+    {
+     "role": "body",
+     "order": 52,
+     "text": ". We use your contact information to send you marketing communications about new products and special offers, including by email. Learn more about your choices for these communications in"
+    },
+    {
+     "role": "body",
+     "order": 53,
+     "text": "For marketing purposes"
+    },
+    {
+     "role": "cta",
+     "order": 54,
+     "text": "Section 5, \"Your Choices\" below.",
+     "href": "#ot-notice-layer-break-header-161"
+    },
+    {
+     "role": "body",
+     "order": 55,
+     "text": ". We and our third-party advertising partners display targeted advertising, cross-context behavioral advertising, and interest-based advertising using information from cookies and tracking tools and inferences gathered about you over time and across websites, apps, or other platforms. These ads can be served on websites, on social media, in apps, and in emails. The ads may be based on your browsing habits, purchases, location, or online activities. The ads can be about our products or other companies’ products and services. We and our third-party partners gather information about you for this purpose from the cookies, pixels, tags, web beacons, and other tracking tools described in this Policy and our . Our partners might also link your name or email address to other information they collect. Learn more about these third-party partners in Section 4, below. Sharing your information in connection with these advertising activities may be considered a “sale” or “sharing” as defined under certain privacy laws. Learn more about your choices for this kind of advertising in Section 5,"
+    },
+    {
+     "role": "body",
+     "order": 56,
+     "text": "For targeted advertising and interest-based ads"
+    },
+    {
+     "role": "cta",
+     "order": 57,
+     "text": "Cookie Policy",
+     "href": "https://www.nutella.com/us/en/cookie-policy"
+    },
+    {
+     "role": "cta",
+     "order": 58,
+     "text": "“Your Choices and Your State Rights”, below",
+     "href": "#ot-notice-layer-break-header-161"
+    },
+    {
+     "role": "body",
+     "order": 59,
+     "text": "."
+    },
+    {
+     "role": "body",
+     "order": 60,
+     "text": ". For example, we will use certain pieces of personal information to verify your identity if you make requests under this Privacy Policy. The verification steps and the pieces of personal information that we request may vary depending on the sensitivity and nature of your request. We will use personal information for security, safety, and due diligence; to investigate suspected fraud, harassment, physical threats, or violations of third-party rights; or to investigate violations of law or our Site Terms and policies. We also use information as otherwise permitted or required by law, regulation, or court order, or if a government agency or investigatory body requests it."
+    },
+    {
+     "role": "body",
+     "order": 61,
+     "text": "For legal proceedings or where necessary to establish, defend, or exercise legal rights"
+    },
+    {
+     "role": "body",
+     "order": 62,
+     "text": ". For example, we will use your personal information for purposes we describe when you enter a contest or sweepstakes."
+    },
+    {
+     "role": "body",
+     "order": 63,
+     "text": "For purposes we disclose when your information is collected, or for other purposes with your consent"
+    },
+    {
+     "role": "body",
+     "order": 64,
+     "text": "specifically, to provide you with services on our Platforms (i.e., to fulfill purchases and allow account logins), for tax purposes, and as authorized by law."
+    },
+    {
+     "role": "body",
+     "order": 65,
+     "text": "We use Sensitive Information for necessary or reasonably expected purposes –"
+    },
+    {
+     "role": "heading",
+     "order": 66,
+     "text": "3. Use of Your information"
+    },
+    {
+     "role": "body",
+     "order": 67,
+     "text": "4. Sharing Your Information with Other Parties"
+    },
+    {
+     "role": "body",
+     "order": 68,
+     "text": "We may share each of the categories of personal information described above with the following other entities:"
+    },
+    {
+     "role": "body",
+     "order": 69,
+     "text": "including our parent, subsidiary, and affiliated companies. This includes the brands within the Ferrero corporate family, a list of which can be found at ."
+    },
+    {
+     "role": "body",
+     "order": 70,
+     "text": "Within the Ferrero corporate family,"
+    },
+    {
+     "role": "cta",
+     "order": 71,
+     "text": "https://www.ferrero.com/us/en/all-brands-united-state",
+     "href": "https://www.ferrero.com/us/en/all-brands-united-states"
+    },
+    {
+     "role": "cta",
+     "order": 72,
+     "text": "s",
+     "href": "https://www.ferrero.com/us/en/all-brands-united-states"
+    },
+    {
+     "role": "body",
+     "order": 73,
+     "text": ", including entities involved in creating, producing, delivering, or maintaining a Site, as required to perform functions on our behalf in connection with the Site (such as administration of the Site, administration of promotions or other features on the Site, marketing, data analysis, fulfillment partners, payment processors, sending emails, or providing customer service). In order to share such information, it may be necessary for us to transmit your information outside the jurisdiction set forth below and you agree to this transfer."
+    },
+    {
+     "role": "body",
+     "order": 74,
+     "text": "With our vendors and service providers"
+    },
+    {
+     "role": "body",
+     "order": 75,
+     "text": ". These partners include other entities that co-sponsor a promotion with us. We also share information with third-party advertising partners though tracking tools on our Sites. These third-party partners include social media platforms, analytics companies, data brokers, and third-party advertisers. Personal information received by these third parties is also subject to their privacy policies. These third parties can share your information with others and use the information for their own marketing purposes or the marketing purposes of others. This may include the delivery of targeted advertising, cross-context behavioral advertising, and interest-based advertising."
+    },
+    {
+     "role": "body",
+     "order": 76,
+     "text": "With advertising partners for their marketing purposes"
+    },
+    {
+     "role": "body",
+     "order": 77,
+     "text": ". For example, we will share information to respond to a court order or subpoena. We will also share it if a government agency or investigatory body requests. We share information when we are investigating potential fraud. This might include fraud we think has happened during a sweepstakes or promotion. Or we may share your information if you are the winner of a sweepstakes or other contest with anyone who requests a winner’s list."
+    },
+    {
+     "role": "body",
+     "order": 78,
+     "text": "If we think we have to in order to comply with the law or to protect ourselves"
+    },
+    {
+     "role": "body",
+     "order": 79,
+     "text": ". If another entity acquires Company, Ferrero, or all or any part of our assets or business, information that we have collected about the users of the Sites may be transferred to such entity. We may transfer information this way if we merge, consolidate, reorganize, acquire, or form a joint venture with another business. Information may be among the assets transferred to a prospective buyer, new owner, or other third party involved. Also, if any bankruptcy or reorganization proceeding is brought by or against us, personal information may be considered an asset of ours and may be sold or transferred to third parties."
+    },
+    {
+     "role": "body",
+     "order": 80,
+     "text": "To any successor to all or part of our business"
+    },
+    {
+     "role": "body",
+     "order": 81,
+     "text": ". We may share de-identified or aggregated data for any purpose, unless prohibited by law."
+    },
+    {
+     "role": "body",
+     "order": 82,
+     "text": "We will also share information as otherwise permitted by law, or as we may notify you from time to time"
+    },
+    {
+     "role": "heading",
+     "order": 83,
+     "text": "4. Sharing Your Information with Other Parties"
+    },
+    {
+     "role": "body",
+     "order": 84,
+     "text": "5. Your Choices and Your Privacy Rights."
+    },
+    {
+     "role": "body",
+     "order": 85,
+     "text": ". To stop receiving our marketing emails, visit the Ferrero Preference Center or follow the unsubscribe instructions in the footer of any marketing message you get from us. Even if you opt out of receiving marketing messages, we will still send you transactional messages. These include responses to your questions and communications about your orders."
+    },
+    {
+     "role": "body",
+     "order": 86,
+     "text": "You can opt out of our marketing emails"
+    },
+    {
+     "role": "body",
+     "order": 87,
+     "text": ". You have choices with respect to our text messages. We may provide certain automated, recurring text message-based services (the “Text Services”). You can opt in to the Text Services by giving us your phone number on certain Sites. Your consent is not required and is not a condition of any purchase. If you opt in to Text Services, we may send automated, recurring marketing text messages from and about Company to the mobile number you provided, such as announcements, offerings, promotions, discounts, abandoned cart reminders, alerts, and administrative messages. Message frequency may vary, and standard message and data rates may apply. You can opt out of our text messages by replying “STOP” (a confirmation message will be sent). You can also text “HELP” for help. Data obtained from you in connection with the Text Services may include your mobile phone number with your mobile carrier’s name, your opt-in / opt-out status, and the date, time, and content of your messages to us (“Mobile Information”). For purposes of our Text Services, we use and share your Mobile Information just to send text messages from and about Company. Your Opt-in Information will not be sold or shared with third parties for their promotional or marketing purposes purposes."
+    },
+    {
+     "role": "body",
+     "order": 88,
+     "text": "You can opt out of text messages"
+    },
+    {
+     "role": "body",
+     "order": 89,
+     "text": "."
+    },
+    {
+     "role": "body",
+     "order": 90,
+     "text": "You can make certain requests"
+    },
+    {
+     "role": "body",
+     "order": 91,
+     "text": "See “How to Submit,” below, for instructions."
+    },
+    {
+     "role": "body",
+     "order": 92,
+     "text": "You can verify, correct, or update your information collected through a Site."
+    },
+    {
+     "role": "body",
+     "order": 93,
+     "text": "If you live in California, Colorado, Connecticut, Delaware, Indiana, Iowa, Kentucky, Maryland, Minnesota, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Rhode Island, Tennessee, Texas, Utah, or Virginia, you (or your authorized agent) can send us requests to delete your personal information. Please note that your information may not be deleted in its entirety from our systems, and some information may be kept to comply with legal exceptions or obligations. We may also keep an archived copy of your records as required by law or for legitimate business purposes."
+    },
+    {
+     "role": "body",
+     "order": 94,
+     "text": "Residents of certain US states can ask us to delete their personal information."
+    },
+    {
+     "role": "body",
+     "order": 95,
+     "text": "If you live in California, Colorado, Connecticut, Delaware, Indiana, Iowa, Kentucky, Maryland, Minnesota, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Rhode Island, Tennessee, Texas, Utah, or Virginia, you (or your authorized agent) can send us requests to access your personal information. We will provide access to your personal information in a portable and (to the extent technically feasible) a readily usable format. You can also request to confirm the processing of your personal information and request to revoke your prior consent. If you live in Connecticut, Minnesota, or Oregon, you can also ask us for a list of the third parties to which we disclosed personal information. You can also review information about these third parties if you click the Do Not Sell or Share link in the footer of our site and review the “Cookie Details”."
+    },
+    {
+     "role": "body",
+     "order": 96,
+     "text": "Residents of certain US states can ask for access to their personal information."
+    },
+    {
+     "role": "body",
+     "order": 97,
+     "text": "If you live in California, Colorado, Connecticut, Delaware, Indiana, Iowa, Kentucky, Maryland, Minnesota, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Rhode Island, Tennessee, Texas, and Virginia, you can appeal our decision if you are not satisfied with the outcome of your request. Please send appeals by email with “Attention: Privacy Appeal” in the subject line."
+    },
+    {
+     "role": "body",
+     "order": 98,
+     "text": "Residents of certain US states can appeal our decisions."
+    },
+    {
+     "role": "body",
+     "order": 99,
+     "text": ": If you are eligible to make a request, go to Ferrero Customer Care’s website at and select your particular Data Privacy request from the drop down list of options. If you are uncertain about which request fits your need, you can send a general request through the Customer Service webform. You can also call us at 800-688-3552. We will use commercially reasonable efforts to honor your request in accordance with and to the extent required by applicable laws, which may vary depending on where you live. We will verify your identity by email for certain verifiable requests. If you have an authorized agent submit a request on your behalf, we may still verify your identity or their authority to submit a request for you. We will not discriminate against you for exercising any of the rights outlined in this Policy. California residents can also view additional information about their rights in"
+    },
+    {
+     "role": "body",
+     "order": 100,
+     "text": "How to Submit"
+    },
+    {
+     "role": "cta",
+     "order": 101,
+     "text": "Contact - US Residents (EN)",
+     "href": "https://www.ferreronorthamerica.com/contact-US-residents"
+    },
+    {
+     "role": "cta",
+     "order": 102,
+     "text": "Section 6, “Your California Privacy Rights,” below.",
+     "href": "#ot-notice-layer-break-header-270"
+    },
+    {
+     "role": "body",
+     "order": 103,
+     "text": "You can opt out of the “sale” of your personal information, as well as certain types of “targeted advertising” on our Site (as these terms are defined under applicable laws and as described in Sections 3 and 4). Your request will be processed and fulfilled in accordance with applicable laws. To make a request with respect to cookies, pixels, and other tracking tools on our Sites, click the Do Not Sell or Share My Personal Information button below, or use the link in the footer of our Site. To opt out of other ways in which we may share your personal information for targeted advertising purposes, you will also need to visit the Ferrero Customer Care site select the “Do Not Sell or Share” request option, and complete the form."
+    },
+    {
+     "role": "body",
+     "order": 104,
+     "text": "You can opt-out of sale / targeted advertising on our Sites."
+    },
+    {
+     "role": "cta",
+     "order": 105,
+     "text": "Contact - US Residents (EN)",
+     "href": "https://www.ferreronorthamerica.com/contact-US-residents"
+    },
+    {
+     "role": "body",
+     "order": 106,
+     "text": ","
+    },
+    {
+     "role": "body",
+     "order": 107,
+     "text": "Do Not Sell or Share My Personal Information"
+    },
+    {
+     "role": "body",
+     "order": 108,
+     "text": ". To learn how to manage how we – and our vendors – use cookies, please read our . The Digital Advertising Alliance also offers tools to opt out of certain interest-based advertising by visiting optout.aboutads.info and optout.privacyrights.info. : Some browsers have “do not track” features that allow you to tell a website not to track you. We will respond to opt-out preference signals to the extent required by applicable law for your browser or device (such as Global Privacy Control, ), but we may not respond to other, older “do not track” signals."
+    },
+    {
+     "role": "body",
+     "order": 109,
+     "text": "You can control certain cookies and tracking tools"
+    },
+    {
+     "role": "cta",
+     "order": 110,
+     "text": "Cookie Policy, here",
+     "href": "https://www.nutella.com/us/en/cookie-policy"
+    },
+    {
+     "role": "body",
+     "order": 111,
+     "text": "Our Do Not Track Policy"
+    },
+    {
+     "role": "cta",
+     "order": 112,
+     "text": "https://globalprivacycontrol.org/",
+     "href": "https://globalprivacycontrol.org/"
+    },
+    {
+     "role": "body",
+     "order": 113,
+     "text": "Certain options you select are browser and device specific, and are deleted whenever you clear your browser’s cache."
+    },
+    {
+     "role": "heading",
+     "order": 114,
+     "text": "5. Your Choices and Your Privacy Rights."
+    },
+    {
+     "role": "body",
+     "order": 115,
+     "text": "6. Your California Privacy Rights"
+    },
+    {
+     "role": "body",
+     "order": 116,
+     "text": "If you reside in California, you have the right to ask us one time each year if we have shared personal information with third parties for their direct marketing purposes. To make such a request, please write to us at Attn: Legal Department – Privacy Policy, c/o Ferrero, 7 Sylvan Way, Parsippany, NJ 07054; or contact us by way of Ferrero’s Customer Care site here Please indicate in your letter or web form submission that that you are a California resident making a “Shine the Light” inquiry."
+    },
+    {
+     "role": "cta",
+     "order": 117,
+     "text": "Contact - US Residents (EN)",
+     "href": "https://www.ferreronorthamerica.com/contact-US-residents"
+    },
+    {
+     "role": "body",
+     "order": 118,
+     "text": "."
+    },
+    {
+     "role": "body",
+     "order": 119,
+     "text": "If you reside in California, you can make the following more specific requests with respect to your personal information. We will not discriminate against you for making any of these requests."
+    },
+    {
+     "role": "body",
+     "order": 120,
+     "text": ": You can ask us for access to the categories of personal information we collected about you, the categories of sources from which we collected the personal information, the categories of personal information we sold or disclosed, our business or commercial purpose for collecting, selling, or sharing the personal information, the categories of third parties to whom we disclosed the personal information, and the specific pieces of personal information we collected about you."
+    },
+    {
+     "role": "body",
+     "order": 121,
+     "text": "Know / Access"
+    },
+    {
+     "role": "body",
+     "order": 122,
+     "text": ": You can ask us to delete personal information that we maintain about you, subject to certain exceptions."
+    },
+    {
+     "role": "body",
+     "order": 123,
+     "text": "Deletion"
+    },
+    {
+     "role": "body",
+     "order": 124,
+     "text": ": You can ask us to correct inaccurate personal information that we maintain about you."
+    },
+    {
+     "role": "body",
+     "order": 125,
+     "text": "Correction"
+    },
+    {
+     "role": "body",
+     "order": 126,
+     "text": ": You can ask that we not sell or share your personal information with respect to certain cookies, pixels, and tracking tools by clicking the Do Not Sell or Share My Personal Information button below or use the link in our Site footer. To opt out of other ways in which we may sell or share your personal information, you will also need to visit the Ferrero’s Customer Care site , select the “Do Not Sell or Share” request option, and complete the form. For purposes of this Privacy Policy, “sell” means the sale of your personal information to an outside party for monetary or other valuable consideration, and “sharing” means any disclosure of personal information (renting, releasing, disclosing, disseminating, making available, transferring, or otherwise communicating orally, in writing, or by electronic or other means) to third parties for cross-contextual behavioral advertising purposes; in each case, subject to certain exceptions under California law. Your selections are specific to the device, website and browser you are using, and are deleted whenever you clear your browser’s cache."
+    },
+    {
+     "role": "body",
+     "order": 127,
+     "text": "Do Not Sell or Share My Personal Information"
+    },
+    {
+     "role": "cta",
+     "order": 128,
+     "text": "Contact - US Residents (EN)",
+     "href": "https://www.ferreronorthamerica.com/contact-US-residents"
+    },
+    {
+     "role": "body",
+     "order": 129,
+     "text": "Do Not Sell or Share My Personal Information"
+    },
+    {
+     "role": "body",
+     "order": 130,
+     "text": ": From time to time, we may offer financial incentives in connection with the collection or use of personal information. The material terms of the financial incentive will generally be presented to you at the time you sign up. You may withdraw from any financial incentive at any time as described below."
+    },
+    {
+     "role": "body",
+     "order": 131,
+     "text": "Financial Incentives"
+    },
+    {
+     "role": "body",
+     "order": 132,
+     "text": ": California residents can make a request online by contacting Ferrero Customer Care or by calling us at 800-688-3552. California residents can make a Do Not Sell or Share My Personal Information request by (1) clicking link in our Site footer, (2) by completing the Do Not Sell request form through . We may deny certain requests, or fulfill a request only in part, based on our legal rights and obligations. For example, we may retain personal information as permitted by law, such as for tax or other record keeping purposes, to maintain an active account, and to process transactions and facilitate customer requests. We will verify your identity prior to responding to certain verifiable requests. The verification steps may vary depending on the sensitivity of your personal information. You may designate an authorized agent to make a request on your behalf. When submitting the request, the authorized agent must be identified as an authorized agent."
+    },
+    {
+     "role": "body",
+     "order": 133,
+     "text": "How to Submit"
+    },
+    {
+     "role": "cta",
+     "order": 134,
+     "text": "Contact - US Residents (EN)",
+     "href": "https://www.ferreronorthamerica.com/contact-US-residents"
+    },
+    {
+     "role": "body",
+     "order": 135,
+     "text": "the button above or"
+    },
+    {
+     "role": "body",
+     "order": 136,
+     "text": "and"
+    },
+    {
+     "role": "cta",
+     "order": 137,
+     "text": "Ferrero Customer Care",
+     "href": "https://www.ferrero.com/us/en/contact-us"
+    },
+    {
+     "role": "body",
+     "order": 138,
+     "text": ": Please note the following regarding how we collect, use, and share your personal information, including in the previous 12 months:"
+    },
+    {
+     "role": "body",
+     "order": 139,
+     "text": "Additional Disclosures"
+    },
+    {
+     "role": "body",
+     "order": 140,
+     "text": "We may collect, use, and disclose, for our business and commercial purposes, the categories of personal information set forth in more detail in above. We collect and use these categories of personal information for the business and commercial purposes described of this Privacy Policy. We collect these categories of personal information from the sources described in of this Privacy Policy. To the extent permitted by applicable law, we may disclose these categories of personal information for the business and commercial purposes described in of this Privacy Policy to the categories of third parties described in of this Privacy Policy."
+    },
+    {
+     "role": "cta",
+     "order": 141,
+     "text": "Section 1",
+     "href": "#ot-notice-layer-break-header-12"
+    },
+    {
+     "role": "body",
+     "order": 142,
+     "text": "in"
+    },
+    {
+     "role": "cta",
+     "order": 143,
+     "text": "Section 3",
+     "href": "#ot-notice-layer-break-header-324"
+    },
+    {
+     "role": "cta",
+     "order": 144,
+     "text": "Section 2",
+     "href": "#ot-notice-layer-break-header-66"
+    },
+    {
+     "role": "cta",
+     "order": 145,
+     "text": "Section 3",
+     "href": "#ot-notice-layer-break-header-324"
+    },
+    {
+     "role": "cta",
+     "order": 146,
+     "text": "Section 4",
+     "href": "#ot-notice-layer-break-header-862"
+    },
+    {
+     "role": "body",
+     "order": 147,
+     "text": "We may “sell” or “share” certain categories of personal information, including: identifiers; payment and customer records information; characteristics of protected classifications under California or federal law (such as demographic information like age and gender); commercial information; internet or other electronic network activity; geolocation data; and inferences. We may “sell” or “share” these categories of personal information to the advertising partners described in of this Privacy Policy (to the extent permitted by applicable law)."
+    },
+    {
+     "role": "cta",
+     "order": 148,
+     "text": "Section 4",
+     "href": "#ot-notice-layer-break-header-862"
+    },
+    {
+     "role": "heading",
+     "order": 149,
+     "text": "6. Your California Privacy Rights"
+    },
+    {
+     "role": "body",
+     "order": 150,
+     "text": "7. Links to Other Sites."
+    },
+    {
+     "role": "body",
+     "order": 151,
+     "text": "A Site may contain links to other websites that are not owned, operated, or maintained by us. You should note when you leave a Site and read the terms and conditions and privacy policies of each and every website that you visit. You should also independently assess the authenticity of any website which appears or claims that it is one of our Sites (including those linked to through an email). Despite any links that might exist on a Site, unless expressly stated otherwise, we do not control, recommend, or endorse and are not affiliated with these websites or their content, products, services, or privacy policies. Downloading material from certain websites may risk infringing intellectual property rights or introducing viruses into your computer system."
+    },
+    {
+     "role": "heading",
+     "order": 152,
+     "text": "7. Links to Other Sites."
+    },
+    {
+     "role": "body",
+     "order": 153,
+     "text": "8. Protection of Children’s Privacy."
+    },
+    {
+     "role": "body",
+     "order": 154,
+     "text": "These Sites are not intended for children. We do not knowingly collect personal information from any person under the age of sixteen (16). We do not have actual knowledge that we sell or share personal information of consumers under 16 years of age."
+    },
+    {
+     "role": "body",
+     "order": 155,
+     "text": "For more information on Ferrero International S.A.’s privacy policy for the Applaydu App, visit . This app is not covered by this Policy."
+    },
+    {
+     "role": "cta",
+     "order": 156,
+     "text": "https://applaydu.kinder.com/static/public/docs/app/en/pp/pp-0.0.1.html",
+     "href": "https://applaydu.kinder.com/static/public/docs/app/en/pp/pp-0.0.1.html"
+    },
+    {
+     "role": "heading",
+     "order": 157,
+     "text": "8. Protection of Children’s Privacy."
+    },
+    {
+     "role": "body",
+     "order": 158,
+     "text": "9. Security Practices."
+    },
+    {
+     "role": "body",
+     "order": 159,
+     "text": "We use standard security measures, but the Internet is not 100% secure. We cannot promise that your use of our Sites will be completely safe. We encourage you to use caution when using the Internet. This includes not sharing your passwords. To the fullest extent permitted by law, we disclaim all liability and responsibility for any damages (including, but not limited to, any and all direct, special, indirect, consequential, or punitive loss or other damages of any kind, whether in contract (including fundamental breach), tort (including negligence), or otherwise) that you may suffer due to any loss, unauthorized access, misuse, or alteration of any information you submit to a Site."
+    },
+    {
+     "role": "heading",
+     "order": 160,
+     "text": "9. Security Practices."
+    },
+    {
+     "role": "body",
+     "order": 161,
+     "text": "10. Retention Period."
+    },
+    {
+     "role": "body",
+     "order": 162,
+     "text": "We will retain information for as long as it is reasonably needed or permitted in light of the purposes for which we collected it. We also retain information as required by law. The criteria we use to determine our retention policies include the length of our relationship with you, your requests, your continued use of our Sites, ongoing obligations such as contracts and services, and our legal obligations."
+    },
+    {
+     "role": "heading",
+     "order": 163,
+     "text": "10. Retention Period."
+    },
+    {
+     "role": "body",
+     "order": 164,
+     "text": "11. Jurisdiction."
+    },
+    {
+     "role": "body",
+     "order": 165,
+     "text": "The information set forth on the Sites concerning any products or services is applicable only in the United States, and these products and services may not be available in all locations. If you are located outside of the United States, you are solely responsible for compliance with any applicable local laws, which may not afford the same level of protection as those in your country."
+    },
+    {
+     "role": "heading",
+     "order": 166,
+     "text": "11. Jurisdiction."
+    },
+    {
+     "role": "body",
+     "order": 167,
+     "text": "12. Changes and Updates to our Privacy Policy."
+    },
+    {
+     "role": "body",
+     "order": 168,
+     "text": "We reserve the right to change or update this Privacy Policy at any time. We will notify you by email and/or website posting of any material changes to our Policy as required by law. Please check back from time to time for any changes or updates to our Privacy Policy, which will be posted here and will reflect an updated effective date on the first page of the Privacy Policy should any changes or updates be made."
+    },
+    {
+     "role": "heading",
+     "order": 169,
+     "text": "12. Changes and Updates to our Privacy Policy."
+    },
+    {
+     "role": "body",
+     "order": 170,
+     "text": "13. Contact Information."
+    },
+    {
+     "role": "body",
+     "order": 171,
+     "text": "Should you have any questions or comments regarding the Sites or this Privacy Policy, you may contact us by reaching out to Ferrero Customer Care here , by mail at Attn: North America Legal Department – Privacy Policy, c/o Ferrero, 7 Sylvan Way, Parsippany, NJ 07054."
+    },
+    {
+     "role": "cta",
+     "order": 172,
+     "text": "Contact - US Residents (EN)",
+     "href": "https://www.ferreronorthamerica.com/contact-US-residents"
+    },
+    {
+     "role": "body",
+     "order": 173,
+     "text": "Ferrero"
+    },
+    {
+     "role": "heading",
+     "order": 174,
+     "text": "13. Contact Information."
+    },
+    {
+     "role": "body",
+     "order": 175,
+     "text": "© 2026 Ferrero USA. All rights reserved."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 82,
+   "repeats": [
+    {
+     "unitSelector": "P.",
+     "count": 4,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": false
+    },
+    {
+     "unitSelector": "DIV.legal-acc",
+     "count": 13,
+     "unit": {
+      "headings": 2,
+      "ctas": 3,
+      "imgs": 0,
+      "textRuns": 23
+     },
+     "uniform": false
+    }
+   ]
+  }
+ ]
+}

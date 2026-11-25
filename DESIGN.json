@@ -1,0 +1,1512 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:extract",
+    "writtenAt": "2026-11-25T10:21:08.180Z",
+    "readArtifacts": [
+      "stardust/current/DESIGN.md",
+      "stardust/current/_brand-extraction.json",
+      "stardust/current/_computed-styles.json"
+    ],
+    "synthesizedInputs": [],
+    "stardustVersion": "0.10.0"
+  },
+  "schemaVersion": 2,
+  "generatedAt": "2026-11-25T10:21:08.180Z",
+  "title": "Design System: Wonka US (current)",
+  "extensions": {
+    "colorMeta": {
+      "purple-600": {
+        "role": "background",
+        "displayName": "Wonka Purple"
+      },
+      "purple-500": {
+        "role": "accent",
+        "displayName": "Magenta Edge"
+      },
+      "purple-800-70": {
+        "role": "surface",
+        "displayName": "Velvet Panel"
+      },
+      "glass": {
+        "role": "surface",
+        "displayName": "Frosted Glass"
+      },
+      "gold-300": {
+        "role": "primary",
+        "displayName": "Wonka Gold"
+      },
+      "ink-brown": {
+        "role": "on-primary",
+        "displayName": "Cocoa Ink"
+      },
+      "promo-gold": {
+        "role": "primary",
+        "displayName": "Ticket Gold (promo theme)"
+      },
+      "promo-cream": {
+        "role": "surface",
+        "displayName": "Ticket Cream (promo theme)"
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Display",
+        "purpose": "Hero h1, uppercase gold-gradient Work Sans"
+      },
+      "headline": {
+        "displayName": "Headline",
+        "purpose": "Section h2"
+      },
+      "title": {
+        "displayName": "Title",
+        "purpose": "Section h2 / product name"
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Inter running text, white"
+      },
+      "promo-headline": {
+        "displayName": "Promo headline",
+        "purpose": "golden-ticket microsite h1"
+      }
+    },
+    "shadows": [
+      {
+        "name": "promo-drop",
+        "value": "0 4px 0 0 #980186",
+        "purpose": "Solid drop edge under golden-ticket buttons"
+      },
+      {
+        "name": "promo-drop-sm",
+        "value": "0 3px 0 0 #980186",
+        "purpose": "Small promo buttons"
+      }
+    ],
+    "motion": [
+      {
+        "name": "glass-hover",
+        "value": "background-color 300ms ease-out",
+        "purpose": "Glass button hover white/10 -> white/30"
+      },
+      {
+        "name": "gold-sweep",
+        "value": "left .3s ease-out",
+        "purpose": "Light sweep across gold button on hover"
+      },
+      {
+        "name": "hat-portal",
+        "value": "first-session intro video overlay",
+        "purpose": "Home intro; skipped under prefers-reduced-motion"
+      }
+    ],
+    "breakpoints": {
+      "layout": [
+        {
+          "name": "sm",
+          "value": "640px"
+        },
+        {
+          "name": "md",
+          "value": "768px"
+        },
+        {
+          "name": "lg",
+          "value": "1024px"
+        },
+        {
+          "name": "lg2",
+          "value": "1140px"
+        },
+        {
+          "name": "xl",
+          "value": "1280px"
+        },
+        {
+          "name": "2xl",
+          "value": "1440px"
+        }
+      ],
+      "containerMaxWidth": "1536px",
+      "probeWidth": 2560,
+      "shellMaxWidth": "1268px",
+      "caps": [
+        {
+          "kind": "shell",
+          "px": 1268,
+          "via": "max-width",
+          "selector": "div.layout__region.layout__region--content > div.paragraph.paragraph--type--legal-page > section.legal-page.relative > div.section-container",
+          "pages": [
+            "https://www.wonka.com/us/en/privacy-policy"
+          ]
+        },
+        {
+          "kind": "content",
+          "px": 800,
+          "via": "max-width",
+          "selector": "div.paragraph.paragraph--type--legal-page > section.legal-page.relative > div.section-container > div.ml-0.flex",
+          "pages": [
+            "https://www.wonka.com/us/en/privacy-policy"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 1536,
+          "via": "max-width",
+          "selector": "article.n-landing-page-full > div.n-landing-page-full__paragraphs.paragraphs > div.p-editorial--no-bg.p-editorial > div.container",
+          "pages": [
+            "https://www.wonka.com/us/en/xp/golden-ticket/"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 1440,
+          "via": "max-width",
+          "selector": "div.layout__region.layout__region--content > div.paragraph.paragraph--type--story-cards > section.story-cards.relative > div.section-container.section-container--lg",
+          "pages": [
+            "https://www.wonka.com/us/en/about-wonka"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 1268,
+          "via": "max-width",
+          "selector": "div.layout__region.layout__region--content > div.paragraph.paragraph--type--product-card > article.product-card.relative > div.section-container.section-container--md",
+          "pages": [
+            "https://www.wonka.com/us/en/",
+            "https://www.wonka.com/us/en/about-wonka"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 1060,
+          "via": "fixed",
+          "selector": "#product-card-panel-magic-hats-17 > div.product-card__details-inner > div.flex.flex-col",
+          "pages": [
+            "https://www.wonka.com/us/en/"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 1038,
+          "via": "fixed",
+          "selector": "div.flex.flex-col > div.flex.flex-col > p > em",
+          "pages": [
+            "https://www.wonka.com/us/en/"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 992,
+          "via": "fixed",
+          "selector": "div.flex.flex-col > div.font-default.text-body-sm > p > strong",
+          "pages": [
+            "https://www.wonka.com/us/en/"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 921,
+          "via": "fixed",
+          "selector": "table.w-full.border-collapse > tbody > tr.border-b > th.py-4.text-left",
+          "pages": [
+            "https://www.wonka.com/us/en/"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 900,
+          "via": "fixed",
+          "selector": "div.paragraph.paragraph--type--product-card > article.product-card.relative > div.section-container.section-container--md > div.pointer-events-none.absolute",
+          "pages": [
+            "https://www.wonka.com/us/en/"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 868,
+          "via": "max-width",
+          "selector": "div.layout__region.layout__region--content > div.paragraph.paragraph--type--social > section.social.relative > div.section-container.section-container--sm",
+          "pages": [
+            "https://www.wonka.com/us/en/about-wonka"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 739,
+          "via": "max-width",
+          "selector": "section.hero-banner.relative > div.relative.mx-auto > div.flex.h-0 > div.hero-banner__ship.relative",
+          "pages": [
+            "https://www.wonka.com/us/en/",
+            "https://www.wonka.com/us/en/about-wonka",
+            "https://www.wonka.com/us/en/privacy-policy"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 700,
+          "via": "max-width",
+          "selector": "div.layout__region.layout__region--content > div.paragraph.paragraph--type--discover-hero > section.discover-hero.relative > div.relative.z-10",
+          "pages": [
+            "https://www.wonka.com/us/en/about-wonka"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 640,
+          "via": "fixed",
+          "selector": "div.section-container.section-container--md > div.relative.z-10 > div.flex.w-full > div.flex.w-full",
+          "pages": [
+            "https://www.wonka.com/us/en/",
+            "https://www.wonka.com/us/en/about-wonka"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 595,
+          "via": "fixed",
+          "selector": "section.image-text.relative > div.section-container.section-container--lg > div.blurred-button-noise.relative > div.order-3.flex",
+          "pages": [
+            "https://www.wonka.com/us/en/about-wonka"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 524,
+          "via": "fixed",
+          "selector": "div.paragraph.paragraph--type--accordion > section.accordion.relative > div.section-container.section-container--sm > h2.text-center.font-heading",
+          "pages": [
+            "https://www.wonka.com/us/en/about-wonka"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 409,
+          "via": "fixed",
+          "selector": "section.hero-banner.relative > div.relative.mx-auto > div.relative.z-40 > a.inline-flex.shrink-0",
+          "pages": [
+            "https://www.wonka.com/us/en/",
+            "https://www.wonka.com/us/en/about-wonka"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 384,
+          "via": "fixed",
+          "selector": "div.section-container.section-container--md > div.relative.z-10 > div.flex.w-full > div.hidden",
+          "pages": [
+            "https://www.wonka.com/us/en/"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 363,
+          "via": "fixed",
+          "selector": "section.promo-section.relative > div.section-container.relative > div.relative.flex > div.relative.z-20",
+          "pages": [
+            "https://www.wonka.com/us/en/about-wonka"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 323,
+          "via": "fixed",
+          "selector": "div.relative.mx-auto > div.flex.h-0 > div.hero-banner__ship.relative > div.hero-banner__ship-frame.relative",
+          "pages": [
+            "https://www.wonka.com/us/en/",
+            "https://www.wonka.com/us/en/about-wonka"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 295,
+          "via": "max-width",
+          "selector": "div.p-editorial--no-bg.p-editorial > div.container > div.p-editorial__content > div.p-editorial--qr__note",
+          "pages": [
+            "https://www.wonka.com/us/en/xp/golden-ticket/"
+          ]
+        }
+      ],
+      "modules": [
+        {
+          "url": "https://www.wonka.com/us/en/",
+          "section": 0,
+          "selector": "#section-6",
+          "px": 739
+        },
+        {
+          "url": "https://www.wonka.com/us/en/",
+          "section": 1,
+          "selector": "#product-section",
+          "px": 1268
+        },
+        {
+          "url": "https://www.wonka.com/us/en/",
+          "section": 2,
+          "selector": "#comingsoon",
+          "px": 736
+        },
+        {
+          "url": "https://www.wonka.com/us/en/about-wonka",
+          "section": 0,
+          "selector": "#section-86",
+          "px": 700
+        },
+        {
+          "url": "https://www.wonka.com/us/en/about-wonka",
+          "section": 1,
+          "selector": "#imagination",
+          "px": 1440
+        },
+        {
+          "url": "https://www.wonka.com/us/en/about-wonka",
+          "section": 2,
+          "selector": "#section-93",
+          "px": 1440
+        },
+        {
+          "url": "https://www.wonka.com/us/en/about-wonka",
+          "section": 3,
+          "selector": "#section-95",
+          "px": 1268
+        },
+        {
+          "url": "https://www.wonka.com/us/en/about-wonka",
+          "section": 4,
+          "selector": "#section-97",
+          "px": 868
+        },
+        {
+          "url": "https://www.wonka.com/us/en/about-wonka",
+          "section": 5,
+          "selector": "#block-sling-content > article > div > div.paragraph.paragraph--type--page-section",
+          "px": 868
+        },
+        {
+          "url": "https://www.wonka.com/us/en/privacy-policy",
+          "section": 0,
+          "selector": "div.layout.layout--onecol > div.layout__region.layout__region--content > div.paragraph.paragraph--type--legal-page > section.legal-page.relative",
+          "px": 756
+        },
+        {
+          "url": "https://www.wonka.com/us/en/xp/golden-ticket/",
+          "section": 0,
+          "selector": "#block-gpp-promo-theme-content > article.n-landing-page-full > div.n-landing-page-full__top",
+          "px": null
+        },
+        {
+          "url": "https://www.wonka.com/us/en/xp/golden-ticket/",
+          "section": 1,
+          "selector": "#block-gpp-promo-theme-content > article.n-landing-page-full > div.n-landing-page-full__paragraphs.paragraphs",
+          "px": 1536
+        }
+      ],
+      "capRegister": [
+        "contentMaxWidth differs between archetypes: 739 (https://www.wonka.com/us/en/), fluid (https://www.wonka.com/us/en/about-wonka), 800 (https://www.wonka.com/us/en/privacy-policy), 1536 (https://www.wonka.com/us/en/xp/golden-ticket/) — decide per template in the inconsistency register",
+        "shellMaxWidth differs between archetypes: fluid (https://www.wonka.com/us/en/), fluid (https://www.wonka.com/us/en/about-wonka), 1268 (https://www.wonka.com/us/en/privacy-policy), fluid (https://www.wonka.com/us/en/xp/golden-ticket/)",
+        "module cap 1536px on a single section (article.n-landing-page-full > div.n-landing-page-full__paragraphs.paragraphs > div.p-editorial--no-bg.p-editorial > div.container, https://www.wonka.com/us/en/xp/golden-ticket/) — intent or mistake? register it",
+        "module cap 700px on a single section (div.layout__region.layout__region--content > div.paragraph.paragraph--type--discover-hero > section.discover-hero.relative > div.relative.z-10, https://www.wonka.com/us/en/about-wonka) — intent or mistake? register it"
+      ],
+      "capProvenance": {
+        "writtenBy": "skills/replica/scripts/cap-probe.mjs",
+        "writtenAt": "2026-11-25T10:21:11.489Z",
+        "baseWidth": 1440,
+        "urls": [
+          "https://www.wonka.com/us/en/",
+          "https://www.wonka.com/us/en/about-wonka",
+          "https://www.wonka.com/us/en/privacy-policy",
+          "https://www.wonka.com/us/en/xp/golden-ticket/"
+        ]
+      }
+    },
+    "componentStyle": {
+      "buttons": {
+        "primary": "gold-gradient pill (h-16, px-10, bold Inter 20px, text #3d2507)",
+        "secondary": "glass pill (white/10 bg + white/10 border, backdrop-blur, white text)",
+        "promo": "#eec60d flat pill with 4px #980186 bottom shadow (golden-ticket)"
+      },
+      "cards": "rounded deep-purple translucent panels with product imagery",
+      "hover": [
+        {
+          "kind": "button",
+          "from": {
+            "backgroundColor": "rgba(255, 255, 255, 0.1)"
+          },
+          "to": {
+            "backgroundColor": "rgba(255, 255, 255, 0.3)"
+          },
+          "count": 4,
+          "sources": [
+            {
+              "url": "https://www.wonka.com/us/en/about-wonka",
+              "selector": "#section-86 > div > div > div > section > div:nth-of-type(3) > a"
+            },
+            {
+              "url": "https://www.wonka.com/us/en/cookie-policy",
+              "selector": "footer > div:nth-of-type(1) > div:nth-of-type(1) > div > div > a:nth-of-type(1)"
+            },
+            {
+              "url": "https://www.wonka.com/us/en/privacy-policy",
+              "selector": "footer > div:nth-of-type(1) > div:nth-of-type(1) > div > div > a:nth-of-type(1)"
+            },
+            {
+              "url": "https://www.wonka.com/us/en/terms-of-use",
+              "selector": "footer > div:nth-of-type(1) > div:nth-of-type(1) > div > div > a:nth-of-type(1)"
+            }
+          ]
+        },
+        {
+          "kind": "button",
+          "from": {
+            "backgroundColor": "rgb(238, 198, 13)"
+          },
+          "to": {
+            "backgroundColor": "rgb(255, 227, 101)"
+          },
+          "count": 2,
+          "sources": [
+            {
+              "url": "https://www.wonka.com/us/en/xp/golden-ticket/",
+              "selector": "article > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)"
+            },
+            {
+              "url": "https://www.wonka.com/us/en/xp/golden-ticket/",
+              "selector": "article > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)"
+            }
+          ]
+        },
+        {
+          "kind": "link",
+          "from": {
+            "color": "rgb(255, 255, 255)"
+          },
+          "to": {
+            "color": "rgb(238, 198, 13)"
+          },
+          "count": 2,
+          "sources": [
+            {
+              "url": "https://www.wonka.com/us/en/cookie-policy",
+              "selector": "#ot-sdk-cookie-policy-v2 > section:nth-of-type(1) > table > tbody > tr:nth-of-type(1) > td:nth-of-type(2) > span:nth-of-type(2) > a:nth-of-type(1)"
+            },
+            {
+              "url": "https://www.wonka.com/us/en/cookie-policy",
+              "selector": "#ot-sdk-cookie-policy-v2 > section:nth-of-type(1) > table > tbody > tr:nth-of-type(1) > td:nth-of-type(2) > span:nth-of-type(2) > a:nth-of-type(1)"
+            }
+          ]
+        }
+      ]
+    },
+    "motifs": {
+      "radius": {
+        "mode": "160px",
+        "areaMode": "24px 24px 0px 0px",
+        "values": [
+          {
+            "value": "160px",
+            "count": 30,
+            "sources": [
+              {
+                "url": "https://www.wonka.com/us/en/about-wonka",
+                "selector": "div:nth-of-type(2) > div > div > div:nth-of-type(1) > div > div:nth-of-type(1) > div > a:nth-of-type(1)"
+              }
+            ]
+          },
+          {
+            "value": "24px",
+            "count": 21,
+            "sources": [
+              {
+                "url": "https://www.wonka.com/us/en/about-wonka",
+                "selector": "div:nth-of-type(6) > div > div > div > section > div > ul > li:nth-of-type(1)"
+              }
+            ]
+          },
+          {
+            "value": "40px 40px 0px 0px",
+            "count": 8,
+            "sources": [
+              {
+                "url": "https://www.wonka.com/us/en/about-wonka",
+                "selector": "footer"
+              }
+            ]
+          },
+          {
+            "value": "12px",
+            "count": 6,
+            "sources": [
+              {
+                "url": "https://www.wonka.com/us/en/about-wonka",
+                "selector": "nav"
+              }
+            ]
+          },
+          {
+            "value": "28px",
+            "count": 6,
+            "sources": [
+              {
+                "url": "https://www.wonka.com/us/en/about-wonka",
+                "selector": "div > div > div > section > div > ul > li:nth-of-type(1) > div:nth-of-type(2)"
+              }
+            ]
+          },
+          {
+            "value": "5px",
+            "count": 4,
+            "sources": [
+              {
+                "url": "https://www.wonka.com/us/en/cookie-policy",
+                "selector": "#ot-sdk-cookie-policy-v2 > section:nth-of-type(1) > table"
+              }
+            ]
+          }
+        ]
+      },
+      "shadows": [
+        {
+          "value": "rgb(152, 1, 134) 0px 4px 0px 0px",
+          "count": 4,
+          "sources": [
+            {
+              "url": "https://www.wonka.com/us/en/xp/golden-ticket/",
+              "selector": "article > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)"
+            },
+            {
+              "url": "https://www.wonka.com/us/en/xp/golden-ticket/",
+              "selector": "#block-gpp-promo-theme-content > article > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(2) > div > div:nth-of-type(3) > a:nth-of-type(1)"
+            }
+          ]
+        },
+        {
+          "value": "rgb(152, 1, 134) 0px 3px 0px 0px",
+          "count": 2,
+          "sources": [
+            {
+              "url": "https://www.wonka.com/us/en/xp/golden-ticket/",
+              "selector": "#block-gpp-promo-theme-content > article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div > div:nth-of-type(2)"
+            }
+          ]
+        },
+        {
+          "value": "rgba(0, 0, 0, 0.25) 0px 8px 11.4px 0px, rgb(152, 1, 134) 0px 4px 0px 0px",
+          "count": 2,
+          "sources": [
+            {
+              "url": "https://www.wonka.com/us/en/xp/golden-ticket/",
+              "selector": "#block-gpp-promo-theme-content > article > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(2) > div"
+            }
+          ]
+        }
+      ],
+      "gradients": [
+        {
+          "value": "linear-gradient(270deg, rgb(210, 186, 131) 10%, rgb(241, 220, 151), rgb(250, 234, 184) 40%, rgb(250, 234, 184) 60%, rgb(241, 220, 151), rgb(210, 186, 131) 90%)",
+          "count": 32,
+          "area": 672169,
+          "sources": [
+            {
+              "url": "https://www.wonka.com/us/en/about-wonka",
+              "selector": "#section-86 > div > div > div > section > div:nth-of-type(2) > div > h1"
+            },
+            {
+              "url": "https://www.wonka.com/us/en/about-wonka",
+              "selector": "#imagination > div > div > div > section > div > h2"
+            },
+            {
+              "url": "https://www.wonka.com/us/en/about-wonka",
+              "selector": "#section-93 > div > div > div > section > div > div > h2"
+            },
+            {
+              "url": "https://www.wonka.com/us/en/about-wonka",
+              "selector": "div > div > div > section > div > div > div:nth-of-type(2) > h2"
+            },
+            {
+              "url": "https://www.wonka.com/us/en/cookie-policy",
+              "selector": "header > h1"
+            }
+          ]
+        },
+        {
+          "value": "linear-gradient(105deg, rgba(255, 255, 255, 0), rgb(255, 255, 255), rgba(255, 255, 255, 0)), linear-gradient(270deg, rgb(210, 186, 131) 10%, rgb(241, 220, 151), rgb(250, 234, 184) 40%, rgb(250, 234, 184) 60%, rgb(241, 220, 151), rgb(210, 1…",
+          "count": 12,
+          "area": 23568,
+          "sources": [
+            {
+              "url": "https://www.wonka.com/us/en/about-wonka",
+              "selector": "nav > a:nth-of-type(1)"
+            },
+            {
+              "url": "https://www.wonka.com/us/en/about-wonka",
+              "selector": "nav > a:nth-of-type(2)"
+            },
+            {
+              "url": "https://www.wonka.com/us/en/about-wonka",
+              "selector": "nav > a:nth-of-type(3)"
+            },
+            {
+              "url": "https://www.wonka.com/us/en/cookie-policy",
+              "selector": "nav > a:nth-of-type(1)"
+            },
+            {
+              "url": "https://www.wonka.com/us/en/cookie-policy",
+              "selector": "nav > a:nth-of-type(2)"
+            }
+          ]
+        },
+        {
+          "value": "linear-gradient(90deg, rgb(173, 133, 68), rgb(248, 233, 153) 52.88%, rgb(172, 133, 67)), linear-gradient(90deg, rgb(205, 171, 99), rgb(248, 229, 156) 19.03%, rgb(181, 143, 79) 46.15%, rgb(247, 228, 152) 77.99%, rgb(216, 185, 125) 98.56%)",
+          "count": 2,
+          "area": 46452,
+          "sources": [
+            {
+              "url": "https://www.wonka.com/us/en/about-wonka",
+              "selector": "div > div > div > section > div > div:nth-of-type(2) > div:nth-of-type(2) > a"
+            }
+          ]
+        }
+      ],
+      "patterns": [
+        "drifting cloud decals (cloud-1..n.webp) at section edges",
+        "gold metallic gradient headline text",
+        "glass (backdrop-blur, white/10) pill buttons and nav",
+        "gold-gradient pill primary button (gold-button)",
+        "translucent deep-purple rounded cards",
+        "rounded-top footer (40px) on purple-800/70",
+        "golden particle/star sparkle overlays"
+      ]
+    },
+    "voice": {
+      "heroHeadline": "Extraordinary creations from the Wonka Factory",
+      "heroLede": null,
+      "introHeadline": "The World of Wonka has arrived",
+      "ctas": [
+        "Unwrap the Wonder",
+        "Enter Golden Ticket Sweepstakes",
+        "Explore the Wonka Range",
+        "See more details",
+        "Taste the Wonder"
+      ],
+      "firstParagraph": "Where inventive creations, unexpected flavors and delicious surprises turn every treat into something extraordinary.",
+      "links": [
+        "Home",
+        "About Wonka",
+        "Golden Ticket Sweepstakes"
+      ],
+      "heroImage": {
+        "src": "https://ferrero-kube-stack-prod-static.s3.eu-west-1.amazonaws.com/wonka-us-d11/sites/wonka.com.us/s3fs-public/styles/hero_product_range_desktop/public/2026-11/US-desktop-golden-ticket.png",
+        "note": "home hero product range (post-portal) under the Wonka blimp"
+      },
+      "heroMedium": {
+        "kind": "video",
+        "mechanism": "first-session intro overlay: looping stars-idle.mp4 + hat animation webm (alpha) played on \"Taste the Wonder\", then reveals page; skipped when sessionStorage wonka-hat-portal-seen=1 or prefers-reduced-motion",
+        "src": [
+          "https://www.wonka.com/themes/custom/sling/assets/images/wonka-hat-portal/video/stars-idle.mp4",
+          "https://www.wonka.com/themes/custom/sling/assets/images/wonka-hat-portal/hat/desktop/animHat.webm"
+        ],
+        "loader": "inline script + sling:wonka-hat-portal component",
+        "localCopies": [
+          "stardust/current/assets/media/hat-portal-stars-idle.mp4",
+          "stardust/current/assets/media/hat-portal-animHat.webm"
+        ]
+      },
+      "tone": {
+        "guess": "whimsical, wonder-forward, playful-premium confectionery",
+        "basis": "copy: wonder/extraordinary/magic/unwrap; heuristic only"
+      }
+    },
+    "systemComponents": [
+      {
+        "id": "site-header",
+        "pages": [
+          "us-en",
+          "us-en-about-wonka",
+          "us-en-privacy-policy",
+          "us-en-terms-of-use",
+          "us-en-cookie-policy"
+        ],
+        "selector": "header (sling:navigation)",
+        "shape": "logo left + glass nav pill (Home / About Wonka / Golden Ticket Sweepstakes), 62px, fixed; mobile dialog menu"
+      },
+      {
+        "id": "site-footer",
+        "pages": [
+          "us-en",
+          "us-en-about-wonka",
+          "us-en-privacy-policy",
+          "us-en-terms-of-use",
+          "us-en-cookie-policy"
+        ],
+        "selector": "footer.rounded-t-[40px]",
+        "shape": "logo + Follow us (Instagram, TikTok) + legal links (Privacy, Terms, Cookie, Do Not Sell, Contact) + copyright bar"
+      },
+      {
+        "id": "promo-header",
+        "pages": [
+          "us-en-xp-golden-ticket"
+        ],
+        "selector": "header.header",
+        "shape": "Wonka logo centered on #980186 bar"
+      },
+      {
+        "id": "promo-footer",
+        "pages": [
+          "us-en-xp-golden-ticket"
+        ],
+        "selector": "footer.footer",
+        "shape": "logo + Home / Play / Official Rules + social + legal links + copyright"
+      },
+      {
+        "id": "cloud-decals",
+        "pages": [
+          "us-en",
+          "us-en-about-wonka"
+        ],
+        "selector": "img.pointer-events-none (clouds)",
+        "shape": "decorative cloud webp layers"
+      }
+    ],
+    "gradients": {
+      "goldText": "linear-gradient(270deg, rgb(210,186,131) 10%, rgb(241,220,151), rgb(250,234,184) 40%, rgb(250,234,184) 60%, rgb(241,220,151), rgb(210,186,131) 90%)",
+      "goldButton": "linear-gradient(90deg,#ad8544,#f8e999 52.88%,#ac8543), linear-gradient(90deg,#cdab63,#f8e59c 19.03%,#b58f4f 46.15%,#f7e498 77.99%,#d8b97d 98.56%)"
+    },
+    "modules": [
+      {
+        "id": "candidate-f819d7",
+        "name": "site-header",
+        "confidence": "high",
+        "signals": [
+          "ctas: Home/About Wonka/Golden Ticket Sweepstakes on 5 pages",
+          "selector [data-component-id=sling:navigation]"
+        ],
+        "slots": [
+          {
+            "name": "logo",
+            "type": "image",
+            "required": true
+          },
+          {
+            "name": "nav-links",
+            "type": "link[]",
+            "required": true
+          }
+        ],
+        "instances": [
+          {
+            "slug": "us-en",
+            "selector": "[data-component-id=\"sling:navigation\"]"
+          },
+          {
+            "slug": "us-en-about-wonka",
+            "selector": "[data-component-id=\"sling:navigation\"]"
+          },
+          {
+            "slug": "us-en-privacy-policy",
+            "selector": "[data-component-id=\"sling:navigation\"]"
+          },
+          {
+            "slug": "us-en-terms-of-use",
+            "selector": "[data-component-id=\"sling:navigation\"]"
+          },
+          {
+            "slug": "us-en-cookie-policy",
+            "selector": "[data-component-id=\"sling:navigation\"]"
+          }
+        ],
+        "status": "candidate",
+        "note": "fixed glass nav pill; mobile ARIA dialog menu"
+      },
+      {
+        "id": "candidate-a928d4",
+        "name": "site-footer",
+        "confidence": "high",
+        "signals": [
+          "ctas: Privacy Policy/Terms of Use/Cookie Policy/Do Not Sell/Contact Us on 5 pages"
+        ],
+        "slots": [
+          {
+            "name": "logo",
+            "type": "image",
+            "required": true
+          },
+          {
+            "name": "social-links",
+            "type": "link[]",
+            "required": false
+          },
+          {
+            "name": "legal-links",
+            "type": "link[]",
+            "required": true
+          },
+          {
+            "name": "copyright",
+            "type": "text",
+            "required": true
+          }
+        ],
+        "instances": [
+          {
+            "slug": "us-en",
+            "selector": "footer.rounded-t-\\[40px\\]"
+          },
+          {
+            "slug": "us-en-about-wonka",
+            "selector": "footer.rounded-t-\\[40px\\]"
+          },
+          {
+            "slug": "us-en-privacy-policy",
+            "selector": "footer.rounded-t-\\[40px\\]"
+          },
+          {
+            "slug": "us-en-terms-of-use",
+            "selector": "footer.rounded-t-\\[40px\\]"
+          },
+          {
+            "slug": "us-en-cookie-policy",
+            "selector": "footer.rounded-t-\\[40px\\]"
+          }
+        ],
+        "status": "candidate"
+      },
+      {
+        "id": "candidate-1bb2a5",
+        "name": "legal-page",
+        "confidence": "high",
+        "signals": [
+          "paragraph--type--legal-page on 3 pages",
+          "headings: single gold h1"
+        ],
+        "slots": [
+          {
+            "name": "title",
+            "type": "text",
+            "required": true
+          },
+          {
+            "name": "updated",
+            "type": "text",
+            "required": false
+          },
+          {
+            "name": "body",
+            "type": "richtext",
+            "required": true
+          },
+          {
+            "name": "accordion-sections",
+            "type": "item[]",
+            "required": false
+          }
+        ],
+        "instances": [
+          {
+            "slug": "us-en-privacy-policy",
+            "selector": ".paragraph--type--legal-page"
+          },
+          {
+            "slug": "us-en-terms-of-use",
+            "selector": ".paragraph--type--legal-page"
+          },
+          {
+            "slug": "us-en-cookie-policy",
+            "selector": ".paragraph--type--legal-page"
+          }
+        ],
+        "status": "candidate"
+      },
+      {
+        "id": "candidate-0aa22c",
+        "name": "hero-banner",
+        "confidence": "medium",
+        "signals": [
+          "paragraph--type--hero-banner (home)",
+          "ctas Unwrap the Wonder / Enter Golden Ticket Sweepstakes"
+        ],
+        "slots": [
+          {
+            "name": "airship-image",
+            "type": "image",
+            "required": true
+          },
+          {
+            "name": "tagline",
+            "type": "text",
+            "required": true
+          },
+          {
+            "name": "product-range-image",
+            "type": "image",
+            "required": true
+          },
+          {
+            "name": "cta-primary",
+            "type": "link",
+            "required": true
+          },
+          {
+            "name": "cta-secondary",
+            "type": "link",
+            "required": false
+          }
+        ],
+        "instances": [
+          {
+            "slug": "us-en",
+            "selector": ".paragraph--type--hero-banner"
+          }
+        ],
+        "status": "candidate"
+      },
+      {
+        "id": "candidate-8b28fe",
+        "name": "hat-portal-intro",
+        "confidence": "medium",
+        "signals": [
+          "sling:wonka-hat-portal overlay, first-session only (sessionStorage)",
+          "video stars-idle.mp4 + animHat.webm"
+        ],
+        "slots": [
+          {
+            "name": "headline",
+            "type": "text",
+            "required": true
+          },
+          {
+            "name": "cta",
+            "type": "link",
+            "required": true
+          },
+          {
+            "name": "hat-video",
+            "type": "video",
+            "required": true
+          },
+          {
+            "name": "stars-video",
+            "type": "video",
+            "required": false
+          }
+        ],
+        "instances": [
+          {
+            "slug": "us-en",
+            "selector": ".wonka-hat-portal"
+          }
+        ],
+        "status": "candidate",
+        "note": "signature hero medium; skipped under prefers-reduced-motion"
+      },
+      {
+        "id": "candidate-59e265",
+        "name": "product-card",
+        "confidence": "high",
+        "signals": [
+          "paragraph--type--product-card ×5 (home)",
+          "repeat label See more details ×5"
+        ],
+        "slots": [
+          {
+            "name": "pack-image",
+            "type": "image",
+            "required": true
+          },
+          {
+            "name": "eyebrow",
+            "type": "text",
+            "required": true
+          },
+          {
+            "name": "name",
+            "type": "text",
+            "required": true
+          },
+          {
+            "name": "blurb",
+            "type": "text",
+            "required": true
+          },
+          {
+            "name": "details-modal",
+            "type": "modal (ingredients, nutrition)",
+            "required": false
+          }
+        ],
+        "instances": [
+          {
+            "slug": "us-en",
+            "selector": ".paragraph--type--product-card"
+          }
+        ],
+        "status": "candidate"
+      },
+      {
+        "id": "candidate-d793d1",
+        "name": "coming-soon",
+        "confidence": "low",
+        "signals": [
+          "paragraph--type--coming-soon (home)"
+        ],
+        "slots": [
+          {
+            "name": "headline",
+            "type": "text",
+            "required": true
+          },
+          {
+            "name": "text",
+            "type": "text",
+            "required": false
+          },
+          {
+            "name": "background",
+            "type": "image",
+            "required": false
+          }
+        ],
+        "instances": [
+          {
+            "slug": "us-en",
+            "selector": ".paragraph--type--coming-soon"
+          }
+        ],
+        "status": "candidate",
+        "note": "campaign-timed band (Check back November 2nd)"
+      },
+      {
+        "id": "candidate-6ecc9f",
+        "name": "discover-hero",
+        "confidence": "medium",
+        "signals": [
+          "paragraph--type--discover-hero (about)"
+        ],
+        "slots": [
+          {
+            "name": "eyebrow",
+            "type": "text",
+            "required": false
+          },
+          {
+            "name": "headline",
+            "type": "text",
+            "required": true
+          },
+          {
+            "name": "lede",
+            "type": "text",
+            "required": false
+          },
+          {
+            "name": "image",
+            "type": "image",
+            "required": true
+          },
+          {
+            "name": "scroll-cta",
+            "type": "link",
+            "required": false
+          }
+        ],
+        "instances": [
+          {
+            "slug": "us-en-about-wonka",
+            "selector": ".paragraph--type--discover-hero"
+          }
+        ],
+        "status": "candidate"
+      },
+      {
+        "id": "candidate-0b2b55",
+        "name": "story-cards",
+        "confidence": "medium",
+        "signals": [
+          "paragraph--type--story-cards (about)"
+        ],
+        "slots": [
+          {
+            "name": "headline",
+            "type": "text",
+            "required": true
+          },
+          {
+            "name": "cards",
+            "type": "item[] {icon,text}",
+            "required": true
+          }
+        ],
+        "instances": [
+          {
+            "slug": "us-en-about-wonka",
+            "selector": ".paragraph--type--story-cards"
+          }
+        ],
+        "status": "candidate"
+      },
+      {
+        "id": "candidate-cac9c0",
+        "name": "image-text",
+        "confidence": "medium",
+        "signals": [
+          "paragraph--type--image-text (about)"
+        ],
+        "slots": [
+          {
+            "name": "image",
+            "type": "image",
+            "required": true
+          },
+          {
+            "name": "headline",
+            "type": "text",
+            "required": true
+          },
+          {
+            "name": "body",
+            "type": "richtext",
+            "required": true
+          }
+        ],
+        "instances": [
+          {
+            "slug": "us-en-about-wonka",
+            "selector": ".paragraph--type--image-text"
+          }
+        ],
+        "status": "candidate"
+      },
+      {
+        "id": "candidate-5637c0",
+        "name": "promo-section",
+        "confidence": "medium",
+        "signals": [
+          "paragraph--type--promo-section (about)",
+          "cta Explore the Wonka Range"
+        ],
+        "slots": [
+          {
+            "name": "headline",
+            "type": "text",
+            "required": true
+          },
+          {
+            "name": "text",
+            "type": "text",
+            "required": false
+          },
+          {
+            "name": "products-image",
+            "type": "image",
+            "required": true
+          },
+          {
+            "name": "cta",
+            "type": "link",
+            "required": true
+          }
+        ],
+        "instances": [
+          {
+            "slug": "us-en-about-wonka",
+            "selector": ".paragraph--type--promo-section"
+          }
+        ],
+        "status": "candidate"
+      },
+      {
+        "id": "candidate-0dbe52",
+        "name": "social",
+        "confidence": "medium",
+        "signals": [
+          "paragraph--type--social (about)"
+        ],
+        "slots": [
+          {
+            "name": "headline",
+            "type": "text",
+            "required": true
+          },
+          {
+            "name": "text",
+            "type": "text",
+            "required": false
+          },
+          {
+            "name": "social-links",
+            "type": "link[]",
+            "required": true
+          }
+        ],
+        "instances": [
+          {
+            "slug": "us-en-about-wonka",
+            "selector": ".paragraph--type--social"
+          }
+        ],
+        "status": "candidate"
+      },
+      {
+        "id": "candidate-afb103",
+        "name": "faq-accordion",
+        "confidence": "medium",
+        "signals": [
+          "paragraph--type--accordion (about)",
+          "7 numbered question CTAs"
+        ],
+        "slots": [
+          {
+            "name": "headline",
+            "type": "text",
+            "required": true
+          },
+          {
+            "name": "items",
+            "type": "item[] {question,answer}",
+            "required": true
+          }
+        ],
+        "instances": [
+          {
+            "slug": "us-en-about-wonka",
+            "selector": ".paragraph--type--accordion"
+          }
+        ],
+        "status": "candidate"
+      },
+      {
+        "id": "candidate-7f8424",
+        "name": "promo-header",
+        "confidence": "medium",
+        "signals": [
+          "header.header on golden-ticket"
+        ],
+        "slots": [
+          {
+            "name": "logo",
+            "type": "image",
+            "required": true
+          }
+        ],
+        "instances": [
+          {
+            "slug": "us-en-xp-golden-ticket",
+            "selector": "header.header"
+          }
+        ],
+        "status": "candidate"
+      },
+      {
+        "id": "candidate-eeb551",
+        "name": "promo-footer",
+        "confidence": "medium",
+        "signals": [
+          "footer.footer on golden-ticket"
+        ],
+        "slots": [
+          {
+            "name": "logo",
+            "type": "image",
+            "required": true
+          },
+          {
+            "name": "nav-links",
+            "type": "link[]",
+            "required": false
+          },
+          {
+            "name": "social-links",
+            "type": "link[]",
+            "required": false
+          },
+          {
+            "name": "legal-links",
+            "type": "link[]",
+            "required": true
+          },
+          {
+            "name": "copyright",
+            "type": "text",
+            "required": true
+          }
+        ],
+        "instances": [
+          {
+            "slug": "us-en-xp-golden-ticket",
+            "selector": "footer.footer"
+          }
+        ],
+        "status": "candidate"
+      },
+      {
+        "id": "candidate-04734a",
+        "name": "promo-editorial",
+        "confidence": "medium",
+        "signals": [
+          "p-editorial ×2 variants (qr, golden-ticket image-left)"
+        ],
+        "slots": [
+          {
+            "name": "headline",
+            "type": "text",
+            "required": true
+          },
+          {
+            "name": "text",
+            "type": "richtext",
+            "required": false
+          },
+          {
+            "name": "image",
+            "type": "image",
+            "required": false
+          },
+          {
+            "name": "qr",
+            "type": "image",
+            "required": false
+          },
+          {
+            "name": "cta",
+            "type": "link",
+            "required": false
+          }
+        ],
+        "instances": [
+          {
+            "slug": "us-en-xp-golden-ticket",
+            "selector": ".p-editorial--qr"
+          },
+          {
+            "slug": "us-en-xp-golden-ticket",
+            "selector": ".p-editorial--golden-ticket"
+          }
+        ],
+        "status": "candidate"
+      },
+      {
+        "id": "candidate-f6b132",
+        "name": "promo-steps",
+        "confidence": "medium",
+        "signals": [
+          "p-icons (3 steps)"
+        ],
+        "slots": [
+          {
+            "name": "headline",
+            "type": "text",
+            "required": true
+          },
+          {
+            "name": "steps",
+            "type": "item[] {icon,title}",
+            "required": true
+          },
+          {
+            "name": "cta",
+            "type": "link",
+            "required": false
+          }
+        ],
+        "instances": [
+          {
+            "slug": "us-en-xp-golden-ticket",
+            "selector": ".p-icons"
+          }
+        ],
+        "status": "candidate"
+      },
+      {
+        "id": "candidate-1ce7fc",
+        "name": "promo-prize-slider",
+        "confidence": "medium",
+        "signals": [
+          "p-slider"
+        ],
+        "slots": [
+          {
+            "name": "headline",
+            "type": "text",
+            "required": true
+          },
+          {
+            "name": "slides",
+            "type": "item[] {title,text,image,link}",
+            "required": true
+          }
+        ],
+        "instances": [
+          {
+            "slug": "us-en-xp-golden-ticket",
+            "selector": ".p-slider"
+          }
+        ],
+        "status": "candidate"
+      },
+      {
+        "id": "candidate-61f6cb",
+        "name": "promo-title-text",
+        "confidence": "low",
+        "signals": [
+          "p-title-text ×2 (rules link, legal fine print)"
+        ],
+        "slots": [
+          {
+            "name": "text",
+            "type": "richtext",
+            "required": true
+          }
+        ],
+        "instances": [
+          {
+            "slug": "us-en-xp-golden-ticket",
+            "selector": ".p-title-text"
+          }
+        ],
+        "status": "candidate"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Gold Button",
+      "kind": "button",
+      "refersTo": "button-gold",
+      "description": "Primary CTA: foil-gradient pill with noise and hover light sweep.",
+      "html": "<a class=\"gold-button\"><span>Explore the Wonka Range</span></a>",
+      "css": ".gold-button{display:inline-flex;align-items:center;height:64px;padding:20px 40px;border-radius:70px;font:700 20px/1 Inter,sans-serif;color:#3d2507;border:1px solid transparent;background-image:linear-gradient(90deg,#ad8544,#f8e999 52.88%,#ac8543),linear-gradient(90deg,#cdab63,#f8e59c 19.03%,#b58f4f 46.15%,#f7e498 77.99%,#d8b97d 98.56%);background-origin:border-box;background-clip:padding-box,border-box;position:relative;overflow:hidden}"
+    },
+    {
+      "name": "Glass Button",
+      "kind": "button",
+      "refersTo": "button-glass",
+      "description": "Secondary CTA / nav: frosted white-10 pill.",
+      "html": "<a class=\"glass-button\">Scroll Down</a>",
+      "css": ".glass-button{padding:20px 32px;border-radius:160px;background:rgba(255,255,255,.1);border:1px solid rgba(255,255,255,.1);color:#fff;font:700 16px/1 Inter,sans-serif;backdrop-filter:blur(16px);transition:background-color .3s ease-out}.glass-button:hover{background:rgba(255,255,255,.3)}"
+    },
+    {
+      "name": "Promo Button",
+      "kind": "button",
+      "refersTo": "button-promo",
+      "description": "Golden-ticket microsite CTA.",
+      "html": "<a class=\"promo-button\">Get Started</a>",
+      "css": ".promo-button{background:#eec60d;color:#29144e;border-radius:84px;padding:17px 28px;box-shadow:0 4px 0 0 #980186;font-family:\"Work Sans\",sans-serif;font-weight:700}"
+    }
+  ],
+  "narrative": {
+    "northStar": "A purple-and-gold confectionery wonderland",
+    "overview": "Saturated magenta-purple fields, metallic gold uppercase headlines, frosted glass and drifting clouds.",
+    "keyCharacteristics": [
+      "gold-gradient uppercase Work Sans headings",
+      "purple #810172 field",
+      "glass and gold pills",
+      "cloud and sparkle decals",
+      "translucent velvet panels"
+    ],
+    "dos": [
+      "Keep gold for headings and primary actions"
+    ],
+    "donts": [
+      "No flat light backgrounds on sling pages",
+      "No card drop shadows"
+    ]
+  }
+}

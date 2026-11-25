@@ -1,0 +1,365 @@
+{
+ "_provenance": {
+  "writtenBy": "skills/replica/scripts/source-spec.mjs",
+  "writtenAt": "2026-11-25T11:01:16.407Z",
+  "url": "https://www.wonka.com/us/en/about-wonka",
+  "width": 1440,
+  "main": "main",
+  "locale": "en-US"
+ },
+ "page": {
+  "url": "https://www.wonka.com/us/en/about-wonka",
+  "width": 1440,
+  "viewport": 1440,
+  "docHeight": 3893,
+  "scrollWidth": 1440,
+  "root": "main",
+  "rootFallback": false,
+  "records": [
+   "scroll",
+   "shape"
+  ],
+  "rootWrapsChrome": false,
+  "tier": "chrome"
+ },
+ "tokens": {
+  "fonts": [
+   {
+    "stack": "Inter, sans-serif",
+    "n": 29
+   },
+   {
+    "stack": "\"Work Sans\", sans-serif",
+    "n": 7
+   }
+  ],
+  "loadedFaces": [
+   "Inter 400 normal",
+   "Inter 500 normal",
+   "Inter 600 normal",
+   "Inter 700 normal",
+   "Work Sans 600 normal"
+  ],
+  "textStyles": [
+   {
+    "key": "14/18 600 Inter",
+    "fontSize": 14,
+    "lineHeight": 18,
+    "fontWeight": "600",
+    "fontFamily": "Inter",
+    "textTransform": "none",
+    "n": 7,
+    "roles": {
+     "button": 7
+    },
+    "sample": "1. When will Wonka be on shelves?"
+   },
+   {
+    "key": "16/20.96 400 Inter",
+    "fontSize": 16,
+    "lineHeight": 20.96,
+    "fontWeight": "400",
+    "fontFamily": "Inter",
+    "textTransform": "none",
+    "n": 6,
+    "roles": {
+     "p": 1,
+     "link": 5
+    },
+    "sample": "The factory doors are open. Discover the full Wonka collection before finding y…"
+   },
+   {
+    "key": "34/34 600 Work Sans uppercase",
+    "fontSize": 34,
+    "lineHeight": 34,
+    "fontWeight": "600",
+    "fontFamily": "Work Sans",
+    "textTransform": "uppercase",
+    "n": 4,
+    "roles": {
+     "h2": 4
+    },
+    "sample": "WHERE IMAGINATION BECOMES DELICIOUS"
+   },
+   {
+    "key": "16/24 400 Inter",
+    "fontSize": 16,
+    "lineHeight": 24,
+    "fontWeight": "400",
+    "fontFamily": "Inter",
+    "textTransform": "none",
+    "n": 4,
+    "roles": {
+     "p": 4
+    },
+    "sample": "Wonka turns the ordinary into the extraordinary through inventive creations, un…"
+   },
+   {
+    "key": "16/16 700 Inter",
+    "fontSize": 16,
+    "lineHeight": 16,
+    "fontWeight": "700",
+    "fontFamily": "Inter",
+    "textTransform": "none",
+    "n": 3,
+    "roles": {
+     "link": 3
+    },
+    "sample": "Home"
+   },
+   {
+    "key": "16/21 400 Inter",
+    "fontSize": 16,
+    "lineHeight": 21,
+    "fontWeight": "400",
+    "fontFamily": "Inter",
+    "textTransform": "none",
+    "n": 2,
+    "roles": {
+     "p": 2
+    },
+    "sample": "Beyond the golden gates lies a place where imagination is always at work. A pla…"
+   },
+   {
+    "key": "14/18.06 500 Inter",
+    "fontSize": 14,
+    "lineHeight": 18.06,
+    "fontWeight": "500",
+    "fontFamily": "Inter",
+    "textTransform": "none",
+    "n": 2,
+    "roles": {
+     "span": 2
+    },
+    "sample": "Instagram"
+   },
+   {
+    "key": "54/59.94 600 Work Sans uppercase",
+    "fontSize": 54,
+    "lineHeight": 59.94,
+    "fontWeight": "600",
+    "fontFamily": "Work Sans",
+    "textTransform": "uppercase",
+    "n": 1,
+    "roles": {
+     "h1": 1
+    },
+    "sample": "Discover Wonka world"
+   },
+   {
+    "key": "42/42 600 Work Sans uppercase",
+    "fontSize": 42,
+    "lineHeight": 42,
+    "fontWeight": "600",
+    "fontFamily": "Work Sans",
+    "textTransform": "uppercase",
+    "n": 1,
+    "roles": {
+     "h2": 1
+    },
+    "sample": "BORN IN THE WONKA FACTORY"
+   },
+   {
+    "key": "28/33.88 600 Work Sans uppercase",
+    "fontSize": 28,
+    "lineHeight": 33.88,
+    "fontWeight": "600",
+    "fontFamily": "Work Sans",
+    "textTransform": "uppercase",
+    "n": 1,
+    "roles": {
+     "p": 1
+    },
+    "sample": "EST. IN WONDER"
+   },
+   {
+    "key": "20/20 700 Inter",
+    "fontSize": 20,
+    "lineHeight": 20,
+    "fontWeight": "700",
+    "fontFamily": "Inter",
+    "textTransform": "none",
+    "n": 1,
+    "roles": {
+     "link": 1
+    },
+    "sample": "Explore the Wonka Range"
+   },
+   {
+    "key": "18/23 400 Inter",
+    "fontSize": 18,
+    "lineHeight": 23,
+    "fontWeight": "400",
+    "fontFamily": "Inter",
+    "textTransform": "none",
+    "n": 1,
+    "roles": {
+     "p": 1
+    },
+    "sample": "Where inventive creations, unexpected flavors and delicious surprises turn ever…"
+   },
+   {
+    "key": "16/20.96 500 Inter",
+    "fontSize": 16,
+    "lineHeight": 20.96,
+    "fontWeight": "500",
+    "fontFamily": "Inter",
+    "textTransform": "none",
+    "n": 1,
+    "roles": {
+     "p": 1
+    },
+    "sample": "Follow us"
+   },
+   {
+    "key": "12/16 600 Inter",
+    "fontSize": 12,
+    "lineHeight": 16,
+    "fontWeight": "600",
+    "fontFamily": "Inter",
+    "textTransform": "none",
+    "n": 1,
+    "roles": {
+     "span": 1
+    },
+    "sample": "Scroll Down"
+   },
+   {
+    "key": "12/15.96 400 Inter",
+    "fontSize": 12,
+    "lineHeight": 15.96,
+    "fontWeight": "400",
+    "fontFamily": "Inter",
+    "textTransform": "none",
+    "n": 1,
+    "roles": {
+     "div": 1
+    },
+    "sample": "© 2026 Ferrero Group. All Rights Reserved."
+   }
+  ],
+  "colours": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "n": 21
+   },
+   {
+    "color": "rgba(0, 0, 0, 0)",
+    "n": 13
+   },
+   {
+    "color": "rgb(246, 240, 245)",
+    "n": 1
+   },
+   {
+    "color": "rgb(61, 37, 7)",
+    "n": 1
+   }
+  ],
+  "container": {
+   "left": 81,
+   "right": 80,
+   "content": 1279,
+   "leftCommon": {
+    "x": 350,
+    "n": 7
+   }
+  }
+ },
+ "truncated": {
+  "text": 0,
+  "image": 0
+ },
+ "sections": [
+  {"i":0,"region":"header","y":0,"h":62,"background":"none","paddingTop":0,"paddingBottom":0,"selectorHint":"header.pointer-events-none.absolute","firstText":"Home"},
+  {"i":1,"region":"main","y":0,"h":1058,"background":"none","paddingTop":0,"paddingBottom":0,"selectorHint":"div#section-86.paragraph.paragraph--type--page-section","firstText":"EST. IN WONDER"},
+  {"i":2,"region":"main","y":1138,"h":326,"background":"none","paddingTop":0,"paddingBottom":0,"selectorHint":"div#imagination.paragraph.paragraph--type--page-section","firstText":"WHERE IMAGINATION BECOMES DELICIOUS"},
+  {"i":3,"region":"main","y":1544,"h":385,"background":"none","paddingTop":0,"paddingBottom":0,"selectorHint":"div#section-93.paragraph.paragraph--type--page-section","firstText":"BORN IN THE WONKA FACTORY"},
+  {"i":4,"region":"main","y":2009,"h":575,"background":"none","paddingTop":0,"paddingBottom":0,"selectorHint":"div#section-95.paragraph.paragraph--type--page-section","firstText":"READY TO STEP INSIDE?"},
+  {"i":5,"region":"main","y":2664,"h":244,"background":"none","paddingTop":0,"paddingBottom":0,"selectorHint":"div#section-97.paragraph.paragraph--type--page-section","firstText":"Follow the Magic"},
+  {"i":6,"region":"main","y":2988,"h":560,"background":"none","paddingTop":0,"paddingBottom":0,"selectorHint":"div#section-141.paragraph.paragraph--type--page-section","firstText":"UNWRAPPING YOUR QUESTIONS"},
+  {"i":7,"region":"footer","y":3588,"h":304,"background":"rgba(76, 1, 67, 0.7)","paddingTop":0,"paddingBottom":0,"selectorHint":"footer.relative.z-20","firstText":"Follow us"}
+ ],
+ "nodes": [
+  {"section":0,"region":"header","kind":"image","tag":"svg","role":null,"text":"","x":0,"y":0,"w":189,"h":62,"fit":"fill","shape":{"pos":"50% 50%"},"scroll":"fixed 0"},
+  {"section":0,"region":"header","kind":"image","tag":"img","role":"link","text":"Golden Wonka brand logo","x":75,"y":11,"w":70,"h":40,"fit":"fill","shape":{"pos":"50% 50%"},"natural":[146,83],"src":"https://ferrero-kube-stack-prod-static.s3.eu-west-1.amazonaws.com/wonka-us-d11/sites/wonka.com.us/s3fs-public/2026-08/wonka-logo.svg","href":"/us/en/","scroll":"fixed 0"},
+  {"section":0,"region":"header","kind":"control","tag":"a","role":"link","text":"Home","x":210,"y":36,"w":46,"h":16,"fontFamily":"Inter","fontSize":16,"lineHeight":16,"fontWeight":"700","letterSpacing":0,"textTransform":"none","textAlign":"start","color":"rgb(255, 255, 255)","lines":1,"href":"/us/en/","scroll":"fixed 0"},
+  {"section":0,"region":"header","kind":"control","tag":"a","role":"link","text":"About Wonka","x":280,"y":36,"w":106,"h":16,"fontFamily":"Inter","fontSize":16,"lineHeight":16,"fontWeight":"700","letterSpacing":0,"textTransform":"none","textAlign":"start","color":"rgb(255, 255, 255)","lines":1,"href":"/us/en/about-wonka","scroll":"fixed 0"},
+  {"section":0,"region":"header","kind":"control","tag":"a","role":"link","text":"Golden Ticket Sweepstakes","x":410,"y":36,"w":217,"h":16,"fontFamily":"Inter","fontSize":16,"lineHeight":16,"fontWeight":"700","letterSpacing":0,"textTransform":"none","textAlign":"start","color":"rgb(255, 255, 255)","lines":1,"href":"https://www.wonka.com/us/en/xp/golden-ticket/","scroll":"fixed 0"},
+  {"section":1,"region":"main","kind":"image","tag":"img","role":null,"text":"An open vintage leather-bound sketchbook showing detailed technical drawings of…","x":0,"y":-78,"w":1440,"h":1440,"fit":"cover","shape":{"pos":"50% 50%"},"natural":[1920,1920],"src":"https://ferrero-kube-stack-prod-static.s3.eu-west-1.amazonaws.com/wonka-us-d11/sites/wonka.com.us/s3fs-public/styles/extra_large/public/2026-08/wonka-big-book_1920.webp?itok=BKymzbu7"},
+  {"section":1,"region":"main","kind":"image","tag":"img","role":null,"text":"","x":406,"y":119,"w":628,"h":572,"fit":"fill","shape":{"pos":"50% 50%"},"natural":[1920,1554],"src":"https://www.wonka.com/themes/custom/sling/assets/images/discover-hero/gold-dust.webp"},
+  {"section":1,"region":"main","kind":"image","tag":"img","role":null,"text":"","x":-155,"y":110,"w":482,"h":302,"fit":"fill","shape":{"pos":"50% 50%"},"natural":[327,302],"src":"https://www.wonka.com/themes/custom/sling/assets/images/hero-banner/clouds-top-left.webp"},
+  {"section":1,"region":"main","kind":"image","tag":"img","role":null,"text":"","x":1077,"y":52,"w":493,"h":302,"fit":"fill","shape":{"pos":"50% 50%"},"natural":[363,302],"src":"https://www.wonka.com/themes/custom/sling/assets/images/hero-banner/clouds-top-right.webp"},
+  {"section":1,"region":"main","kind":"image","tag":"img","role":null,"text":"","x":-108,"y":747,"w":1656,"h":305,"fit":"fill","shape":{"pos":"50% 50%"},"natural":[2500,461],"src":"https://www.wonka.com/themes/custom/sling/assets/images/discover-hero/clouds.webp"},
+  {"section":1,"region":"main","kind":"text","tag":"p","role":null,"text":"EST. IN WONDER","x":609,"y":104,"w":221,"h":34,"fontFamily":"Work Sans","fontSize":28,"lineHeight":33.88,"fontWeight":"600","letterSpacing":-0.56,"textTransform":"uppercase","textAlign":"center","color":"rgb(255, 255, 255)","lines":1},
+  {"section":1,"region":"main","kind":"text","tag":"h1","role":"h1","text":"Discover Wonka world","x":370,"y":142,"w":700,"h":120,"fontFamily":"Work Sans","fontSize":54,"lineHeight":59.94,"fontWeight":"600","letterSpacing":0,"textTransform":"uppercase","textAlign":"center","color":"rgba(0, 0, 0, 0)","lines":2},
+  {"section":1,"region":"main","kind":"text","tag":"p","role":null,"text":"Where inventive creations, unexpected flavors and delicious surprises turn ever…","x":370,"y":278,"w":700,"h":46,"fontFamily":"Inter","fontSize":18,"lineHeight":23,"fontWeight":"400","letterSpacing":0.36,"textTransform":"none","textAlign":"center","color":"rgb(246, 240, 245)","lines":2},
+  {"section":1,"region":"main","kind":"image","tag":"img","role":"link","text":"","x":710,"y":831,"w":20,"h":20,"fit":"fill","shape":{"pos":"50% 50%","r":"160px","by":[86,64]},"natural":[24,24],"src":"https://www.wonka.com/themes/custom/sling/assets/icons/arrow-down.svg","href":"#imagination"},
+  {"section":1,"region":"main","kind":"text","tag":"span","role":null,"text":"Scroll Down","x":685,"y":880,"w":69,"h":16,"fontFamily":"Inter","fontSize":12,"lineHeight":16,"fontWeight":"600","letterSpacing":0,"textTransform":"none","textAlign":"center","color":"rgb(255, 255, 255)","lines":1},
+  {"section":2,"region":"main","kind":"text","tag":"h2","role":"h2","text":"WHERE IMAGINATION BECOMES DELICIOUS","x":368,"y":1138,"w":705,"h":34,"fontFamily":"Work Sans","fontSize":34,"lineHeight":34,"fontWeight":"600","letterSpacing":-0.7,"textTransform":"uppercase","textAlign":"center","color":"rgba(0, 0, 0, 0)","lines":1},
+  {"section":2,"region":"main","kind":"image","tag":"img","role":null,"text":"","x":259,"y":1319,"w":306,"h":259,"fit":"fill","shape":{"pos":"50% 50%"},"natural":[742,600],"src":"https://www.wonka.com/themes/custom/sling/assets/images/product-card/stars.webp"},
+  {"section":2,"region":"main","kind":"text","tag":"p","role":null,"text":"Wonka turns the ordinary into the extraordinary through inventive creations, un…","x":81,"y":1335,"w":387,"h":72,"fontFamily":"Inter","fontSize":16,"lineHeight":24,"fontWeight":"400","letterSpacing":0,"textTransform":"none","textAlign":"center","color":"rgb(255, 255, 255)","lines":3},
+  {"section":2,"region":"main","kind":"image","tag":"img","role":null,"text":"","x":169,"y":1217,"w":195,"h":175,"fit":"fill","shape":{"pos":"50% 50%"},"natural":[162,131],"src":"https://www.wonka.com/themes/custom/sling/assets/images/story-cards/seal-stars.webp"},
+  {"section":2,"region":"main","kind":"image","tag":"img","role":null,"text":"","x":225,"y":1220,"w":100,"h":100,"fit":"cover","shape":{"pos":"50% 50%","r":"9999px","by":[100,100]},"natural":[200,200],"src":"https://www.wonka.com/themes/custom/sling/assets/images/story-cards/seal-background.png"},
+  {"section":2,"region":"main","kind":"image","tag":"img","role":null,"text":"Neon purple icon featuring Willy Wonka's top hat and a lollipop surrounded by m…","x":239,"y":1234,"w":72,"h":72,"fit":"contain","shape":{"pos":"50% 50%","r":"9999px","by":[100,100]},"natural":[144,144],"src":"https://ferrero-kube-stack-prod-static.s3.eu-west-1.amazonaws.com/wonka-us-d11/sites/wonka.com.us/s3fs-public/styles/extra_large/public/2026-09/icon-1-x2.png?itok=iOzBo-QT"},
+  {"section":2,"region":"main","kind":"text","tag":"p","role":null,"text":"Every Wonka product is made to spark curiosity and delight, bringing together i…","x":526,"y":1335,"w":387,"h":96,"fontFamily":"Inter","fontSize":16,"lineHeight":24,"fontWeight":"400","letterSpacing":0,"textTransform":"none","textAlign":"center","color":"rgb(255, 255, 255)","lines":4},
+  {"section":2,"region":"main","kind":"image","tag":"img","role":null,"text":"","x":615,"y":1217,"w":195,"h":175,"fit":"fill","shape":{"pos":"50% 50%"},"natural":[162,131],"src":"https://www.wonka.com/themes/custom/sling/assets/images/story-cards/seal-stars.webp"},
+  {"section":2,"region":"main","kind":"image","tag":"img","role":null,"text":"","x":670,"y":1220,"w":100,"h":100,"fit":"cover","shape":{"pos":"50% 50%","r":"9999px","by":[100,100]},"natural":[200,200],"src":"https://www.wonka.com/themes/custom/sling/assets/images/story-cards/seal-background.png"},
+  {"section":2,"region":"main","kind":"image","tag":"img","role":null,"text":"Neon purple icon showing a chocolate bar mold crossed with a whisk and spatula …","x":684,"y":1234,"w":72,"h":72,"fit":"contain","shape":{"pos":"50% 50%","r":"9999px","by":[100,100]},"natural":[144,144],"src":"https://ferrero-kube-stack-prod-static.s3.eu-west-1.amazonaws.com/wonka-us-d11/sites/wonka.com.us/s3fs-public/styles/extra_large/public/2026-09/icon-2-x2.png?itok=Se-0wKbT"},
+  {"section":2,"region":"main","kind":"image","tag":"img","role":null,"text":"","x":859,"y":1124,"w":337,"h":303,"fit":"fill","shape":{"pos":"50% 50%"},"natural":[742,600],"src":"https://www.wonka.com/themes/custom/sling/assets/images/product-card/stars.webp"},
+  {"section":2,"region":"main","kind":"text","tag":"p","role":null,"text":"Across fruity gummies, assorted chocolates and many more imaginative treats, ev…","x":972,"y":1335,"w":387,"h":96,"fontFamily":"Inter","fontSize":16,"lineHeight":24,"fontWeight":"400","letterSpacing":0,"textTransform":"none","textAlign":"center","color":"rgb(255, 255, 255)","lines":4},
+  {"section":2,"region":"main","kind":"image","tag":"img","role":null,"text":"","x":1060,"y":1217,"w":195,"h":175,"fit":"fill","shape":{"pos":"50% 50%"},"natural":[162,131],"src":"https://www.wonka.com/themes/custom/sling/assets/images/story-cards/seal-stars.webp"},
+  {"section":2,"region":"main","kind":"image","tag":"img","role":null,"text":"","x":1115,"y":1220,"w":100,"h":100,"fit":"cover","shape":{"pos":"50% 50%","r":"9999px","by":[100,100]},"natural":[200,200],"src":"https://www.wonka.com/themes/custom/sling/assets/images/story-cards/seal-background.png"},
+  {"section":2,"region":"main","kind":"image","tag":"img","role":null,"text":"Neon purple icon of a cocoa pod with leaves and cocoa beans surrounded by magic…","x":1129,"y":1234,"w":72,"h":72,"fit":"contain","shape":{"pos":"50% 50%","r":"9999px","by":[100,100]},"natural":[144,144],"src":"https://ferrero-kube-stack-prod-static.s3.eu-west-1.amazonaws.com/wonka-us-d11/sites/wonka.com.us/s3fs-public/styles/extra_large/public/2026-09/icon-3-x2.png?itok=qUs_yZze"},
+  {"section":3,"region":"main","kind":"image","tag":"img","role":null,"text":"Wonka's chocolate factory filled with copper machinery, colorful steam, and a f…","x":64,"y":1544,"w":693,"h":517,"fit":"cover","shape":{"pos":"50% 50%","r":"24px","by":[693,385]},"natural":[1600,1194],"src":"https://ferrero-kube-stack-prod-static.s3.eu-west-1.amazonaws.com/wonka-us-d11/sites/wonka.com.us/s3fs-public/styles/extra_large/public/2026-09/wonka-factory-x2.webp?itok=ovpCPIn9"},
+  {"section":3,"region":"main","kind":"text","tag":"h2","role":"h2","text":"BORN IN THE WONKA FACTORY","x":797,"y":1575,"w":563,"h":84,"fontFamily":"Work Sans","fontSize":42,"lineHeight":42,"fontWeight":"600","letterSpacing":-0.7,"textTransform":"uppercase","textAlign":"left","color":"rgba(0, 0, 0, 0)","lines":2},
+  {"section":3,"region":"main","kind":"text","tag":"p","role":null,"text":"Beyond the golden gates lies a place where imagination is always at work. A pla…","x":797,"y":1675,"w":563,"h":63,"fontFamily":"Inter","fontSize":16,"lineHeight":21,"fontWeight":"400","letterSpacing":0,"textTransform":"none","textAlign":"left","color":"rgb(255, 255, 255)","lines":3},
+  {"section":3,"region":"main","kind":"image","tag":"img","role":null,"text":"","x":797,"y":1754,"w":24,"h":24,"fit":"fill","shape":{"pos":"50% 50%"},"natural":[24,24],"src":"https://www.wonka.com/themes/custom/sling/assets/decorative/decorative-star.svg"},
+  {"section":3,"region":"main","kind":"text","tag":"p","role":null,"text":"This is the Wonka Factory: where curiosity fuels invention and craftsmanship br…","x":797,"y":1794,"w":563,"h":105,"fontFamily":"Inter","fontSize":16,"lineHeight":21,"fontWeight":"400","letterSpacing":0,"textTransform":"none","textAlign":"left","color":"rgb(255, 255, 255)","lines":4},
+  {"section":4,"region":"main","kind":"text","tag":"h2","role":"h2","text":"READY TO STEP INSIDE?","x":524,"y":2009,"w":392,"h":34,"fontFamily":"Work Sans","fontSize":34,"lineHeight":34,"fontWeight":"600","letterSpacing":-0.7,"textTransform":"uppercase","textAlign":"center","color":"rgba(0, 0, 0, 0)","lines":1},
+  {"section":4,"region":"main","kind":"text","tag":"p","role":null,"text":"The factory doors are open. Discover the full Wonka collection before finding y…","x":386,"y":2059,"w":668,"h":42,"fontFamily":"Inter","fontSize":16,"lineHeight":20.96,"fontWeight":"400","letterSpacing":0.3,"textTransform":"none","textAlign":"center","color":"rgb(255, 255, 255)","lines":2},
+  {"section":4,"region":"main","kind":"image","tag":"img","role":null,"text":"","x":-115,"y":2260,"w":1670,"h":308,"fit":"fill","shape":{"pos":"50% 50%"},"natural":[1718,317],"src":"https://www.wonka.com/themes/custom/sling/assets/images/promo-section/clouds.webp"},
+  {"section":4,"region":"main","kind":"image","tag":"picture","role":null,"text":"A stacked layout of purple Wonka candy packages, including Oompa Loompa milk ch…","x":238,"y":2133,"w":965,"h":337,"fit":"fill","shape":{"pos":"50% 50%"},"natural":[1692,591],"src":"https://ferrero-kube-stack-prod-static.s3.eu-west-1.amazonaws.com/wonka-us-d11/sites/wonka.com.us/s3fs-public/styles/extra_large/public/2026-09/us-version-products-group-desktop.webp?itok=9QT6cJ56"},
+  {"section":4,"region":"main","kind":"control","tag":"a","role":"link","text":"Explore the Wonka Range","x":539,"y":2520,"w":363,"h":64,"fontFamily":"Inter","fontSize":20,"lineHeight":20,"fontWeight":"700","letterSpacing":0,"textTransform":"none","textAlign":"center","color":"rgb(61, 37, 7)","lines":1,"href":"/us/en/"},
+  {"section":4,"region":"main","kind":"image","tag":"img","role":"link","text":"","x":839,"y":2542,"w":20,"h":20,"fit":"fill","shape":{"pos":"50% 50%","r":"70px","by":[363,64]},"natural":[24,24],"src":"https://www.wonka.com/themes/custom/sling/assets/icons/arrow.svg","href":"/us/en/"},
+  {"section":5,"region":"main","kind":"text","tag":"h2","role":"h2","text":"Follow the Magic","x":554,"y":2664,"w":331,"h":34,"fontFamily":"Work Sans","fontSize":34,"lineHeight":34,"fontWeight":"600","letterSpacing":-0.7,"textTransform":"uppercase","textAlign":"center","color":"rgba(0, 0, 0, 0)","lines":1},
+  {"section":5,"region":"main","kind":"text","tag":"p","role":null,"text":"Stay up to date with the latest from the Wonka world — new products, stories an…","x":372,"y":2730,"w":696,"h":24,"fontFamily":"Inter","fontSize":16,"lineHeight":24,"fontWeight":"400","letterSpacing":0,"textTransform":"none","textAlign":"center","color":"rgb(255, 255, 255)","lines":1},
+  {"section":5,"region":"main","kind":"image","tag":"img","role":"link","text":"Instagram","x":671,"y":2800,"w":20,"h":20,"fit":"fill","shape":{"pos":"50% 50%","r":"160px","by":[62,48]},"natural":[20,20],"src":"https://www.wonka.com/themes/custom/sling/assets/icons/social-instagram.svg","href":"https://www.instagram.com/wonka_usa"},
+  {"section":5,"region":"main","kind":"text","tag":"span","role":null,"text":"Instagram","x":648,"y":2850,"w":67,"h":18,"fontFamily":"Inter","fontSize":14,"lineHeight":18.06,"fontWeight":"500","letterSpacing":0,"textTransform":"none","textAlign":"center","color":"rgb(255, 255, 255)","lines":1},
+  {"section":5,"region":"main","kind":"image","tag":"img","role":"link","text":"Tik Tok","x":751,"y":2800,"w":20,"h":20,"fit":"fill","shape":{"pos":"50% 50%","r":"160px","by":[62,48]},"natural":[20,20],"src":"https://www.wonka.com/themes/custom/sling/assets/icons/social-tiktok.svg","href":"https://www.tiktok.com/@wonka_usa"},
+  {"section":5,"region":"main","kind":"text","tag":"span","role":null,"text":"Tik Tok","x":737,"y":2850,"w":49,"h":18,"fontFamily":"Inter","fontSize":14,"lineHeight":18.06,"fontWeight":"500","letterSpacing":0,"textTransform":"none","textAlign":"center","color":"rgb(255, 255, 255)","lines":1},
+  {"section":6,"region":"main","kind":"text","tag":"h2","role":"h2","text":"UNWRAPPING YOUR QUESTIONS","x":458,"y":2988,"w":524,"h":34,"fontFamily":"Work Sans","fontSize":34,"lineHeight":34,"fontWeight":"600","letterSpacing":-0.7,"textTransform":"uppercase","textAlign":"center","color":"rgba(0, 0, 0, 0)","lines":1},
+  {"section":6,"region":"main","kind":"control","tag":"button","role":"button","text":"1. When will Wonka be on shelves?","x":350,"y":3046,"w":740,"h":58,"fontFamily":"Inter","fontSize":14,"lineHeight":18,"fontWeight":"600","letterSpacing":0,"textTransform":"none","textAlign":"left","color":"rgba(0, 0, 0, 0)","lines":1},
+  {"section":6,"region":"main","kind":"image","tag":"img","role":"button","text":"","x":1058,"y":3074,"w":12,"h":2,"fit":"fill","shape":{"pos":"50% 50%","r":"24px","by":[740,58]},"natural":[12,2],"src":"https://www.wonka.com/themes/custom/sling/assets/icons/accordion-icon.svg"},
+  {"section":6,"region":"main","kind":"image","tag":"img","role":"button","text":"","x":1063,"y":3069,"w":2,"h":12,"fit":"fill","shape":{"pos":"50% 50%","r":"24px","by":[740,58]},"natural":[12,2],"src":"https://www.wonka.com/themes/custom/sling/assets/icons/accordion-icon.svg"},
+  {"section":6,"region":"main","kind":"control","tag":"button","role":"button","text":"2. What kind of treats can I expect?","x":350,"y":3120,"w":740,"h":58,"fontFamily":"Inter","fontSize":14,"lineHeight":18,"fontWeight":"600","letterSpacing":0,"textTransform":"none","textAlign":"left","color":"rgba(0, 0, 0, 0)","lines":1},
+  {"section":6,"region":"main","kind":"image","tag":"img","role":"button","text":"","x":1058,"y":3148,"w":12,"h":2,"fit":"fill","shape":{"pos":"50% 50%","r":"24px","by":[740,58]},"natural":[12,2],"src":"https://www.wonka.com/themes/custom/sling/assets/icons/accordion-icon.svg"},
+  {"section":6,"region":"main","kind":"image","tag":"img","role":"button","text":"","x":1063,"y":3143,"w":2,"h":12,"fit":"fill","shape":{"pos":"50% 50%","r":"24px","by":[740,58]},"natural":[12,2],"src":"https://www.wonka.com/themes/custom/sling/assets/icons/accordion-icon.svg"},
+  {"section":6,"region":"main","kind":"control","tag":"button","role":"button","text":"3. Where can I find Wonka products?","x":350,"y":3194,"w":740,"h":58,"fontFamily":"Inter","fontSize":14,"lineHeight":18,"fontWeight":"600","letterSpacing":0,"textTransform":"none","textAlign":"left","color":"rgba(0, 0, 0, 0)","lines":1},
+  {"section":6,"region":"main","kind":"image","tag":"img","role":"button","text":"","x":1058,"y":3222,"w":12,"h":2,"fit":"fill","shape":{"pos":"50% 50%","r":"24px","by":[740,58]},"natural":[12,2],"src":"https://www.wonka.com/themes/custom/sling/assets/icons/accordion-icon.svg"},
+  {"section":6,"region":"main","kind":"image","tag":"img","role":"button","text":"","x":1063,"y":3217,"w":2,"h":12,"fit":"fill","shape":{"pos":"50% 50%","r":"24px","by":[740,58]},"natural":[12,2],"src":"https://www.wonka.com/themes/custom/sling/assets/icons/accordion-icon.svg"},
+  {"section":6,"region":"main","kind":"control","tag":"button","role":"button","text":"4. Is Wonka a Ferrero brand?","x":350,"y":3268,"w":740,"h":58,"fontFamily":"Inter","fontSize":14,"lineHeight":18,"fontWeight":"600","letterSpacing":0,"textTransform":"none","textAlign":"left","color":"rgba(0, 0, 0, 0)","lines":1},
+  {"section":6,"region":"main","kind":"image","tag":"img","role":"button","text":"","x":1058,"y":3296,"w":12,"h":2,"fit":"fill","shape":{"pos":"50% 50%","r":"24px","by":[740,58]},"natural":[12,2],"src":"https://www.wonka.com/themes/custom/sling/assets/icons/accordion-icon.svg"},
+  {"section":6,"region":"main","kind":"image","tag":"img","role":"button","text":"","x":1063,"y":3291,"w":2,"h":12,"fit":"fill","shape":{"pos":"50% 50%","r":"24px","by":[740,58]},"natural":[12,2],"src":"https://www.wonka.com/themes/custom/sling/assets/icons/accordion-icon.svg"},
+  {"section":6,"region":"main","kind":"control","tag":"button","role":"button","text":"5. Is this connected to the new Netflix film and series?","x":350,"y":3342,"w":740,"h":58,"fontFamily":"Inter","fontSize":14,"lineHeight":18,"fontWeight":"600","letterSpacing":0,"textTransform":"none","textAlign":"left","color":"rgba(0, 0, 0, 0)","lines":1},
+  {"section":6,"region":"main","kind":"image","tag":"img","role":"button","text":"","x":1058,"y":3370,"w":12,"h":2,"fit":"fill","shape":{"pos":"50% 50%","r":"24px","by":[740,58]},"natural":[12,2],"src":"https://www.wonka.com/themes/custom/sling/assets/icons/accordion-icon.svg"},
+  {"section":6,"region":"main","kind":"image","tag":"img","role":"button","text":"","x":1063,"y":3365,"w":2,"h":12,"fit":"fill","shape":{"pos":"50% 50%","r":"24px","by":[740,58]},"natural":[12,2],"src":"https://www.wonka.com/themes/custom/sling/assets/icons/accordion-icon.svg"},
+  {"section":6,"region":"main","kind":"control","tag":"button","role":"button","text":"6. Who are these products for?","x":350,"y":3416,"w":740,"h":58,"fontFamily":"Inter","fontSize":14,"lineHeight":18,"fontWeight":"600","letterSpacing":0,"textTransform":"none","textAlign":"left","color":"rgba(0, 0, 0, 0)","lines":1},
+  {"section":6,"region":"main","kind":"image","tag":"img","role":"button","text":"","x":1058,"y":3444,"w":12,"h":2,"fit":"fill","shape":{"pos":"50% 50%","r":"24px","by":[740,58]},"natural":[12,2],"src":"https://www.wonka.com/themes/custom/sling/assets/icons/accordion-icon.svg"},
+  {"section":6,"region":"main","kind":"image","tag":"img","role":"button","text":"","x":1063,"y":3439,"w":2,"h":12,"fit":"fill","shape":{"pos":"50% 50%","r":"24px","by":[740,58]},"natural":[12,2],"src":"https://www.wonka.com/themes/custom/sling/assets/icons/accordion-icon.svg"},
+  {"section":6,"region":"main","kind":"control","tag":"button","role":"button","text":"7. Where are Wonka products made?","x":350,"y":3490,"w":740,"h":58,"fontFamily":"Inter","fontSize":14,"lineHeight":18,"fontWeight":"600","letterSpacing":0,"textTransform":"none","textAlign":"left","color":"rgba(0, 0, 0, 0)","lines":1},
+  {"section":6,"region":"main","kind":"image","tag":"img","role":"button","text":"","x":1058,"y":3518,"w":12,"h":2,"fit":"fill","shape":{"pos":"50% 50%","r":"24px","by":[740,58]},"natural":[12,2],"src":"https://www.wonka.com/themes/custom/sling/assets/icons/accordion-icon.svg"},
+  {"section":6,"region":"main","kind":"image","tag":"img","role":"button","text":"","x":1063,"y":3513,"w":2,"h":12,"fit":"fill","shape":{"pos":"50% 50%","r":"24px","by":[740,58]},"natural":[12,2],"src":"https://www.wonka.com/themes/custom/sling/assets/icons/accordion-icon.svg"},
+  {"section":7,"region":"footer","kind":"image","tag":"img","role":"link","text":"Golden Wonka brand logo","x":516,"y":3628,"w":141,"h":80,"fit":"fill","shape":{"pos":"50% 50%","r":"40px 40px 0px 0px","by":[1440,304]},"natural":[146,83],"src":"https://ferrero-kube-stack-prod-static.s3.eu-west-1.amazonaws.com/wonka-us-d11/sites/wonka.com.us/s3fs-public/2026-08/wonka-logo.svg","href":"/us/en/"},
+  {"section":7,"region":"footer","kind":"text","tag":"p","role":null,"text":"Follow us","x":696,"y":3658,"w":72,"h":21,"fontFamily":"Inter","fontSize":16,"lineHeight":20.96,"fontWeight":"500","letterSpacing":0,"textTransform":"none","textAlign":"start","color":"rgb(255, 255, 255)","lines":1},
+  {"section":7,"region":"footer","kind":"image","tag":"img","role":"link","text":"Instagram","x":805,"y":3658,"w":20,"h":20,"fit":"fill","shape":{"pos":"50% 50%","r":"160px","by":[62,48]},"natural":[20,20],"src":"https://www.wonka.com/themes/custom/sling/assets/icons/social-instagram.svg","href":"https://www.instagram.com/wonka_usa"},
+  {"section":7,"region":"footer","kind":"image","tag":"img","role":"link","text":"Tik Tok","x":883,"y":3658,"w":20,"h":20,"fit":"fill","shape":{"pos":"50% 50%","r":"160px","by":[62,48]},"natural":[20,20],"src":"https://www.wonka.com/themes/custom/sling/assets/icons/social-tiktok.svg","href":"https://www.tiktok.com/@wonka_usa"},
+  {"section":7,"region":"footer","kind":"image","tag":"svg","role":null,"text":"","x":712,"y":3732,"w":16,"h":16,"fit":"fill","shape":{"pos":"50% 50%","r":"40px 40px 0px 0px","by":[1440,304]}},
+  {"section":7,"region":"footer","kind":"control","tag":"a","role":"link","text":"Privacy Policy","x":241,"y":3772,"w":110,"h":24,"fontFamily":"Inter","fontSize":16,"lineHeight":20.96,"fontWeight":"400","letterSpacing":2,"textTransform":"none","textAlign":"center","color":"rgb(255, 255, 255)","lines":1,"href":"/us/en/privacy-policy"},
+  {"section":7,"region":"footer","kind":"control","tag":"a","role":"link","text":"Terms of Use","x":399,"y":3772,"w":105,"h":24,"fontFamily":"Inter","fontSize":16,"lineHeight":20.96,"fontWeight":"400","letterSpacing":2,"textTransform":"none","textAlign":"center","color":"rgb(255, 255, 255)","lines":1,"href":"/us/en/terms-of-use"},
+  {"section":7,"region":"footer","kind":"control","tag":"a","role":"link","text":"Cookie Policy","x":553,"y":3772,"w":107,"h":24,"fontFamily":"Inter","fontSize":16,"lineHeight":20.96,"fontWeight":"400","letterSpacing":2,"textTransform":"none","textAlign":"center","color":"rgb(255, 255, 255)","lines":1,"href":"/us/en/cookie-policy"},
+  {"section":7,"region":"footer","kind":"control","tag":"a","role":"link","text":"Do Not Sell or Share My Personal Information","x":707,"y":3772,"w":356,"h":24,"fontFamily":"Inter","fontSize":16,"lineHeight":20.96,"fontWeight":"400","letterSpacing":2,"textTransform":"none","textAlign":"center","color":"rgb(255, 255, 255)","lines":1,"href":"#ot-sdk-show-settings"},
+  {"section":7,"region":"footer","kind":"control","tag":"a","role":"link","text":"Contact Us","x":1111,"y":3772,"w":87,"h":24,"fontFamily":"Inter","fontSize":16,"lineHeight":20.96,"fontWeight":"400","letterSpacing":2,"textTransform":"none","textAlign":"center","color":"rgb(255, 255, 255)","lines":1,"href":"https://www.ferrero.com/us/en/contact-us"},
+  {"section":7,"region":"footer","kind":"text","tag":"div","role":null,"text":"© 2026 Ferrero Group. All Rights Reserved.","x":0,"y":3836,"w":1440,"h":56,"fontFamily":"Inter","fontSize":12,"lineHeight":15.96,"fontWeight":"400","letterSpacing":0,"textTransform":"none","textAlign":"center","color":"rgb(255, 255, 255)","lines":1}
+ ]
+}

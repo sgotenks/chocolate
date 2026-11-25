@@ -1,0 +1,17 @@
+{
+  "instrument": "stitch-live",
+  "url": "https://www.wonka.com/us/en/privacy-policy",
+  "reference": {
+    "dir": "stardust/replica/gates/wide-2560/us-en-privacy-policy",
+    "capturedAt": "2026-11-25T12:42:13.143Z",
+    "primed": true,
+    "stable": true,
+    "noiseFloor": 0,
+    "variableRows": 0,
+    "maskArg": ""
+  },
+  "note": "froze stardust/replica/gates/wide-2560/us-en-privacy-policy/baseline.png (the page's frozen reference — primed, not re-captured)",
+  "fontsFailed": [],
+  "deadFaces": [],
+  "at": "2026-11-25T12:42:37.483Z"
+}

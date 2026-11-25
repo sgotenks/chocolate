@@ -1,0 +1,15 @@
+{
+  "variantName": "portal",
+  "baseBlock": "custom",
+  "canonicalModel": "configuration",
+  "visualCharacteristics": {
+    "purpose": "Hat-portal intro overlay shown on the first visit per browser session: hat / golden-ticket orbit, looping stars backdrop video and two CTAs."
+  },
+  "contentPattern": {
+    "structure": "Slide rows (title paragraph | desktop + mobile images | CTA paragraph; first = hat, second = ticket), a backdrop row (link to the stars .mp4 | poster image) and a label row (swipe hint text)."
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": "First-visit intro overlay on the landing page.",
+  "reuseGuidance": "Reuse portal wherever the same content pattern appears; authored content is moved into the block's layout, so keep the structure above."
+}

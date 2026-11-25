@@ -1,0 +1,93 @@
+{
+  "slug": "us-en-about-wonka",
+  "type": "about",
+  "renderBranch": "A",
+  "template": null,
+  "modules": [
+    "discover-hero",
+    "story-cards",
+    "image-text",
+    "promo-banner",
+    "social",
+    "faq"
+  ],
+  "widgets": [],
+  "slotsFilled": [
+    "page__sections"
+  ],
+  "canonShas": {
+    "header": "780b39051e92",
+    "footer": "f3a40d305ffb",
+    "css": "e674aed98c37"
+  },
+  "deviations": [],
+  "migrationDecisions": [],
+  "metadata": {
+    "title": "About Wonka Brand",
+    "description": "Step into the world of Wonka! Discover inventive chocolate creations, fruity gummies, and magical flavors made to spark your imagination. Explore the range today.",
+    "canonical": null,
+    "lang": "en"
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "About Wonka Brand",
+    "description": "Step into the world of Wonka! Discover inventive chocolate creations, fruity gummies, and magical flavors made to spark your imagination. Explore the range today.",
+    "url": "https://www.wonka.com/us/en/about-wonka"
+  },
+  "migratedAt": "2026-11-25T11:22:40Z",
+  "designMdSha": "b830f5f77c7c",
+  "designJsonSha": "cc2e3d5fbccd",
+  "sourceCurrentSha": "3a917d752699",
+  "sourceProposedSha": "8bed50be17b2",
+  "fidelityTier": "archetype",
+  "archetypeSource": null,
+  "archetypeSha": null,
+  "variants": [],
+  "gatesPassed": [],
+  "gateEvidence": {},
+  "contentDeviations": [
+    {
+      "kind": "dynamic-dependency",
+      "source": "i18n-locale-trees (dynamic-features.md row 5)",
+      "target": "locale-switch links kept absolute to https://www.wonka.com",
+      "reason": "only /us/en/ roster migrates; owner decision pending"
+    },
+    {
+      "kind": "dynamic-dependency",
+      "source": "t-tags-consent (row 6): GTM/GA/OneTrust",
+      "target": "not wired; cookie banner not replicated",
+      "reason": "awaiting owner property ids / CMP domain"
+    },
+    {
+      "kind": "dynamic-dependency",
+      "source": "m-product-dialogs (row 4)",
+      "target": "rebuilt natively in block JS",
+      "reason": "self-reproducible modal/accordion"
+    }
+  ],
+  "assetsBundled": 31,
+  "missingAssets": [],
+  "brokenInternalLinks": [
+    {
+      "href": "/us/en/terms-of-use",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "/us/en/cookie-policy",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "/us/en/terms-of-use",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "/us/en/cookie-policy",
+      "reason": "in-inventory-not-migrated"
+    }
+  ],
+  "outputPath": "us/en/about-wonka/index.html",
+  "outputPathDefault": "trailing-slash",
+  "sidecar": "us/en/about-wonka/_meta.json",
+  "driverVersion": "1"
+}

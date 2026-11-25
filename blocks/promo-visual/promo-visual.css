@@ -1,0 +1,121 @@
+/* promo-visual — golden-ticket key visual (gpp_promo_theme .promo-visual) */
+
+/*
+ * Page frame of the promo page, anchored on this block's section: the content sections
+ * after the visual stack with the theme row gap and clip their decor horizontally
+ * (the source's .promo-page overflow and .promo-paragraphs row-gap).
+ */
+main > .section.promo-visual-container,
+main > .section.promo-visual-container ~ .section {
+  overflow-x: clip;
+}
+
+main > .section.promo-visual-container ~ .section {
+  margin-top: var(--gt-row-gap);
+}
+
+main > .section.promo-visual-container + .section {
+  margin-top: 10px;
+}
+
+.promo-visual {
+  position: relative;
+}
+
+.promo-visual .promo-visual-art picture,
+.promo-visual .promo-visual-art img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.promo-visual .promo-visual-art-desktop {
+  display: none;
+}
+
+/* rounded top edge of the content panel, laid over the visual's lower edge */
+.promo-visual::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 2;
+  height: 20px;
+  border-radius: 24px 24px 0 0;
+  background-color: var(--gt-bg);
+}
+
+.promo-visual .promo-visual-decor {
+  display: none;
+}
+
+.promo-visual .promo-visual-particles {
+  position: absolute;
+  left: -7.5rem;
+  top: 100%;
+  z-index: 10;
+  width: 50rem;
+  height: 50rem;
+  margin-top: -0.94rem;
+  transform: translateY(-50%);
+  background: url("assets/particles-01.png") center / contain no-repeat;
+  mix-blend-mode: screen;
+  pointer-events: none;
+}
+
+.promo-visual .promo-visual-sweet {
+  position: absolute;
+  z-index: 10;
+  height: auto;
+  pointer-events: none;
+  user-select: none;
+}
+
+.promo-visual .promo-visual-sweet-top-1 {
+  width: 3.44rem;
+  height: 3.44rem;
+  left: 2.5rem;
+  bottom: -2.5rem;
+  filter: drop-shadow(0 16.878px 16.878px rgb(0 0 0 / 30%)) blur(1px);
+}
+
+.promo-visual .promo-visual-sweet-top-2 {
+  width: 6.38rem;
+  height: 5.81rem;
+  left: 12rem;
+  bottom: -2.06rem;
+  filter: drop-shadow(0 33.755px 67.511px rgb(0 0 0 / 50%));
+}
+
+.promo-visual .promo-visual-sweet-top-3 {
+  width: 4.75rem;
+  height: 4.69rem;
+  left: 20.31rem;
+  bottom: -5.63rem;
+  filter: drop-shadow(0 16.878px 16.878px rgb(0 0 0 / 30%)) blur(1px);
+}
+
+@media (width >= 1024px) {
+  main > .section.promo-visual-container + .section {
+    margin-top: 0;
+  }
+
+  .promo-visual .promo-visual-art-desktop {
+    display: block;
+  }
+
+  .promo-visual .promo-visual-art-mobile {
+    display: none;
+  }
+
+  .promo-visual::after {
+    height: 2.5rem;
+  }
+}
+
+@media (width >= 1200px) {
+  .promo-visual .promo-visual-decor {
+    display: block;
+  }
+}

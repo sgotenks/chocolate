@@ -1,0 +1,15 @@
+{
+  "variantName": "discover-hero",
+  "baseBlock": "hero",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "purpose": "Full-viewport intro band of the about page: book illustration over a purple gradient, gold dust, cloud banks, eyebrow, h1, intro text and a \"Scroll Down\" button."
+  },
+  "contentPattern": {
+    "structure": "An image (book), paragraphs before the heading (eyebrow), the h1 (title) and paragraphs after it (intro text)."
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": "Opening hero of about/brand story pages.",
+  "reuseGuidance": "Reuse discover-hero wherever the same content pattern appears; authored content is moved into the block's layout, so keep the structure above."
+}

@@ -1,0 +1,1894 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-25T14:45:14.988Z",
+  "width": 360,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://www.wonka.com/us/en/privacy-policy",
+  "at": "2026-11-25T14:45:14.915Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 2347,
+  "root": "main.w-full",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.navigation-mobile-panel__stage > div.navigation-mobile-panel__chrome > a.navigation-mobile-panel__logo.absolute",
+    "x": 75,
+    "y": 11,
+    "w": 70,
+    "h": 40,
+    "text": "golden wonka brand logo",
+    "href": "/us/en/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.navigation-mobile-panel__chrome > a.navigation-mobile-panel__logo.absolute > img.h-10.w-auto",
+    "x": 75,
+    "y": 11,
+    "w": 70,
+    "h": 40,
+    "text": "golden wonka brand logo",
+    "file": "wonka-logo"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.navigation-mobile-panel__stage > div.navigation-mobile-panel__chrome > button.navigation-mobile-panel__toggle.absolute",
+    "x": 292,
+    "y": 26,
+    "w": 52,
+    "h": 36,
+    "text": "open menu"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.navigation-mobile-panel__stage > div.navigation-mobile-panel__chrome > button.navigation-mobile-panel__toggle.absolute",
+    "x": 292,
+    "y": 26,
+    "w": 52,
+    "h": 36,
+    "label": "open menu",
+    "value": "open menu",
+    "via": "trigger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ml-0.flex > header.flex.flex-col > h1.font-heading.text-[42px]",
+    "x": 16,
+    "y": 104,
+    "w": 328,
+    "h": 84,
+    "level": 1,
+    "text": "privacy policy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.otnotice-section-content > p#isPasted > strong",
+    "x": 32,
+    "y": 246,
+    "w": 237,
+    "h": 20,
+    "text": "Last Updated: January 1, 2026"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "section#otnotice-section-541eb71b-0038-46e2-a4d7-50ba1805263e > div.otnotice-section-content > p#isPasted",
+    "x": 32,
+    "y": 284,
+    "w": 296,
+    "h": 576,
+    "text": "This Privacy Policy applies to the websites on which it is posted, which are ope"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "section#otnotice-section-541eb71b-0038-46e2-a4d7-50ba1805263e > div.otnotice-section-content > p",
+    "x": 32,
+    "y": 876,
+    "w": 296,
+    "h": 96,
+    "text": "Click and ” and our notice at collection."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.otnotice-section-content > p > a",
+    "x": 32,
+    "y": 878,
+    "w": 260,
+    "h": 44,
+    "text": "here to view section 5, “your choices and your privacy rights,”",
+    "href": "/us/en/privacy-policy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.otnotice-section-content > p > a",
+    "x": 32,
+    "y": 926,
+    "w": 259,
+    "h": 44,
+    "text": "section 6, “your california privacy rights,",
+    "href": "/us/en/privacy-policy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.otnotice-section-content > div.ot-notice-layer-break-container > div#ot-notice-layer-break-header-12",
+    "x": 32,
+    "y": 988,
+    "w": 296,
+    "h": 54,
+    "text": "1. Collection of Information From and About You."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.otnotice-section-content > div.ot-notice-layer-break-container > div#ot-notice-layer-break-header-66",
+    "x": 32,
+    "y": 1042,
+    "w": 296,
+    "h": 30,
+    "text": "2. Sources of Your Information."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.otnotice-section-content > div.ot-notice-layer-break-container > div#ot-notice-layer-break-header-324",
+    "x": 32,
+    "y": 1072,
+    "w": 296,
+    "h": 30,
+    "text": "3. Use of Your information"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.otnotice-section-content > div.ot-notice-layer-break-container > div#ot-notice-layer-break-header-862",
+    "x": 32,
+    "y": 1102,
+    "w": 296,
+    "h": 54,
+    "text": "4. Sharing Your Information with Other Parties"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.otnotice-section-content > div.ot-notice-layer-break-container > div#ot-notice-layer-break-header-161",
+    "x": 32,
+    "y": 1156,
+    "w": 296,
+    "h": 54,
+    "text": "5. Your Choices and Your Privacy Rights."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.otnotice-section-content > div.ot-notice-layer-break-container > div#ot-notice-layer-break-header-270",
+    "x": 32,
+    "y": 1210,
+    "w": 296,
+    "h": 30,
+    "text": "6. Your California Privacy Rights"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.otnotice-section-content > div.ot-notice-layer-break-container > div#ot-notice-layer-break-header-144",
+    "x": 32,
+    "y": 1240,
+    "w": 296,
+    "h": 30,
+    "text": "7. Links to Other Sites."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.otnotice-section-content > div.ot-notice-layer-break-container > div#ot-notice-layer-break-header-873",
+    "x": 32,
+    "y": 1270,
+    "w": 296,
+    "h": 30,
+    "text": "8. Protection of Children’s Privacy."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.otnotice-section-content > div.ot-notice-layer-break-container > div#ot-notice-layer-break-header-162",
+    "x": 32,
+    "y": 1300,
+    "w": 296,
+    "h": 30,
+    "text": "9. Security Practices."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.otnotice-section-content > div.ot-notice-layer-break-container > div#ot-notice-layer-break-header-926",
+    "x": 32,
+    "y": 1330,
+    "w": 296,
+    "h": 30,
+    "text": "10. Retention Period."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.otnotice-section-content > div.ot-notice-layer-break-container > div#ot-notice-layer-break-header-353",
+    "x": 32,
+    "y": 1360,
+    "w": 296,
+    "h": 30,
+    "text": "11. Jurisdiction."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.otnotice-section-content > div.ot-notice-layer-break-container > div#ot-notice-layer-break-header-110",
+    "x": 32,
+    "y": 1390,
+    "w": 296,
+    "h": 54,
+    "text": "12. Changes and Updates to our Privacy Policy."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.otnotice-section-content > div.ot-notice-layer-break-container > div#ot-notice-layer-break-header-816",
+    "x": 32,
+    "y": 1444,
+    "w": 296,
+    "h": 30,
+    "text": "13. Contact Information."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "section#otnotice-section-541eb71b-0038-46e2-a4d7-50ba1805263e > div.otnotice-section-content > p",
+    "x": 32,
+    "y": 1474,
+    "w": 296,
+    "h": 48,
+    "text": "© 2026 Ferrero USA. All rights reserved."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.flex.flex-col > div.flex.w-full > a.flex.h-20",
+    "x": 110,
+    "y": 1738,
+    "w": 141,
+    "h": 80,
+    "text": "golden wonka brand logo",
+    "href": "/us/en/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.flex.w-full > a.flex.h-20 > img.h-20.w-auto",
+    "x": 110,
+    "y": 1738,
+    "w": 141,
+    "h": 80,
+    "text": "golden wonka brand logo",
+    "file": "wonka-logo"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.flex.w-full > div.flex.flex-col > p.text-body-md.text-white",
+    "x": 144,
+    "y": 1858,
+    "w": 72,
+    "h": 21,
+    "text": "Follow us"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.flex.flex-col > div.flex.items-center > a.inline-flex.shrink-0",
+    "x": 110,
+    "y": 1895,
+    "w": 62,
+    "h": 48,
+    "text": "instagram",
+    "href": "/wonka_usa"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a.inline-flex.shrink-0 > span.flex.shrink-0 > img.size-5",
+    "x": 131,
+    "y": 1909,
+    "w": 20,
+    "h": 20,
+    "text": "instagram",
+    "file": "social-instagram"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.flex.flex-col > div.flex.items-center > a.inline-flex.shrink-0",
+    "x": 188,
+    "y": 1895,
+    "w": 62,
+    "h": 48,
+    "text": "tik tok",
+    "href": "/@wonka_usa"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a.inline-flex.shrink-0 > span.flex.shrink-0 > img.size-5",
+    "x": 209,
+    "y": 1909,
+    "w": 20,
+    "h": 20,
+    "text": "tik tok",
+    "file": "social-tiktok"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.flex.flex-col > div.flex.w-full > a.pointer-events-auto",
+    "x": 125,
+    "y": 2039,
+    "w": 110,
+    "h": 24,
+    "text": "privacy policy",
+    "href": "/us/en/privacy-policy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.flex.flex-col > div.flex.w-full > a.pointer-events-auto",
+    "x": 127,
+    "y": 2081,
+    "w": 105,
+    "h": 24,
+    "text": "terms of use",
+    "href": "/us/en/terms-of-use"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.flex.flex-col > div.flex.w-full > a.pointer-events-auto",
+    "x": 127,
+    "y": 2123,
+    "w": 107,
+    "h": 24,
+    "text": "cookie policy",
+    "href": "/us/en/cookie-policy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.flex.flex-col > div.flex.w-full > a.pointer-events-auto",
+    "x": 24,
+    "y": 2165,
+    "w": 312,
+    "h": 43,
+    "text": "do not sell or share my personal information",
+    "href": "/us/en/privacy-policy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.flex.flex-col > div.flex.w-full > a.pointer-events-auto",
+    "x": 136,
+    "y": 2226,
+    "w": 87,
+    "h": 24,
+    "text": "contact us",
+    "href": "/us/en/contact-us"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div > footer.relative.z-20 > div.w-full.bg-purple-500",
+    "x": 0,
+    "y": 2290,
+    "w": 360,
+    "h": 56,
+    "text": "© 2026 Ferrero Group. All Rights Reserved."
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 32,
+    "controls": 12,
+    "total": 0
+   },
+   "groups": []
+  }
+ },
+ "eds": {
+  "url": "https://main--a6216fe5--aemcoder.aem.live/us/en/privacy-policy",
+  "at": "2026-11-25T14:45:14.791Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 2346,
+  "root": "main#main-content",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mnav-stage > div.mnav-chrome > a.mnav-logo",
+    "x": 75,
+    "y": 11,
+    "w": 70,
+    "h": 40,
+    "text": "golden wonka brand logo",
+    "href": "/us/en/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mnav-chrome > a.mnav-logo > img",
+    "x": 75,
+    "y": 11,
+    "w": 70,
+    "h": 40,
+    "text": "golden wonka brand logo",
+    "file": "media_1470daf2e59196e25459cd013be128518e"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mnav-stage > div.mnav-chrome > button.mnav-toggle",
+    "x": 292,
+    "y": 26,
+    "w": 52,
+    "h": 36,
+    "text": "open menu"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.mnav-stage > div.mnav-chrome > button.mnav-toggle",
+    "x": 292,
+    "y": 26,
+    "w": 52,
+    "h": 36,
+    "label": "open menu",
+    "value": "open menu",
+    "via": "trigger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.legal-accordion-container > div.default-content-wrapper > h1#privacy-policy",
+    "x": 16,
+    "y": 104,
+    "w": 328,
+    "h": 84,
+    "level": 1,
+    "text": "privacy policy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-body.legal-body-notice > p > strong",
+    "x": 32,
+    "y": 246,
+    "w": 237,
+    "h": 20,
+    "text": "Last Updated: January 1, 2026"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-accordion.notice > div.legal-body.legal-body-notice > p",
+    "x": 32,
+    "y": 284,
+    "w": 296,
+    "h": 576,
+    "text": "This Privacy Policy applies to the websites on which it is posted, which are ope"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-accordion.notice > div.legal-body.legal-body-notice > p",
+    "x": 32,
+    "y": 876,
+    "w": 296,
+    "h": 96,
+    "text": "Click and ” and our notice at collection."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-body.legal-body-notice > p > a",
+    "x": 32,
+    "y": 878,
+    "w": 260,
+    "h": 44,
+    "text": "here to view section 5, “your choices and your privacy rights,”",
+    "href": "/us/en/privacy-policy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-body.legal-body-notice > p > a",
+    "x": 32,
+    "y": 926,
+    "w": 259,
+    "h": 44,
+    "text": "section 6, “your california privacy rights,",
+    "href": "/us/en/privacy-policy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-acc-row > div.legal-acc-label > p#collection-of-information-from-and-about-you-title",
+    "x": 32,
+    "y": 988,
+    "w": 296,
+    "h": 54,
+    "text": "1. Collection of Information From and About You."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-acc-row > div.legal-acc-label > p#sources-of-your-information-title",
+    "x": 32,
+    "y": 1042,
+    "w": 296,
+    "h": 30,
+    "text": "2. Sources of Your Information."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-acc-row > div.legal-acc-label > p#use-of-your-information-title",
+    "x": 32,
+    "y": 1072,
+    "w": 296,
+    "h": 30,
+    "text": "3. Use of Your information"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-acc-row > div.legal-acc-label > p#sharing-your-information-with-other-parties-title",
+    "x": 32,
+    "y": 1102,
+    "w": 296,
+    "h": 54,
+    "text": "4. Sharing Your Information with Other Parties"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-acc-row > div.legal-acc-label > p#your-choices-and-your-privacy-rights-title",
+    "x": 32,
+    "y": 1156,
+    "w": 296,
+    "h": 54,
+    "text": "5. Your Choices and Your Privacy Rights."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-acc-row > div.legal-acc-label > p#your-california-privacy-rights-title",
+    "x": 32,
+    "y": 1210,
+    "w": 296,
+    "h": 30,
+    "text": "6. Your California Privacy Rights"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-acc-row > div.legal-acc-label > p#links-to-other-sites-title",
+    "x": 32,
+    "y": 1240,
+    "w": 296,
+    "h": 30,
+    "text": "7. Links to Other Sites."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-acc-row > div.legal-acc-label > p#protection-of-childrens-privacy-title",
+    "x": 32,
+    "y": 1270,
+    "w": 296,
+    "h": 30,
+    "text": "8. Protection of Children’s Privacy."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-acc-row > div.legal-acc-label > p#security-practices-title",
+    "x": 32,
+    "y": 1300,
+    "w": 296,
+    "h": 30,
+    "text": "9. Security Practices."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-acc-row > div.legal-acc-label > p#retention-period-title",
+    "x": 32,
+    "y": 1330,
+    "w": 296,
+    "h": 30,
+    "text": "10. Retention Period."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-acc-row > div.legal-acc-label > p#jurisdiction-title",
+    "x": 32,
+    "y": 1360,
+    "w": 296,
+    "h": 30,
+    "text": "11. Jurisdiction."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-acc-row > div.legal-acc-label > p#changes-and-updates-to-our-privacy-policy-title",
+    "x": 32,
+    "y": 1390,
+    "w": 296,
+    "h": 54,
+    "text": "12. Changes and Updates to our Privacy Policy."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-acc-row > div.legal-acc-label > p#contact-information-title",
+    "x": 32,
+    "y": 1444,
+    "w": 296,
+    "h": 30,
+    "text": "13. Contact Information."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-accordion.notice > div.legal-body.legal-body-notice > p",
+    "x": 32,
+    "y": 1474,
+    "w": 296,
+    "h": 48,
+    "text": "© 2026 Ferrero USA. All rights reserved."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-body > div.site-footer-top > a.site-footer-logo",
+    "x": 110,
+    "y": 1738,
+    "w": 141,
+    "h": 80,
+    "text": "golden wonka brand logo",
+    "href": "/us/en/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-top > a.site-footer-logo > img",
+    "x": 110,
+    "y": 1738,
+    "w": 141,
+    "h": 80,
+    "text": "golden wonka brand logo",
+    "file": "media_1470daf2e59196e25459cd013be128518e"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-top > div.site-footer-social > p",
+    "x": 144,
+    "y": 1858,
+    "w": 72,
+    "h": 21,
+    "text": "Follow us"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-social > div.site-footer-social-row > a.btn.btn-md",
+    "x": 110,
+    "y": 1895,
+    "w": 62,
+    "h": 48,
+    "text": "instagram",
+    "href": "/wonka_usa"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a.btn.btn-md > span.icon.icon-social-instagram > img",
+    "x": 131,
+    "y": 1909,
+    "w": 20,
+    "h": 20,
+    "text": "",
+    "file": "social-instagram"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-social > div.site-footer-social-row > a.btn.btn-md",
+    "x": 188,
+    "y": 1895,
+    "w": 62,
+    "h": 48,
+    "text": "tik tok",
+    "href": "/@wonka_usa"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a.btn.btn-md > span.icon.icon-social-tiktok > img",
+    "x": 209,
+    "y": 1909,
+    "w": 20,
+    "h": 20,
+    "text": "",
+    "file": "social-tiktok"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-body > div.site-footer-links > a.legal-link",
+    "x": 125,
+    "y": 2039,
+    "w": 110,
+    "h": 24,
+    "text": "privacy policy",
+    "href": "/us/en/privacy-policy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-body > div.site-footer-links > a.legal-link",
+    "x": 127,
+    "y": 2081,
+    "w": 105,
+    "h": 24,
+    "text": "terms of use",
+    "href": "/us/en/terms-of-use"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-body > div.site-footer-links > a.legal-link",
+    "x": 127,
+    "y": 2123,
+    "w": 107,
+    "h": 24,
+    "text": "cookie policy",
+    "href": "/us/en/cookie-policy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-body > div.site-footer-links > a.legal-link",
+    "x": 24,
+    "y": 2165,
+    "w": 312,
+    "h": 43,
+    "text": "do not sell or share my personal information",
+    "href": "/us/en/privacy-policy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-body > div.site-footer-links > a.legal-link",
+    "x": 136,
+    "y": 2226,
+    "w": 87,
+    "h": 24,
+    "text": "contact us",
+    "href": "/us/en/contact-us"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.page-footer > div.site-footer > div.site-footer-copy",
+    "x": 0,
+    "y": 2290,
+    "w": 360,
+    "h": 56,
+    "text": "© 2026 Ferrero Group. All Rights Reserved."
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 31,
+    "controls": 12,
+    "total": 0
+   },
+   "groups": [],
+   "findings": []
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 1,
+   "heading": "privacy policy",
+   "variable": false,
+   "origin": {
+    "link": 2,
+    "button": 0,
+    "text": 17,
+    "image": 0
+   },
+   "eds": {
+    "link": 2,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 17,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  }
+ ],
+ "findings": [],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 0,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 0,
+  "missingButtons": 0,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 0,
+  "findings": 0,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 16,
+    "y": 100,
+    "w": 176,
+    "h": 49
+   },
+   {
+    "x": 16,
+    "y": 142,
+    "w": 151,
+    "h": 49
+   },
+   {
+    "x": 32,
+    "y": 246,
+    "w": 237,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 286,
+    "w": 249,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 310,
+    "w": 281,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 334,
+    "w": 124,
+    "h": 20
+   },
+   {
+    "x": 156,
+    "y": 334,
+    "w": 54,
+    "h": 20
+   },
+   {
+    "x": 210,
+    "y": 334,
+    "w": 78,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 358,
+    "w": 50,
+    "h": 20
+   },
+   {
+    "x": 82,
+    "y": 358,
+    "w": 236,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 382,
+    "w": 284,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 406,
+    "w": 295,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 430,
+    "w": 289,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 454,
+    "w": 239,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 478,
+    "w": 292,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 502,
+    "w": 281,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 526,
+    "w": 292,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 550,
+    "w": 275,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 574,
+    "w": 208,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 598,
+    "w": 284,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 622,
+    "w": 270,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 646,
+    "w": 264,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 670,
+    "w": 291,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 694,
+    "w": 278,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 718,
+    "w": 294,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 742,
+    "w": 285,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 766,
+    "w": 264,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 790,
+    "w": 277,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 814,
+    "w": 288,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 838,
+    "w": 23,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 878,
+    "w": 42,
+    "h": 20
+   },
+   {
+    "x": 74,
+    "y": 878,
+    "w": 218,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 902,
+    "w": 256,
+    "h": 20
+   },
+   {
+    "x": 293,
+    "y": 902,
+    "w": 28,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 926,
+    "w": 259,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 950,
+    "w": 51,
+    "h": 20
+   },
+   {
+    "x": 83,
+    "y": 950,
+    "w": 221,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 990,
+    "w": 286,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 1018,
+    "w": 87,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 1048,
+    "w": 243,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 1078,
+    "w": 203,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 1104,
+    "w": 252,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 1132,
+    "w": 103,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 1158,
+    "w": 258,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 1186,
+    "w": 55,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 1216,
+    "w": 250,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 1246,
+    "w": 173,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 1276,
+    "w": 269,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 1306,
+    "w": 167,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 1336,
+    "w": 161,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 1366,
+    "w": 121,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 1392,
+    "w": 247,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 1420,
+    "w": 115,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 1450,
+    "w": 188,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 1476,
+    "w": 231,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 1500,
+    "w": 72,
+    "h": 20
+   },
+   {
+    "x": 144,
+    "y": 1858,
+    "w": 72,
+    "h": 20
+   },
+   {
+    "x": 125,
+    "y": 2041,
+    "w": 110,
+    "h": 20
+   },
+   {
+    "x": 127,
+    "y": 2083,
+    "w": 105,
+    "h": 20
+   },
+   {
+    "x": 127,
+    "y": 2125,
+    "w": 107,
+    "h": 20
+   },
+   {
+    "x": 49,
+    "y": 2165,
+    "w": 261,
+    "h": 20
+   },
+   {
+    "x": 135,
+    "y": 2186,
+    "w": 90,
+    "h": 20
+   },
+   {
+    "x": 136,
+    "y": 2228,
+    "w": 87,
+    "h": 20
+   },
+   {
+    "x": 57,
+    "y": 2310,
+    "w": 247,
+    "h": 15
+   }
+  ],
+  "eds": [
+   {
+    "x": 16,
+    "y": 100,
+    "w": 176,
+    "h": 49
+   },
+   {
+    "x": 16,
+    "y": 142,
+    "w": 151,
+    "h": 49
+   },
+   {
+    "x": 32,
+    "y": 246,
+    "w": 237,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 286,
+    "w": 249,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 310,
+    "w": 281,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 334,
+    "w": 124,
+    "h": 20
+   },
+   {
+    "x": 156,
+    "y": 334,
+    "w": 133,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 358,
+    "w": 46,
+    "h": 20
+   },
+   {
+    "x": 78,
+    "y": 358,
+    "w": 241,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 382,
+    "w": 284,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 406,
+    "w": 295,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 430,
+    "w": 289,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 454,
+    "w": 239,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 478,
+    "w": 292,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 502,
+    "w": 281,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 526,
+    "w": 292,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 550,
+    "w": 275,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 574,
+    "w": 208,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 598,
+    "w": 284,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 622,
+    "w": 270,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 646,
+    "w": 264,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 670,
+    "w": 291,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 694,
+    "w": 278,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 718,
+    "w": 294,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 742,
+    "w": 285,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 766,
+    "w": 264,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 790,
+    "w": 277,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 814,
+    "w": 288,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 838,
+    "w": 23,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 878,
+    "w": 42,
+    "h": 20
+   },
+   {
+    "x": 74,
+    "y": 878,
+    "w": 218,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 902,
+    "w": 256,
+    "h": 20
+   },
+   {
+    "x": 288,
+    "y": 902,
+    "w": 33,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 926,
+    "w": 259,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 950,
+    "w": 51,
+    "h": 20
+   },
+   {
+    "x": 83,
+    "y": 950,
+    "w": 221,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 990,
+    "w": 286,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 1018,
+    "w": 87,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 1048,
+    "w": 243,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 1078,
+    "w": 203,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 1104,
+    "w": 252,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 1132,
+    "w": 103,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 1158,
+    "w": 258,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 1186,
+    "w": 55,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 1216,
+    "w": 250,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 1246,
+    "w": 173,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 1276,
+    "w": 269,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 1306,
+    "w": 167,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 1336,
+    "w": 161,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 1366,
+    "w": 121,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 1392,
+    "w": 247,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 1420,
+    "w": 115,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 1450,
+    "w": 188,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 1476,
+    "w": 231,
+    "h": 20
+   },
+   {
+    "x": 32,
+    "y": 1500,
+    "w": 72,
+    "h": 20
+   },
+   {
+    "x": 144,
+    "y": 1858,
+    "w": 72,
+    "h": 20
+   },
+   {
+    "x": 125,
+    "y": 2041,
+    "w": 110,
+    "h": 20
+   },
+   {
+    "x": 127,
+    "y": 2083,
+    "w": 105,
+    "h": 20
+   },
+   {
+    "x": 127,
+    "y": 2125,
+    "w": 107,
+    "h": 20
+   },
+   {
+    "x": 49,
+    "y": 2165,
+    "w": 261,
+    "h": 20
+   },
+   {
+    "x": 135,
+    "y": 2186,
+    "w": 90,
+    "h": 20
+   },
+   {
+    "x": 136,
+    "y": 2228,
+    "w": 87,
+    "h": 20
+   },
+   {
+    "x": 57,
+    "y": 2310,
+    "w": 247,
+    "h": 15
+   }
+  ]
+ }
+}

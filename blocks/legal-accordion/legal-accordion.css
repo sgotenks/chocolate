@@ -1,0 +1,417 @@
+/* legal-accordion — legal template (privacy policy, terms of use, cookie policy).
+   Shell: the section that holds the block (.legal-accordion-container) is the sling legal-page
+   container — 1268px shell, 800px column, gold uppercase h1 as default content.
+   Body: OneTrust notice rich text (otnotice-core.css v2 values) with layer-breaker sections. */
+
+/* ---------- shell (section) ---------- */
+main > .section.legal-accordion-container {
+  position: relative;
+  display: flex;
+  width: 100%;
+  max-width: 1172px;
+  flex-direction: column;
+  gap: 1rem;
+  margin-inline: auto;
+  padding: 104px 1rem 0;
+}
+
+main .legal-accordion-container .default-content-wrapper,
+main .legal-accordion-container .legal-accordion-wrapper {
+  width: 100%;
+  max-width: 800px;
+  margin-left: 0;
+}
+
+main .legal-accordion-container .default-content-wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+main .legal-accordion-container .default-content-wrapper h1 {
+  font-family: var(--font-heading);
+  font-size: 42px;
+  line-height: 42px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: normal;
+  background-image: var(--gold-text);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-clip: text;
+  color: transparent;
+  -webkit-text-fill-color: transparent;
+}
+
+@media (width >= 768px) {
+  main > .section.legal-accordion-container {
+    max-width: 1204px;
+    padding: 144px 2rem 0;
+  }
+}
+
+@media (width >= 1024px) {
+  main > .section.legal-accordion-container {
+    max-width: 1268px;
+    padding-inline: 4rem;
+  }
+}
+
+/* ---------- body: rich text ---------- */
+.legal-accordion .legal-body {
+  width: 100%;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.legal-accordion .legal-body-notice {
+  padding: 40px 1rem 80px;
+}
+
+.legal-accordion .legal-body p {
+  margin: 0 0 1rem;
+}
+
+.legal-accordion .legal-body :is(ul, ol) {
+  list-style: none;
+  margin: 0 0 1rem;
+  padding: 0 2.5rem;
+}
+
+.legal-accordion .legal-body li {
+  margin: 0 0 0.5rem;
+}
+
+.legal-accordion .legal-body :is(h2, h3, h4) {
+  margin: 0 0 0.5rem;
+}
+
+.legal-accordion .legal-body :is(strong, b) {
+  font-weight: bolder;
+}
+
+/* ---------- plain variant: the sling legal-page__body (terms of use) ---------- */
+.legal-accordion .legal-body-plain {
+  line-height: 21px;
+  letter-spacing: 0.02em;
+}
+
+.legal-accordion .legal-body-plain :is(p, ul, ol) {
+  margin: 0 0 1rem;
+}
+
+.legal-accordion .legal-body-plain ul {
+  list-style: disc;
+  padding: 0 0 0 1.5rem;
+}
+
+.legal-accordion .legal-body-plain ol {
+  list-style: decimal;
+  padding: 0 0 0 1.5rem;
+}
+
+.legal-accordion .legal-body-plain li {
+  margin: 0 0 0.25rem;
+}
+
+.legal-accordion .legal-body-plain h3 {
+  margin: 2.5rem 0 1rem;
+  font-family: var(--font-heading);
+  font-size: 34px;
+  line-height: 40px;
+  font-weight: 600;
+}
+
+.legal-accordion .legal-body-plain h5 {
+  margin: 1rem 0;
+  font-family: var(--font-heading);
+  font-size: 22px;
+  line-height: 22px;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+}
+
+.legal-accordion .legal-body-plain a {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.legal-accordion .legal-body-plain :is(strong, b) {
+  font-weight: 700;
+}
+
+.legal-accordion .legal-body-plain :last-child {
+  margin-bottom: 0;
+}
+
+/* ---------- OneTrust cookie list (#ot-sdk-cookie-policy-v2, site theme) ---------- */
+.legal-accordion .legal-body-cookies {
+  padding: 0 1rem;
+}
+
+.legal-accordion .legal-body-cookies h3 {
+  margin: 0 0 28.8px;
+  font-size: 24px;
+  line-height: 24px;
+  font-weight: 400;
+}
+
+.legal-accordion .legal-body-cookies h4 {
+  margin: 0 0 9.6px;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 600;
+}
+
+.legal-accordion .legal-body-cookies h4 + p {
+  margin: 0 0 14.4px;
+  font-size: 14.4px;
+  line-height: 24px;
+}
+
+/* the source's #ot-sdk-cookie-policy-v2: positioned, the stacked header rows' containing block */
+.legal-accordion .legal-cookie-list {
+  position: relative;
+}
+
+/* the OneTrust table and its cells are content-box (width + borders; min-width + padding) */
+.legal-accordion .legal-cookie-table {
+  box-sizing: content-box;
+  display: block;
+  width: 100%;
+  margin: 0 -2px 32px 0;
+  border: 1px solid #d7d7d7;
+  border-radius: 5px;
+  border-collapse: separate;
+  border-spacing: 0;
+  overflow: hidden;
+  font-size: 16px;
+  line-height: normal;
+}
+
+.legal-accordion .legal-cookie-table :is(thead, tbody, tr, th, td) {
+  box-sizing: content-box;
+  display: block;
+}
+
+.legal-accordion .legal-cookie-table thead {
+  background-color: #f6f6f4;
+}
+
+.legal-accordion .legal-cookie-table tr {
+  margin: 0 0 1em;
+}
+
+.legal-accordion .legal-cookie-table thead tr {
+  position: absolute;
+  top: -9999px;
+  left: -9999px;
+}
+
+.legal-accordion .legal-cookie-table th {
+  min-width: 75px;
+  padding: 12px 15px;
+  font-size: 14.4px;
+  line-height: 24px;
+  font-weight: 700;
+  text-align: left;
+  color: #2e0028;
+  background-color: #d18dc9;
+  border-bottom: 1px solid #d7d7d7;
+  border-right: 1px solid #d7d7d7;
+}
+
+.legal-accordion .legal-cookie-table td {
+  padding: 12px 15px;
+  font-size: 14.4px;
+  line-height: normal;
+  text-align: left;
+  vertical-align: top;
+  border-bottom: 1px solid #d7d7d7;
+}
+
+.legal-accordion .legal-cookie-table td::before {
+  content: attr(data-label);
+  padding-right: 10px;
+  font-weight: 700;
+}
+
+.legal-accordion .legal-cookie-table td:not(:first-child)::before {
+  content: attr(data-label) " ";
+}
+
+.legal-accordion .legal-cookie-table tr:last-child td:last-child {
+  border-bottom: 0;
+}
+
+.legal-accordion .legal-cookie-table :is(th, td) p {
+  display: inline;
+  margin: 0;
+}
+
+/* the source's cell-content spans run at 24px lines; a label-only line keeps the cell's own */
+.legal-accordion .legal-cookie-table td:not(:first-child) p {
+  line-height: 24px;
+}
+
+.legal-accordion .legal-cookie-table a {
+  font-size: 16px;
+  line-height: normal;
+  color: #fff;
+  text-decoration: none;
+}
+
+.legal-accordion .legal-cookie-table a::before,
+.legal-accordion .legal-cookie-table a::after {
+  content: " ";
+}
+
+.legal-accordion .legal-cookie-table a:hover {
+  color: #eec60d;
+}
+
+/* the source's table layout above its 530px stacking query */
+@media (width >= 531px) {
+  .legal-accordion .legal-cookie-table {
+    display: table;
+  }
+
+  .legal-accordion .legal-cookie-table thead {
+    display: table-header-group;
+  }
+
+  .legal-accordion .legal-cookie-table tbody {
+    display: table-row-group;
+  }
+
+  .legal-accordion .legal-cookie-table tr {
+    display: table-row;
+    margin: 0;
+  }
+
+  .legal-accordion .legal-cookie-table thead tr {
+    position: static;
+  }
+
+  .legal-accordion .legal-cookie-table :is(th, td) {
+    display: table-cell;
+    border-right: 1px solid #d7d7d7;
+  }
+
+  .legal-accordion .legal-cookie-table :is(th, td):last-child {
+    border-right: 0;
+  }
+
+  .legal-accordion .legal-cookie-table th:is(:first-child, :nth-child(3)) {
+    width: 25%;
+  }
+
+  .legal-accordion .legal-cookie-table tr:last-child td {
+    border-bottom: 0;
+  }
+
+  .legal-accordion .legal-cookie-table td::before,
+  .legal-accordion .legal-cookie-table td:not(:first-child)::before {
+    content: none;
+  }
+}
+
+/* OneTrust consent-settings button (#ot-sdk-btn.ot-sdk-show-settings, site theme overrides) */
+.legal-accordion .legal-body .legal-consent-btn {
+  display: inline-block;
+  height: auto;
+  white-space: normal;
+  overflow-wrap: break-word;
+  padding: 0.8em 2em;
+  font-size: 16px;
+  line-height: 24px;
+  color: #fff;
+  background-color: var(--purple-500);
+  border: 0 solid #fff;
+  cursor: pointer;
+  transition: 0.1s ease;
+}
+
+.legal-accordion .legal-body .legal-consent-btn:hover {
+  background-color: #fff;
+  border-color: var(--purple-500);
+  color: var(--purple-500);
+}
+
+/* ---------- sections (layer breakers): bold row + " +" / " -" marker ---------- */
+.legal-accordion .legal-acc {
+  margin: 0;
+  padding: 0;
+}
+
+.legal-accordion .legal-acc-row {
+  position: relative;
+  font-weight: 700;
+  text-align: left;
+  cursor: pointer;
+}
+
+.legal-accordion .legal-acc-label,
+.legal-accordion .legal-acc-open-label {
+  display: block;
+}
+
+.legal-accordion .legal-acc-label[hidden],
+.legal-accordion .legal-acc-open-label[hidden] {
+  display: none;
+}
+
+.legal-accordion .legal-acc-row :is(h1, h2, h3, h4, h5, h6, p) {
+  display: block;
+  margin: 0;
+  font: inherit;
+}
+
+.legal-accordion .legal-acc-label :is(h1, h2, h3, h4, h5, h6, p)::after,
+.legal-accordion .legal-acc-open-label :is(h1, h2, h3, h4, h5, h6, p)::after {
+  content: " +";
+  font-size: 20px;
+  font-weight: bolder;
+}
+
+.legal-accordion .legal-acc.is-open .legal-acc-label :is(h1, h2, h3, h4, h5, h6, p)::after,
+.legal-accordion .legal-acc.is-open .legal-acc-open-label :is(h1, h2, h3, h4, h5, h6, p)::after {
+  content: " -";
+  font-size: 25px;
+}
+
+/* keyboard toggle: visually hidden, its focus ring drawn on the row */
+.legal-accordion .legal-acc-toggle {
+  position: absolute;
+  overflow: hidden;
+  width: 1px;
+  height: 1px;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+
+.legal-accordion .legal-acc-row:has(.legal-acc-toggle:focus-visible) {
+  outline: 2px solid currentcolor;
+  outline-offset: 2px;
+}
+
+.legal-accordion .legal-acc-panel {
+  overflow: hidden;
+}
+
+.legal-accordion .legal-acc-panel[hidden] {
+  display: none;
+}
+
+/* lead line under the title (terms: "Last Updated: …") */
+main > .section.legal-accordion-container .default-content-wrapper p {
+  margin: 0;
+  font-size: 16px;
+  line-height: 21px;
+  font-weight: 600;
+}
+
+/* the consent button stands alone in the source's flow (no paragraph margin) */
+.legal-accordion .legal-body p:has(> .legal-consent-btn:only-child) {
+  margin-bottom: 0;
+}

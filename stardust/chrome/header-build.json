@@ -1,0 +1,135 @@
+{
+ "tool": "chrome-explore",
+ "url": "http://localhost:8791/us-en-about-wonka-proposed.html",
+ "at": "2026-11-25T11:15:06.001Z",
+ "shots": "stardust/.work/chrome/header-build",
+ "widths": {
+  "390": {
+   "root": null,
+   "controls": [],
+   "scroll": [],
+   "states": 0,
+   "truncated": null,
+   "loads": 1,
+   "requests": 39,
+   "maxRequests": 0,
+   "inputsSkipped": 0,
+   "watch": {
+    "status": "not-triggered"
+   }
+  },
+  "1440": {
+   "root": "body>div>div:nth-of-type(2)>div:nth-of-type(2)>header",
+   "controls": [
+    {
+     "name": "Golden Wonka brand logo",
+     "key": "golden wonka brand logo",
+     "role": "link",
+     "kind": "link",
+     "sel": "body>div>div:nth-of-type(2)>div:nth-of-type(2)>header>a",
+     "href": "http://localhost:8791/us/en/",
+     "expanded": null,
+     "rect": [
+      75,
+      11,
+      70,
+      40
+     ],
+     "actions": {}
+    },
+    {
+     "name": "Home",
+     "key": "home",
+     "role": "link",
+     "kind": "link",
+     "sel": "body>div>div:nth-of-type(2)>div:nth-of-type(2)>header>nav>a:nth-of-type(1)",
+     "href": "http://localhost:8791/us/en/",
+     "expanded": null,
+     "rect": [
+      210,
+      36,
+      46,
+      16
+     ],
+     "actions": {}
+    },
+    {
+     "name": "About Wonka",
+     "key": "about wonka",
+     "role": "link",
+     "kind": "link",
+     "sel": "body>div>div:nth-of-type(2)>div:nth-of-type(2)>header>nav>a:nth-of-type(2)",
+     "href": "http://localhost:8791/us/en/about-wonka",
+     "expanded": null,
+     "rect": [
+      280,
+      36,
+      106,
+      16
+     ],
+     "actions": {}
+    },
+    {
+     "name": "Golden Ticket Sweepstakes",
+     "key": "golden ticket sweepstakes",
+     "role": "link",
+     "kind": "link",
+     "sel": "body>div>div:nth-of-type(2)>div:nth-of-type(2)>header>nav>a:nth-of-type(3)",
+     "href": "https://www.wonka.com/us/en/xp/golden-ticket/",
+     "expanded": null,
+     "rect": [
+      410,
+      36,
+      217,
+      16
+     ],
+     "actions": {}
+    }
+   ],
+   "scroll": [
+    {
+     "at": "top",
+     "y": 0,
+     "top": 0,
+     "height": 62,
+     "position": "absolute",
+     "inView": true
+    },
+    {
+     "at": "down",
+     "y": 1000,
+     "top": 0,
+     "height": 62,
+     "position": "absolute",
+     "inView": true
+    },
+    {
+     "at": "up",
+     "y": 700,
+     "top": 0,
+     "height": 62,
+     "position": "absolute",
+     "inView": true
+    },
+    {
+     "at": "back",
+     "y": 0,
+     "top": 0,
+     "height": 62,
+     "position": "absolute",
+     "inView": true
+    }
+   ],
+   "states": 0,
+   "truncated": null,
+   "loads": 1,
+   "requests": 37,
+   "maxRequests": 0,
+   "inputsSkipped": 0,
+   "watch": {
+    "status": "not-triggered"
+   }
+  }
+ },
+ "probe": null
+}

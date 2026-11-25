@@ -1,0 +1,41 @@
+{
+  "frozenAt": "2026-11-25T11:42:39.657Z",
+  "root": ".",
+  "paths": [
+    "styles/",
+    "fonts/",
+    "blocks/header/",
+    "blocks/footer/",
+    "head.html",
+    "scripts/"
+  ],
+  "files": {
+    "blocks/footer/footer.css": "d63684414a287ae6e9642320d1abe90193811266535ebfac8f890a2c011bac80",
+    "blocks/footer/footer.js": "24718c3fe1f42ab8ed529ed75ae971145faf469df748770f30db1d7785e40fc8",
+    "blocks/header/header.css": "17860e7438c9506e2db5e09ea1bf2a7abcb5166a97b1a87ac44b552afe92c697",
+    "blocks/header/header.js": "61e6ad1602160b58584a4a8aa921c9cd7bcd7357c5b9d1b5c9a9d7fb826fa9fb",
+    "fonts/inter-400.woff2": "dd05e326cf8eac3b55acecf29c842ed73e6e6dd06491cf47f7e8800680ab3e33",
+    "fonts/inter-500.woff2": "b0e7558f4710a1e255b93e3deefe3aebb19f3bb41c150f685a74d3b1a1c79e87",
+    "fonts/inter-600.woff2": "62553d159189834af73c9a6264704be5b2bee9a08da66a14768d8e5c6ffd2cdb",
+    "fonts/inter-700.woff2": "aac638f7503cebb084ec494cf00f75f7d8260d50c2f4e7820bccabba09626a3a",
+    "fonts/work-sans-600.woff2": "a10cc9ed2a0326e9c1c6f0bfeffb4e4545349611f620d8e355d4ee054700acdb",
+    "fonts/work-sans-variable-italic.woff2": "73468c2b5cc7c31456ee0c297ac87b2bfb7eb626bc79688dc3a320151fddcd2f",
+    "fonts/work-sans-variable.woff2": "1dd49afc07fb2231b2ff686cbf007725fb2742271bb1f28ebd98f22a0d817343",
+    "head.html": "0d82659b0131bfba224348233f48f5a9dc3562e9bdfd229d5ec7039e2b4b93f5",
+    "scripts/aem.js": "786e8019b14b4c0bee9df38a3162f129c04310d9d00e7a6dd326c7e5830c84ae",
+    "scripts/chrome.js": "f8f9c483ee91e8ed583f3fdf9b38fae8d958b03ee6d71983db8befb1a0e69b85",
+    "scripts/clouds.js": "a9e3b9ae75be4d59e5afa50dfc2e45c1db16c2a43207fa6afa833dc50b326443",
+    "scripts/consent-check.js": "ac21f825288cfc82c52a6acd9c57bbb76a2017ee1b06319d493244f32751249a",
+    "scripts/consented.js": "8a0ec7239cfab36c9bbfd8e7cde178c6c9061f68da8539879411ee9fa09b18ab",
+    "scripts/scripts.js": "2161a807511cb5f0e27e07e0bddd426b389c732ff0e5254854907179c04b1cb4",
+    "styles/clouds/cloud-1.webp": "57b0751a534f56c2aa631cd14676250e59306e65ae3a82c59a9ea44a477c8f09",
+    "styles/clouds/cloud-2.webp": "5df65fb53340a718f3b899587c132ad3897783bd7608ff29284d68533f25f91b",
+    "styles/clouds/cloud-3.webp": "3d09e8e29346b0a4fd983564e86fb8fbd8f526126e6247da7e83d68a3c318317",
+    "styles/clouds/cloud-4.webp": "b423a8f2dcd9b491c5925168784be7af68c5e7dfce13167689143ce48c5a4b3a",
+    "styles/clouds/cloud-5.webp": "6a1c4f51fb4a9c4be1fa92e7ed092d6b6b626ae15fd57cbdd0b68f4d8199c5cf",
+    "styles/clouds/cloud-6.webp": "9fa2f37088975ae4a1f445149346ab3e74d73faea5c497298d887a9a488f44c4",
+    "styles/fonts.css": "59d2c5c2808a591eb12141a9d8ed441f0c5ec0bd3818a9c4271d01765e0e7642",
+    "styles/lazy-styles.css": "391d6721991eb169fa04d7c71d9b597361d76c24ab8a3d5f1dcb47457d8ca2d6",
+    "styles/styles.css": "a19022ec72c4a6fbfbe8fd25a310b2564f8f69fbe2edadf27444e383bad5ea60"
+  }
+}

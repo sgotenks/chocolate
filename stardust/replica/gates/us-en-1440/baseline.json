@@ -1,0 +1,86 @@
+{
+  "writtenBy": "skills/replica/scripts/reference.mjs freeze",
+  "schema": 1,
+  "capturedAt": "2026-11-25T10:45:15.561Z",
+  "url": "https://www.wonka.com/us/en/",
+  "width": 1440,
+  "vh": 900,
+  "height": 4206,
+  "settle": true,
+  "chunks": 5,
+  "fontsFailed": [],
+  "deadFaces": [],
+  "fixedLayers": {
+    "capture": "once",
+    "count": 7,
+    "late": 0
+  },
+  "timers": {
+    "hold": 2000,
+    "held": 6,
+    "intervals": 4,
+    "chains": 2,
+    "delays": [
+      5000,
+      86400000
+    ]
+  },
+  "primed": true,
+  "prime": {
+    "height": 4206,
+    "pct": 2.63,
+    "heightDelta": 0
+  },
+  "captures": 2,
+  "heights": [
+    4206,
+    4206
+  ],
+  "noiseFloor": 2.5,
+  "heightSpread": 0,
+  "outside": 0.05,
+  "variable": [
+    {
+      "y": 0,
+      "h": 128,
+      "pct": 2.4
+    },
+    {
+      "y": 192,
+      "h": 716,
+      "pct": 9.1
+    },
+    {
+      "y": 1792,
+      "h": 276,
+      "pct": 7.3
+    },
+    {
+      "y": 2092,
+      "h": 2114,
+      "pct": 16.6
+    }
+  ],
+  "variableShare": 76.89,
+  "maskArg": "0:128,192:716,1792:276,2092:2114",
+  "stable": false,
+  "reason": "76.89% of the rows differ between captures (bar 50%)",
+  "frozenAt": "2026-11-25T10:45:48.341Z",
+  "flags": {
+    "consent": "#onetrust-accept-btn-handler",
+    "dismiss": null,
+    "noDismiss": false,
+    "locale": null,
+    "vh": null,
+    "headed": false,
+    "holdTimers": 2000
+  },
+  "thresholds": {
+    "floorMax": 1,
+    "heightMax": 8,
+    "variableMax": 50,
+    "band": 20,
+    "bandMin": 0.5,
+    "pad": 8
+  }
+}

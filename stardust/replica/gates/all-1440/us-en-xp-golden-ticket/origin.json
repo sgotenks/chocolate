@@ -1,0 +1,17 @@
+{
+  "instrument": "stitch-live",
+  "url": "https://www.wonka.com/us/en/xp/golden-ticket/",
+  "reference": {
+    "dir": "stardust/replica/gates/us-en-xp-golden-ticket-1440",
+    "capturedAt": "2026-11-25T10:39:15.799Z",
+    "primed": true,
+    "stable": true,
+    "noiseFloor": 0,
+    "variableRows": 0,
+    "maskArg": ""
+  },
+  "note": "reused stardust/replica/gates/us-en-xp-golden-ticket-1440/baseline.png (the page's frozen reference — primed, not re-captured)",
+  "fontsFailed": [],
+  "deadFaces": [],
+  "at": "2026-11-25T13:07:16.261Z"
+}

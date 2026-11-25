@@ -1,0 +1,10 @@
+{
+  "sites": {
+    "chocolate": {
+      "previewOrg": "sgotenks",
+      "previewSite": "chocolate",
+      "contentHostUrl": "https://content.da.live/sgotenks/chocolate/"
+    }
+  },
+  "type": "da"
+}

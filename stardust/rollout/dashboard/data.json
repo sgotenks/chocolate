@@ -1,0 +1,157 @@
+{
+  "generatedAt": "2026-11-25T14:46:54.495Z",
+  "target": "aem-eds",
+  "site": {
+    "sourceUrl": "https://www.wonka.com/",
+    "liveHost": "main--a6216fe5--aemcoder.aem.live"
+  },
+  "stageCount": {
+    "identified": 7,
+    "prototyped": 6,
+    "deployed": 6,
+    "optimised": 1
+  },
+  "stageExclusive": {
+    "identified": 1,
+    "prototyped": 0,
+    "deployed": 5,
+    "optimised": 1
+  },
+  "pages": [
+    {
+      "slug": "index",
+      "path": "/",
+      "stage": "identified",
+      "templateId": "landing",
+      "isTemplate": false,
+      "openFindings": 0
+    },
+    {
+      "slug": "us-en",
+      "path": "/us/en",
+      "stage": "deployed",
+      "templateId": "us-en",
+      "isTemplate": true,
+      "openFindings": 1
+    },
+    {
+      "slug": "us-en-about-wonka",
+      "path": "/us/en/about-wonka",
+      "stage": "deployed",
+      "templateId": "us-en-about-wonka",
+      "isTemplate": true,
+      "openFindings": 1
+    },
+    {
+      "slug": "us-en-cookie-policy",
+      "path": "/us/en/cookie-policy",
+      "stage": "deployed",
+      "templateId": "us-en-privacy-policy",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "us-en-privacy-policy",
+      "path": "/us/en/privacy-policy",
+      "stage": "deployed",
+      "templateId": "us-en-privacy-policy",
+      "isTemplate": true,
+      "openFindings": 1
+    },
+    {
+      "slug": "us-en-terms-of-use",
+      "path": "/us/en/terms-of-use",
+      "stage": "deployed",
+      "templateId": "us-en-privacy-policy",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "us-en-xp-golden-ticket",
+      "path": "/us/en/xp/golden-ticket",
+      "stage": "optimised",
+      "templateId": "us-en-xp-golden-ticket",
+      "isTemplate": true,
+      "openFindings": 0
+    }
+  ],
+  "templates": [
+    {
+      "id": "us-en",
+      "archetype": "us-en",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 1,
+        "optimised": 0
+      }
+    },
+    {
+      "id": "us-en-about-wonka",
+      "archetype": "us-en-about-wonka",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 1,
+        "optimised": 0
+      }
+    },
+    {
+      "id": "us-en-privacy-policy",
+      "archetype": "us-en-privacy-policy",
+      "pageCount": 3,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 3,
+        "optimised": 0
+      }
+    },
+    {
+      "id": "us-en-xp-golden-ticket",
+      "archetype": "us-en-xp-golden-ticket",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 0,
+        "optimised": 1
+      }
+    }
+  ],
+  "blocks": {
+    "total": 17,
+    "converted": 17
+  },
+  "quality": {
+    "overall": 50,
+    "dimensions": {
+      "brand-tensions": null,
+      "design-ux": null,
+      "accessibility": null,
+      "seo": null,
+      "content-conversion": null,
+      "ai-search": 50,
+      "cross-page": null
+    },
+    "severity": {
+      "P1": 0,
+      "P2": 5,
+      "P3": 0
+    },
+    "history": [
+      50
+    ]
+  },
+  "findings": {
+    "byFixability": {
+      "platform-migration": 5,
+      "out-of-scope": 1
+    },
+    "byAutofix": {
+      "pending": 5
+    }
+  }
+}

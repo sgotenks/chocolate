@@ -1,0 +1,241 @@
+{
+  "a": "stardust/replica/gates/prototypes-360/us-en-about-wonka/origin.png",
+  "b": "stardust/replica/gates/prototypes-360/us-en-about-wonka/eds.png",
+  "compared": {
+    "width": 360,
+    "height": 5367,
+    "mode": "overlap"
+  },
+  "heightDelta": 1,
+  "differingPixels": 9561,
+  "pct": 0.49,
+  "threshold": 10,
+  "pass": true,
+  "diff": "stardust/replica/gates/prototypes-360/us-en-about-wonka/diff.png",
+  "masks": [],
+  "maskedRows": 0,
+  "textPct": null,
+  "textBoxes": null,
+  "textPixels": null,
+  "bands": [
+    {
+      "y0": 0,
+      "y1": 500,
+      "pct": 0.3
+    },
+    {
+      "y0": 500,
+      "y1": 1000,
+      "pct": 0.1
+    },
+    {
+      "y0": 1000,
+      "y1": 1500,
+      "pct": 0.8
+    },
+    {
+      "y0": 1500,
+      "y1": 2000,
+      "pct": 0.5
+    },
+    {
+      "y0": 2000,
+      "y1": 2500,
+      "pct": 0.3
+    },
+    {
+      "y0": 2500,
+      "y1": 3000,
+      "pct": 0.8
+    },
+    {
+      "y0": 3000,
+      "y1": 3500,
+      "pct": 0.1
+    },
+    {
+      "y0": 3500,
+      "y1": 4000,
+      "pct": 0.5
+    },
+    {
+      "y0": 4000,
+      "y1": 4500,
+      "pct": 1.4
+    },
+    {
+      "y0": 4500,
+      "y1": 5000,
+      "pct": 0.4
+    },
+    {
+      "y0": 5000,
+      "y1": 5367,
+      "pct": 0.2
+    }
+  ],
+  "verdict": "aligned",
+  "aligned": {
+    "used": false,
+    "pct": 0.49,
+    "differingPixels": 9561,
+    "compared": {
+      "width": 360,
+      "height": 5367,
+      "mode": "overlap"
+    },
+    "steps": [],
+    "maxOffset": 0,
+    "totalShift": 0,
+    "insertedRows": 0,
+    "deletedRows": 0,
+    "bands": [
+      {
+        "y0": 0,
+        "y1": 500,
+        "pct": 0.3,
+        "unaligned": 0.3
+      },
+      {
+        "y0": 500,
+        "y1": 1000,
+        "pct": 0.1,
+        "unaligned": 0.1
+      },
+      {
+        "y0": 1000,
+        "y1": 1500,
+        "pct": 0.8,
+        "unaligned": 0.8
+      },
+      {
+        "y0": 1500,
+        "y1": 2000,
+        "pct": 0.5,
+        "unaligned": 0.5
+      },
+      {
+        "y0": 2000,
+        "y1": 2500,
+        "pct": 0.3,
+        "unaligned": 0.3
+      },
+      {
+        "y0": 2500,
+        "y1": 3000,
+        "pct": 0.8,
+        "unaligned": 0.8
+      },
+      {
+        "y0": 3000,
+        "y1": 3500,
+        "pct": 0.1,
+        "unaligned": 0.1
+      },
+      {
+        "y0": 3500,
+        "y1": 4000,
+        "pct": 0.5,
+        "unaligned": 0.5
+      },
+      {
+        "y0": 4000,
+        "y1": 4500,
+        "pct": 1.4,
+        "unaligned": 1.4
+      },
+      {
+        "y0": 4500,
+        "y1": 5000,
+        "pct": 0.4,
+        "unaligned": 0.4
+      },
+      {
+        "y0": 5000,
+        "y1": 5367,
+        "pct": 0.2,
+        "unaligned": 0.2
+      }
+    ],
+    "diff": null,
+    "reason": "aligned number not lower than the unaligned one",
+    "candidate": {
+      "pct": 0.5,
+      "steps": 5,
+      "totalShift": 5
+    }
+  },
+  "offsets": {
+    "bound": null,
+    "totalShift": 0,
+    "pass": true
+  },
+  "reason": null,
+  "capturesDropped": {
+    "masks": [],
+    "edsUrl": "http://localhost:8791/us-en-about-wonka-proposed.html",
+    "key": {
+      "v": 3,
+      "build": "http://localhost:8791/us-en-about-wonka-proposed.html",
+      "source": "https://www.wonka.com/us/en/about-wonka",
+      "masks": "74234e98afe7498f",
+      "presence": "74234e98afe7498f",
+      "clipAllow": "74234e98afe7498f",
+      "override": "74234e98afe7498f",
+      "units": "52b50fa81d8605df",
+      "options": "c8f49ca1c9aa3ffb",
+      "reference": "0667a39e37279941",
+      "archetype": "230f0b5503a4ba87",
+      "captures": "dcd207b5fcbbd9e1",
+      "instruments": "eb81d8f0db728617",
+      "prototype": "ed8e996e75c8539f",
+      "page content": "95a28d10f3fc0a0a"
+    },
+    "probes": {
+      "clip": {
+        "counts": {
+          "textClipped": 0,
+          "textHidden": 0,
+          "controlHidden": 0,
+          "controlClipped": 0,
+          "clamped": 0,
+          "collapsed": 0,
+          "scrollHidden": 0,
+          "horizontal": 1,
+          "offPage": 0,
+          "textNodes": 41,
+          "controls": 21,
+          "total": 0
+        },
+        "groups": [
+          {
+            "kind": "CONTROL X-CUT",
+            "advisory": true,
+            "n": 1,
+            "clipper": "section.promo",
+            "path": "div.promo__inner > div.promo__stage > div.promo__cta > a.btn.btn--lg",
+            "text": "explore the wonka range",
+            "cutMin": 3,
+            "cutMax": 3
+          }
+        ],
+        "source": "clip-probe",
+        "tier": "chrome"
+      },
+      "units": {
+        "verdict": {
+          "units": 10,
+          "within": 48,
+          "off": 0,
+          "hidden": 0,
+          "missing": 0,
+          "errors": 0,
+          "requiredOff": 0
+        },
+        "required": true,
+        "errors": []
+      }
+    },
+    "at": "2026-11-25T11:20:23.829Z"
+  }
+}

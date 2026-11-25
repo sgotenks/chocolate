@@ -1,0 +1,1050 @@
+[live-session] waiting to pace live navigations to www.wonka.com (1000 ms apart, 2 max parallel; STARDUST_LIVE_PACE_MS / STARDUST_LIVE_MAX_PARALLEL; 0 disables either) — first wait 911 ms
+
+Visual diff @ 360px (profile "generic") — screenshots in stardust/replica/gates/us-en-xp-golden-ticket-360/vdiff-iter1/
+
+build red flags (advisory): 
+  • IMAGERY GAP: source renders 74 images, build renders 26. The build renders far fewer images than the source — confirm intended (CSS backgrounds) vs missing assets.
+
+Full metrics JSON (compare source vs build: heading colors, eyebrow colors, image dims, full-bleed):
+{
+ "source": {
+  "viewport": 360,
+  "blankRender": false,
+  "mainHeight": 4203,
+  "textLen": 2070,
+  "images": [
+   {
+    "src": "logo.svg",
+    "natural": "90x51",
+    "rendered": "90x43",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "natural": "1x1",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "wonka_visual_US_mobile.jpg",
+    "natural": "750x560",
+    "rendered": "360x269",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "q1.png",
+    "natural": "110x110",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "q2.png",
+    "natural": "203x186",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "q3.png",
+    "natural": "152x149",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "qr-code-WONKA-LIVE-US.png",
+    "natural": "128x128",
+    "rendered": "94x94",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "caramel-pop.png",
+    "natural": "266x289",
+    "rendered": "65x71",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "berry_elixir.png",
+    "natural": "198x197",
+    "rendered": "49x49",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "bubblegumjoy.png",
+    "natural": "173x160",
+    "rendered": "43x40",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "caramel-pop.png",
+    "natural": "266x289",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "berry_elixir.png",
+    "natural": "198x197",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "bubblegumjoy.png",
+    "natural": "173x160",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "img_0.png",
+    "natural": "1406x846",
+    "rendered": "337x203",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "caramel-pop.png",
+    "natural": "266x289",
+    "rendered": "65x71",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "berry_elixir.png",
+    "natural": "198x197",
+    "rendered": "49x49",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "bubblegumjoy.png",
+    "natural": "173x160",
+    "rendered": "43x40",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "step-1.png",
+    "natural": "480x337",
+    "rendered": "211x148",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "Step2-Register-and-play.png",
+    "natural": "480x337",
+    "rendered": "211x148",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "step-3.png",
+    "natural": "480x337",
+    "rendered": "211x148",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "65x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "49x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "43x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Wonka-prize-Las-Vegas-trip-slider_0.png",
+    "natural": "1406x846",
+    "rendered": "337x203",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "Wonka-bundle-prize-product-totebag-slider.png",
+    "natural": "1406x846",
+    "rendered": "337x203",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "logo.svg",
+    "natural": "90x51",
+    "rendered": "90x51",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "arrow-down-menu.svg",
+    "natural": "38x38",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "Wonka_logo.png",
+    "natural": "350x109",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "powered_by_logo.svg",
+    "natural": "568x53",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   }
+  ],
+  "headings": [
+   {
+    "tag": "h1",
+    "text": "Could you be the lucky one to wi",
+    "color": "rgb(238, 198, 13)",
+    "fontSize": "30.72px",
+    "family": "Work Sans",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "YOUR GOLDEN CHANCE TO ENTER WONK",
+    "color": "rgb(238, 198, 13)",
+    "fontSize": "19.2px",
+    "family": "Work Sans",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Scan Your Wonka Product",
+    "color": "rgb(152, 1, 134)",
+    "fontSize": "19.2px",
+    "family": "Work Sans",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Complete Your Entry",
+    "color": "rgb(152, 1, 134)",
+    "fontSize": "19.2px",
+    "family": "Work Sans",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "You're Entered for Your Chance t",
+    "color": "rgb(152, 1, 134)",
+    "fontSize": "19.2px",
+    "family": "Work Sans",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "THE WONKA GOLDEN TICKET EXPERIEN",
+    "color": "rgb(238, 198, 13)",
+    "fontSize": "19.2px",
+    "family": "Work Sans",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "WONKA FACTORY BUNDLE",
+    "color": "rgb(238, 198, 13)",
+    "fontSize": "19.2px",
+    "family": "Work Sans",
+    "fontLoaded": true
+   }
+  ],
+  "eyebrows": [
+   {
+    "text": "Will the ticket be golde",
+    "color": "rgb(255, 255, 255)"
+   }
+  ],
+  "flushText": [],
+  "contentBoxes": [
+   {
+    "sel": "p-editorial__text",
+    "width": 337,
+    "left": 12
+   },
+   {
+    "sel": "p-editorial--qr__note",
+    "width": 295,
+    "left": 33
+   },
+   {
+    "sel": "p-editorial__text",
+    "width": 306,
+    "left": 27
+   },
+   {
+    "sel": "p-editorial__text-container",
+    "width": 318,
+    "left": 21
+   },
+   {
+    "sel": "p-editorial__text-container",
+    "width": 264,
+    "left": 48
+   },
+   {
+    "sel": "p-editorial__text-container",
+    "width": 337,
+    "left": 12
+   },
+   {
+    "sel": "p-editorial__text",
+    "width": 337,
+    "left": 12
+   },
+   {
+    "sel": "p-editorial__text",
+    "width": 337,
+    "left": 348
+   },
+   {
+    "sel": "p-title-text__text",
+    "width": 337,
+    "left": 12
+   }
+  ]
+ },
+ "build": {
+  "viewport": 360,
+  "blankRender": false,
+  "mainHeight": 4203,
+  "textLen": 2069,
+  "images": [
+   {
+    "src": "logo.svg",
+    "natural": "90x51",
+    "rendered": "90x43",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "wonka_visual_US_mobile.jpg",
+    "natural": "750x560",
+    "rendered": "360x269",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "q1.png",
+    "natural": "110x110",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "q2.png",
+    "natural": "203x186",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "q3.png",
+    "natural": "152x149",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "qr-code-WONKA-LIVE-US.png",
+    "natural": "128x128",
+    "rendered": "94x94",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "caramel-pop.png",
+    "natural": "266x289",
+    "rendered": "65x71",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "berry_elixir.png",
+    "natural": "198x197",
+    "rendered": "49x49",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "bubblegumjoy.png",
+    "natural": "173x160",
+    "rendered": "43x40",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "caramel-pop.png",
+    "natural": "266x289",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "berry_elixir.png",
+    "natural": "198x197",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "bubblegumjoy.png",
+    "natural": "173x160",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "img_0.png",
+    "natural": "1406x846",
+    "rendered": "337x203",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "caramel-pop.png",
+    "natural": "266x289",
+    "rendered": "65x71",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "berry_elixir.png",
+    "natural": "198x197",
+    "rendered": "49x49",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "bubblegumjoy.png",
+    "natural": "173x160",
+    "rendered": "43x40",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "step-1.png",
+    "natural": "480x337",
+    "rendered": "211x148",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "Step2-Register-and-play.png",
+    "natural": "480x337",
+    "rendered": "211x148",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "step-3.png",
+    "natural": "480x337",
+    "rendered": "211x148",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "caramel-pop.png",
+    "natural": "266x289",
+    "rendered": "65x71",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "berry_elixir.png",
+    "natural": "198x197",
+    "rendered": "49x49",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "bubblegumjoy.png",
+    "natural": "173x160",
+    "rendered": "43x40",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "Wonka-prize-Las-Vegas-trip-slider_0.png",
+    "natural": "1406x846",
+    "rendered": "337x203",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "Wonka-bundle-prize-product-totebag-slider.png",
+    "natural": "1406x846",
+    "rendered": "337x203",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "logo.svg",
+    "natural": "90x51",
+    "rendered": "90x51",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "arrow-down-menu.svg",
+    "natural": "38x38",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   }
+  ],
+  "headings": [
+   {
+    "tag": "h1",
+    "text": "Could you be the lucky one to wi",
+    "color": "rgb(238, 198, 13)",
+    "fontSize": "30.72px",
+    "family": "Work Sans",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "YOUR GOLDEN CHANCE TO ENTER WONK",
+    "color": "rgb(238, 198, 13)",
+    "fontSize": "19.2px",
+    "family": "Work Sans",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Scan Your Wonka Product",
+    "color": "rgb(152, 1, 134)",
+    "fontSize": "19.2px",
+    "family": "Work Sans",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Complete Your Entry",
+    "color": "rgb(152, 1, 134)",
+    "fontSize": "19.2px",
+    "family": "Work Sans",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "You're Entered for Your Chance t",
+    "color": "rgb(152, 1, 134)",
+    "fontSize": "19.2px",
+    "family": "Work Sans",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "THE WONKA GOLDEN TICKET EXPERIEN",
+    "color": "rgb(238, 198, 13)",
+    "fontSize": "19.2px",
+    "family": "Work Sans",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "WONKA FACTORY BUNDLE",
+    "color": "rgb(238, 198, 13)",
+    "fontSize": "19.2px",
+    "family": "Work Sans",
+    "fontLoaded": true
+   }
+  ],
+  "eyebrows": [
+   {
+    "text": "Will the ticket be golde",
+    "color": "rgb(255, 255, 255)"
+   }
+  ],
+  "flushText": [],
+  "contentBoxes": [
+   {
+    "sel": "promo-editorial__body",
+    "width": 337,
+    "left": 12
+   },
+   {
+    "sel": "promo-editorial__note",
+    "width": 295,
+    "left": 33
+   },
+   {
+    "sel": "promo-editorial__body",
+    "width": 306,
+    "left": 27
+   },
+   {
+    "sel": "promo-step",
+    "width": 337,
+    "left": 12
+   },
+   {
+    "sel": "promo-step",
+    "width": 337,
+    "left": 12
+   },
+   {
+    "sel": "promo-step",
+    "width": 337,
+    "left": 12
+   },
+   {
+    "sel": "promo-editorial__body",
+    "width": 337,
+    "left": 12
+   },
+   {
+    "sel": "promo-editorial__body",
+    "width": 337,
+    "left": 348
+   },
+   {
+    "sel": "promo-title-text__text",
+    "width": 337,
+    "left": 12
+   }
+  ]
+ }
+}

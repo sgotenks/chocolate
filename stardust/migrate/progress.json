@@ -1,0 +1,72 @@
+{
+  "units": {
+    "plan": {
+      "status": "done",
+      "kind": "plan",
+      "templates": [
+        "us-en",
+        "us-en-about-wonka",
+        "us-en-privacy-policy",
+        "us-en-xp-golden-ticket"
+      ],
+      "pages": 7,
+      "startedAt": "2026-11-25T11:22:24Z",
+      "endedAt": "2026-11-25T11:22:35Z",
+      "verdict": "7 in scope: Path A 4 (archetypes, render now), Path A' 2 (static: terms, cookie — after C-archetype static), duplicate 1 (index → us-en, redirect row); provenance OK 7; placeholders 0; page map 7 entries, 0 collisions"
+    },
+    "render-archetypes": {
+      "status": "done",
+      "kind": "render",
+      "templates": [
+        "us-en",
+        "us-en-about-wonka",
+        "us-en-privacy-policy",
+        "us-en-xp-golden-ticket"
+      ],
+      "pages": 4,
+      "startedAt": "2026-11-25T11:22:35Z",
+      "endedAt": "2026-11-25T11:25:46Z",
+      "verdict": "rendered 4, unchanged 0, refused 0, passthrough 0"
+    },
+    "render-static": {
+      "status": "done",
+      "kind": "render",
+      "templates": [
+        "us-en-privacy-policy"
+      ],
+      "pages": 2,
+      "startedAt": "2026-11-25T12:03:47Z",
+      "endedAt": "2026-11-25T12:10:10Z",
+      "verdict": "render-static: pages 2/2 rendered (sibling tier, archetype us-en-privacy-policy), variance 2/2 differ (variants legal-body--plain, legal-body--notice, legal-cookie-list), content-fidelity 2/2 pass (0 red, 0 lost)"
+    },
+    "render-landing": {
+      "status": "pending",
+      "kind": "render",
+      "templates": [
+        "us-en"
+      ],
+      "pages": 1,
+      "startedAt": null,
+      "endedAt": null,
+      "verdict": null
+    },
+    "assets": {
+      "status": "done",
+      "kind": "assets",
+      "templates": [],
+      "pages": 4,
+      "startedAt": "2026-11-25T11:25:46Z",
+      "endedAt": "2026-11-25T11:26:45Z",
+      "verdict": "sitewide: logo + favicon + 2 portal webm bundled (95 assets); robots.txt + sitemap.xml (4 urls); portability greps clean; pagemap-audit OK; file-protocol-audit OK (4 pages)"
+    },
+    "report": {
+      "status": "pending",
+      "kind": "report",
+      "templates": [],
+      "pages": 7,
+      "startedAt": null,
+      "endedAt": null,
+      "verdict": null
+    }
+  }
+}

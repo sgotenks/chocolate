@@ -1,0 +1,1144 @@
+{
+ "_provenance": {
+  "writtenBy": "stardust:dynamics detect",
+  "writtenAt": "2026-11-25T11:27:48.874Z",
+  "settleMs": 5000,
+  "width": 1440,
+  "urls": [
+   "https://www.wonka.com/us/en/",
+   "https://www.wonka.com/us/en/about-wonka",
+   "https://www.wonka.com/us/en/privacy-policy",
+   "https://www.wonka.com/us/en/xp/golden-ticket/"
+  ],
+  "reachSource": "stardust/current/pages"
+ },
+ "pages": {
+  "/us/en/": {
+   "url": "https://www.wonka.com/us/en/",
+   "status": 200,
+   "host": "www.wonka.com",
+   "title": "Wonka | Extraordinary creations from the Wonka Factory",
+   "forms": [],
+   "controlGroups": [],
+   "triggers": [
+    {
+     "text": "",
+     "href": null,
+     "marker": "aria-controls→dialog",
+     "inChrome": false,
+     "titleOnTrigger": null,
+     "target": {
+      "role": "dialog",
+      "heading": "",
+      "textLen": 193,
+      "hasForm": false,
+      "hasIframe": false,
+      "hasVideo": false
+     }
+    },
+    {
+     "text": "Do Not Sell or Share My Personal Information",
+     "href": null,
+     "marker": "aria-haspopup",
+     "inChrome": true,
+     "titleOnTrigger": null,
+     "target": {
+      "role": "button",
+      "heading": "",
+      "textLen": 44,
+      "hasForm": false,
+      "hasIframe": false,
+      "hasVideo": false
+     }
+    },
+    {
+     "text": "Filter Button",
+     "href": null,
+     "marker": "aria-haspopup",
+     "inChrome": true,
+     "titleOnTrigger": null,
+     "target": {
+      "role": "button",
+      "heading": "",
+      "textLen": 13,
+      "hasForm": false,
+      "hasIframe": false,
+      "hasVideo": false
+     }
+    }
+   ],
+   "dialogs": [
+    {
+     "role": "dialog",
+     "heading": "",
+     "textLen": 193,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "dialog",
+     "heading": "Privacy Preference Center",
+     "textLen": 2030,
+     "hasForm": true,
+     "hasIframe": false,
+     "hasVideo": false
+    }
+   ],
+   "dialogCount": 2,
+   "media": [
+    {
+     "tag": "video",
+     "src": "/themes/custom/sling/assets/images/wonka-hat-portal/video/stars-idle.mp4",
+     "account": null,
+     "player": null,
+     "videoId": null,
+     "inDialog": false
+    }
+   ],
+   "iframes": [
+    {
+     "src": null,
+     "title": "onetrust-text-resize",
+     "w": 0,
+     "h": 0
+    }
+   ],
+   "mounts": [],
+   "auth": [],
+   "commerce": {
+    "cart": false,
+    "prices": 0
+   },
+   "locale": {
+    "lang": "en",
+    "hreflang": [
+     "en-GB",
+     "en-US",
+     "de-DE",
+     "fr-FR",
+     "it-IT",
+     "en"
+    ],
+    "switcher": []
+   },
+   "cms": {
+    "drupalSettings": [
+     "path",
+     "pluralDelimiter",
+     "suppressDeprecationErrors",
+     "ajaxPageState",
+     "ajaxTrustedUrl",
+     "user"
+    ],
+    "dataLayer": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "push"
+    ]
+   },
+   "framework": null,
+   "globals": [
+    "OneTrust",
+    "Optanon",
+    "google_tag_manager",
+    "gtag",
+    "Drupal"
+   ],
+   "clientRendered": [],
+   "listingCandidates": [],
+   "inlineScripts": 4,
+   "inlineFetch": false,
+   "mainText": 8053,
+   "domAddedAfterLoad": 1,
+   "hosts": {
+    "www.wonka.com": 34,
+    "www.googletagmanager.com": 4,
+    "cdn.cookielaw.org": 10,
+    "ferrero-kube-stack-prod-static.s3.eu-west-1.amazonaws.com": 7,
+    "www.google-analytics.com": 6,
+    "privacyportal-eu.onetrust.com": 1
+   },
+   "thirdPartyHosts": [
+    "www.googletagmanager.com",
+    "cdn.cookielaw.org",
+    "ferrero-kube-stack-prod-static.s3.eu-west-1.amazonaws.com",
+    "www.google-analytics.com",
+    "privacyportal-eu.onetrust.com"
+   ],
+   "scripts": [
+    "https://www.wonka.com/us/themes/custom/sling/dist/main.js?tnz6jd",
+    "https://www.wonka.com/us/core/assets/vendor/jquery/jquery.min.js?v=4.0.0-rc.1",
+    "https://www.wonka.com/us/sites/wonka.com.us/files/js/js_dVbTVGmuCYhzLW_ooHa5hiSxn9q4ms8YXV4shOFI4uM.js?scope=footer&delta=3&language=en&theme=sling&include=eJx1jEESwjAMAz9Ukyd13CSkKamVsV3g-XQ6cCNHrVaK",
+    "https://www.wonka.com/us/sites/wonka.com.us/files/js/js_ZeL5DA8uX3VF7tYt_TtpCmOm2VZbf3dDHCIJAhzvtY8.js?scope=footer&delta=1&language=en&theme=sling&include=eJx1jEESwjAMAz9Ukyd13CSkKamVsV3g-XQ6cCNHrVaK",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-KZHPL7ZH",
+    "https://cdn.cookielaw.org/scripttemplates/otSDKStub.js",
+    "https://cdn.cookielaw.org/scripttemplates/202610.1.0/otBannerSdk.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-P1E6KSDZ4R&cx=c&gtm=4e6bh1",
+    "https://www.googletagmanager.com/gtag/js?id=G-2HTPJ0X51W&cx=c&gtm=4e6bh1",
+    "https://www.googletagmanager.com/gtag/js?id=G-YL0VRL0CX0&cx=c&gtm=4e6bh1"
+   ],
+   "firstPartyApi": [],
+   "thirdPartyXhr": [
+    "GET cdn.cookielaw.org/consent/019ddcb5-1afd-74e9-920e-7e5a2287f1be/019ddcb5-1afd-74e9-920e-7e5a2287f1",
+    "GET cdn.cookielaw.org/consent/019ddcb5-1afd-74e9-920e-7e5a2287f1be/019dbb0b-c528-71df-9add-c261d11398",
+    "GET cdn.cookielaw.org/scripttemplates/202610.1.0/assets/otFlat.json",
+    "GET cdn.cookielaw.org/scripttemplates/202610.1.0/assets/v2/otPcTab.json",
+    "GET cdn.cookielaw.org/scripttemplates/202610.1.0/assets/otCommonStyles.css",
+    "GET cdn.cookielaw.org/logos/static/ot_guard_logo.svg",
+    "POST www.google-analytics.com/g/collect",
+    "POST privacyportal-eu.onetrust.com/request/v1/consentreceipts/anonymous"
+   ],
+   "postBodies": [
+    {
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-P1E6KSDZ4R&gtm=45je6bh1v9164309509za20ozb9250436305zd9250436305xf1&_p=1795606069560&gcs=G100&gcd=13p3p3p3p5l1&npa=1&dma_cps=-&dma=0&gdid=dYWJhMj&_e",
+     "body": ""
+    },
+    {
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-2HTPJ0X51W&gtm=45je6bh1v9250438364za20ozb9250436305zd9250436305xf1&_p=1795606069560&gcs=G100&gcd=13p3p3p3p5l1&npa=1&dma_cps=-&dma=0&gdid=dYWJhMj&ci",
+     "body": ""
+    },
+    {
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-YL0VRL0CX0&gtm=45je6bh1v9251564426za20ozb9250436305zd9250436305xf1&_p=1795606069560&gcs=G100&gcd=13p3p3p3p5l1&npa=1&dma_cps=-&dma=0&gdid=dYWJhMj&ci",
+     "body": ""
+    },
+    {
+     "url": "https://privacyportal-eu.onetrust.com/request/v1/consentreceipts/anonymous",
+     "body": "{\"requestInformation\":\"eyJhbGciOiJSUzUxMiJ9.eyJvdEp3dFZlcnNpb24iOjEsInByb2Nlc3NJZCI6ImNkMDVhMDgyLWM2N2QtNDAyZC1hOTRmLTg5YTNkNWQ5YThmYSIsInByb2Nlc3NWZXJzaW9uIjo4LCJpYXQiOiIyMDI2LTA0LTMwVDA0OjU4OjQ5LjE3MyIsIm1vYyI6IkNPT0tJRSIsInBvbGljeV91cmkiOiJ3b25rYS5jb20vdXMiLCJzdWIiOiJDb29raWUgVW5pcXVlIElkIiwiaXNzIjpudWxsLCJ0ZW5hbnRJZCI6IjI2NTJmYTZmLTQ5N2UtNDJiYi05MGQyLTcwYjM4ZDhkYzg2OSIsImRlc2NyaXB0aW9uIjoiVGhp"
+    },
+    {
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-P1E6KSDZ4R&gtm=45je6bh1v9164309509za20gzb9250436305zd9250436305xf1&_p=1795606069560&gcs=G101&gcd=13q3r3q3q5l1&npa=1&dma_cps=-&dma=0&gdid=dYWJhMj&_e",
+     "body": ""
+    },
+    {
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-2HTPJ0X51W&gtm=45je6bh1v9250438364za20gzb9250436305zd9250436305xf1&_p=1795606069560&gcs=G101&gcd=13q3r3q3q5l1&npa=1&dma_cps=-&dma=0&gdid=dYWJhMj&_e",
+     "body": ""
+    },
+    {
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-YL0VRL0CX0&gtm=45je6bh1v9251564426za20gzb9250436305zd9250436305xf1&_p=1795606069560&gcs=G101&gcd=13q3r3q3q5l1&npa=1&dma_cps=-&dma=0&gdid=dYWJhMj&_e",
+     "body": ""
+    }
+   ],
+   "textAtLoad": 8053,
+   "mainEmptyAtLoad": false
+  },
+  "/us/en/about-wonka": {
+   "url": "https://www.wonka.com/us/en/about-wonka",
+   "status": 200,
+   "host": "www.wonka.com",
+   "title": "About Wonka Brand",
+   "forms": [],
+   "controlGroups": [],
+   "triggers": [
+    {
+     "text": "",
+     "href": null,
+     "marker": "aria-controls→dialog",
+     "inChrome": false,
+     "titleOnTrigger": null,
+     "target": {
+      "role": "dialog",
+      "heading": "",
+      "textLen": 193,
+      "hasForm": false,
+      "hasIframe": false,
+      "hasVideo": false
+     }
+    },
+    {
+     "text": "Do Not Sell or Share My Personal Information",
+     "href": null,
+     "marker": "aria-haspopup",
+     "inChrome": true,
+     "titleOnTrigger": null,
+     "target": {
+      "role": "button",
+      "heading": "",
+      "textLen": 44,
+      "hasForm": false,
+      "hasIframe": false,
+      "hasVideo": false
+     }
+    },
+    {
+     "text": "Filter Button",
+     "href": null,
+     "marker": "aria-haspopup",
+     "inChrome": true,
+     "titleOnTrigger": null,
+     "target": {
+      "role": "button",
+      "heading": "",
+      "textLen": 13,
+      "hasForm": false,
+      "hasIframe": false,
+      "hasVideo": false
+     }
+    }
+   ],
+   "dialogs": [
+    {
+     "role": "dialog",
+     "heading": "",
+     "textLen": 193,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "dialog",
+     "heading": "",
+     "textLen": 655,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "dialog",
+     "heading": "Privacy Preference Center",
+     "textLen": 2030,
+     "hasForm": true,
+     "hasIframe": false,
+     "hasVideo": false
+    }
+   ],
+   "dialogCount": 3,
+   "media": [],
+   "iframes": [
+    {
+     "src": null,
+     "title": "onetrust-text-resize",
+     "w": 0,
+     "h": 0
+    }
+   ],
+   "mounts": [],
+   "auth": [],
+   "commerce": {
+    "cart": false,
+    "prices": 0
+   },
+   "locale": {
+    "lang": "en",
+    "hreflang": [
+     "en-GB",
+     "en-US",
+     "de-DE",
+     "fr-FR",
+     "it-IT",
+     "en"
+    ],
+    "switcher": []
+   },
+   "cms": {
+    "drupalSettings": [
+     "path",
+     "pluralDelimiter",
+     "suppressDeprecationErrors",
+     "ajaxPageState",
+     "ajaxTrustedUrl",
+     "user"
+    ],
+    "dataLayer": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "push"
+    ]
+   },
+   "framework": null,
+   "globals": [
+    "OneTrust",
+    "Optanon",
+    "google_tag_manager",
+    "gtag",
+    "Drupal"
+   ],
+   "clientRendered": [],
+   "listingCandidates": [],
+   "inlineScripts": 3,
+   "inlineFetch": false,
+   "mainText": 2868,
+   "domAddedAfterLoad": 1,
+   "hosts": {
+    "www.wonka.com": 31,
+    "www.googletagmanager.com": 4,
+    "cdn.cookielaw.org": 10,
+    "ferrero-kube-stack-prod-static.s3.eu-west-1.amazonaws.com": 7,
+    "www.google-analytics.com": 6,
+    "privacyportal-eu.onetrust.com": 1
+   },
+   "thirdPartyHosts": [
+    "www.googletagmanager.com",
+    "cdn.cookielaw.org",
+    "ferrero-kube-stack-prod-static.s3.eu-west-1.amazonaws.com",
+    "www.google-analytics.com",
+    "privacyportal-eu.onetrust.com"
+   ],
+   "scripts": [
+    "https://www.wonka.com/us/themes/custom/sling/dist/main.js?tnz6jd",
+    "https://www.wonka.com/us/sites/wonka.com.us/files/js/js_3TFfmElsK9R6wAedzkO1PPPZdQjcxtK8kEpLN6tOjWw.js?scope=footer&delta=1&language=en&theme=sling&include=eJx1jUEOwjAMBD_UkCdVxnFD2tRb2abwfAqCGz3u7EjD",
+    "https://www.wonka.com/us/sites/wonka.com.us/files/js/js_dVbTVGmuCYhzLW_ooHa5hiSxn9q4ms8YXV4shOFI4uM.js?scope=footer&delta=3&language=en&theme=sling&include=eJx1jUEOwjAMBD_UkCdVxnFD2tRb2abwfAqCGz3u7EjD",
+    "https://www.wonka.com/us/core/assets/vendor/jquery/jquery.min.js?v=4.0.0-rc.1",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-KZHPL7ZH",
+    "https://cdn.cookielaw.org/scripttemplates/otSDKStub.js",
+    "https://cdn.cookielaw.org/scripttemplates/202610.1.0/otBannerSdk.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-P1E6KSDZ4R&cx=c&gtm=4e6bh1",
+    "https://www.googletagmanager.com/gtag/js?id=G-YL0VRL0CX0&cx=c&gtm=4e6bh1",
+    "https://www.googletagmanager.com/gtag/js?id=G-2HTPJ0X51W&cx=c&gtm=4e6bh1"
+   ],
+   "firstPartyApi": [],
+   "thirdPartyXhr": [
+    "GET cdn.cookielaw.org/consent/019ddcb5-1afd-74e9-920e-7e5a2287f1be/019ddcb5-1afd-74e9-920e-7e5a2287f1",
+    "GET cdn.cookielaw.org/consent/019ddcb5-1afd-74e9-920e-7e5a2287f1be/019dbb0b-c528-71df-9add-c261d11398",
+    "GET cdn.cookielaw.org/scripttemplates/202610.1.0/assets/v2/otPcTab.json",
+    "GET cdn.cookielaw.org/scripttemplates/202610.1.0/assets/otFlat.json",
+    "GET cdn.cookielaw.org/scripttemplates/202610.1.0/assets/otCommonStyles.css",
+    "GET cdn.cookielaw.org/logos/static/ot_guard_logo.svg",
+    "POST www.google-analytics.com/g/collect",
+    "POST privacyportal-eu.onetrust.com/request/v1/consentreceipts/anonymous"
+   ],
+   "postBodies": [
+    {
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-P1E6KSDZ4R&gtm=45je6bh1v9164309509za20ozb9250436305zd9250436305xf1&_p=1795606080079&gcs=G100&gcd=13p3p3p3p5l1&npa=1&dma_cps=-&dma=0&gdid=dYWJhMj&_e",
+     "body": ""
+    },
+    {
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-YL0VRL0CX0&gtm=45je6bh1v9251564426za20ozb9250436305zd9250436305xf1&_p=1795606080079&gcs=G100&gcd=13p3p3p3p5l1&npa=1&dma_cps=-&dma=0&gdid=dYWJhMj&ci",
+     "body": ""
+    },
+    {
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-2HTPJ0X51W&gtm=45je6bh1v9250438364za20ozb9250436305zd9250436305xf1&_p=1795606080079&gcs=G100&gcd=13p3p3p3p5l1&npa=1&dma_cps=-&dma=0&gdid=dYWJhMj&ci",
+     "body": ""
+    },
+    {
+     "url": "https://privacyportal-eu.onetrust.com/request/v1/consentreceipts/anonymous",
+     "body": "{\"requestInformation\":\"eyJhbGciOiJSUzUxMiJ9.eyJvdEp3dFZlcnNpb24iOjEsInByb2Nlc3NJZCI6ImNkMDVhMDgyLWM2N2QtNDAyZC1hOTRmLTg5YTNkNWQ5YThmYSIsInByb2Nlc3NWZXJzaW9uIjo4LCJpYXQiOiIyMDI2LTA0LTMwVDA0OjU4OjQ5LjE3MyIsIm1vYyI6IkNPT0tJRSIsInBvbGljeV91cmkiOiJ3b25rYS5jb20vdXMiLCJzdWIiOiJDb29raWUgVW5pcXVlIElkIiwiaXNzIjpudWxsLCJ0ZW5hbnRJZCI6IjI2NTJmYTZmLTQ5N2UtNDJiYi05MGQyLTcwYjM4ZDhkYzg2OSIsImRlc2NyaXB0aW9uIjoiVGhp"
+    },
+    {
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-P1E6KSDZ4R&gtm=45je6bh1v9164309509za20gzb9250436305zd9250436305xf1&_p=1795606080079&gcs=G101&gcd=13q3r3q3q5l1&npa=1&dma_cps=-&dma=0&gdid=dYWJhMj&_e",
+     "body": ""
+    },
+    {
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-YL0VRL0CX0&gtm=45je6bh1v9251564426za20gzb9250436305zd9250436305xf1&_p=1795606080079&gcs=G101&gcd=13q3r3q3q5l1&npa=1&dma_cps=-&dma=0&gdid=dYWJhMj&_e",
+     "body": ""
+    },
+    {
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-2HTPJ0X51W&gtm=45je6bh1v9250438364za20gzb9250436305zd9250436305xf1&_p=1795606080079&gcs=G101&gcd=13q3r3q3q5l1&npa=1&dma_cps=-&dma=0&gdid=dYWJhMj&_e",
+     "body": ""
+    }
+   ],
+   "textAtLoad": 2868,
+   "mainEmptyAtLoad": false
+  },
+  "/us/en/privacy-policy": {
+   "url": "https://www.wonka.com/us/en/privacy-policy",
+   "status": 200,
+   "host": "www.wonka.com",
+   "title": "Privacy Policy | Wonka",
+   "forms": [],
+   "controlGroups": [],
+   "triggers": [
+    {
+     "text": "",
+     "href": null,
+     "marker": "aria-controls→dialog",
+     "inChrome": false,
+     "titleOnTrigger": null,
+     "target": {
+      "role": "dialog",
+      "heading": "",
+      "textLen": 193,
+      "hasForm": false,
+      "hasIframe": false,
+      "hasVideo": false
+     }
+    },
+    {
+     "text": "Do Not Sell or Share My Personal Information",
+     "href": null,
+     "marker": "aria-haspopup",
+     "inChrome": true,
+     "titleOnTrigger": null,
+     "target": {
+      "role": "button",
+      "heading": "",
+      "textLen": 44,
+      "hasForm": false,
+      "hasIframe": false,
+      "hasVideo": false
+     }
+    },
+    {
+     "text": "Filter Button",
+     "href": null,
+     "marker": "aria-haspopup",
+     "inChrome": true,
+     "titleOnTrigger": null,
+     "target": {
+      "role": "button",
+      "heading": "",
+      "textLen": 13,
+      "hasForm": false,
+      "hasIframe": false,
+      "hasVideo": false
+     }
+    }
+   ],
+   "dialogs": [
+    {
+     "role": "dialog",
+     "heading": "",
+     "textLen": 193,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "dialog",
+     "heading": "Privacy Preference Center",
+     "textLen": 2030,
+     "hasForm": true,
+     "hasIframe": false,
+     "hasVideo": false
+    }
+   ],
+   "dialogCount": 2,
+   "media": [],
+   "iframes": [
+    {
+     "src": null,
+     "title": "onetrust-text-resize",
+     "w": 0,
+     "h": 0
+    }
+   ],
+   "mounts": [],
+   "auth": [],
+   "commerce": {
+    "cart": false,
+    "prices": 0
+   },
+   "locale": {
+    "lang": "en",
+    "hreflang": [
+     "en-GB",
+     "en-US",
+     "de-DE",
+     "fr-FR",
+     "it-IT",
+     "en"
+    ],
+    "switcher": []
+   },
+   "cms": {
+    "drupalSettings": [
+     "path",
+     "pluralDelimiter",
+     "suppressDeprecationErrors",
+     "ajaxPageState",
+     "ajaxTrustedUrl",
+     "user"
+    ],
+    "dataLayer": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12",
+     "push"
+    ]
+   },
+   "framework": null,
+   "globals": [
+    "OneTrust",
+    "Optanon",
+    "google_tag_manager",
+    "gtag",
+    "Drupal"
+   ],
+   "clientRendered": [],
+   "listingCandidates": [],
+   "inlineScripts": 3,
+   "inlineFetch": false,
+   "mainText": 1538,
+   "domAddedAfterLoad": 3,
+   "hosts": {
+    "www.wonka.com": 16,
+    "privacyportal-eu-cdn.onetrust.com": 2,
+    "www.googletagmanager.com": 4,
+    "cdn.cookielaw.org": 10,
+    "privacyportal-eu.onetrust.com": 4,
+    "ferrero-kube-stack-prod-static.s3.eu-west-1.amazonaws.com": 1,
+    "www.google-analytics.com": 8
+   },
+   "thirdPartyHosts": [
+    "privacyportal-eu-cdn.onetrust.com",
+    "www.googletagmanager.com",
+    "cdn.cookielaw.org",
+    "privacyportal-eu.onetrust.com",
+    "ferrero-kube-stack-prod-static.s3.eu-west-1.amazonaws.com",
+    "www.google-analytics.com"
+   ],
+   "scripts": [
+    "https://www.wonka.com/us/themes/custom/sling/dist/main.js?tnz6jd",
+    "https://www.wonka.com/us/core/assets/vendor/jquery/jquery.min.js?v=4.0.0-rc.1",
+    "https://www.wonka.com/us/sites/wonka.com.us/files/js/js_dVbTVGmuCYhzLW_ooHa5hiSxn9q4ms8YXV4shOFI4uM.js?scope=footer&delta=3&language=en&theme=sling&include=eJx1i0EOwjAMBD-UkCdVJhgrJfVWtoE-v1FFb-W4szMV",
+    "https://www.wonka.com/us/sites/wonka.com.us/files/js/js_OdMCy_p04ezun0oZ-kKRAAAnfSWnXEXlmhANnJ2t3RQ.js?scope=footer&delta=1&language=en&theme=sling&include=eJx1i0EOwjAMBD-UkCdVJhgrJfVWtoE-v1FFb-W4szMV",
+    "https://privacyportal-eu-cdn.onetrust.com/privacy-notice-scripts/otnotice-1.0.min.js",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-KZHPL7ZH",
+    "https://cdn.cookielaw.org/scripttemplates/otSDKStub.js",
+    "https://cdn.cookielaw.org/scripttemplates/202610.1.0/otBannerSdk.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-P1E6KSDZ4R&cx=c&gtm=4e6bh1",
+    "https://www.googletagmanager.com/gtag/js?id=G-YL0VRL0CX0&cx=c&gtm=4e6bh1",
+    "https://www.googletagmanager.com/gtag/js?id=G-2HTPJ0X51W&cx=c&gtm=4e6bh1"
+   ],
+   "firstPartyApi": [],
+   "thirdPartyXhr": [
+    "GET cdn.cookielaw.org/consent/019ddcb5-1afd-74e9-920e-7e5a2287f1be/019ddcb5-1afd-74e9-920e-7e5a2287f1",
+    "GET cdn.cookielaw.org/consent/019ddcb5-1afd-74e9-920e-7e5a2287f1be/019dbb0b-c528-71df-9add-c261d11398",
+    "GET cdn.cookielaw.org/scripttemplates/202610.1.0/assets/otFlat.json",
+    "GET cdn.cookielaw.org/scripttemplates/202610.1.0/assets/v2/otPcTab.json",
+    "GET cdn.cookielaw.org/scripttemplates/202610.1.0/assets/otCommonStyles.css",
+    "PUT privacyportal-eu.onetrust.com/request/v1/enterprisepolicy/digitalpolicy/meta-data",
+    "GET cdn.cookielaw.org/logos/static/ot_guard_logo.svg",
+    "PUT privacyportal-eu.onetrust.com/request/v1/enterprisepolicy/digitalpolicy/content",
+    "POST privacyportal-eu.onetrust.com/request/v1/privacyNotices/stats/views",
+    "POST www.google-analytics.com/g/collect",
+    "POST privacyportal-eu.onetrust.com/request/v1/consentreceipts/anonymous"
+   ],
+   "postBodies": [
+    {
+     "url": "https://privacyportal-eu.onetrust.com/request/v1/privacyNotices/stats/views",
+     "body": "{\"views\":[{\"domain\":\"wonka.com\",\"policyType\":\"DIGITAL_POLICY\",\"id\":\"f9780cbf-7b02-4397-83a6-c3be14e9ea38\",\"tenantId\":\"2652fa6f-497e-42bb-90d2-70b38d8dc869\",\"versionId\":\"6af55612-fbaa-4448-a158-360eae2086c1\",\"language\":\"en-us\",\"timestamp\":\"2026-11-25T11:28:10.017Z\"}]}"
+    },
+    {
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-P1E6KSDZ4R&gtm=45je6bh1v9164309509za20ozb9250436305zd9250436305xf1&_p=1795606089253&gcs=G100&gcd=13p3p3p3p5l1&npa=1&dma_cps=-&dma=0&gdid=dYWJhMj&_e",
+     "body": ""
+    },
+    {
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-YL0VRL0CX0&gtm=45je6bh1v9251564426za20ozb9250436305zd9250436305xf1&_p=1795606089253&gcs=G100&gcd=13p3p3p3p5l1&npa=1&dma_cps=-&dma=0&gdid=dYWJhMj&ci",
+     "body": ""
+    },
+    {
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-2HTPJ0X51W&gtm=45je6bh1v9250438364za20ozb9250436305zd9250436305xf1&_p=1795606089253&gcs=G100&gcd=13p3p3p3p5l1&npa=1&dma_cps=-&dma=0&gdid=dYWJhMj&ci",
+     "body": ""
+    },
+    {
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-YL0VRL0CX0&gtm=45je6bh1v9251564426za20gzb9250436305zd9250436305xf1&_p=1795606089253&gcs=G100&gcd=13p3p3p3p5l1&npa=1&dma_cps=-&dma=0&gdid=dYWJhMj&_e",
+     "body": ""
+    },
+    {
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-2HTPJ0X51W&gtm=45je6bh1v9250438364za20gzb9250436305zd9250436305xf1&_p=1795606089253&gcs=G100&gcd=13p3p3p3p5l1&npa=1&dma_cps=-&dma=0&gdid=dYWJhMj&_e",
+     "body": ""
+    },
+    {
+     "url": "https://privacyportal-eu.onetrust.com/request/v1/consentreceipts/anonymous",
+     "body": "{\"requestInformation\":\"eyJhbGciOiJSUzUxMiJ9.eyJvdEp3dFZlcnNpb24iOjEsInByb2Nlc3NJZCI6ImNkMDVhMDgyLWM2N2QtNDAyZC1hOTRmLTg5YTNkNWQ5YThmYSIsInByb2Nlc3NWZXJzaW9uIjo4LCJpYXQiOiIyMDI2LTA0LTMwVDA0OjU4OjQ5LjE3MyIsIm1vYyI6IkNPT0tJRSIsInBvbGljeV91cmkiOiJ3b25rYS5jb20vdXMiLCJzdWIiOiJDb29raWUgVW5pcXVlIElkIiwiaXNzIjpudWxsLCJ0ZW5hbnRJZCI6IjI2NTJmYTZmLTQ5N2UtNDJiYi05MGQyLTcwYjM4ZDhkYzg2OSIsImRlc2NyaXB0aW9uIjoiVGhp"
+    },
+    {
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-P1E6KSDZ4R&gtm=45je6bh1v9164309509za20gzb9250436305zd9250436305xf1&_p=1795606089253&gcs=G101&gcd=13q3r3q3q5l1&npa=1&dma_cps=-&dma=0&gdid=dYWJhMj&_e",
+     "body": ""
+    },
+    {
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-YL0VRL0CX0&gtm=45je6bh1v9251564426za20gzb9250436305zd9250436305xf1&_p=1795606089253&gcs=G101&gcd=13q3r3q3q5l1&npa=1&dma_cps=-&dma=0&gdid=dYWJhMj&_e",
+     "body": ""
+    },
+    {
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-2HTPJ0X51W&gtm=45je6bh1v9250438364za20gzb9250436305zd9250436305xf1&_p=1795606089253&gcs=G101&gcd=13q3r3q3q5l1&npa=1&dma_cps=-&dma=0&gdid=dYWJhMj&_e",
+     "body": ""
+    }
+   ],
+   "textAtLoad": 14,
+   "mainEmptyAtLoad": true
+  },
+  "/us/en/xp/golden-ticket/": {
+   "url": "https://www.wonka.com/us/en/xp/golden-ticket/",
+   "status": 200,
+   "host": "www.wonka.com",
+   "title": "Home | Wonka",
+   "forms": [],
+   "controlGroups": [],
+   "triggers": [
+    {
+     "text": "Do Not Sell or Share My Personal Information",
+     "href": null,
+     "marker": "aria-haspopup",
+     "inChrome": true,
+     "titleOnTrigger": null,
+     "target": {
+      "role": "button",
+      "heading": "",
+      "textLen": 44,
+      "hasForm": false,
+      "hasIframe": false,
+      "hasVideo": false
+     }
+    },
+    {
+     "text": "Filter Button",
+     "href": null,
+     "marker": "aria-haspopup",
+     "inChrome": true,
+     "titleOnTrigger": null,
+     "target": {
+      "role": "button",
+      "heading": "",
+      "textLen": 13,
+      "hasForm": false,
+      "hasIframe": false,
+      "hasVideo": false
+     }
+    }
+   ],
+   "dialogs": [
+    {
+     "role": "dialog",
+     "heading": "Privacy Preference Center",
+     "textLen": 2030,
+     "hasForm": true,
+     "hasIframe": false,
+     "hasVideo": false
+    }
+   ],
+   "dialogCount": 1,
+   "media": [],
+   "iframes": [
+    {
+     "src": null,
+     "title": "onetrust-text-resize",
+     "w": 0,
+     "h": 0
+    }
+   ],
+   "mounts": [],
+   "auth": [
+    "https://www.wonka.com/us/en/xp/golden-ticket/lead/register",
+    "https://www.wonka.com/us/en/xp/golden-ticket/lead/register",
+    "https://www.wonka.com/us/en/xp/golden-ticket/lead/register",
+    "https://www.wonka.com/us/en/xp/golden-ticket/lead/register",
+    "https://www.wonka.com/us/en/xp/golden-ticket/lead/register",
+    "https://www.wonka.com/us/en/xp/golden-ticket/lead/register",
+    "https://www.wonka.com/us/en/xp/golden-ticket/lead/register",
+    "https://www.wonka.com/us/en/xp/golden-ticket/lead/register"
+   ],
+   "commerce": {
+    "cart": false,
+    "prices": 0
+   },
+   "locale": {
+    "lang": "en-US",
+    "hreflang": [
+     "en"
+    ],
+    "switcher": []
+   },
+   "cms": {
+    "drupalSettings": [
+     "path",
+     "pluralDelimiter",
+     "suppressDeprecationErrors",
+     "ajaxPageState",
+     "ajaxTrustedUrl",
+     "dataLayer",
+     "publicPath",
+     "ar_text",
+     "cdn_url",
+     "hat_variation",
+     "drupal_hash",
+     "campaign",
+     "user"
+    ],
+    "dataLayer": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12",
+     "13",
+     "push"
+    ]
+   },
+   "framework": null,
+   "globals": [
+    "OneTrust",
+    "Optanon",
+    "google_tag_manager",
+    "gtag",
+    "Drupal"
+   ],
+   "clientRendered": [],
+   "listingCandidates": [
+    {
+     "cls": "n-landing-page-full__paragraphs paragraphs",
+     "cards": 6,
+     "sameSite": 6,
+     "hasDate": true
+    }
+   ],
+   "inlineScripts": 3,
+   "inlineFetch": false,
+   "mainText": 2059,
+   "domAddedAfterLoad": 1,
+   "hosts": {
+    "www.wonka.com": 34,
+    "fonts.googleapis.com": 1,
+    "fonts.gstatic.com": 1,
+    "www.googletagmanager.com": 4,
+    "ferrero-gpp-wonka-prod-static.s3.eu-west-1.amazonaws.com": 8,
+    "cdn.cookielaw.org": 10,
+    "www.google-analytics.com": 8,
+    "privacyportal-eu.onetrust.com": 1
+   },
+   "thirdPartyHosts": [
+    "fonts.googleapis.com",
+    "fonts.gstatic.com",
+    "www.googletagmanager.com",
+    "ferrero-gpp-wonka-prod-static.s3.eu-west-1.amazonaws.com",
+    "cdn.cookielaw.org",
+    "www.google-analytics.com",
+    "privacyportal-eu.onetrust.com"
+   ],
+   "scripts": [
+    "https://www.wonka.com/us/en/xp/golden-ticket/core/misc/drupal.init.js?v=11.2.12",
+    "https://www.wonka.com/us/en/xp/golden-ticket/themes/custom/main_theme/assets/libraries/lazysizes/lazysizes.min.js?tp0gcz",
+    "https://www.wonka.com/us/en/xp/golden-ticket/core/misc/drupal.js?v=11.2.12",
+    "https://www.wonka.com/us/en/xp/golden-ticket/themes/custom/gpp_promo_theme/assets/js/component/tracking.min.js?tp0gcz",
+    "https://www.wonka.com/us/en/xp/golden-ticket/core/assets/vendor/once/once.min.js?v=1.0.1",
+    "https://www.wonka.com/us/en/xp/golden-ticket/modules/contrib/datalayer/js/datalayer.js?v=1.x",
+    "https://www.wonka.com/us/en/xp/golden-ticket/core/misc/drupalSettingsLoader.js?v=11.2.12",
+    "https://www.wonka.com/us/en/xp/golden-ticket/themes/custom/main_theme/assets/libraries/jquery3/jquery-3.7.1.min.js?tp0gcz",
+    "https://www.wonka.com/us/en/xp/golden-ticket/core/misc/progress.js?v=11.2.12",
+    "https://www.wonka.com/us/en/xp/golden-ticket/core/assets/vendor/loadjs/loadjs.min.js?v=4.3.0",
+    "https://www.wonka.com/us/en/xp/golden-ticket/core/assets/vendor/tabbable/index.umd.min.js?v=6.2.0",
+    "https://www.wonka.com/us/en/xp/golden-ticket/core/misc/debounce.js?v=11.2.12",
+    "https://www.wonka.com/us/en/xp/golden-ticket/core/misc/announce.js?v=11.2.12",
+    "https://www.wonka.com/us/en/xp/golden-ticket/core/misc/message.js?v=11.2.12",
+    "https://www.wonka.com/us/en/xp/golden-ticket/core/misc/ajax.js?v=11.2.12",
+    "https://www.wonka.com/us/en/xp/golden-ticket/themes/custom/main_theme/assets/js/main-theme.js?tp0gcz",
+    "https://www.wonka.com/us/en/xp/golden-ticket/themes/custom/main_theme/assets/js/paragraph/slider.js?tp0gcz",
+    "https://www.wonka.com/us/en/xp/golden-ticket/themes/custom/gpp_promo_theme/assets/js/component/app.min.js?tp0gcz",
+    "https://www.wonka.com/us/en/xp/golden-ticket/core/assets/vendor/js-cookie/js.cookie.min.js?v=3.0.5",
+    "https://www.wonka.com/us/en/xp/golden-ticket/themes/custom/main_theme/assets/libraries/swiper/swiper-bundle.min.js?tp0gcz",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-KZHPL7ZH",
+    "https://www.googletagmanager.com/gtag/js?id=G-P1E6KSDZ4R&cx=c&gtm=4e6bh1",
+    "https://www.googletagmanager.com/gtag/js?id=G-2HTPJ0X51W&cx=c&gtm=4e6bh1",
+    "https://www.googletagmanager.com/gtag/js?id=G-YL0VRL0CX0&cx=c&gtm=4e6bh1",
+    "https://ferrero-gpp-wonka-prod-static.s3.eu-west-1.amazonaws.com/golden-ticket-us-d11/s3fs-public/languages/en_AgXc4rCd1UjUExIU1jpePN0CGcPmoL0Lqxq8gYkTNDo.js?tp0gcz",
+    "https://cdn.cookielaw.org/scripttemplates/otSDKStub.js",
+    "https://cdn.cookielaw.org/scripttemplates/202610.1.0/otBannerSdk.js"
+   ],
+   "firstPartyApi": [],
+   "thirdPartyXhr": [
+    "GET cdn.cookielaw.org/consent/019ddcb5-1afd-74e9-920e-7e5a2287f1be/019ddcb5-1afd-74e9-920e-7e5a2287f1",
+    "GET cdn.cookielaw.org/consent/019ddcb5-1afd-74e9-920e-7e5a2287f1be/019dbb0b-c528-71df-9add-c261d11398",
+    "GET cdn.cookielaw.org/scripttemplates/202610.1.0/assets/otFlat.json",
+    "GET cdn.cookielaw.org/scripttemplates/202610.1.0/assets/otCommonStyles.css",
+    "GET cdn.cookielaw.org/scripttemplates/202610.1.0/assets/v2/otPcTab.json",
+    "GET cdn.cookielaw.org/logos/static/ot_guard_logo.svg",
+    "POST www.google-analytics.com/g/collect",
+    "POST privacyportal-eu.onetrust.com/request/v1/consentreceipts/anonymous"
+   ],
+   "postBodies": [
+    {
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-P1E6KSDZ4R&gtm=45je6bh1v9164309509za20ozb9250436305zd9250436305xf1&_p=1795606099194&gcs=G100&gcd=13p3p3p3p5l1&npa=1&dma_cps=-&dma=0&gdid=dYWJhMj&_e",
+     "body": ""
+    },
+    {
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-2HTPJ0X51W&gtm=45je6bh1v9250438364za20ozb9250436305zd9250436305xf1&_p=1795606099194&gcs=G100&gcd=13p3p3p3p5l1&npa=1&dma_cps=-&dma=0&gdid=dYWJhMj&ci",
+     "body": ""
+    },
+    {
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-YL0VRL0CX0&gtm=45je6bh1v9251564426za20ozb9250436305zd9250436305xf1&_p=1795606099194&gcs=G100&gcd=13p3p3p3p5l1&npa=1&dma_cps=-&dma=0&gdid=dYWJhMj&ci",
+     "body": ""
+    },
+    {
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-P1E6KSDZ4R&gtm=45je6bh1v9164309509z89250436305za20gzb9250436305zd9250436305xf1&_p=1795606099194&gcs=G100&gcd=13p3p3p3p5l1&npa=1&dma_cps=-&dma=0&gdi",
+     "body": ""
+    },
+    {
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-2HTPJ0X51W&gtm=45je6bh1v9250438364z89250436305za20gzb9250436305zd9250436305xf1&_p=1795606099194&gcs=G100&gcd=13p3p3p3p5l1&npa=1&dma_cps=-&dma=0&gdi",
+     "body": ""
+    },
+    {
+     "url": "https://privacyportal-eu.onetrust.com/request/v1/consentreceipts/anonymous",
+     "body": "{\"requestInformation\":\"eyJhbGciOiJSUzUxMiJ9.eyJvdEp3dFZlcnNpb24iOjEsInByb2Nlc3NJZCI6ImNkMDVhMDgyLWM2N2QtNDAyZC1hOTRmLTg5YTNkNWQ5YThmYSIsInByb2Nlc3NWZXJzaW9uIjo4LCJpYXQiOiIyMDI2LTA0LTMwVDA0OjU4OjQ5LjE3MyIsIm1vYyI6IkNPT0tJRSIsInBvbGljeV91cmkiOiJ3b25rYS5jb20vdXMiLCJzdWIiOiJDb29raWUgVW5pcXVlIElkIiwiaXNzIjpudWxsLCJ0ZW5hbnRJZCI6IjI2NTJmYTZmLTQ5N2UtNDJiYi05MGQyLTcwYjM4ZDhkYzg2OSIsImRlc2NyaXB0aW9uIjoiVGhp"
+    },
+    {
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-P1E6KSDZ4R&gtm=45je6bh1v9164309509za20gzb9250436305zd9250436305xf1&_p=1795606099194&gcs=G101&gcd=13q3r3q3q5l1&npa=1&dma_cps=-&dma=0&gdid=dYWJhMj&_e",
+     "body": ""
+    },
+    {
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-2HTPJ0X51W&gtm=45je6bh1v9250438364za20gzb9250436305zd9250436305xf1&_p=1795606099194&gcs=G101&gcd=13q3r3q3q5l1&npa=1&dma_cps=-&dma=0&gdid=dYWJhMj&_e",
+     "body": ""
+    },
+    {
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-YL0VRL0CX0&gtm=45je6bh1v9251564426za20gzb9250436305zd9250436305xf1&_p=1795606099194&gcs=G101&gcd=13q3r3q3q5l1&npa=1&dma_cps=-&dma=0&gdid=dYWJhMj&_e",
+     "body": ""
+    }
+   ],
+   "textAtLoad": 2059,
+   "mainEmptyAtLoad": false
+  }
+ },
+ "findings": [
+  {
+   "id": "a-cms-app-settings-object-drupalsettings",
+   "class": "A",
+   "feature": "CMS / app settings object drupalSettings",
+   "hint": "settings",
+   "evidence": [
+    "ajaxTrustedUrl",
+    "cdn_url",
+    "campaign"
+   ],
+   "pages": [
+    "/us/en/",
+    "/us/en/about-wonka",
+    "/us/en/privacy-policy",
+    "/us/en/xp/golden-ticket/"
+   ]
+  },
+  {
+   "id": "a-cms-app-settings-object-datalayer",
+   "class": "A",
+   "feature": "CMS / app settings object dataLayer",
+   "hint": "settings",
+   "evidence": [],
+   "pages": [
+    "/us/en/",
+    "/us/en/about-wonka",
+    "/us/en/privacy-policy",
+    "/us/en/xp/golden-ticket/"
+   ]
+  },
+  {
+   "id": "cr-main-empty-at-load-filled-after-client-rendered-page",
+   "class": "CR",
+   "feature": "main empty at load, filled after (client-rendered page)",
+   "hint": "client-rendered-page",
+   "evidence": [
+    "text at load 14 → settled 1538"
+   ],
+   "pages": [
+    "/us/en/privacy-policy"
+   ]
+  },
+  {
+   "id": "i18n-locale-variants-en-gb-en-us-de-de-fr-fr-it-it-en",
+   "class": "I18N",
+   "feature": "locale variants en-GB,en-US,de-DE,fr-FR,it-IT,en",
+   "hint": "locale",
+   "evidence": [],
+   "pages": [
+    "/us/en/",
+    "/us/en/about-wonka",
+    "/us/en/privacy-policy"
+   ]
+  },
+  {
+   "id": "i18n-locale-variants-en",
+   "class": "I18N",
+   "feature": "locale variants en",
+   "hint": "locale",
+   "evidence": [],
+   "pages": [
+    "/us/en/xp/golden-ticket/"
+   ]
+  },
+  {
+   "id": "l-listing-candidate-n-landing-page-full-paragraphs-paragraph",
+   "class": "L",
+   "feature": "listing candidate n-landing-page-full__paragraphs paragraphs (6 cards)",
+   "hint": "listings",
+   "evidence": [],
+   "pages": [
+    "/us/en/xp/golden-ticket/"
+   ]
+  },
+  {
+   "id": "m-modal-trigger-aria-haspopup-chrome-only-button-content",
+   "class": "M",
+   "feature": "modal trigger aria-haspopup (chrome only) → button:content",
+   "hint": "chrome-interaction",
+   "evidence": [
+    "Do Not Sell or Share My Personal Information",
+    "Filter Button"
+   ],
+   "pages": [
+    "/us/en/",
+    "/us/en/about-wonka",
+    "/us/en/privacy-policy",
+    "/us/en/xp/golden-ticket/"
+   ]
+  },
+  {
+   "id": "m-modal-trigger-aria-controls-dialog-dialog-content",
+   "class": "M",
+   "feature": "modal trigger aria-controls→dialog → dialog:content",
+   "hint": "modal",
+   "evidence": [],
+   "pages": [
+    "/us/en/",
+    "/us/en/about-wonka",
+    "/us/en/privacy-policy"
+   ]
+  },
+  {
+   "id": "t-tag-manager-google-tag-manager",
+   "class": "T",
+   "feature": "tag manager: Google Tag Manager",
+   "role": "tag manager: Google Tag Manager",
+   "hint": "tags",
+   "evidence": [
+    "www.googletagmanager.com"
+   ],
+   "pages": [
+    "/us/en/",
+    "/us/en/about-wonka",
+    "/us/en/privacy-policy",
+    "/us/en/xp/golden-ticket/"
+   ]
+  },
+  {
+   "id": "t-consent-onetrust",
+   "class": "T",
+   "feature": "consent: OneTrust",
+   "role": "consent: OneTrust",
+   "hint": "tags",
+   "evidence": [
+    "cdn.cookielaw.org",
+    "privacyportal-eu.onetrust.com",
+    "privacyportal-eu-cdn.onetrust.com"
+   ],
+   "pages": [
+    "/us/en/",
+    "/us/en/about-wonka",
+    "/us/en/privacy-policy",
+    "/us/en/xp/golden-ticket/"
+   ]
+  },
+  {
+   "id": "t-analytics-google-analytics-ads",
+   "class": "T",
+   "feature": "analytics: Google Analytics / Ads",
+   "role": "analytics: Google Analytics / Ads",
+   "hint": "tags",
+   "evidence": [
+    "www.google-analytics.com"
+   ],
+   "pages": [
+    "/us/en/",
+    "/us/en/about-wonka",
+    "/us/en/privacy-policy",
+    "/us/en/xp/golden-ticket/"
+   ]
+  },
+  {
+   "id": "t-unknown-third-party-host-ferrero-kube-stack-prod-static-s3",
+   "class": "T",
+   "feature": "unknown third-party host ferrero-kube-stack-prod-static.s3.eu-west-1.amazonaws.com",
+   "hint": "inspect",
+   "evidence": [
+    "ferrero-kube-stack-prod-static.s3.eu-west-1.amazonaws.com"
+   ],
+   "pages": [
+    "/us/en/",
+    "/us/en/about-wonka",
+    "/us/en/privacy-policy"
+   ]
+  },
+  {
+   "id": "t-unknown-third-party-host-ferrero-gpp-wonka-prod-static-s3-",
+   "class": "T",
+   "feature": "unknown third-party host ferrero-gpp-wonka-prod-static.s3.eu-west-1.amazonaws.com",
+   "hint": "inspect",
+   "evidence": [
+    "ferrero-gpp-wonka-prod-static.s3.eu-west-1.amazonaws.com"
+   ],
+   "pages": [
+    "/us/en/xp/golden-ticket/"
+   ]
+  },
+  {
+   "id": "v-iframe-without-src-runtime-injected-embed",
+   "class": "V",
+   "feature": "iframe without src (runtime-injected embed)",
+   "hint": "embed-runtime",
+   "evidence": [
+    "onetrust-text-resize"
+   ],
+   "pages": [
+    "/us/en/",
+    "/us/en/about-wonka",
+    "/us/en/privacy-policy",
+    "/us/en/xp/golden-ticket/"
+   ]
+  },
+  {
+   "id": "x-sign-in-account-links",
+   "class": "X",
+   "feature": "sign-in / account links",
+   "hint": "decided-out",
+   "evidence": [
+    "https://www.wonka.com/us/en/xp/golden-ticket/lead/register"
+   ],
+   "pages": [
+    "/us/en/xp/golden-ticket/"
+   ]
+  }
+ ],
+ "reach": {
+  "pagesWithEvidence": 7,
+  "of": 8,
+  "endpoints": {
+   "GET cdn.cookielaw.org/consent/{uuid}/{uuid}.json": 7,
+   "GET cdn.cookielaw.org/consent/{uuid}/{uuid}/en.json": 7,
+   "GET cdn.cookielaw.org/scripttemplates/202610.1.0/assets/otFlat.json": 7,
+   "GET cdn.cookielaw.org/scripttemplates/202610.1.0/assets/v2/otPcTab.json": 7,
+   "GET cdn.cookielaw.org/scripttemplates/202610.1.0/assets/otCommonStyles.css": 7,
+   "GET cdn.cookielaw.org/logos/static/ot_guard_logo.svg": 7,
+   "POST www.google-analytics.com/g/collect": 7,
+   "PUT privacyportal-eu.onetrust.com/request/v1/enterprisepolicy/digitalpolicy/meta-data": 2,
+   "PUT privacyportal-eu.onetrust.com/request/v1/enterprisepolicy/digitalpolicy/content": 2,
+   "POST privacyportal-eu.onetrust.com/request/v1/privacyNotices/stats/views": 2
+  },
+  "searchFormPages": 0,
+  "formPages": 0,
+  "triggerPages": {}
+ }
+}

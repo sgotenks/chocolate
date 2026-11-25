@@ -1,0 +1,24 @@
+{
+  "variantName": "promo-editorial",
+  "baseBlock": "columns",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "purpose": "Golden-ticket editorial band: star-bracketed title, body copy and CTAs beside an image."
+  },
+  "contentPattern": {
+    "structure": "A text cell (heading = title, CTA paragraphs = links, other paragraphs = body) and a picture-only cell (media). In qr, a centred column with title, QR card and note."
+  },
+  "options": [
+    {
+      "class": "qr",
+      "label": "QR code"
+    },
+    {
+      "class": "image-left",
+      "label": "Image left"
+    }
+  ],
+  "memberVariantIds": [],
+  "usage": "Editorial text-and-image band in a campaign page.",
+  "reuseGuidance": "Reuse promo-editorial wherever the same content pattern appears; authored content is moved into the block's layout, so keep the structure above."
+}

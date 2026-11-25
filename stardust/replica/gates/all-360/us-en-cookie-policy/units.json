@@ -1,0 +1,1926 @@
+{
+ "_provenance": {
+  "writtenBy": "unit-geometry.mjs",
+  "at": "2026-11-25T14:44:59.146Z",
+  "tol": 4,
+  "n": 12,
+  "width": 360,
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://www.wonka.com/us/en/cookie-policy",
+  "at": "2026-11-25T13:10:34.679Z",
+  "docH": 5496
+ },
+ "eds": {
+  "url": "https://main--a6216fe5--aemcoder.aem.live/us/en/cookie-policy",
+  "at": "2026-11-25T14:44:59.069Z",
+  "docH": 5495
+ },
+ "results": [
+  {
+   "sel": ".otnotice-section-content > p=.legal-body-cookies > p",
+   "family": null,
+   "required": true,
+   "originMatches": 18,
+   "edsMatches": 19,
+   "units": [
+    {
+     "index": 0,
+     "origin": {
+      "path": "section#otnotice-section-8e84b3ea-15db-44a6-bbd9-9edec4b1af84 > div.otnotice-section-content > p#isPasted"
+     },
+     "eds": {
+      "path": "div.legal-accordion.cookies > div.legal-body.legal-body-cookies > p"
+     },
+     "rows": [],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 32,
+       "y": 162,
+       "w": 296,
+       "h": 144
+      },
+      "eds": {
+       "x": 32,
+       "y": 162,
+       "w": 296,
+       "h": 144
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 0,
+      "within": 0,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 1,
+     "origin": {
+      "path": "section#otnotice-section-8e84b3ea-15db-44a6-bbd9-9edec4b1af84 > div.otnotice-section-content > p"
+     },
+     "eds": {
+      "path": "div.legal-accordion.cookies > div.legal-body.legal-body-cookies > p"
+     },
+     "rows": [
+      {
+       "key": "text:what are cookies?",
+       "role": "text",
+       "text": "what are cookies?",
+       "edsText": "what are cookies?",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 2,
+        "w": 171,
+        "h": 20
+       },
+       "eds": {
+        "x": 0,
+        "y": 2,
+        "w": 171,
+        "h": 20,
+        "sel": "strong",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/700",
+        "eds": "16/24/700"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 32,
+       "y": 322,
+       "w": 296,
+       "h": 24
+      },
+      "eds": {
+       "x": 32,
+       "y": 322,
+       "w": 296,
+       "h": 24
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 1,
+      "within": 1,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 2,
+     "origin": {
+      "path": "section#otnotice-section-8e84b3ea-15db-44a6-bbd9-9edec4b1af84 > div.otnotice-section-content > p"
+     },
+     "eds": {
+      "path": "div.legal-accordion.cookies > div.legal-body.legal-body-cookies > p"
+     },
+     "rows": [],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 32,
+       "y": 362,
+       "w": 296,
+       "h": 240
+      },
+      "eds": {
+       "x": 32,
+       "y": 362,
+       "w": 296,
+       "h": 240
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 0,
+      "within": 0,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 3,
+     "origin": {
+      "path": "section#otnotice-section-8e84b3ea-15db-44a6-bbd9-9edec4b1af84 > div.otnotice-section-content > p"
+     },
+     "eds": {
+      "path": "div.legal-accordion.cookies > div.legal-body.legal-body-cookies > p"
+     },
+     "rows": [
+      {
+       "key": "text:categories of cookies",
+       "role": "text",
+       "text": "categories of cookies",
+       "edsText": "categories of cookies",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 2,
+        "w": 171,
+        "h": 20
+       },
+       "eds": {
+        "x": 0,
+        "y": 2,
+        "w": 171,
+        "h": 20,
+        "sel": "strong",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/700",
+        "eds": "16/24/700"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 32,
+       "y": 618,
+       "w": 296,
+       "h": 216
+      },
+      "eds": {
+       "x": 32,
+       "y": 618,
+       "w": 296,
+       "h": 216
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 1,
+      "within": 1,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 4,
+     "origin": {
+      "path": "section#otnotice-section-8e84b3ea-15db-44a6-bbd9-9edec4b1af84 > div.otnotice-section-content > p"
+     },
+     "eds": {
+      "path": "div.legal-accordion.cookies > div.legal-body.legal-body-cookies > p"
+     },
+     "rows": [],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 32,
+       "y": 850,
+       "w": 296,
+       "h": 384
+      },
+      "eds": {
+       "x": 32,
+       "y": 850,
+       "w": 296,
+       "h": 384
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 0,
+      "within": 0,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 5,
+     "origin": {
+      "path": "section#otnotice-section-8e84b3ea-15db-44a6-bbd9-9edec4b1af84 > div.otnotice-section-content > p"
+     },
+     "eds": {
+      "path": "div.legal-accordion.cookies > div.legal-body.legal-body-cookies > p"
+     },
+     "rows": [
+      {
+       "key": "text:lifespan of cookies",
+       "role": "text",
+       "text": "lifespan of cookies",
+       "edsText": "lifespan of cookies",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 2,
+        "w": 152,
+        "h": 20
+       },
+       "eds": {
+        "x": 0,
+        "y": 2,
+        "w": 152,
+        "h": 20,
+        "sel": "strong",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/700",
+        "eds": "16/24/700"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 32,
+       "y": 1250,
+       "w": 296,
+       "h": 24
+      },
+      "eds": {
+       "x": 32,
+       "y": 1250,
+       "w": 296,
+       "h": 24
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 1,
+      "within": 1,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 6,
+     "origin": {
+      "path": "section#otnotice-section-8e84b3ea-15db-44a6-bbd9-9edec4b1af84 > div.otnotice-section-content > p"
+     },
+     "eds": {
+      "path": "div.legal-accordion.cookies > div.legal-body.legal-body-cookies > p"
+     },
+     "rows": [],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 32,
+       "y": 1290,
+       "w": 296,
+       "h": 408
+      },
+      "eds": {
+       "x": 32,
+       "y": 1290,
+       "w": 296,
+       "h": 408
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 0,
+      "within": 0,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 7,
+     "origin": {
+      "path": "section#otnotice-section-8e84b3ea-15db-44a6-bbd9-9edec4b1af84 > div.otnotice-section-content > p"
+     },
+     "eds": {
+      "path": "div.legal-accordion.cookies > div.legal-body.legal-body-cookies > p"
+     },
+     "rows": [
+      {
+       "key": "text:first-party or third-party cookies",
+       "role": "text",
+       "text": "first-party or third-party cookies",
+       "edsText": "first-party or third-party cookies",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 2,
+        "w": 259,
+        "h": 20
+       },
+       "eds": {
+        "x": 0,
+        "y": 2,
+        "w": 259,
+        "h": 20,
+        "sel": "strong",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/700",
+        "eds": "16/24/700"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 32,
+       "y": 1714,
+       "w": 296,
+       "h": 24
+      },
+      "eds": {
+       "x": 32,
+       "y": 1714,
+       "w": 296,
+       "h": 24
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 1,
+      "within": 1,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 8,
+     "origin": {
+      "path": "section#otnotice-section-8e84b3ea-15db-44a6-bbd9-9edec4b1af84 > div.otnotice-section-content > p"
+     },
+     "eds": {
+      "path": "div.legal-accordion.cookies > div.legal-body.legal-body-cookies > p"
+     },
+     "rows": [],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 32,
+       "y": 1754,
+       "w": 296,
+       "h": 192
+      },
+      "eds": {
+       "x": 32,
+       "y": 1754,
+       "w": 296,
+       "h": 192
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 0,
+      "within": 0,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 9,
+     "origin": {
+      "path": "section#otnotice-section-8e84b3ea-15db-44a6-bbd9-9edec4b1af84 > div.otnotice-section-content > p"
+     },
+     "eds": {
+      "path": "div.legal-accordion.cookies > div.legal-body.legal-body-cookies > p"
+     },
+     "rows": [
+      {
+       "key": "text:cookies used on this website",
+       "role": "text",
+       "text": "cookies used on this website",
+       "edsText": "cookies used on this website",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 2,
+        "w": 266,
+        "h": 20
+       },
+       "eds": {
+        "x": 0,
+        "y": 2,
+        "w": 266,
+        "h": 20,
+        "sel": "strong",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/700",
+        "eds": "16/24/700"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 32,
+       "y": 1962,
+       "w": 296,
+       "h": 24
+      },
+      "eds": {
+       "x": 32,
+       "y": 1962,
+       "w": 296,
+       "h": 24
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 1,
+      "within": 1,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 10,
+     "origin": {
+      "path": "section#otnotice-section-8e84b3ea-15db-44a6-bbd9-9edec4b1af84 > div.otnotice-section-content > p"
+     },
+     "eds": {
+      "path": "div.legal-accordion.cookies > div.legal-body.legal-body-cookies > p"
+     },
+     "rows": [],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 32,
+       "y": 2002,
+       "w": 296,
+       "h": 264
+      },
+      "eds": {
+       "x": 32,
+       "y": 2002,
+       "w": 296,
+       "h": 264
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 0,
+      "within": 0,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 11,
+     "origin": {
+      "path": "section#otnotice-section-8e84b3ea-15db-44a6-bbd9-9edec4b1af84 > div.otnotice-section-content > p"
+     },
+     "eds": {
+      "path": "div.legal-accordion.cookies > div.legal-body.legal-body-cookies > p"
+     },
+     "rows": [],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 32,
+       "y": 2282,
+       "w": 296,
+       "h": 24
+      },
+      "eds": {
+       "x": 32,
+       "y": 2282,
+       "w": 296,
+       "h": 24
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 0,
+      "within": 0,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    }
+   ]
+  },
+  {
+   "sel": "#ot-sdk-cookie-policy table=.legal-body-cookies table.legal-cookie-table",
+   "family": null,
+   "required": true,
+   "originMatches": 2,
+   "edsMatches": 2,
+   "units": [
+    {
+     "index": 0,
+     "origin": {
+      "path": "div#ot-sdk-cookie-policy-v2 > section > table"
+     },
+     "eds": {
+      "path": "div.legal-body.legal-body-cookies > div.legal-cookie-list > table.legal-cookie-table"
+     },
+     "rows": [
+      {
+       "key": "text:cookie subgroup",
+       "role": "text",
+       "text": "cookie subgroup",
+       "edsText": "cookie subgroup",
+       "byPosition": false,
+       "origin": {
+        "x": -9999,
+        "y": -10388,
+        "w": 152,
+        "h": 49
+       },
+       "eds": {
+        "x": -9999,
+        "y": -10388,
+        "w": 152,
+        "h": 49,
+        "sel": "th",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "hiddenBoth": true,
+       "type": {
+        "origin": "14/24/700",
+        "eds": "14/24/700"
+       }
+      },
+      {
+       "key": "text:cookies",
+       "role": "text",
+       "text": "cookies",
+       "edsText": "cookies",
+       "byPosition": false,
+       "origin": {
+        "x": -9999,
+        "y": -10339,
+        "w": 152,
+        "h": 49
+       },
+       "eds": {
+        "x": -9999,
+        "y": -10339,
+        "w": 152,
+        "h": 49,
+        "sel": "th",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "hiddenBoth": true,
+       "type": {
+        "origin": "14/24/700",
+        "eds": "14/24/700"
+       }
+      },
+      {
+       "key": "text:cookies used",
+       "role": "text",
+       "text": "cookies used",
+       "edsText": "cookies used",
+       "byPosition": false,
+       "origin": {
+        "x": -9999,
+        "y": -10290,
+        "w": 152,
+        "h": 49
+       },
+       "eds": {
+        "x": -9999,
+        "y": -10290,
+        "w": 152,
+        "h": 49,
+        "sel": "th",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "hiddenBoth": true,
+       "type": {
+        "origin": "14/24/700",
+        "eds": "14/24/700"
+       }
+      },
+      {
+       "key": "text:lifespan",
+       "role": "text",
+       "text": "lifespan",
+       "edsText": "lifespan",
+       "byPosition": false,
+       "origin": {
+        "x": -9999,
+        "y": -10241,
+        "w": 152,
+        "h": 49
+       },
+       "eds": {
+        "x": -9999,
+        "y": -10241,
+        "w": 152,
+        "h": 49,
+        "sel": "th",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "hiddenBoth": true,
+       "type": {
+        "origin": "14/24/700",
+        "eds": "14/24/700"
+       }
+      },
+      {
+       "key": "text:.wonka.com/us",
+       "role": "text",
+       "text": ".wonka.com/us",
+       "edsText": ".wonka.com/us",
+       "byPosition": false,
+       "origin": {
+        "x": 1,
+        "y": 1,
+        "w": 296,
+        "h": 42
+       },
+       "eds": {
+        "x": 1,
+        "y": 1,
+        "w": 296,
+        "h": 42,
+        "sel": "td",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "14/0/400",
+        "eds": "14/0/400"
+       }
+      },
+      {
+       "key": "link:optanonconsent",
+       "role": "link",
+       "text": "optanonconsent",
+       "edsText": "optanonconsent",
+       "byPosition": false,
+       "origin": {
+        "x": 87,
+        "y": 55,
+        "w": 133,
+        "h": 20
+       },
+       "eds": {
+        "x": 87,
+        "y": 56,
+        "w": 133,
+        "h": 20,
+        "sel": "a",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 1,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/0/400",
+        "eds": "16/0/400"
+       }
+      },
+      {
+       "key": "text:,",
+       "role": "text",
+       "text": ",",
+       "edsText": ",",
+       "byPosition": false,
+       "origin": {
+        "x": 16,
+        "y": 58,
+        "w": 208,
+        "h": 41
+       },
+       "eds": {
+        "x": 16,
+        "y": 58,
+        "w": 207,
+        "h": 41,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": -1,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "14/24/400",
+        "eds": "14/24/400"
+       }
+      },
+      {
+       "key": "link:optanonalertboxclosed",
+       "role": "link",
+       "text": "optanonalertboxclosed",
+       "edsText": "optanonalertboxclosed",
+       "byPosition": false,
+       "origin": {
+        "x": 16,
+        "y": 79,
+        "w": 182,
+        "h": 20
+       },
+       "eds": {
+        "x": 16,
+        "y": 80,
+        "w": 182,
+        "h": 20,
+        "sel": "a",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 1,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/0/400",
+        "eds": "16/0/400"
+       }
+      },
+      {
+       "key": "text:first party",
+       "role": "text",
+       "text": "first party",
+       "edsText": "first party",
+       "byPosition": false,
+       "origin": {
+        "x": 125,
+        "y": 131,
+        "w": 70,
+        "h": 17
+       },
+       "eds": {
+        "x": 125,
+        "y": 131,
+        "w": 70,
+        "h": 17,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "14/24/400",
+        "eds": "14/24/400"
+       }
+      },
+      {
+       "key": "text:365 days, 365 days",
+       "role": "text",
+       "text": "365 days, 365 days",
+       "edsText": "365 days, 365 days",
+       "byPosition": false,
+       "origin": {
+        "x": 91,
+        "y": 180,
+        "w": 137,
+        "h": 17
+       },
+       "eds": {
+        "x": 90,
+        "y": 180,
+        "w": 137,
+        "h": 17,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": -1,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "14/24/400",
+        "eds": "14/24/400"
+       }
+      },
+      {
+       "key": "text:www.wonka.com",
+       "role": "text",
+       "text": "www.wonka.com",
+       "edsText": "www.wonka.com",
+       "byPosition": false,
+       "origin": {
+        "x": 1,
+        "y": 230,
+        "w": 296,
+        "h": 42
+       },
+       "eds": {
+        "x": 1,
+        "y": 230,
+        "w": 296,
+        "h": 42,
+        "sel": "td",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "14/0/400",
+        "eds": "14/0/400"
+       }
+      },
+      {
+       "key": "link:mod_auth_openidc_session",
+       "role": "link",
+       "text": "mod_auth_openidc_session",
+       "edsText": "mod_auth_openidc_session",
+       "byPosition": false,
+       "origin": {
+        "x": 16,
+        "y": 301,
+        "w": 212,
+        "h": 20
+       },
+       "eds": {
+        "x": 16,
+        "y": 302,
+        "w": 212,
+        "h": 20,
+        "sel": "a",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 1,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/0/400",
+        "eds": "16/0/400"
+       }
+      },
+      {
+       "key": "link:xc-cookie",
+       "role": "link",
+       "text": "xc-cookie",
+       "edsText": "xc-cookie",
+       "byPosition": false,
+       "origin": {
+        "x": 16,
+        "y": 301,
+        "w": 249,
+        "h": 44
+       },
+       "eds": {
+        "x": 16,
+        "y": 302,
+        "w": 249,
+        "h": 44,
+        "sel": "a",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 1,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/0/400",
+        "eds": "16/0/400"
+       }
+      },
+      {
+       "key": "text:, ,",
+       "role": "text",
+       "text": ", ,",
+       "edsText": ", ,",
+       "byPosition": false,
+       "origin": {
+        "x": 16,
+        "y": 304,
+        "w": 249,
+        "h": 41
+       },
+       "eds": {
+        "x": 16,
+        "y": 304,
+        "w": 249,
+        "h": 41,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "14/24/400",
+        "eds": "14/24/400"
+       }
+      },
+      {
+       "key": "link:ts01xxxxxxxx",
+       "role": "link",
+       "text": "ts01xxxxxxxx",
+       "edsText": "ts01xxxxxxxx",
+       "byPosition": false,
+       "origin": {
+        "x": 82,
+        "y": 325,
+        "w": 107,
+        "h": 20
+       },
+       "eds": {
+        "x": 82,
+        "y": 326,
+        "w": 107,
+        "h": 20,
+        "sel": "a",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 1,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/0/400",
+        "eds": "16/0/400"
+       }
+      },
+      {
+       "key": "text:session, session, session",
+       "role": "text",
+       "text": "session, session, session",
+       "edsText": "session, session, session",
+       "byPosition": false,
+       "origin": {
+        "x": 91,
+        "y": 426,
+        "w": 177,
+        "h": 17
+       },
+       "eds": {
+        "x": 90,
+        "y": 426,
+        "w": 177,
+        "h": 17,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": -1,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "14/24/400",
+        "eds": "14/24/400"
+       }
+      },
+      {
+       "key": "text:wonka.com",
+       "role": "text",
+       "text": "wonka.com",
+       "edsText": "wonka.com",
+       "byPosition": false,
+       "origin": {
+        "x": 1,
+        "y": 476,
+        "w": 296,
+        "h": 42
+       },
+       "eds": {
+        "x": 1,
+        "y": 476,
+        "w": 296,
+        "h": 42,
+        "sel": "td",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "14/0/400",
+        "eds": "14/0/400"
+       }
+      },
+      {
+       "key": "link:optanonconsent #2",
+       "role": "link",
+       "text": "optanonconsent",
+       "edsText": "optanonconsent",
+       "byPosition": false,
+       "origin": {
+        "x": 87,
+        "y": 530,
+        "w": 133,
+        "h": 20
+       },
+       "eds": {
+        "x": 87,
+        "y": 531,
+        "w": 133,
+        "h": 20,
+        "sel": "a",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 1,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/0/400",
+        "eds": "16/0/400"
+       }
+      },
+      {
+       "key": "link:optanonalertboxclosed #2",
+       "role": "link",
+       "text": "optanonalertboxclosed",
+       "edsText": "optanonalertboxclosed",
+       "byPosition": false,
+       "origin": {
+        "x": 16,
+        "y": 554,
+        "w": 182,
+        "h": 20
+       },
+       "eds": {
+        "x": 16,
+        "y": 555,
+        "w": 182,
+        "h": 20,
+        "sel": "a",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 1,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/0/400",
+        "eds": "16/0/400"
+       }
+      },
+      {
+       "key": "text:364 days, 364 days",
+       "role": "text",
+       "text": "364 days, 364 days",
+       "edsText": "364 days, 364 days",
+       "byPosition": false,
+       "origin": {
+        "x": 91,
+        "y": 655,
+        "w": 138,
+        "h": 17
+       },
+       "eds": {
+        "x": 90,
+        "y": 655,
+        "w": 138,
+        "h": 17,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": -1,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "14/24/400",
+        "eds": "14/24/400"
+       }
+      },
+      {
+       "key": "link:privacyportal-eu.onetrust.com",
+       "role": "link",
+       "text": "privacyportal-eu.onetrust.com",
+       "edsText": "privacyportal-eu.onetrust.com",
+       "byPosition": false,
+       "origin": {
+        "x": 16,
+        "y": 717,
+        "w": 243,
+        "h": 40
+       },
+       "eds": {
+        "x": 16,
+        "y": 717,
+        "w": 243,
+        "h": 40,
+        "sel": "a",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/0/400",
+        "eds": "16/0/400"
+       }
+      },
+      {
+       "key": "text:__cflb",
+       "role": "text",
+       "text": "__cflb",
+       "edsText": "__cflb",
+       "byPosition": false,
+       "origin": {
+        "x": 87,
+        "y": 785,
+        "w": 39,
+        "h": 17
+       },
+       "eds": {
+        "x": 87,
+        "y": 785,
+        "w": 39,
+        "h": 17,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "14/24/400",
+        "eds": "14/24/400"
+       }
+      },
+      {
+       "key": "text:third party",
+       "role": "text",
+       "text": "third party",
+       "edsText": "third party",
+       "byPosition": false,
+       "origin": {
+        "x": 125,
+        "y": 834,
+        "w": 75,
+        "h": 17
+       },
+       "eds": {
+        "x": 125,
+        "y": 834,
+        "w": 75,
+        "h": 17,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "14/24/400",
+        "eds": "14/24/400"
+       }
+      },
+      {
+       "key": "text:a few seconds",
+       "role": "text",
+       "text": "a few seconds",
+       "edsText": "a few seconds",
+       "byPosition": false,
+       "origin": {
+        "x": 91,
+        "y": 883,
+        "w": 101,
+        "h": 17
+       },
+       "eds": {
+        "x": 90,
+        "y": 883,
+        "w": 101,
+        "h": 17,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": -1,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "14/24/400",
+        "eds": "14/24/400"
+       }
+      },
+      {
+       "key": "link:www.google.com",
+       "role": "link",
+       "text": "www.google.com",
+       "edsText": "www.google.com",
+       "byPosition": false,
+       "origin": {
+        "x": 16,
+        "y": 965,
+        "w": 132,
+        "h": 20
+       },
+       "eds": {
+        "x": 16,
+        "y": 965,
+        "w": 132,
+        "h": 20,
+        "sel": "a",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/0/400",
+        "eds": "16/0/400"
+       }
+      },
+      {
+       "key": "text:_grecaptcha",
+       "role": "text",
+       "text": "_grecaptcha",
+       "edsText": "_grecaptcha",
+       "byPosition": false,
+       "origin": {
+        "x": 87,
+        "y": 1013,
+        "w": 104,
+        "h": 17
+       },
+       "eds": {
+        "x": 87,
+        "y": 1013,
+        "w": 104,
+        "h": 17,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "14/24/400",
+        "eds": "14/24/400"
+       }
+      },
+      {
+       "key": "text:179 days",
+       "role": "text",
+       "text": "179 days",
+       "edsText": "179 days",
+       "byPosition": false,
+       "origin": {
+        "x": 91,
+        "y": 1111,
+        "w": 61,
+        "h": 17
+       },
+       "eds": {
+        "x": 90,
+        "y": 1111,
+        "w": 61,
+        "h": 17,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": -1,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "14/24/400",
+        "eds": "14/24/400"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 32,
+       "y": 2711,
+       "w": 298,
+       "h": 1161
+      },
+      "eds": {
+       "x": 32,
+       "y": 2711,
+       "w": 298,
+       "h": 1161
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 27,
+      "within": 27,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    },
+    {
+     "index": 1,
+     "origin": {
+      "path": "div#ot-sdk-cookie-policy-v2 > section > table"
+     },
+     "eds": {
+      "path": "div.legal-body.legal-body-cookies > div.legal-cookie-list > table.legal-cookie-table"
+     },
+     "rows": [
+      {
+       "key": "text:cookie subgroup",
+       "role": "text",
+       "text": "cookie subgroup",
+       "edsText": "cookie subgroup",
+       "byPosition": false,
+       "origin": {
+        "x": -9999,
+        "y": -11893,
+        "w": 152,
+        "h": 49
+       },
+       "eds": {
+        "x": -9999,
+        "y": -11893,
+        "w": 152,
+        "h": 49,
+        "sel": "th",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "hiddenBoth": true,
+       "type": {
+        "origin": "14/24/700",
+        "eds": "14/24/700"
+       }
+      },
+      {
+       "key": "text:cookies",
+       "role": "text",
+       "text": "cookies",
+       "edsText": "cookies",
+       "byPosition": false,
+       "origin": {
+        "x": -9999,
+        "y": -11844,
+        "w": 152,
+        "h": 49
+       },
+       "eds": {
+        "x": -9999,
+        "y": -11844,
+        "w": 152,
+        "h": 49,
+        "sel": "th",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "hiddenBoth": true,
+       "type": {
+        "origin": "14/24/700",
+        "eds": "14/24/700"
+       }
+      },
+      {
+       "key": "text:cookies used",
+       "role": "text",
+       "text": "cookies used",
+       "edsText": "cookies used",
+       "byPosition": false,
+       "origin": {
+        "x": -9999,
+        "y": -11795,
+        "w": 152,
+        "h": 49
+       },
+       "eds": {
+        "x": -9999,
+        "y": -11795,
+        "w": 152,
+        "h": 49,
+        "sel": "th",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "hiddenBoth": true,
+       "type": {
+        "origin": "14/24/700",
+        "eds": "14/24/700"
+       }
+      },
+      {
+       "key": "text:lifespan",
+       "role": "text",
+       "text": "lifespan",
+       "edsText": "lifespan",
+       "byPosition": false,
+       "origin": {
+        "x": -9999,
+        "y": -11746,
+        "w": 152,
+        "h": 49
+       },
+       "eds": {
+        "x": -9999,
+        "y": -11746,
+        "w": 152,
+        "h": 49,
+        "sel": "th",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "hiddenBoth": true,
+       "type": {
+        "origin": "14/24/700",
+        "eds": "14/24/700"
+       }
+      },
+      {
+       "key": "text:wonka.com",
+       "role": "text",
+       "text": "wonka.com",
+       "edsText": "wonka.com",
+       "byPosition": false,
+       "origin": {
+        "x": 1,
+        "y": 1,
+        "w": 296,
+        "h": 42
+       },
+       "eds": {
+        "x": 1,
+        "y": 1,
+        "w": 296,
+        "h": 42,
+        "sel": "td",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "14/0/400",
+        "eds": "14/0/400"
+       }
+      },
+      {
+       "key": "link:_ga_xxxxxxxxxx",
+       "role": "link",
+       "text": "_ga_xxxxxxxxxx",
+       "edsText": "_ga_xxxxxxxxxx",
+       "byPosition": false,
+       "origin": {
+        "x": 87,
+        "y": 55,
+        "w": 125,
+        "h": 20
+       },
+       "eds": {
+        "x": 87,
+        "y": 56,
+        "w": 125,
+        "h": 20,
+        "sel": "a",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 1,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/0/400",
+        "eds": "16/0/400"
+       }
+      },
+      {
+       "key": "link:_ga",
+       "role": "link",
+       "text": "_ga",
+       "edsText": "_ga",
+       "byPosition": false,
+       "origin": {
+        "x": 221,
+        "y": 55,
+        "w": 26,
+        "h": 20
+       },
+       "eds": {
+        "x": 220,
+        "y": 56,
+        "w": 26,
+        "h": 20,
+        "sel": "a",
+        "role": "link"
+       },
+       "dx": -1,
+       "dy": 1,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "16/0/400",
+        "eds": "16/0/400"
+       }
+      },
+      {
+       "key": "text:,",
+       "role": "text",
+       "text": ",",
+       "edsText": ",",
+       "byPosition": false,
+       "origin": {
+        "x": 87,
+        "y": 58,
+        "w": 160,
+        "h": 17
+       },
+       "eds": {
+        "x": 87,
+        "y": 58,
+        "w": 160,
+        "h": 17,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "14/24/400",
+        "eds": "14/24/400"
+       }
+      },
+      {
+       "key": "text:first party",
+       "role": "text",
+       "text": "first party",
+       "edsText": "first party",
+       "byPosition": false,
+       "origin": {
+        "x": 125,
+        "y": 107,
+        "w": 70,
+        "h": 17
+       },
+       "eds": {
+        "x": 125,
+        "y": 107,
+        "w": 70,
+        "h": 17,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "14/24/400",
+        "eds": "14/24/400"
+       }
+      },
+      {
+       "key": "text:399 days, 399 days",
+       "role": "text",
+       "text": "399 days, 399 days",
+       "edsText": "399 days, 399 days",
+       "byPosition": false,
+       "origin": {
+        "x": 91,
+        "y": 156,
+        "w": 138,
+        "h": 17
+       },
+       "eds": {
+        "x": 90,
+        "y": 156,
+        "w": 138,
+        "h": 17,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": -1,
+       "dy": 0,
+       "dw": 0,
+       "dh": 0,
+       "off": false,
+       "hidden": false,
+       "type": {
+        "origin": "14/24/400",
+        "eds": "14/24/400"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 32,
+       "y": 4216,
+       "w": 298,
+       "h": 206
+      },
+      "eds": {
+       "x": 32,
+       "y": 4216,
+       "w": 298,
+       "h": 206
+      },
+      "dx": 0,
+      "dy": 0,
+      "dw": 0,
+      "dh": 0
+     },
+     "summary": {
+      "elements": 10,
+      "within": 10,
+      "off": 0,
+      "displaced": 0,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": false
+     }
+    }
+   ]
+  }
+ ],
+ "verdict": {
+  "units": 14,
+  "within": 42,
+  "off": 0,
+  "hidden": 0,
+  "missing": 0,
+  "errors": 0,
+  "requiredOff": 0
+ }
+}

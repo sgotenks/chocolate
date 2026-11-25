@@ -1,0 +1,146 @@
+{
+  "writtenBy": "skills/replica/scripts/reference.mjs freeze",
+  "schema": 1,
+  "capturedAt": "2026-11-25T10:46:51.636Z",
+  "url": "https://www.wonka.com/us/en/",
+  "width": 360,
+  "vh": 900,
+  "height": 5530,
+  "settle": true,
+  "chunks": 7,
+  "fontsFailed": [],
+  "deadFaces": [],
+  "fixedLayers": {
+    "capture": "once",
+    "count": 7,
+    "late": 0
+  },
+  "timers": {
+    "hold": 2000,
+    "held": 6,
+    "intervals": 4,
+    "chains": 2,
+    "delays": [
+      5000,
+      86400000
+    ]
+  },
+  "primed": true,
+  "prime": {
+    "height": 5530,
+    "pct": 0.65,
+    "heightDelta": 0
+  },
+  "captures": 2,
+  "heights": [
+    5530,
+    5530
+  ],
+  "noiseFloor": 2.02,
+  "heightSpread": 0,
+  "outside": 0.01,
+  "variable": [
+    {
+      "y": 252,
+      "h": 156,
+      "pct": 7.9
+    },
+    {
+      "y": 452,
+      "h": 136,
+      "pct": 6.2
+    },
+    {
+      "y": 1152,
+      "h": 156,
+      "pct": 7.9
+    },
+    {
+      "y": 1352,
+      "h": 136,
+      "pct": 6.3
+    },
+    {
+      "y": 2052,
+      "h": 156,
+      "pct": 7.9
+    },
+    {
+      "y": 2252,
+      "h": 136,
+      "pct": 6.3
+    },
+    {
+      "y": 2952,
+      "h": 156,
+      "pct": 7.9
+    },
+    {
+      "y": 3152,
+      "h": 136,
+      "pct": 6.3
+    },
+    {
+      "y": 3592,
+      "h": 216,
+      "pct": 14.1
+    },
+    {
+      "y": 3852,
+      "h": 156,
+      "pct": 7.9
+    },
+    {
+      "y": 4052,
+      "h": 136,
+      "pct": 6.3
+    },
+    {
+      "y": 4272,
+      "h": 156,
+      "pct": 20.4
+    },
+    {
+      "y": 4492,
+      "h": 356,
+      "pct": 20.2
+    },
+    {
+      "y": 4892,
+      "h": 136,
+      "pct": 8.1
+    },
+    {
+      "y": 5072,
+      "h": 376,
+      "pct": 29.2
+    },
+    {
+      "y": 5472,
+      "h": 58,
+      "pct": 5.8
+    }
+  ],
+  "variableShare": 49.87,
+  "maskArg": "252:156,452:136,1152:156,1352:136,2052:156,2252:136,2952:156,3152:136,3592:216,3852:156,4052:136,4272:156,4492:356,4892:136,5072:376,5472:58",
+  "stable": true,
+  "reason": null,
+  "frozenAt": "2026-11-25T10:47:22.778Z",
+  "flags": {
+    "consent": "#onetrust-accept-btn-handler",
+    "dismiss": null,
+    "noDismiss": false,
+    "locale": null,
+    "vh": null,
+    "headed": false,
+    "holdTimers": 2000
+  },
+  "thresholds": {
+    "floorMax": 1,
+    "heightMax": 8,
+    "variableMax": 50,
+    "band": 20,
+    "bandMin": 0.5,
+    "pad": 8
+  }
+}

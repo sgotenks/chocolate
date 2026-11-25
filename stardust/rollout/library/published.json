@@ -1,0 +1,48 @@
+{
+  "org": "aemcoder",
+  "site": "a6216fe5",
+  "blocks": [
+    "ar-banner",
+    "coming-soon",
+    "discover-hero",
+    "faq",
+    "home-hero",
+    "image-text",
+    "legal-accordion",
+    "portal",
+    "product-cards",
+    "promo-banner",
+    "promo-editorial",
+    "promo-prizes",
+    "promo-steps",
+    "promo-visual",
+    "social",
+    "story-cards"
+  ],
+  "variants": 19,
+  "templates": [
+    "Us en",
+    "Us en about wonka",
+    "Us en privacy policy",
+    "Us en xp golden ticket"
+  ],
+  "pages": [
+    "/us/en",
+    "/us/en/about-wonka",
+    "/us/en/privacy-policy",
+    "/us/en/xp/golden-ticket",
+    "/us/en/cookie-policy",
+    "/us/en/terms-of-use"
+  ],
+  "rows": [
+    {
+      "title": "Blocks",
+      "path": "https://content.da.live/aemcoder/a6216fe5/library/blocks.json"
+    },
+    {
+      "title": "Templates",
+      "path": "https://content.da.live/aemcoder/a6216fe5/library/templates.json"
+    }
+  ],
+  "at": "2026-11-25T12:49:30.701Z"
+}

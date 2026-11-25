@@ -1,0 +1,1 @@
+- archetype-unique | golden-ticket theme has no default-content frame (centred 2/3 column, --gt-row-gap between sections, closing padding row-gap+40px): shipped as section-scoped rules in promo-visual.css / ar-banner.css | local tops.mjs vs prototype: rules/legal p 0 px off at 1440/360 with the override | us-en-xp-golden-ticket

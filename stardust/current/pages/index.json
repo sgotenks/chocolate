@@ -1,0 +1,792 @@
+{
+  "_provenance": {
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-11-25T10:14:52.086Z",
+    "waitMode": "slow",
+    "waitMs": 5000,
+    "httpStatus": 200
+  },
+  "slug": "index",
+  "url": "https://www.wonka.com/",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-11-25T10:14:52.086Z",
+  "finalUrl": "https://www.wonka.com/us/en/",
+  "title": "Wonka | Extraordinary creations from the Wonka Factory",
+  "description": "Unwrap the wonder with Wonka! Discover delicious Magic Hats pralines, Purplypurple chocolate bars, Oompa Loompa gummies, and Magic Garden Ropes. Step into our world of magic.",
+  "og": {
+    "title": "Homepage | Wonka US",
+    "description": null,
+    "image": "https://www.wonka.com/us/themes/custom/sling/logo.svg",
+    "type": "website"
+  },
+  "headings": [],
+  "body": [],
+  "codeBlocks": [],
+  "ctas": [],
+  "links": [
+    "https://www.wonka.com/us/en/#main-content",
+    "https://www.wonka.com/us/en/",
+    "https://www.wonka.com/us/en/about-wonka",
+    "https://www.wonka.com/us/en/xp/golden-ticket/",
+    "https://www.instagram.com/wonka_usa",
+    "https://www.tiktok.com/@wonka_usa",
+    "https://www.wonka.com/us/en/privacy-policy",
+    "https://www.wonka.com/us/en/terms-of-use",
+    "https://www.wonka.com/us/en/cookie-policy",
+    "https://www.wonka.com/us/en/#ot-sdk-show-settings",
+    "https://www.ferrero.com/us/en/contact-us",
+    "https://www.wonka.com/us/en/#product-section"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/decorative/clouds/cloud-1.webp",
+        "alt": "",
+        "w": 338,
+        "h": 302
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/decorative/clouds/cloud-2.webp",
+        "alt": "",
+        "w": 352,
+        "h": 302
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/decorative/clouds/cloud-3.webp",
+        "alt": "",
+        "w": 338,
+        "h": 430
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/decorative/clouds/cloud-4.webp",
+        "alt": "",
+        "w": 274,
+        "h": 230
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/decorative/clouds/cloud-5.webp",
+        "alt": "",
+        "w": 520,
+        "h": 404
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/decorative/decorative-star.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/icons/social-instagram.svg",
+        "alt": "Instagram",
+        "w": 20,
+        "h": 20
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/icons/social-tiktok.svg",
+        "alt": "Tik Tok",
+        "w": 20,
+        "h": 20
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/decorative/decorative-star.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24
+      },
+      {
+        "src": "https://ferrero-kube-stack-prod-static.s3.eu-west-1.amazonaws.com/wonka-us-d11/sites/wonka.com.us/s3fs-public/2026-08/wonka-logo.svg",
+        "alt": "Golden Wonka brand logo",
+        "w": 146,
+        "h": 83
+      },
+      {
+        "src": "https://ferrero-kube-stack-prod-static.s3.eu-west-1.amazonaws.com/wonka-us-d11/sites/wonka.com.us/s3fs-public/2026-08/wonka-logo.svg",
+        "alt": "Golden Wonka brand logo",
+        "w": 146,
+        "h": 83
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/images/hero-banner/clouds-top-left.webp",
+        "alt": "",
+        "w": 327,
+        "h": 302
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/images/hero-banner/clouds-top-right.webp",
+        "alt": "",
+        "w": 363,
+        "h": 302
+      },
+      {
+        "src": "https://ferrero-kube-stack-prod-static.s3.eu-west-1.amazonaws.com/wonka-us-d11/sites/wonka.com.us/s3fs-public/styles/hero_ship/public/2026-08/Wonka-ship.png?itok=ynFZDB_A",
+        "alt": "A retro-style purple and gold airship featuring the Wonka logo, carrying a blank golden banner underneath.",
+        "w": 450,
+        "h": 372
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/images/hero-banner/clouds-bottom-back.webp",
+        "alt": "",
+        "w": 2081,
+        "h": 383
+      },
+      {
+        "src": "https://ferrero-kube-stack-prod-static.s3.eu-west-1.amazonaws.com/wonka-us-d11/sites/wonka.com.us/s3fs-public/styles/hero_product_range_desktop/public/2026-11/US-desktop-golden-ticket.png?itok=kHw8SrsH",
+        "alt": "A stacked layout of purple Wonka candy packages, including Oompa Loompa milk chocolate figure, Magic Garden candy sticks, Purplypurple chocolate bar, Magic Hats, and a Wonka Kinder Joy egg.",
+        "w": 1688,
+        "h": 699
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/images/hero-banner/clouds-bottom-front-desktop.webp",
+        "alt": "",
+        "w": 1211,
+        "h": 205
+      },
+      {
+        "src": "https://ferrero-kube-stack-prod-static.s3.eu-west-1.amazonaws.com/wonka-us-d11/sites/wonka.com.us/s3fs-public/2026-08/arrow_downward_brown.svg",
+        "alt": "arrow down",
+        "w": 24,
+        "h": 24
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/images/product-card/stars.webp",
+        "alt": "",
+        "w": 742,
+        "h": 600
+      },
+      {
+        "src": "https://ferrero-kube-stack-prod-static.s3.eu-west-1.amazonaws.com/wonka-us-d11/sites/wonka.com.us/s3fs-public/styles/extra_large/public/2026-09/us-magic-hats-12-x2.webp?itok=I5gwodbQ",
+        "alt": "Purple box of Wonka Magic Hats chocolates containing 12 top-hat-shaped chocolates in assorted flavors like Chocolonka, Caramellion, Magenta Elixir, and Choco Fizz.",
+        "w": 768,
+        "h": 768
+      },
+      {
+        "src": "https://ferrero-kube-stack-prod-static.s3.eu-west-1.amazonaws.com/wonka-us-d11/sites/wonka.com.us/s3fs-public/styles/extra_large/public/2026-09/us-magic-hats-12-x2.webp?itok=I5gwodbQ",
+        "alt": "Purple box of Wonka Magic Hats chocolates containing 12 top-hat-shaped chocolates in assorted flavors like Chocolonka, Caramellion, Magenta Elixir, and Choco Fizz.",
+        "w": 768,
+        "h": 768
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/icons/sparkle.svg",
+        "alt": "",
+        "w": 16,
+        "h": 16
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/icons/sparkle.svg",
+        "alt": "",
+        "w": 16,
+        "h": 16
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/icons/sparkle.svg",
+        "alt": "",
+        "w": 16,
+        "h": 16
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/icons/sparkle.svg",
+        "alt": "",
+        "w": 16,
+        "h": 16
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/icons/sparkle.svg",
+        "alt": "",
+        "w": 16,
+        "h": 16
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/icons/sparkle.svg",
+        "alt": "",
+        "w": 16,
+        "h": 16
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/icons/sparkle.svg",
+        "alt": "",
+        "w": 16,
+        "h": 16
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/icons/sparkle.svg",
+        "alt": "",
+        "w": 16,
+        "h": 16
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/icons/sparkle.svg",
+        "alt": "",
+        "w": 16,
+        "h": 16
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/images/product-card/stars.webp",
+        "alt": "",
+        "w": 742,
+        "h": 600
+      },
+      {
+        "src": "https://ferrero-kube-stack-prod-static.s3.eu-west-1.amazonaws.com/wonka-us-d11/sites/wonka.com.us/s3fs-public/styles/extra_large/public/2026-09/us-magic-hats-18-x2.webp?itok=ZOtJaGO-",
+        "alt": "Purple box of Wonka Magic Hats chocolates containing 18 premium top-hat-shaped chocolates in assorted flavors including Bubblegum Joy and Noir Delice.",
+        "w": 768,
+        "h": 768
+      },
+      {
+        "src": "https://ferrero-kube-stack-prod-static.s3.eu-west-1.amazonaws.com/wonka-us-d11/sites/wonka.com.us/s3fs-public/styles/extra_large/public/2026-09/us-magic-hats-18-x2.webp?itok=ZOtJaGO-",
+        "alt": "Purple box of Wonka Magic Hats chocolates containing 18 premium top-hat-shaped chocolates in assorted flavors including Bubblegum Joy and Noir Delice.",
+        "w": 768,
+        "h": 768
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/icons/sparkle.svg",
+        "alt": "",
+        "w": 16,
+        "h": 16
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/icons/sparkle.svg",
+        "alt": "",
+        "w": 16,
+        "h": 16
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/icons/sparkle.svg",
+        "alt": "",
+        "w": 16,
+        "h": 16
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/icons/sparkle.svg",
+        "alt": "",
+        "w": 16,
+        "h": 16
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/icons/sparkle.svg",
+        "alt": "",
+        "w": 16,
+        "h": 16
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/icons/sparkle.svg",
+        "alt": "",
+        "w": 16,
+        "h": 16
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/icons/sparkle.svg",
+        "alt": "",
+        "w": 16,
+        "h": 16
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/icons/sparkle.svg",
+        "alt": "",
+        "w": 16,
+        "h": 16
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/icons/sparkle.svg",
+        "alt": "",
+        "w": 16,
+        "h": 16
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/images/product-card/stars.webp",
+        "alt": "",
+        "w": 742,
+        "h": 600
+      },
+      {
+        "src": "https://ferrero-kube-stack-prod-static.s3.eu-west-1.amazonaws.com/wonka-us-d11/sites/wonka.com.us/s3fs-public/styles/extra_large/public/2026-09/us-purplepurple-x2.webp?itok=8z_6Q4vS",
+        "alt": "Purple packaging of Wonka Purplypurple 90g milk chocolate tablet with a purple caramel-flavoured filling.",
+        "w": 768,
+        "h": 768
+      },
+      {
+        "src": "https://ferrero-kube-stack-prod-static.s3.eu-west-1.amazonaws.com/wonka-us-d11/sites/wonka.com.us/s3fs-public/styles/extra_large/public/2026-09/us-purplepurple-x2.webp?itok=8z_6Q4vS",
+        "alt": "Purple packaging of Wonka Purplypurple 90g milk chocolate tablet with a purple caramel-flavoured filling.",
+        "w": 768,
+        "h": 768
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/icons/sparkle.svg",
+        "alt": "",
+        "w": 16,
+        "h": 16
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/icons/sparkle.svg",
+        "alt": "",
+        "w": 16,
+        "h": 16
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/icons/sparkle.svg",
+        "alt": "",
+        "w": 16,
+        "h": 16
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/icons/sparkle.svg",
+        "alt": "",
+        "w": 16,
+        "h": 16
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/icons/sparkle.svg",
+        "alt": "",
+        "w": 16,
+        "h": 16
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/icons/sparkle.svg",
+        "alt": "",
+        "w": 16,
+        "h": 16
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/icons/sparkle.svg",
+        "alt": "",
+        "w": 16,
+        "h": 16
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/icons/sparkle.svg",
+        "alt": "",
+        "w": 16,
+        "h": 16
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/icons/sparkle.svg",
+        "alt": "",
+        "w": 16,
+        "h": 16
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/images/product-card/stars.webp",
+        "alt": "",
+        "w": 742,
+        "h": 600
+      },
+      {
+        "src": "https://ferrero-kube-stack-prod-static.s3.eu-west-1.amazonaws.com/wonka-us-d11/sites/wonka.com.us/s3fs-public/styles/extra_large/public/2026-09/us-magic-garden-x2.webp?itok=k6Vab7XB",
+        "alt": "Purple and green 100g pouch of Wonka Magic Garden lemon and lime flavoured candy sticks.",
+        "w": 768,
+        "h": 768
+      },
+      {
+        "src": "https://ferrero-kube-stack-prod-static.s3.eu-west-1.amazonaws.com/wonka-us-d11/sites/wonka.com.us/s3fs-public/styles/extra_large/public/2026-09/us-magic-garden-x2.webp?itok=k6Vab7XB",
+        "alt": "Purple and green 100g pouch of Wonka Magic Garden lemon and lime flavoured candy sticks.",
+        "w": 768,
+        "h": 768
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/icons/sparkle.svg",
+        "alt": "",
+        "w": 16,
+        "h": 16
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/icons/sparkle.svg",
+        "alt": "",
+        "w": 16,
+        "h": 16
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/icons/sparkle.svg",
+        "alt": "",
+        "w": 16,
+        "h": 16
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/icons/sparkle.svg",
+        "alt": "",
+        "w": 16,
+        "h": 16
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/icons/sparkle.svg",
+        "alt": "",
+        "w": 16,
+        "h": 16
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/icons/sparkle.svg",
+        "alt": "",
+        "w": 16,
+        "h": 16
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/icons/sparkle.svg",
+        "alt": "",
+        "w": 16,
+        "h": 16
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/icons/sparkle.svg",
+        "alt": "",
+        "w": 16,
+        "h": 16
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/icons/sparkle.svg",
+        "alt": "",
+        "w": 16,
+        "h": 16
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/images/product-card/stars.webp",
+        "alt": "",
+        "w": 742,
+        "h": 600
+      },
+      {
+        "src": "https://ferrero-kube-stack-prod-static.s3.eu-west-1.amazonaws.com/wonka-us-d11/sites/wonka.com.us/s3fs-public/styles/extra_large/public/2026-09/oompa-blueberry-x2-us.webp?itok=E52jMPQi",
+        "alt": "Purple pouch of Wonka Oompa Loompa blueberry and strawberry flavoured gummy candies with a juicy berry-cola center.",
+        "w": 768,
+        "h": 768
+      },
+      {
+        "src": "https://ferrero-kube-stack-prod-static.s3.eu-west-1.amazonaws.com/wonka-us-d11/sites/wonka.com.us/s3fs-public/styles/extra_large/public/2026-09/oompa-blueberry-x2-us.webp?itok=E52jMPQi",
+        "alt": "Purple pouch of Wonka Oompa Loompa blueberry and strawberry flavoured gummy candies with a juicy berry-cola center.",
+        "w": 768,
+        "h": 768
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/icons/sparkle.svg",
+        "alt": "",
+        "w": 16,
+        "h": 16
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/icons/sparkle.svg",
+        "alt": "",
+        "w": 16,
+        "h": 16
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/icons/sparkle.svg",
+        "alt": "",
+        "w": 16,
+        "h": 16
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/icons/sparkle.svg",
+        "alt": "",
+        "w": 16,
+        "h": 16
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/icons/sparkle.svg",
+        "alt": "",
+        "w": 16,
+        "h": 16
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/icons/sparkle.svg",
+        "alt": "",
+        "w": 16,
+        "h": 16
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/icons/sparkle.svg",
+        "alt": "",
+        "w": 16,
+        "h": 16
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/icons/sparkle.svg",
+        "alt": "",
+        "w": 16,
+        "h": 16
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/icons/sparkle.svg",
+        "alt": "",
+        "w": 16,
+        "h": 16
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/images/coming-soon/coming-soon-clouds.webp",
+        "alt": "",
+        "w": 1350,
+        "h": 568
+      },
+      {
+        "src": "https://ferrero-kube-stack-prod-static.s3.eu-west-1.amazonaws.com/wonka-us-d11/sites/wonka.com.us/s3fs-public/styles/extra_large/public/2026-08/wonka-ship-background.webp?itok=a1wHryPc",
+        "alt": "Wonka's chocolate factory filled with copper machinery, colorful steam, and a flying purple airship above a production line.",
+        "w": 1920,
+        "h": 1004
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/decorative/decorative-star.svg",
+        "alt": "",
+        "w": 24,
+        "h": 24
+      },
+      {
+        "src": "https://ferrero-kube-stack-prod-static.s3.eu-west-1.amazonaws.com/wonka-us-d11/sites/wonka.com.us/s3fs-public/2026-08/wonka-logo.svg",
+        "alt": "Golden Wonka brand logo",
+        "w": 146,
+        "h": 83
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/icons/social-instagram.svg",
+        "alt": "Instagram",
+        "w": 20,
+        "h": 20
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/icons/social-tiktok.svg",
+        "alt": "Tik Tok",
+        "w": 20,
+        "h": 20
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/images/wonka-hat-portal/clouds/cloud-left-top.webp",
+        "alt": "",
+        "w": 482,
+        "h": 302
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/images/wonka-hat-portal/clouds/cloud-left-bottom.webp",
+        "alt": "",
+        "w": 461,
+        "h": 349
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/images/wonka-hat-portal/clouds/cloud-right.webp",
+        "alt": "",
+        "w": 493,
+        "h": 302
+      },
+      {
+        "src": "https://ferrero-kube-stack-prod-static.s3.eu-west-1.amazonaws.com/wonka-us-d11/sites/wonka.com.us/s3fs-public/styles/wonka_ticket_desktop/public/2026-09/golden-ticket-desktop.webp?itok=ZUwMvQP3",
+        "alt": "Golden Ticket",
+        "w": 1600,
+        "h": 897
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/images/wonka-hat-portal/hat/desktop/animHat-1.webp",
+        "alt": "",
+        "w": 1920,
+        "h": 1920
+      },
+      {
+        "src": "https://www.wonka.com/themes/custom/sling/assets/icons/arrow-external.svg",
+        "alt": "",
+        "w": 14,
+        "h": 14
+      }
+    ],
+    "allImgCount": 92,
+    "cssBackgrounds": [],
+    "modals": [
+      "Home About Wonka Golden Ticket Sweepstakes Follow us Privacy Policy Terms of Use Cookie Policy Do Not Sell or Share My Personal Information Contact Us © 2026 Ferrero Group. All Rights Reserved."
+    ],
+    "videos": [],
+    "iframes": []
+  },
+  "customProps": {},
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 0,
+    "mainTextLen": 8024,
+    "realImageCount": 90,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false,
+    "screenshotMode": "fullPage",
+    "pageSize": {
+      "w": 1440,
+      "h": 4206
+    },
+    "duplicateOf": "us-en"
+  },
+  "dynamic": {
+    "endpoints": [
+      {
+        "method": "GET",
+        "host": "cdn.cookielaw.org",
+        "path": "/consent/{uuid}/{uuid}.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://cdn.cookielaw.org/consent/019ddcb5-1afd-74e9-920e-7e5a2287f1be/019ddcb5-1afd-74e9-920e-7e5a2287f1be.json",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "cdn.cookielaw.org",
+        "path": "/consent/{uuid}/{uuid}/en.json",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://cdn.cookielaw.org/consent/019ddcb5-1afd-74e9-920e-7e5a2287f1be/019dbb0b-c528-71df-9add-c261d11398e9/en.json",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "cdn.cookielaw.org",
+        "path": "/scripttemplates/202610.1.0/assets/otFlat.json",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 4023,
+        "hits": 1,
+        "example": "https://cdn.cookielaw.org/scripttemplates/202610.1.0/assets/otFlat.json",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "cdn.cookielaw.org",
+        "path": "/scripttemplates/202610.1.0/assets/v2/otPcTab.json",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 15104,
+        "hits": 1,
+        "example": "https://cdn.cookielaw.org/scripttemplates/202610.1.0/assets/v2/otPcTab.json",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "cdn.cookielaw.org",
+        "path": "/scripttemplates/202610.1.0/assets/otCommonStyles.css",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "text/css",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://cdn.cookielaw.org/scripttemplates/202610.1.0/assets/otCommonStyles.css",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "cdn.cookielaw.org",
+        "path": "/logos/static/ot_guard_logo.svg",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "image/svg+xml",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://cdn.cookielaw.org/logos/static/ot_guard_logo.svg",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "www.google-analytics.com",
+        "path": "/g/collect",
+        "query": [
+          "_fv",
+          "_p",
+          "_s",
+          "_ss",
+          "_tu",
+          "cid",
+          "dl",
+          "dma",
+          "dma_cps",
+          "dt",
+          "en",
+          "ep.anonymize_ip",
+          "frm",
+          "gcd",
+          "gcs",
+          "gdid",
+          "gtm",
+          "ngs",
+          "npa",
+          "pscdl",
+          "rcb",
+          "sct",
+          "seg",
+          "sid",
+          "sr",
+          "tag_exp",
+          "tfd",
+          "tid",
+          "uaa",
+          "uab",
+          "uafvl",
+          "uam",
+          "uamb",
+          "uap",
+          "uapv",
+          "uaw",
+          "ul",
+          "v"
+        ],
+        "resourceType": "fetch",
+        "contentType": "text/plain",
+        "status": 204,
+        "bytes": null,
+        "hits": 3,
+        "example": "https://www.google-analytics.com/g/collect",
+        "sameSite": false
+      }
+    ],
+    "thirdPartyScriptHosts": [
+      {
+        "host": "www.googletagmanager.com",
+        "count": 4
+      },
+      {
+        "host": "cdn.cookielaw.org",
+        "count": 2
+      }
+    ],
+    "truncated": false,
+    "inlineData": [
+      {
+        "id": null,
+        "type": "application/json",
+        "bytes": 694,
+        "topLevelKeys": [
+          "path",
+          "pluralDelimiter",
+          "suppressDeprecationErrors",
+          "ajaxPageState",
+          "ajaxTrustedUrl",
+          "user"
+        ]
+      }
+    ],
+    "globalState": [
+      "drupalSettings",
+      "dataLayer"
+    ],
+    "frameworkHints": [],
+    "forms": [],
+    "ariaLiveRegions": 2,
+    "triggers": [],
+    "mediaIds": [],
+    "summary": {
+      "sameSiteEndpoints": 0,
+      "thirdPartyEndpoints": 7,
+      "thirdPartyScriptHosts": 2,
+      "inlineDataBlobs": 1,
+      "forms": 0,
+      "searchForms": 0,
+      "hydrated": true
+    }
+  },
+  "screenshot": "assets/screenshots/index.png",
+  "renderedHtml": "pages/index.html",
+  "slots": {
+    "type": "landing",
+    "aliasOf": "us-en",
+    "note": "301 redirect of https://www.wonka.com/ to /us/en/; slots identical to us-en"
+  },
+  "type": "landing"
+}

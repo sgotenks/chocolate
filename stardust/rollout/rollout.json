@@ -1,0 +1,41 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:rollout/inventory",
+    "writtenAt": "2026-11-25T11:27:16.740Z",
+    "stardustVersion": "0.0.0"
+  },
+  "target": "aem-eds",
+  "site": {
+    "sourceUrl": "https://www.wonka.com/",
+    "da": {
+      "org": "aemcoder",
+      "site": "a6216fe5",
+      "ref": "main"
+    },
+    "liveHost": "main--a6216fe5--aemcoder.aem.live"
+  },
+  "scope": {
+    "pages": 7,
+    "discovered": 7,
+    "capped": false,
+    "pageCap": 7
+  },
+  "lastRun": {
+    "at": "2026-11-25T14:46:37.714Z",
+    "pages": {
+      "total": 6,
+      "verified": 6,
+      "deployed": 0,
+      "pending": 0,
+      "contentPending": 0,
+      "stale": 0,
+      "failed": 0
+    },
+    "blocks": {
+      "total": 17,
+      "converted": 17,
+      "pending": 0
+    },
+    "verifyFailures": 0
+  }
+}

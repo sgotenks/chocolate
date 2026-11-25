@@ -1,0 +1,190 @@
+/* promo-prizes — golden-ticket prize slider (gpp_promo_theme promo-prize-slider) */
+.promo-prizes {
+  text-align: center;
+}
+
+.promo-prizes .promo-prizes-head {
+  display: flex;
+  flex-direction: column;
+  row-gap: 2.5rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* star-bracketed titles (✦ above and below) */
+.promo-prizes .promo-prizes-title :is(p, h2, h3),
+.promo-prizes .promo-prize-title :is(h2, h3, h4) {
+  font-family: var(--gt-font);
+  font-weight: 700;
+  line-height: 1;
+  color: var(--gt-yellow);
+}
+
+.promo-prizes .promo-prizes-title :is(p, h2, h3) {
+  font-size: var(--gt-h1);
+}
+
+.promo-prizes .promo-prize-title :is(h2, h3, h4) {
+  /* the source's h3 box contains the star's top margin (no collapse through it) */
+  display: flow-root;
+  font-size: var(--gt-h3);
+  text-transform: uppercase;
+}
+
+.promo-prizes .promo-prizes-title :is(p, h2, h3)::before,
+.promo-prizes .promo-prizes-title :is(p, h2, h3)::after,
+.promo-prizes .promo-prize-title :is(h2, h3, h4)::before,
+.promo-prizes .promo-prize-title :is(h2, h3, h4)::after {
+  content: "";
+  display: block;
+  width: 8px;
+  height: 8px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: currentcolor;
+  mask: var(--gt-star) center / contain no-repeat;
+}
+
+.promo-prizes .promo-prizes-title :is(p, h2, h3)::before,
+.promo-prizes .promo-prize-title :is(h2, h3, h4)::before {
+  margin-top: 8px;
+  margin-bottom: 16px;
+}
+
+.promo-prizes .promo-prizes-title :is(p, h2, h3)::after,
+.promo-prizes .promo-prize-title :is(h2, h3, h4)::after {
+  margin-top: 16px;
+}
+
+.promo-prizes .promo-prizes-viewport {
+  position: relative;
+  margin-top: 1.88rem;
+  overflow: hidden;
+}
+
+.promo-prizes .promo-prizes-track {
+  display: flex;
+  transition: transform 0.3s ease;
+}
+
+.promo-prizes .promo-prize {
+  display: flex;
+  flex: 0 0 100%;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.promo-prizes .promo-prize-text {
+  display: flex;
+  flex-direction: column;
+  order: 2;
+  gap: 1rem;
+  width: 100%;
+  color: #fff;
+}
+
+.promo-prizes .promo-prize-body {
+  display: flex;
+  flex-direction: column;
+  gap: 2.5rem;
+  font-size: var(--gt-text);
+}
+
+.promo-prizes .promo-prize-links {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2rem;
+  margin-top: 0.5rem;
+}
+
+.promo-prizes .promo-prize-links p {
+  display: flex;
+  justify-content: center;
+}
+
+.promo-prizes .promo-prize-media {
+  order: 1;
+  width: 100%;
+}
+
+.promo-prizes .promo-prize-media :is(picture, img) {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: auto;
+}
+
+.promo-prizes .promo-prizes-nav {
+  position: relative;
+  height: 10px;
+}
+
+.promo-prizes .promo-prizes-dots {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  column-gap: 5px;
+  transform: translateX(-50%) translateY(-50%);
+}
+
+.promo-prizes .promo-prizes-dot {
+  display: block;
+  width: 10px;
+  height: 10px;
+  padding: 0;
+  border: 0;
+  border-radius: 8px;
+  background-color: #fff;
+  opacity: 0.5;
+  cursor: pointer;
+  transition: all 0.6s ease-in-out;
+}
+
+.promo-prizes .promo-prizes-dot.is-active {
+  width: 25px;
+  background-color: var(--gt-theme);
+  opacity: 1;
+}
+
+/* controls the source carries but does not show at these widths */
+.promo-prizes .promo-prizes-arrows,
+.promo-prizes .promo-prizes-fraction {
+  display: none;
+}
+
+.promo-prizes .promo-prizes-arrow-prev svg {
+  transform: rotate(180deg);
+}
+
+@media (width >= 1024px) {
+  .promo-prizes .promo-prizes-head {
+    max-width: 66.6667%;
+  }
+
+  .promo-prizes .promo-prizes-viewport {
+    margin-top: 5rem;
+  }
+
+  .promo-prizes .promo-prize {
+    flex-direction: row-reverse;
+    gap: 2rem;
+  }
+
+  .promo-prizes .promo-prize-text,
+  .promo-prizes .promo-prize-media {
+    width: 50%;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .promo-prizes .promo-prizes-track,
+  .promo-prizes .promo-prizes-dot {
+    transition: none;
+  }
+}

@@ -1,0 +1,82 @@
+origin: cached us-en-about-wonka-1440-units (2026-11-25T11:09:48.674Z)
+unit-geometry @ 1440px, tol 4px — https://www.wonka.com/us/en/about-wonka vs http://localhost:8791/us-en-about-wonka-proposed.html
+unit 1 of story-cards (required) section.story-cards ul > li=.scards__list > li: origin 64,1220 421×244 vs served 64,1220 421×244 → Δx 0 Δy 0 Δw 0 Δh 0; 7 elements: 7 within 4px, 0 off, 0 hidden, 0 missing, 0 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| image "image:img.pointer-events-none.absolu" | 105,-4 195×175 | 105,-4 195×175 | 0 | 0 | 0 | 0 | ✓ |
+| box "box:div.pointer-events-none.absolute" | 161,0 100×100 | 161,0 100×100 | 0 | 0 | 0 | 0 | ✓ |
+| image "image:img.absolute.inset-0#1" | 161,0 100×100 | 161,0 100×100 | 0 | 0 | 0 | 0 | ✓ |
+| image "neon purple icon featuring willy won" | 175,14 72×72 | 175,14 72×72 | 0 | 0 | 0 | 0 | ✓ |
+| box "box:div.blurred-button-noise.relativ" | 0,50 421×194 | 0,50 421×194 | 0 | 0 | 0 | 0 | ✓ |
+| image "image:img.h-auto.w-full#1" | 195,99 306×259 | 195,99 306×259 | 0 | 0 | 0 | 0 | ✓ |
+| text "wonka turns the ordinary into the ex" | 17,115 387×72 | 17,115 387×72 | 0 | 0 | 0 | 0 | ✓ |
+unit 2 of story-cards (required) section.story-cards ul > li=.scards__list > li: origin 509,1220 421×244 vs served 509,1220 421×244 → Δx 0 Δy 0 Δw 0 Δh 0; 6 elements: 6 within 4px, 0 off, 0 hidden, 0 missing, 0 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| image "image:img.pointer-events-none.absolu" | 105,-4 195×175 | 105,-4 195×175 | 0 | 0 | 0 | 0 | ✓ |
+| box "box:div.pointer-events-none.absolute" | 161,0 100×100 | 161,0 100×100 | 0 | 0 | 0 | 0 | ✓ |
+| image "image:img.absolute.inset-0#1" | 161,0 100×100 | 161,0 100×100 | 0 | 0 | 0 | 0 | ✓ |
+| image "neon purple icon showing a chocolate" | 175,14 72×72 | 175,14 72×72 | 0 | 0 | 0 | 0 | ✓ |
+| box "box:div.blurred-button-noise.relativ" | 0,50 421×194 | 0,50 421×194 | 0 | 0 | 0 | 0 | ✓ |
+| text "every wonka product is made to spark" | 17,115 387×96 | 17,115 387×96 | 0 | 0 | 0 | 0 | ✓ |
+unit 3 of story-cards (required) section.story-cards ul > li=.scards__list > li: origin 955,1220 421×244 vs served 955,1220 421×244 → Δx 0 Δy 0 Δw 0 Δh 0; 7 elements: 7 within 4px, 0 off, 0 hidden, 0 missing, 0 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| image "image:img.h-auto.w-full#1" | -96,-97 337×303 | -96,-97 337×303 | 0 | 0 | 0 | 0 | ✓ |
+| image "image:img.pointer-events-none.absolu" | 105,-4 195×175 | 105,-4 195×175 | 0 | 0 | 0 | 0 | ✓ |
+| box "box:div.pointer-events-none.absolute" | 161,0 100×100 | 161,0 100×100 | 0 | 0 | 0 | 0 | ✓ |
+| image "image:img.absolute.inset-0#1" | 161,0 100×100 | 161,0 100×100 | 0 | 0 | 0 | 0 | ✓ |
+| image "neon purple icon of a cocoa pod with" | 175,14 72×72 | 175,14 72×72 | 0 | 0 | 0 | 0 | ✓ |
+| box "box:div.blurred-button-noise.relativ" | 0,50 421×194 | 0,50 421×194 | 0 | 0 | 0 | 0 | ✓ |
+| text "across fruity gummies, assorted choc" | 17,115 387×96 | 17,115 387×96 | 0 | 0 | 0 | 0 | ✓ |
+unit 1 of faq-accordion (required) section.accordion li.accordion__item=.faq__list > .faq__item: origin 350,3046 740×58 vs served 350,3046 740×58 → Δx 0 Δy 0 Δw 0 Δh 0; 4 elements: 4 within 4px, 0 off, 0 hidden, 0 missing, 0 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| button "1. when will wonka be on shelves?" | 0,0 740×58 | 0,0 740×58 | 0 | 0 | 0 | 0 | ✓ |
+| text "1. when will wonka be on shelves?" | 20,20 672×18 | 20,20 672×18 | 0 | 0 | 0 | 0 | ✓ |
+| image "image:img.accordion__icon-bar.accord" | 713,23 2×12 | 713,23 2×12 | 0 | 0 | 0 | 0 | ✓ |
+| image "image:img.accordion__icon-bar#1" | 708,28 12×2 | 708,28 12×2 | 0 | 0 | 0 | 0 | ✓ |
+unit 2 of faq-accordion (required) section.accordion li.accordion__item=.faq__list > .faq__item: origin 350,3120 740×58 vs served 350,3120 740×58 → Δx 0 Δy 0 Δw 0 Δh 0; 4 elements: 4 within 4px, 0 off, 0 hidden, 0 missing, 0 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| button "2. what kind of treats can i expect?" | 0,0 740×58 | 0,0 740×58 | 0 | 0 | 0 | 0 | ✓ |
+| text "2. what kind of treats can i expect?" | 20,20 672×18 | 20,20 672×18 | 0 | 0 | 0 | 0 | ✓ |
+| image "image:img.accordion__icon-bar.accord" | 713,23 2×12 | 713,23 2×12 | 0 | 0 | 0 | 0 | ✓ |
+| image "image:img.accordion__icon-bar#1" | 708,28 12×2 | 708,28 12×2 | 0 | 0 | 0 | 0 | ✓ |
+unit 3 of faq-accordion (required) section.accordion li.accordion__item=.faq__list > .faq__item: origin 350,3194 740×58 vs served 350,3194 740×58 → Δx 0 Δy 0 Δw 0 Δh 0; 4 elements: 4 within 4px, 0 off, 0 hidden, 0 missing, 0 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| button "3. where can i find wonka products?" | 0,0 740×58 | 0,0 740×58 | 0 | 0 | 0 | 0 | ✓ |
+| text "3. where can i find wonka products?" | 20,20 672×18 | 20,20 672×18 | 0 | 0 | 0 | 0 | ✓ |
+| image "image:img.accordion__icon-bar.accord" | 713,23 2×12 | 713,23 2×12 | 0 | 0 | 0 | 0 | ✓ |
+| image "image:img.accordion__icon-bar#1" | 708,28 12×2 | 708,28 12×2 | 0 | 0 | 0 | 0 | ✓ |
+unit 4 of faq-accordion (required) section.accordion li.accordion__item=.faq__list > .faq__item: origin 350,3268 740×58 vs served 350,3268 740×58 → Δx 0 Δy 0 Δw 0 Δh 0; 4 elements: 4 within 4px, 0 off, 0 hidden, 0 missing, 0 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| button "4. is wonka a ferrero brand?" | 0,0 740×58 | 0,0 740×58 | 0 | 0 | 0 | 0 | ✓ |
+| text "4. is wonka a ferrero brand?" | 20,20 672×18 | 20,20 672×18 | 0 | 0 | 0 | 0 | ✓ |
+| image "image:img.accordion__icon-bar.accord" | 713,23 2×12 | 713,23 2×12 | 0 | 0 | 0 | 0 | ✓ |
+| image "image:img.accordion__icon-bar#1" | 708,28 12×2 | 708,28 12×2 | 0 | 0 | 0 | 0 | ✓ |
+unit 5 of faq-accordion (required) section.accordion li.accordion__item=.faq__list > .faq__item: origin 350,3342 740×58 vs served 350,3342 740×58 → Δx 0 Δy 0 Δw 0 Δh 0; 4 elements: 4 within 4px, 0 off, 0 hidden, 0 missing, 0 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| button "5. is this connected to the new netf" | 0,0 740×58 | 0,0 740×58 | 0 | 0 | 0 | 0 | ✓ |
+| text "5. is this connected to the new netf" | 20,20 672×18 | 20,20 672×18 | 0 | 0 | 0 | 0 | ✓ |
+| image "image:img.accordion__icon-bar.accord" | 713,23 2×12 | 713,23 2×12 | 0 | 0 | 0 | 0 | ✓ |
+| image "image:img.accordion__icon-bar#1" | 708,28 12×2 | 708,28 12×2 | 0 | 0 | 0 | 0 | ✓ |
+unit 6 of faq-accordion (required) section.accordion li.accordion__item=.faq__list > .faq__item: origin 350,3416 740×58 vs served 350,3416 740×58 → Δx 0 Δy 0 Δw 0 Δh 0; 4 elements: 4 within 4px, 0 off, 0 hidden, 0 missing, 0 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| button "6. who are these products for?" | 0,0 740×58 | 0,0 740×58 | 0 | 0 | 0 | 0 | ✓ |
+| text "6. who are these products for?" | 20,20 672×18 | 20,20 672×18 | 0 | 0 | 0 | 0 | ✓ |
+| image "image:img.accordion__icon-bar.accord" | 713,23 2×12 | 713,23 2×12 | 0 | 0 | 0 | 0 | ✓ |
+| image "image:img.accordion__icon-bar#1" | 708,28 12×2 | 708,28 12×2 | 0 | 0 | 0 | 0 | ✓ |
+unit 7 of faq-accordion (required) section.accordion li.accordion__item=.faq__list > .faq__item: origin 350,3490 740×58 vs served 350,3490 740×58 → Δx 0 Δy 0 Δw 0 Δh 0; 4 elements: 4 within 4px, 0 off, 0 hidden, 0 missing, 0 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| button "7. where are wonka products made?" | 0,0 740×58 | 0,0 740×58 | 0 | 0 | 0 | 0 | ✓ |
+| text "7. where are wonka products made?" | 20,20 672×18 | 20,20 672×18 | 0 | 0 | 0 | 0 | ✓ |
+| image "image:img.accordion__icon-bar.accord" | 713,23 2×12 | 713,23 2×12 | 0 | 0 | 0 | 0 | ✓ |
+| image "image:img.accordion__icon-bar#1" | 708,28 12×2 | 708,28 12×2 | 0 | 0 | 0 | 0 | ✓ |
+Units: 10 compared; elements within 48, off 0, hidden 0, missing 0 → PASS
+json → stardust/replica/gates/us-en-about-wonka-1440/units-iter2.json

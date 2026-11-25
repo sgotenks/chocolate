@@ -1,0 +1,4932 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-25T14:43:20.118Z",
+  "width": 1440,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://www.wonka.com/us/en/terms-of-use",
+  "at": "2026-11-25T14:43:20.034Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 7083,
+  "root": "main.w-full",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.pointer-events-none.fixed > header.pointer-events-none.absolute > a.pointer-events-auto.absolute",
+    "x": 75,
+    "y": 11,
+    "w": 70,
+    "h": 40,
+    "text": "golden wonka brand logo",
+    "href": "/us/en/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "header.pointer-events-none.absolute > a.pointer-events-auto.absolute > img.h-10.w-auto",
+    "x": 75,
+    "y": 11,
+    "w": 70,
+    "h": 40,
+    "text": "golden wonka brand logo",
+    "file": "wonka-logo"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "header.pointer-events-none.absolute > nav.pointer-events-auto.absolute > a.text-body-md.font-bold",
+    "x": 210,
+    "y": 36,
+    "w": 46,
+    "h": 16,
+    "text": "home",
+    "href": "/us/en/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "header.pointer-events-none.absolute > nav.pointer-events-auto.absolute > a.text-body-md.font-bold",
+    "x": 280,
+    "y": 36,
+    "w": 106,
+    "h": 16,
+    "text": "about wonka",
+    "href": "/us/en/about-wonka"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "header.pointer-events-none.absolute > nav.pointer-events-auto.absolute > a.text-body-md.font-bold",
+    "x": 410,
+    "y": 36,
+    "w": 217,
+    "h": 16,
+    "text": "golden ticket sweepstakes",
+    "href": "/us/en/xp/golden-ticket/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ml-0.flex > header.flex.flex-col > h1.font-heading.text-[42px]",
+    "x": 150,
+    "y": 144,
+    "w": 800,
+    "h": 42,
+    "level": 1,
+    "text": "terms of use"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section-container.pt-[104px] > div.ml-0.flex > p.font-default.text-[16px]",
+    "x": 150,
+    "y": 202,
+    "w": 800,
+    "h": 21,
+    "text": "Last Updated: December 2025"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ml-0.flex > div.legal-page__body.w-full > p",
+    "x": 150,
+    "y": 239,
+    "w": 800,
+    "h": 63,
+    "text": "Ferrero U.S.A., Inc. (“Company,” “we,” or “us”) is the owner of the content on a"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ml-0.flex > div.legal-page__body.w-full > p",
+    "x": 150,
+    "y": 318,
+    "w": 800,
+    "h": 252,
+    "text": "Your access to and use of the Sites are subject to these Terms. By accessing or "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ml-0.flex > div.legal-page__body.w-full > p",
+    "x": 150,
+    "y": 586,
+    "w": 800,
+    "h": 210,
+    "text": "The content and all other materials on the Sites, including, without limitation,"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ml-0.flex > div.legal-page__body.w-full > p",
+    "x": 150,
+    "y": 812,
+    "w": 800,
+    "h": 189,
+    "text": "All trademarks, trade names and logos and all related product names, design mark"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ml-0.flex > div.legal-page__body.w-full > p",
+    "x": 150,
+    "y": 1017,
+    "w": 800,
+    "h": 126,
+    "text": "A Site may provide you with an opportunity to interact with others and share you"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ml-0.flex > div.legal-page__body.w-full > p",
+    "x": 150,
+    "y": 1159,
+    "w": 800,
+    "h": 126,
+    "text": "You are solely responsible for the content, information, and other materials tha"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ml-0.flex > div.legal-page__body.w-full > p",
+    "x": 150,
+    "y": 1301,
+    "w": 800,
+    "h": 105,
+    "text": "Categories of prohibited User Generated Content listed below are merely examples"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-page__body.w-full > ul > li",
+    "x": 174,
+    "y": 1422,
+    "w": 776,
+    "h": 42,
+    "text": "is defamatory, abusive, obscene, profane, scandalous, inflammatory, pornographic"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-page__body.w-full > ul > li",
+    "x": 174,
+    "y": 1468,
+    "w": 776,
+    "h": 63,
+    "text": "infringes or violates another party's intellectual property rights (such as musi"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-page__body.w-full > ul > li",
+    "x": 174,
+    "y": 1535,
+    "w": 776,
+    "h": 21,
+    "text": "violates any party's right of publicity or right of privacy;"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-page__body.w-full > ul > li",
+    "x": 174,
+    "y": 1560,
+    "w": 776,
+    "h": 42,
+    "text": "is threatening, harassing or that promotes bullying, racism, bigotry, hatred or "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-page__body.w-full > ul > li",
+    "x": 174,
+    "y": 1606,
+    "w": 776,
+    "h": 21,
+    "text": "is inaccurate, false or misleading in any way;"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-page__body.w-full > ul > li",
+    "x": 174,
+    "y": 1631,
+    "w": 776,
+    "h": 21,
+    "text": "is illegal or promotes any illegal activities;"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-page__body.w-full > ul > li",
+    "x": 174,
+    "y": 1656,
+    "w": 776,
+    "h": 42,
+    "text": "promotes illegal or unauthorized copying of another person's copyrighted work or"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-page__body.w-full > ul > li",
+    "x": 174,
+    "y": 1702,
+    "w": 776,
+    "h": 21,
+    "text": "contains \"masked\" profanity (i.e. F@&#);"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-page__body.w-full > ul > li",
+    "x": 174,
+    "y": 1727,
+    "w": 776,
+    "h": 63,
+    "text": "contains software viruses or any other computer code, files or programs designed"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-page__body.w-full > ul > li",
+    "x": 174,
+    "y": 1794,
+    "w": 776,
+    "h": 42,
+    "text": "contains any advertising, promotional materials, \"junk mail\", \"spam\", \"chain let"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ml-0.flex > div.legal-page__body.w-full > p",
+    "x": 150,
+    "y": 1852,
+    "w": 800,
+    "h": 357,
+    "text": "These Terms in no way limit your rights under the Consumer Review Fairness Act. "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ml-0.flex > div.legal-page__body.w-full > p",
+    "x": 150,
+    "y": 2225,
+    "w": 800,
+    "h": 105,
+    "text": "You may not use spiders, robots, data mining techniques or other automated devic"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ml-0.flex > div.legal-page__body.w-full > p",
+    "x": 150,
+    "y": 2346,
+    "w": 800,
+    "h": 294,
+    "text": "From time to time, Company may ask that you send, post, submit, or transmit to a"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ml-0.flex > div.legal-page__body.w-full > p",
+    "x": 150,
+    "y": 2656,
+    "w": 800,
+    "h": 168,
+    "text": "Notwithstanding the foregoing, Company maintains a policy of not accepting or co"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ml-0.flex > div.legal-page__body.w-full > p",
+    "x": 150,
+    "y": 2840,
+    "w": 800,
+    "h": 210,
+    "text": "A Site may contain links to other websites that are not owned, operated, or main"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ml-0.flex > div.legal-page__body.w-full > p",
+    "x": 150,
+    "y": 3066,
+    "w": 800,
+    "h": 147,
+    "text": "From time to time, we may run a promotion (e.g., contest, sweepstakes, instant w"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ml-0.flex > div.legal-page__body.w-full > p",
+    "x": 150,
+    "y": 3229,
+    "w": 800,
+    "h": 630,
+    "text": "If you choose to purchase any product, service, or merchandise that is made avai"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ml-0.flex > div.legal-page__body.w-full > p",
+    "x": 150,
+    "y": 3875,
+    "w": 800,
+    "h": 63,
+    "text": "For more details on the personal information we collect, how we collect, use, an"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-page__body.w-full > p > a.gold-link-hover",
+    "x": 372,
+    "y": 3917,
+    "w": 110,
+    "h": 21,
+    "text": "privacy policy",
+    "href": "/us/en/privacy-policy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ml-0.flex > div.legal-page__body.w-full > p",
+    "x": 150,
+    "y": 3954,
+    "w": 800,
+    "h": 315,
+    "text": "Software or other materials on our Sites may be subject to United States Export "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ml-0.flex > div.legal-page__body.w-full > p",
+    "x": 150,
+    "y": 4285,
+    "w": 800,
+    "h": 1554,
+    "text": "YOUR USE OF A SITE IS AT YOUR OWN RISK. The Sites and all software, services, Co"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ml-0.flex > div.legal-page__body.w-full > p",
+    "x": 150,
+    "y": 5855,
+    "w": 800,
+    "h": 378,
+    "text": "It is our policy to respond appropriately to notices of alleged infringement tha"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ml-0.flex > div.legal-page__body.w-full > p",
+    "x": 150,
+    "y": 6249,
+    "w": 800,
+    "h": 126,
+    "text": "The failure by us to partially or fully exercise any rights or the waiver of any"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ml-0.flex > div.legal-page__body.w-full > p",
+    "x": 150,
+    "y": 6391,
+    "w": 800,
+    "h": 84,
+    "text": "These Terms constitute a binding agreement between you and Company, and are acce"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ml-0.flex > div.legal-page__body.w-full > p",
+    "x": 150,
+    "y": 6491,
+    "w": 800,
+    "h": 63,
+    "text": "Should you have any questions or comments regarding the Sites or these Terms, yo"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.ml-0.flex > div.legal-page__body.w-full > p",
+    "x": 150,
+    "y": 6570,
+    "w": 800,
+    "h": 168,
+    "text": "Ferrero U.S.A., Inc. Attn: Legal Department – Terms 7 Sylvan Way 4th Floor Parsi"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.flex.flex-col > div.flex.w-full > a.flex.h-20",
+    "x": 516,
+    "y": 6818,
+    "w": 141,
+    "h": 80,
+    "text": "golden wonka brand logo",
+    "href": "/us/en/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.flex.w-full > a.flex.h-20 > img.h-20.w-auto",
+    "x": 516,
+    "y": 6818,
+    "w": 141,
+    "h": 80,
+    "text": "golden wonka brand logo",
+    "file": "wonka-logo"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.flex.w-full > div.flex.flex-col > p.text-body-md.text-white",
+    "x": 696,
+    "y": 6848,
+    "w": 72,
+    "h": 21,
+    "text": "Follow us"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.flex.flex-col > div.flex.items-center > a.inline-flex.shrink-0",
+    "x": 784,
+    "y": 6834,
+    "w": 62,
+    "h": 48,
+    "text": "instagram",
+    "href": "/wonka_usa"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a.inline-flex.shrink-0 > span.flex.shrink-0 > img.size-5",
+    "x": 805,
+    "y": 6848,
+    "w": 20,
+    "h": 20,
+    "text": "instagram",
+    "file": "social-instagram"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.flex.flex-col > div.flex.items-center > a.inline-flex.shrink-0",
+    "x": 862,
+    "y": 6834,
+    "w": 62,
+    "h": 48,
+    "text": "tik tok",
+    "href": "/@wonka_usa"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a.inline-flex.shrink-0 > span.flex.shrink-0 > img.size-5",
+    "x": 883,
+    "y": 6848,
+    "w": 20,
+    "h": 20,
+    "text": "tik tok",
+    "file": "social-tiktok"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.flex.flex-col > div.flex.w-full > a.pointer-events-auto",
+    "x": 241,
+    "y": 6962,
+    "w": 110,
+    "h": 24,
+    "text": "privacy policy",
+    "href": "/us/en/privacy-policy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.flex.flex-col > div.flex.w-full > a.pointer-events-auto",
+    "x": 399,
+    "y": 6962,
+    "w": 105,
+    "h": 24,
+    "text": "terms of use",
+    "href": "/us/en/terms-of-use"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.flex.flex-col > div.flex.w-full > a.pointer-events-auto",
+    "x": 553,
+    "y": 6962,
+    "w": 107,
+    "h": 24,
+    "text": "cookie policy",
+    "href": "/us/en/cookie-policy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.flex.flex-col > div.flex.w-full > a.pointer-events-auto",
+    "x": 707,
+    "y": 6962,
+    "w": 356,
+    "h": 24,
+    "text": "do not sell or share my personal information",
+    "href": "/us/en/terms-of-use"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.flex.flex-col > div.flex.w-full > a.pointer-events-auto",
+    "x": 1111,
+    "y": 6962,
+    "w": 87,
+    "h": 24,
+    "text": "contact us",
+    "href": "/us/en/contact-us"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div > footer.relative.z-20 > div.w-full.bg-purple-500",
+    "x": 0,
+    "y": 7026,
+    "w": 1440,
+    "h": 56,
+    "text": "© 2026 Ferrero Group. All Rights Reserved."
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 85,
+    "controls": 13,
+    "total": 0
+   },
+   "groups": []
+  }
+ },
+ "eds": {
+  "url": "https://main--a6216fe5--aemcoder.aem.live/us/en/terms-of-use",
+  "at": "2026-11-25T14:43:19.926Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 7082,
+  "root": "main#main-content",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-nav > div.site-header > a.site-header-logo",
+    "x": 75,
+    "y": 11,
+    "w": 70,
+    "h": 40,
+    "text": "golden wonka brand logo",
+    "href": "/us/en/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header > a.site-header-logo > img",
+    "x": 75,
+    "y": 11,
+    "w": 70,
+    "h": 40,
+    "text": "golden wonka brand logo",
+    "file": "media_1470daf2e59196e25459cd013be128518e"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header > nav.site-header-nav > a",
+    "x": 210,
+    "y": 36,
+    "w": 46,
+    "h": 16,
+    "text": "home",
+    "href": "/us/en/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header > nav.site-header-nav > a",
+    "x": 280,
+    "y": 36,
+    "w": 106,
+    "h": 16,
+    "text": "about wonka",
+    "href": "/us/en/about-wonka"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-header > nav.site-header-nav > a",
+    "x": 410,
+    "y": 36,
+    "w": 217,
+    "h": 16,
+    "text": "golden ticket sweepstakes",
+    "href": "/us/en/xp/golden-ticket/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.legal-accordion-container > div.default-content-wrapper > h1#terms-of-use",
+    "x": 150,
+    "y": 144,
+    "w": 800,
+    "h": 42,
+    "level": 1,
+    "text": "terms of use"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.legal-accordion-container > div.default-content-wrapper > p",
+    "x": 150,
+    "y": 202,
+    "w": 800,
+    "h": 21,
+    "text": "Last Updated: December 2025"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-accordion.plain > div.legal-body.legal-body-plain > p",
+    "x": 150,
+    "y": 239,
+    "w": 800,
+    "h": 63,
+    "text": "Ferrero U.S.A., Inc. (“Company,” “we,” or “us”) is the owner of the content on a"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-accordion.plain > div.legal-body.legal-body-plain > p",
+    "x": 150,
+    "y": 318,
+    "w": 800,
+    "h": 252,
+    "text": "Your access to and use of the Sites are subject to these Terms. By accessing or "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-accordion.plain > div.legal-body.legal-body-plain > p",
+    "x": 150,
+    "y": 586,
+    "w": 800,
+    "h": 210,
+    "text": "The content and all other materials on the Sites, including, without limitation,"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-accordion.plain > div.legal-body.legal-body-plain > p",
+    "x": 150,
+    "y": 812,
+    "w": 800,
+    "h": 189,
+    "text": "​ All trademarks, trade names and logos and all related product names, design ma"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-accordion.plain > div.legal-body.legal-body-plain > p",
+    "x": 150,
+    "y": 1017,
+    "w": 800,
+    "h": 126,
+    "text": "A Site may provide you with an opportunity to interact with others and share you"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-accordion.plain > div.legal-body.legal-body-plain > p",
+    "x": 150,
+    "y": 1159,
+    "w": 800,
+    "h": 126,
+    "text": "​ You are solely responsible for the content, information, and other materials t"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-accordion.plain > div.legal-body.legal-body-plain > p",
+    "x": 150,
+    "y": 1301,
+    "w": 800,
+    "h": 105,
+    "text": "​ Categories of prohibited User Generated Content listed below are merely exampl"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-body.legal-body-plain > ul > li",
+    "x": 174,
+    "y": 1422,
+    "w": 776,
+    "h": 42,
+    "text": "is defamatory, abusive, obscene, profane, scandalous, inflammatory, pornographic"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-body.legal-body-plain > ul > li",
+    "x": 174,
+    "y": 1468,
+    "w": 776,
+    "h": 63,
+    "text": "infringes or violates another party's intellectual property rights (such as musi"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-body.legal-body-plain > ul > li",
+    "x": 174,
+    "y": 1535,
+    "w": 776,
+    "h": 21,
+    "text": "violates any party's right of publicity or right of privacy;"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-body.legal-body-plain > ul > li",
+    "x": 174,
+    "y": 1560,
+    "w": 776,
+    "h": 42,
+    "text": "is threatening, harassing or that promotes bullying, racism, bigotry, hatred or "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-body.legal-body-plain > ul > li",
+    "x": 174,
+    "y": 1606,
+    "w": 776,
+    "h": 21,
+    "text": "is inaccurate, false or misleading in any way;"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-body.legal-body-plain > ul > li",
+    "x": 174,
+    "y": 1631,
+    "w": 776,
+    "h": 21,
+    "text": "is illegal or promotes any illegal activities;"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-body.legal-body-plain > ul > li",
+    "x": 174,
+    "y": 1656,
+    "w": 776,
+    "h": 42,
+    "text": "promotes illegal or unauthorized copying of another person's copyrighted work or"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-body.legal-body-plain > ul > li",
+    "x": 174,
+    "y": 1702,
+    "w": 776,
+    "h": 21,
+    "text": "contains \"masked\" profanity (i.e. F@&#);"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-body.legal-body-plain > ul > li",
+    "x": 174,
+    "y": 1727,
+    "w": 776,
+    "h": 63,
+    "text": "contains software viruses or any other computer code, files or programs designed"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-body.legal-body-plain > ul > li",
+    "x": 174,
+    "y": 1794,
+    "w": 776,
+    "h": 42,
+    "text": "contains any advertising, promotional materials, \"junk mail\", \"spam\", \"chain let"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-accordion.plain > div.legal-body.legal-body-plain > p",
+    "x": 150,
+    "y": 1852,
+    "w": 800,
+    "h": 357,
+    "text": "​ These Terms in no way limit your rights under the Consumer Review Fairness Act"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-accordion.plain > div.legal-body.legal-body-plain > p",
+    "x": 150,
+    "y": 2225,
+    "w": 800,
+    "h": 105,
+    "text": "You may not use spiders, robots, data mining techniques or other automated devic"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-accordion.plain > div.legal-body.legal-body-plain > p",
+    "x": 150,
+    "y": 2346,
+    "w": 800,
+    "h": 294,
+    "text": "​ From time to time, Company may ask that you send, post, submit, or transmit to"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-accordion.plain > div.legal-body.legal-body-plain > p",
+    "x": 150,
+    "y": 2656,
+    "w": 800,
+    "h": 168,
+    "text": "​ Notwithstanding the foregoing, Company maintains a policy of not accepting or "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-accordion.plain > div.legal-body.legal-body-plain > p",
+    "x": 150,
+    "y": 2840,
+    "w": 800,
+    "h": 210,
+    "text": "​ A Site may contain links to other websites that are not owned, operated, or ma"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-accordion.plain > div.legal-body.legal-body-plain > p",
+    "x": 150,
+    "y": 3066,
+    "w": 800,
+    "h": 147,
+    "text": "​ From time to time, we may run a promotion (e.g., contest, sweepstakes, instant"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-accordion.plain > div.legal-body.legal-body-plain > p",
+    "x": 150,
+    "y": 3229,
+    "w": 800,
+    "h": 630,
+    "text": "​ If you choose to purchase any product, service, or merchandise that is made av"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-accordion.plain > div.legal-body.legal-body-plain > p",
+    "x": 150,
+    "y": 3875,
+    "w": 800,
+    "h": 63,
+    "text": "For more details on the personal information we collect, how we collect, use, an"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-body.legal-body-plain > p > a",
+    "x": 372,
+    "y": 3917,
+    "w": 110,
+    "h": 20,
+    "text": "privacy policy",
+    "href": "/us/en/privacy-policy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-accordion.plain > div.legal-body.legal-body-plain > p",
+    "x": 150,
+    "y": 3954,
+    "w": 800,
+    "h": 315,
+    "text": "​ Software or other materials on our Sites may be subject to United States Expor"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-accordion.plain > div.legal-body.legal-body-plain > p",
+    "x": 150,
+    "y": 4285,
+    "w": 800,
+    "h": 1554,
+    "text": "YOUR USE OF A SITE IS AT YOUR OWN RISK. The Sites and all software, services, Co"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-accordion.plain > div.legal-body.legal-body-plain > p",
+    "x": 150,
+    "y": 5855,
+    "w": 800,
+    "h": 378,
+    "text": "It is our policy to respond appropriately to notices of alleged infringement tha"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-accordion.plain > div.legal-body.legal-body-plain > p",
+    "x": 150,
+    "y": 6249,
+    "w": 800,
+    "h": 126,
+    "text": "The failure by us to partially or fully exercise any rights or the waiver of any"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-accordion.plain > div.legal-body.legal-body-plain > p",
+    "x": 150,
+    "y": 6391,
+    "w": 800,
+    "h": 84,
+    "text": "These Terms constitute a binding agreement between you and Company, and are acce"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-accordion.plain > div.legal-body.legal-body-plain > p",
+    "x": 150,
+    "y": 6491,
+    "w": 800,
+    "h": 63,
+    "text": "Should you have any questions or comments regarding the Sites or these Terms, yo"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.legal-accordion.plain > div.legal-body.legal-body-plain > p",
+    "x": 150,
+    "y": 6570,
+    "w": 800,
+    "h": 168,
+    "text": "​ Ferrero U.S.A., Inc. Attn: Legal Department – Terms 7 Sylvan Way 4th Floor Par"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-body > div.site-footer-top > a.site-footer-logo",
+    "x": 516,
+    "y": 6818,
+    "w": 141,
+    "h": 80,
+    "text": "golden wonka brand logo",
+    "href": "/us/en/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-top > a.site-footer-logo > img",
+    "x": 516,
+    "y": 6818,
+    "w": 141,
+    "h": 80,
+    "text": "golden wonka brand logo",
+    "file": "media_1470daf2e59196e25459cd013be128518e"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-top > div.site-footer-social > p",
+    "x": 696,
+    "y": 6848,
+    "w": 72,
+    "h": 21,
+    "text": "Follow us"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-social > div.site-footer-social-row > a.btn.btn-md",
+    "x": 784,
+    "y": 6834,
+    "w": 62,
+    "h": 48,
+    "text": "instagram",
+    "href": "/wonka_usa"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a.btn.btn-md > span.icon.icon-social-instagram > img",
+    "x": 805,
+    "y": 6848,
+    "w": 20,
+    "h": 20,
+    "text": "",
+    "file": "social-instagram"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-social > div.site-footer-social-row > a.btn.btn-md",
+    "x": 862,
+    "y": 6834,
+    "w": 62,
+    "h": 48,
+    "text": "tik tok",
+    "href": "/@wonka_usa"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a.btn.btn-md > span.icon.icon-social-tiktok > img",
+    "x": 883,
+    "y": 6848,
+    "w": 20,
+    "h": 20,
+    "text": "",
+    "file": "social-tiktok"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-body > div.site-footer-links > a.legal-link",
+    "x": 241,
+    "y": 6962,
+    "w": 110,
+    "h": 24,
+    "text": "privacy policy",
+    "href": "/us/en/privacy-policy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-body > div.site-footer-links > a.legal-link",
+    "x": 399,
+    "y": 6962,
+    "w": 105,
+    "h": 24,
+    "text": "terms of use",
+    "href": "/us/en/terms-of-use"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-body > div.site-footer-links > a.legal-link",
+    "x": 553,
+    "y": 6962,
+    "w": 107,
+    "h": 24,
+    "text": "cookie policy",
+    "href": "/us/en/cookie-policy"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-body > div.site-footer-links > a.legal-link",
+    "x": 707,
+    "y": 6962,
+    "w": 356,
+    "h": 24,
+    "text": "do not sell or share my personal information",
+    "href": "/us/en/terms-of-use"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.site-footer-body > div.site-footer-links > a.legal-link",
+    "x": 1111,
+    "y": 6962,
+    "w": 87,
+    "h": 24,
+    "text": "contact us",
+    "href": "/us/en/contact-us"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.page-footer > div.site-footer > div.site-footer-copy",
+    "x": 0,
+    "y": 7026,
+    "w": 1440,
+    "h": 56,
+    "text": "© 2026 Ferrero Group. All Rights Reserved."
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 85,
+    "controls": 13,
+    "total": 0
+   },
+   "groups": [],
+   "findings": []
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 1,
+   "heading": "terms of use",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 33,
+    "image": 0
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 33,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  }
+ ],
+ "findings": [],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 0,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 0,
+  "missingButtons": 0,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 0,
+  "findings": 0,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 210,
+    "y": 34,
+    "w": 46,
+    "h": 20
+   },
+   {
+    "x": 280,
+    "y": 34,
+    "w": 106,
+    "h": 20
+   },
+   {
+    "x": 410,
+    "y": 34,
+    "w": 217,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 140,
+    "w": 312,
+    "h": 49
+   },
+   {
+    "x": 150,
+    "y": 202,
+    "w": 236,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 239,
+    "w": 762,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 260,
+    "w": 794,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 318,
+    "w": 195,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 339,
+    "w": 786,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 360,
+    "w": 800,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 381,
+    "w": 795,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 402,
+    "w": 785,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 423,
+    "w": 779,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 444,
+    "w": 757,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 465,
+    "w": 769,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 486,
+    "w": 781,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 507,
+    "w": 780,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 528,
+    "w": 450,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 586,
+    "w": 615,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 607,
+    "w": 800,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 628,
+    "w": 729,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 649,
+    "w": 751,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 670,
+    "w": 759,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 691,
+    "w": 776,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 712,
+    "w": 749,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 733,
+    "w": 799,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 754,
+    "w": 764,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 775,
+    "w": 389,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 833,
+    "w": 756,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 854,
+    "w": 796,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 875,
+    "w": 792,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 896,
+    "w": 790,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 917,
+    "w": 799,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 938,
+    "w": 785,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 959,
+    "w": 444,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 1017,
+    "w": 323,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 1038,
+    "w": 717,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 1059,
+    "w": 781,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 1080,
+    "w": 790,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 1101,
+    "w": 778,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 1122,
+    "w": 83,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 1180,
+    "w": 774,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 1201,
+    "w": 785,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 1222,
+    "w": 761,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 1243,
+    "w": 754,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 1264,
+    "w": 604,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 1322,
+    "w": 747,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 1343,
+    "w": 762,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 1364,
+    "w": 312,
+    "h": 20
+   },
+   {
+    "x": 174,
+    "y": 1422,
+    "w": 751,
+    "h": 20
+   },
+   {
+    "x": 174,
+    "y": 1443,
+    "w": 77,
+    "h": 20
+   },
+   {
+    "x": 174,
+    "y": 1468,
+    "w": 763,
+    "h": 20
+   },
+   {
+    "x": 174,
+    "y": 1489,
+    "w": 746,
+    "h": 20
+   },
+   {
+    "x": 174,
+    "y": 1510,
+    "w": 113,
+    "h": 20
+   },
+   {
+    "x": 174,
+    "y": 1535,
+    "w": 439,
+    "h": 20
+   },
+   {
+    "x": 174,
+    "y": 1560,
+    "w": 772,
+    "h": 20
+   },
+   {
+    "x": 174,
+    "y": 1581,
+    "w": 285,
+    "h": 20
+   },
+   {
+    "x": 174,
+    "y": 1606,
+    "w": 352,
+    "h": 20
+   },
+   {
+    "x": 174,
+    "y": 1631,
+    "w": 328,
+    "h": 20
+   },
+   {
+    "x": 174,
+    "y": 1656,
+    "w": 743,
+    "h": 20
+   },
+   {
+    "x": 174,
+    "y": 1677,
+    "w": 523,
+    "h": 20
+   },
+   {
+    "x": 174,
+    "y": 1702,
+    "w": 321,
+    "h": 20
+   },
+   {
+    "x": 174,
+    "y": 1727,
+    "w": 744,
+    "h": 20
+   },
+   {
+    "x": 174,
+    "y": 1748,
+    "w": 740,
+    "h": 20
+   },
+   {
+    "x": 174,
+    "y": 1769,
+    "w": 109,
+    "h": 20
+   },
+   {
+    "x": 174,
+    "y": 1794,
+    "w": 733,
+    "h": 20
+   },
+   {
+    "x": 174,
+    "y": 1815,
+    "w": 336,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 1873,
+    "w": 770,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 1894,
+    "w": 794,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 1915,
+    "w": 783,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 1936,
+    "w": 786,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 1957,
+    "w": 754,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 1978,
+    "w": 794,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 1999,
+    "w": 789,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2020,
+    "w": 769,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2041,
+    "w": 778,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2062,
+    "w": 766,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2083,
+    "w": 787,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2104,
+    "w": 797,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2125,
+    "w": 795,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2146,
+    "w": 789,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2167,
+    "w": 798,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2188,
+    "w": 175,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2225,
+    "w": 788,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2246,
+    "w": 799,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2267,
+    "w": 730,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2288,
+    "w": 792,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2309,
+    "w": 213,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2367,
+    "w": 556,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2388,
+    "w": 719,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2409,
+    "w": 800,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2430,
+    "w": 740,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2451,
+    "w": 760,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2472,
+    "w": 775,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2493,
+    "w": 716,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2514,
+    "w": 682,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2535,
+    "w": 743,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2556,
+    "w": 798,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2577,
+    "w": 772,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2598,
+    "w": 770,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2619,
+    "w": 302,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2677,
+    "w": 789,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2698,
+    "w": 784,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2719,
+    "w": 800,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2740,
+    "w": 741,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2761,
+    "w": 784,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2782,
+    "w": 757,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2803,
+    "w": 166,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2861,
+    "w": 183,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2882,
+    "w": 764,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2903,
+    "w": 768,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2924,
+    "w": 796,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2945,
+    "w": 738,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2966,
+    "w": 771,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2987,
+    "w": 769,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3008,
+    "w": 769,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3029,
+    "w": 604,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3087,
+    "w": 208,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3108,
+    "w": 791,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3129,
+    "w": 767,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3150,
+    "w": 767,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3171,
+    "w": 786,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3192,
+    "w": 518,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3250,
+    "w": 164,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3271,
+    "w": 792,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3292,
+    "w": 790,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3313,
+    "w": 703,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3334,
+    "w": 779,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3355,
+    "w": 750,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3376,
+    "w": 748,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3397,
+    "w": 785,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3418,
+    "w": 796,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3439,
+    "w": 790,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3460,
+    "w": 739,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3481,
+    "w": 747,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3502,
+    "w": 793,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3523,
+    "w": 730,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3565,
+    "w": 771,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3586,
+    "w": 782,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3607,
+    "w": 766,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3628,
+    "w": 741,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3649,
+    "w": 790,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3670,
+    "w": 748,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3691,
+    "w": 745,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3712,
+    "w": 758,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3733,
+    "w": 780,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3754,
+    "w": 788,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3775,
+    "w": 753,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3796,
+    "w": 771,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3817,
+    "w": 772,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3875,
+    "w": 86,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3896,
+    "w": 761,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3917,
+    "w": 222,
+    "h": 20
+   },
+   {
+    "x": 372,
+    "y": 3917,
+    "w": 110,
+    "h": 20
+   },
+   {
+    "x": 482,
+    "y": 3917,
+    "w": 5,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3975,
+    "w": 139,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3996,
+    "w": 791,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4017,
+    "w": 767,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4038,
+    "w": 772,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4059,
+    "w": 795,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4080,
+    "w": 781,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4101,
+    "w": 782,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4122,
+    "w": 793,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4143,
+    "w": 779,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4164,
+    "w": 779,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4185,
+    "w": 783,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4206,
+    "w": 759,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4227,
+    "w": 54,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4285,
+    "w": 407,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4306,
+    "w": 788,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4327,
+    "w": 711,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4348,
+    "w": 776,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4369,
+    "w": 795,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4390,
+    "w": 777,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4411,
+    "w": 775,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4432,
+    "w": 754,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4453,
+    "w": 743,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4474,
+    "w": 776,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4495,
+    "w": 736,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4516,
+    "w": 770,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4537,
+    "w": 688,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4558,
+    "w": 750,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4579,
+    "w": 728,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4600,
+    "w": 789,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4621,
+    "w": 777,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4642,
+    "w": 775,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4663,
+    "w": 790,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4684,
+    "w": 762,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4705,
+    "w": 763,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4726,
+    "w": 756,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4747,
+    "w": 761,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4768,
+    "w": 767,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4789,
+    "w": 776,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4810,
+    "w": 601,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4852,
+    "w": 767,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4873,
+    "w": 785,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4894,
+    "w": 778,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4936,
+    "w": 758,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4957,
+    "w": 773,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4978,
+    "w": 776,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4999,
+    "w": 768,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5020,
+    "w": 186,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5062,
+    "w": 110,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5083,
+    "w": 782,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5104,
+    "w": 800,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5125,
+    "w": 709,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5146,
+    "w": 773,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5167,
+    "w": 718,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5188,
+    "w": 744,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5209,
+    "w": 737,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5230,
+    "w": 759,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5251,
+    "w": 744,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5272,
+    "w": 776,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5293,
+    "w": 794,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5314,
+    "w": 103,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5356,
+    "w": 790,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5377,
+    "w": 724,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5398,
+    "w": 183,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5440,
+    "w": 256,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5461,
+    "w": 776,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5482,
+    "w": 785,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5503,
+    "w": 749,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5524,
+    "w": 785,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5545,
+    "w": 746,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5566,
+    "w": 784,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5587,
+    "w": 777,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5608,
+    "w": 780,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5629,
+    "w": 779,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5650,
+    "w": 719,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5671,
+    "w": 729,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5692,
+    "w": 791,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5713,
+    "w": 754,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5734,
+    "w": 755,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5755,
+    "w": 733,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5776,
+    "w": 747,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5797,
+    "w": 372,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5855,
+    "w": 436,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5876,
+    "w": 781,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5897,
+    "w": 772,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5918,
+    "w": 728,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5939,
+    "w": 711,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5960,
+    "w": 701,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 6002,
+    "w": 154,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 6023,
+    "w": 249,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 6044,
+    "w": 110,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 6065,
+    "w": 76,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 6086,
+    "w": 174,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 6107,
+    "w": 215,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 6149,
+    "w": 129,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 6170,
+    "w": 799,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 6191,
+    "w": 799,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 6212,
+    "w": 663,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 6249,
+    "w": 178,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 6270,
+    "w": 800,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 6291,
+    "w": 789,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 6312,
+    "w": 769,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 6333,
+    "w": 774,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 6354,
+    "w": 367,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 6391,
+    "w": 174,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 6412,
+    "w": 774,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 6433,
+    "w": 758,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 6454,
+    "w": 534,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 6491,
+    "w": 193,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 6512,
+    "w": 792,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 6533,
+    "w": 289,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 6591,
+    "w": 149,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 6612,
+    "w": 248,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 6633,
+    "w": 105,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 6654,
+    "w": 71,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 6675,
+    "w": 174,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 6696,
+    "w": 103,
+    "h": 20
+   },
+   {
+    "x": 253,
+    "y": 6696,
+    "w": 143,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 6717,
+    "w": 65,
+    "h": 20
+   },
+   {
+    "x": 215,
+    "y": 6717,
+    "w": 131,
+    "h": 20
+   },
+   {
+    "x": 347,
+    "y": 6717,
+    "w": 158,
+    "h": 20
+   },
+   {
+    "x": 696,
+    "y": 6848,
+    "w": 72,
+    "h": 20
+   },
+   {
+    "x": 241,
+    "y": 6964,
+    "w": 110,
+    "h": 20
+   },
+   {
+    "x": 399,
+    "y": 6964,
+    "w": 105,
+    "h": 20
+   },
+   {
+    "x": 553,
+    "y": 6964,
+    "w": 107,
+    "h": 20
+   },
+   {
+    "x": 707,
+    "y": 6964,
+    "w": 356,
+    "h": 20
+   },
+   {
+    "x": 1111,
+    "y": 6964,
+    "w": 87,
+    "h": 20
+   },
+   {
+    "x": 597,
+    "y": 7046,
+    "w": 247,
+    "h": 15
+   }
+  ],
+  "eds": [
+   {
+    "x": 210,
+    "y": 34,
+    "w": 46,
+    "h": 20
+   },
+   {
+    "x": 280,
+    "y": 34,
+    "w": 106,
+    "h": 20
+   },
+   {
+    "x": 410,
+    "y": 34,
+    "w": 217,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 140,
+    "w": 312,
+    "h": 49
+   },
+   {
+    "x": 150,
+    "y": 202,
+    "w": 236,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 239,
+    "w": 762,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 260,
+    "w": 794,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 318,
+    "w": 195,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 339,
+    "w": 786,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 360,
+    "w": 800,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 381,
+    "w": 795,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 402,
+    "w": 785,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 423,
+    "w": 779,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 444,
+    "w": 757,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 465,
+    "w": 769,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 486,
+    "w": 781,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 507,
+    "w": 780,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 528,
+    "w": 450,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 586,
+    "w": 615,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 607,
+    "w": 800,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 628,
+    "w": 729,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 649,
+    "w": 751,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 670,
+    "w": 759,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 691,
+    "w": 776,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 712,
+    "w": 749,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 733,
+    "w": 799,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 754,
+    "w": 764,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 775,
+    "w": 389,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 833,
+    "w": 756,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 854,
+    "w": 796,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 875,
+    "w": 792,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 896,
+    "w": 790,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 917,
+    "w": 799,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 938,
+    "w": 785,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 959,
+    "w": 444,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 1017,
+    "w": 323,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 1038,
+    "w": 717,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 1059,
+    "w": 781,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 1080,
+    "w": 790,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 1101,
+    "w": 778,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 1122,
+    "w": 83,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 1180,
+    "w": 774,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 1201,
+    "w": 785,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 1222,
+    "w": 761,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 1243,
+    "w": 754,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 1264,
+    "w": 604,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 1322,
+    "w": 747,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 1343,
+    "w": 762,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 1364,
+    "w": 312,
+    "h": 20
+   },
+   {
+    "x": 174,
+    "y": 1422,
+    "w": 751,
+    "h": 20
+   },
+   {
+    "x": 174,
+    "y": 1443,
+    "w": 77,
+    "h": 20
+   },
+   {
+    "x": 174,
+    "y": 1468,
+    "w": 763,
+    "h": 20
+   },
+   {
+    "x": 174,
+    "y": 1489,
+    "w": 746,
+    "h": 20
+   },
+   {
+    "x": 174,
+    "y": 1510,
+    "w": 113,
+    "h": 20
+   },
+   {
+    "x": 174,
+    "y": 1535,
+    "w": 439,
+    "h": 20
+   },
+   {
+    "x": 174,
+    "y": 1560,
+    "w": 772,
+    "h": 20
+   },
+   {
+    "x": 174,
+    "y": 1581,
+    "w": 285,
+    "h": 20
+   },
+   {
+    "x": 174,
+    "y": 1606,
+    "w": 352,
+    "h": 20
+   },
+   {
+    "x": 174,
+    "y": 1631,
+    "w": 328,
+    "h": 20
+   },
+   {
+    "x": 174,
+    "y": 1656,
+    "w": 743,
+    "h": 20
+   },
+   {
+    "x": 174,
+    "y": 1677,
+    "w": 523,
+    "h": 20
+   },
+   {
+    "x": 174,
+    "y": 1702,
+    "w": 321,
+    "h": 20
+   },
+   {
+    "x": 174,
+    "y": 1727,
+    "w": 744,
+    "h": 20
+   },
+   {
+    "x": 174,
+    "y": 1748,
+    "w": 740,
+    "h": 20
+   },
+   {
+    "x": 174,
+    "y": 1769,
+    "w": 109,
+    "h": 20
+   },
+   {
+    "x": 174,
+    "y": 1794,
+    "w": 733,
+    "h": 20
+   },
+   {
+    "x": 174,
+    "y": 1815,
+    "w": 336,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 1873,
+    "w": 770,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 1894,
+    "w": 794,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 1915,
+    "w": 783,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 1936,
+    "w": 786,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 1957,
+    "w": 754,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 1978,
+    "w": 794,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 1999,
+    "w": 789,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2020,
+    "w": 769,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2041,
+    "w": 778,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2062,
+    "w": 766,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2083,
+    "w": 787,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2104,
+    "w": 797,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2125,
+    "w": 795,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2146,
+    "w": 789,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2167,
+    "w": 798,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2188,
+    "w": 175,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2225,
+    "w": 788,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2246,
+    "w": 799,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2267,
+    "w": 730,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2288,
+    "w": 792,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2309,
+    "w": 213,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2367,
+    "w": 556,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2388,
+    "w": 719,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2409,
+    "w": 800,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2430,
+    "w": 740,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2451,
+    "w": 760,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2472,
+    "w": 775,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2493,
+    "w": 716,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2514,
+    "w": 682,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2535,
+    "w": 743,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2556,
+    "w": 798,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2577,
+    "w": 772,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2598,
+    "w": 770,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2619,
+    "w": 302,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2677,
+    "w": 789,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2698,
+    "w": 784,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2719,
+    "w": 800,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2740,
+    "w": 741,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2761,
+    "w": 784,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2782,
+    "w": 757,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2803,
+    "w": 166,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2861,
+    "w": 183,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2882,
+    "w": 764,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2903,
+    "w": 768,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2924,
+    "w": 796,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2945,
+    "w": 738,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2966,
+    "w": 771,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 2987,
+    "w": 769,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3008,
+    "w": 769,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3029,
+    "w": 604,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3087,
+    "w": 208,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3108,
+    "w": 791,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3129,
+    "w": 767,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3150,
+    "w": 767,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3171,
+    "w": 786,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3192,
+    "w": 518,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3250,
+    "w": 164,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3271,
+    "w": 792,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3292,
+    "w": 790,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3313,
+    "w": 703,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3334,
+    "w": 779,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3355,
+    "w": 750,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3376,
+    "w": 748,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3397,
+    "w": 785,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3418,
+    "w": 796,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3439,
+    "w": 790,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3460,
+    "w": 739,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3481,
+    "w": 747,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3502,
+    "w": 793,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3523,
+    "w": 730,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3565,
+    "w": 771,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3586,
+    "w": 782,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3607,
+    "w": 766,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3628,
+    "w": 741,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3649,
+    "w": 790,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3670,
+    "w": 748,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3691,
+    "w": 745,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3712,
+    "w": 758,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3733,
+    "w": 780,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3754,
+    "w": 788,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3775,
+    "w": 753,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3796,
+    "w": 771,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3817,
+    "w": 772,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3875,
+    "w": 86,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3896,
+    "w": 761,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3917,
+    "w": 222,
+    "h": 20
+   },
+   {
+    "x": 372,
+    "y": 3917,
+    "w": 110,
+    "h": 20
+   },
+   {
+    "x": 482,
+    "y": 3917,
+    "w": 5,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3975,
+    "w": 139,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 3996,
+    "w": 791,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4017,
+    "w": 767,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4038,
+    "w": 772,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4059,
+    "w": 795,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4080,
+    "w": 781,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4101,
+    "w": 782,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4122,
+    "w": 793,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4143,
+    "w": 779,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4164,
+    "w": 779,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4185,
+    "w": 783,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4206,
+    "w": 759,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4227,
+    "w": 54,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4285,
+    "w": 407,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4306,
+    "w": 788,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4327,
+    "w": 711,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4348,
+    "w": 776,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4369,
+    "w": 795,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4390,
+    "w": 777,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4411,
+    "w": 775,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4432,
+    "w": 754,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4453,
+    "w": 743,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4474,
+    "w": 776,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4495,
+    "w": 736,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4516,
+    "w": 770,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4537,
+    "w": 688,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4558,
+    "w": 750,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4579,
+    "w": 728,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4600,
+    "w": 789,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4621,
+    "w": 777,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4642,
+    "w": 775,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4663,
+    "w": 790,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4684,
+    "w": 762,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4705,
+    "w": 763,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4726,
+    "w": 756,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4747,
+    "w": 761,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4768,
+    "w": 767,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4789,
+    "w": 776,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4810,
+    "w": 601,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4852,
+    "w": 767,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4873,
+    "w": 785,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4894,
+    "w": 778,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4936,
+    "w": 758,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4957,
+    "w": 773,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4978,
+    "w": 776,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 4999,
+    "w": 768,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5020,
+    "w": 186,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5062,
+    "w": 110,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5083,
+    "w": 782,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5104,
+    "w": 800,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5125,
+    "w": 709,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5146,
+    "w": 773,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5167,
+    "w": 718,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5188,
+    "w": 744,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5209,
+    "w": 737,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5230,
+    "w": 759,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5251,
+    "w": 744,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5272,
+    "w": 776,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5293,
+    "w": 794,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5314,
+    "w": 103,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5356,
+    "w": 790,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5377,
+    "w": 724,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5398,
+    "w": 183,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5440,
+    "w": 256,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5461,
+    "w": 776,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5482,
+    "w": 785,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5503,
+    "w": 749,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5524,
+    "w": 785,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5545,
+    "w": 746,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5566,
+    "w": 784,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5587,
+    "w": 777,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5608,
+    "w": 780,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5629,
+    "w": 779,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5650,
+    "w": 719,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5671,
+    "w": 729,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5692,
+    "w": 791,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5713,
+    "w": 754,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5734,
+    "w": 755,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5755,
+    "w": 733,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5776,
+    "w": 747,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5797,
+    "w": 372,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5855,
+    "w": 436,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5876,
+    "w": 781,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5897,
+    "w": 772,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5918,
+    "w": 728,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5939,
+    "w": 711,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 5960,
+    "w": 701,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 6002,
+    "w": 149,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 6023,
+    "w": 249,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 6044,
+    "w": 105,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 6065,
+    "w": 71,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 6086,
+    "w": 174,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 6107,
+    "w": 215,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 6149,
+    "w": 129,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 6170,
+    "w": 799,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 6191,
+    "w": 799,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 6212,
+    "w": 663,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 6249,
+    "w": 178,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 6270,
+    "w": 800,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 6291,
+    "w": 789,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 6312,
+    "w": 769,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 6333,
+    "w": 774,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 6354,
+    "w": 367,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 6391,
+    "w": 174,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 6412,
+    "w": 774,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 6433,
+    "w": 758,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 6454,
+    "w": 534,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 6491,
+    "w": 193,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 6512,
+    "w": 792,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 6533,
+    "w": 289,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 6591,
+    "w": 149,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 6612,
+    "w": 248,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 6633,
+    "w": 105,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 6654,
+    "w": 71,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 6675,
+    "w": 174,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 6696,
+    "w": 103,
+    "h": 20
+   },
+   {
+    "x": 253,
+    "y": 6696,
+    "w": 143,
+    "h": 20
+   },
+   {
+    "x": 150,
+    "y": 6717,
+    "w": 65,
+    "h": 20
+   },
+   {
+    "x": 215,
+    "y": 6717,
+    "w": 131,
+    "h": 20
+   },
+   {
+    "x": 347,
+    "y": 6717,
+    "w": 158,
+    "h": 20
+   },
+   {
+    "x": 696,
+    "y": 6848,
+    "w": 72,
+    "h": 20
+   },
+   {
+    "x": 241,
+    "y": 6964,
+    "w": 110,
+    "h": 20
+   },
+   {
+    "x": 399,
+    "y": 6964,
+    "w": 105,
+    "h": 20
+   },
+   {
+    "x": 553,
+    "y": 6964,
+    "w": 107,
+    "h": 20
+   },
+   {
+    "x": 707,
+    "y": 6964,
+    "w": 356,
+    "h": 20
+   },
+   {
+    "x": 1111,
+    "y": 6964,
+    "w": 87,
+    "h": 20
+   },
+   {
+    "x": 597,
+    "y": 7046,
+    "w": 247,
+    "h": 15
+   }
+  ]
+ }
+}

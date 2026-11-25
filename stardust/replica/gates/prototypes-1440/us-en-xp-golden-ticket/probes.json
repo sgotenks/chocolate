@@ -1,0 +1,34 @@
+{
+ "writtenBy": "gate-all.mjs",
+ "at": "2026-11-25T11:19:45.129Z",
+ "clip": {
+  "counts": {
+   "textClipped": 0,
+   "textHidden": 0,
+   "controlHidden": 0,
+   "controlClipped": 0,
+   "clamped": 0,
+   "collapsed": 0,
+   "scrollHidden": 0,
+   "horizontal": 1,
+   "offPage": 4,
+   "textNodes": 37,
+   "controls": 22,
+   "total": 0
+  },
+  "groups": [
+   {
+    "kind": "TEXT X-HIDDEN",
+    "advisory": true,
+    "n": 1,
+    "clipper": "div.promo-prizes__viewport",
+    "path": "div.promo-prize > div.promo-prize__text > div.promo-editorial__body > p",
+    "text": "the factory bundle is a tiny treasure from a bigger wonderla",
+    "cutMin": 611,
+    "cutMax": 611
+   }
+  ],
+  "source": "clip-probe",
+  "tier": "chrome"
+ }
+}

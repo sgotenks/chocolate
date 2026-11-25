@@ -1,0 +1,37 @@
+{
+ "tool": "chrome-explore",
+ "url": "https://main--a6216fe5--aemcoder.aem.live/us/en/about-wonka",
+ "at": "2026-11-25T13:25:14.090Z",
+ "shots": "stardust/.work/chrome/header-build-live",
+ "widths": {
+  "390": {
+   "root": null,
+   "controls": [],
+   "scroll": [],
+   "states": 0,
+   "truncated": null,
+   "loads": 1,
+   "requests": 63,
+   "maxRequests": 600,
+   "inputsSkipped": 0,
+   "watch": {
+    "status": "not-triggered"
+   }
+  },
+  "1440": {
+   "root": null,
+   "controls": [],
+   "scroll": [],
+   "states": 0,
+   "truncated": null,
+   "loads": 1,
+   "requests": 60,
+   "maxRequests": 600,
+   "inputsSkipped": 0,
+   "watch": {
+    "status": "not-triggered"
+   }
+  }
+ },
+ "probe": null
+}

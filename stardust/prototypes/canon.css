@@ -1,0 +1,75 @@
+/* canon.css — www.wonka.com replica: shared tokens, self-hosted faces, base type.
+   Values lifted from the source theme CSS (sling theme, Tailwind build). Shared by every archetype. */
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 400; font-display: swap; src: url(assets/fonts/inter-latin-400-normal.woff2) format("woff2"); }
+@font-face { font-family: Inter; font-style: normal; font-weight: 500; font-display: swap; src: url(assets/fonts/inter-latin-500-normal.woff2) format("woff2"); }
+@font-face { font-family: Inter; font-style: normal; font-weight: 600; font-display: swap; src: url(assets/fonts/inter-latin-600-normal.woff2) format("woff2"); }
+@font-face { font-family: Inter; font-style: normal; font-weight: 700; font-display: swap; src: url(assets/fonts/inter-latin-700-normal.woff2) format("woff2"); }
+@font-face { font-family: "Work Sans"; font-style: normal; font-weight: 600; font-display: swap; src: url(assets/fonts/work-sans-latin-600-normal.woff2) format("woff2"); }
+
+:root {
+  /* palette (theme tokens) */
+  --purple-900: #2e0028;
+  --purple-800: #4c0143;
+  --purple-800-70: #4c0143b3;
+  --purple-600: #810172;
+  --purple-500: #980186;
+  --purple-400: #bc5ab0;
+  --gold-200: #f1de9c;
+  --gold-300: #e5c76a;
+  --gold-400: #d4a93d;
+  --brown-500: #3d2507;
+  --neutral-0: #fbf5fa;
+  --neutral-50: #f6f0f5;
+  --white: #fff;
+  --gold-text: linear-gradient(270deg, #d2ba83 10%, #f1dc97, #faeab8 40%, #faeab8 60%, #f1dc97, #d2ba83 90%);
+  --noise: url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%222%22%20height%3D%222%22%3E%3Cfilter%20id%3D%22n%22%3E%3CfeTurbulence%20type%3D%22fractalNoise%22%20baseFrequency%3D%220.5%22%20numOctaves%3D%221%22%20stitchTiles%3D%22stitch%22%20result%3D%22noise%22%2F%3E%3CfeColorMatrix%20in%3D%22noise%22%20type%3D%22luminanceToAlpha%22%20result%3D%22alphaNoise%22%2F%3E%3CfeComponentTransfer%20in%3D%22alphaNoise%22%20result%3D%22monoNoise%22%3E%3CfeFuncA%20type%3D%22discrete%22%20tableValues%3D%220%201%22%2F%3E%3C%2FfeComponentTransfer%3E%3CfeFlood%20flood-color%3D%22rgb(0%2C%200%2C%200)%22%20flood-opacity%3D%220.02%22%20result%3D%22color%22%2F%3E%3CfeComposite%20in%3D%22color%22%20in2%3D%22monoNoise%22%20operator%3D%22in%22%20result%3D%22noiseOverlay%22%2F%3E%3C%2Ffilter%3E%3Crect%20width%3D%222%22%20height%3D%222%22%20filter%3D%22url(%23n)%22%2F%3E%3C%2Fsvg%3E");
+
+  /* type */
+  --font-default: Inter, sans-serif;
+  --font-heading: "Work Sans", sans-serif;
+  --body-xs: 12px; --body-xs-lh: 1.33;
+  --body-sm: 14px; --body-sm-lh: 1.29;
+  --body-md: 16px; --body-md-lh: 1.31;
+  --body-lg: 18px; --body-lg-lh: 1.28;
+  --body-xl: 20px; --body-xl-lh: 1.3;
+  --h2: 42px; --h2-lh: 1.14;
+  --h3: 34px; --h3-lh: 1.18;
+  --h6: 18px; --h6-lh: 1.33;
+
+  /* layout */
+  --page-gap: 5rem;
+}
+
+/* base (Tailwind preflight subset the source relies on) */
+*, ::before, ::after { box-sizing: border-box; border: 0 solid #e5e7eb; }
+html { line-height: 1.5; -webkit-text-size-adjust: 100%; tab-size: 4; font-family: ui-sans-serif, system-ui, sans-serif; -webkit-tap-highlight-color: transparent; }
+body { margin: 0; line-height: inherit; background-color: var(--purple-600); font-family: var(--font-default); color: var(--white); }
+h1, h2, h3, h4, h5, h6, p, figure, blockquote { margin: 0; }
+h1, h2, h3, h4, h5, h6 { font-size: inherit; font-weight: inherit; }
+a { color: inherit; text-decoration: inherit; }
+img, svg, video { display: block; vertical-align: middle; }
+img, video { max-width: 100%; height: auto; }
+button { font: inherit; color: inherit; background: transparent; padding: 0; margin: 0; cursor: pointer; text-transform: none; }
+table { border-collapse: collapse; text-indent: 0; border-color: inherit; }
+strong { font-weight: bolder; }
+.visually-hidden { position: absolute !important; overflow: hidden; clip: rect(1px, 1px, 1px, 1px); width: 1px; height: 1px; word-wrap: normal; }
+.skip-link:focus { position: static !important; clip: auto; width: auto; height: auto; overflow: visible; }
+html.has-overlay, html.has-overlay body { overflow: hidden; }
+
+/* page frame: .page > .page-clouds + .page__frame (header, main, footer) [+ overlays]; main sections stack with a 5rem row gap */
+.page { position: relative; isolation: isolate; display: flex; width: 100%; flex-direction: column; background-color: var(--purple-600); }
+.page__main > .page__sections { display: flex; width: 100%; flex-direction: column; row-gap: var(--page-gap); }
+.page__main { width: 100%; }
+
+/* shared text treatments */
+.gold-text { background-image: var(--gold-text); background-size: 100% 100%; background-repeat: no-repeat; background-clip: text; -webkit-background-clip: text; color: transparent; -webkit-text-fill-color: transparent; }
+.gold-link { position: relative; display: inline-block; color: var(--white); text-decoration-color: currentColor; }
+.gold-link::before { content: attr(data-content); position: absolute; top: 0; left: 0; pointer-events: none; text-decoration: inherit; text-decoration-color: #f1dc97; background-image: var(--gold-text); background-clip: text; -webkit-background-clip: text; color: transparent; -webkit-text-fill-color: transparent; opacity: 0; transition: opacity .3s ease-in-out; }
+.gold-link:hover::before { opacity: 1; }
+
+/* decorative page clouds (placed by canon-chrome.js between [data-cloud-avoid] sections) */
+.page-clouds { pointer-events: none; position: absolute; inset: 0; z-index: -1; overflow: hidden; opacity: .8; }
+.page-clouds img { position: absolute; transform: translate(var(--cloud-x, 0), var(--cloud-y, 0)); user-select: none; }
+@media (max-width: 767px) { .page-clouds img { width: auto; max-width: 60vw; height: auto; } }
+@media (prefers-reduced-motion: reduce) { .page-clouds img { transform: none; } }

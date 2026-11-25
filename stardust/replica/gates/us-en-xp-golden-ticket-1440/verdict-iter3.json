@@ -1,0 +1,30 @@
+{
+  "round": "iter3",
+  "width": 1440,
+  "stage": "prototype",
+  "pixel": {
+    "rc": 0,
+    "diff": "stardust/replica/gates/us-en-xp-golden-ticket-1440/diff-iter3.png",
+    "json": "stardust/replica/gates/us-en-xp-golden-ticket-1440/pixel-iter3.json",
+    "pct": 0.04,
+    "alignedPct": 0.04,
+    "alignedUsed": false,
+    "totalShift": 0,
+    "steps": [],
+    "offsetBound": null,
+    "maskedRows": 0,
+    "noiseFloor": 0,
+    "reason": null
+  },
+  "reference": {
+    "origin": "frozen",
+    "capturedAt": "2026-11-25T10:39:15.799Z",
+    "primed": true,
+    "stable": true,
+    "maskArg": ""
+  },
+  "probes": {},
+  "structural": 0,
+  "nothingLost": 0,
+  "at": "2026-11-25T10:47:50.548Z"
+}

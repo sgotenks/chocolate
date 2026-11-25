@@ -1,0 +1,309 @@
+{
+ "_provenance": {
+  "writtenBy": "skills/replica/scripts/source-spec.mjs",
+  "writtenAt": "2026-11-25T10:30:08.989Z",
+  "url": "https://www.wonka.com/us/en/",
+  "width": 1440,
+  "main": "main",
+  "locale": "en-US"
+ },
+ "page": {
+  "url": "https://www.wonka.com/us/en/",
+  "width": 1440,
+  "viewport": 1440,
+  "docHeight": 4206,
+  "scrollWidth": 1440,
+  "root": "main",
+  "rootFallback": false,
+  "records": [
+   "scroll",
+   "shape"
+  ],
+  "rootWrapsChrome": false,
+  "tier": "chrome"
+ },
+ "tokens": {
+  "fonts": [
+   {
+    "stack": "Inter, sans-serif",
+    "n": 24
+   },
+   {
+    "stack": "\"Work Sans\", sans-serif",
+    "n": 11
+   }
+  ],
+  "loadedFaces": [
+   "Inter 400 normal",
+   "Inter 500 normal",
+   "Inter 600 normal",
+   "Inter 700 normal",
+   "Work Sans 600 normal"
+  ],
+  "textStyles": [
+   {
+    "key": "16/16 700 Inter",
+    "fontSize": 16,
+    "lineHeight": 16,
+    "fontWeight": "700",
+    "fontFamily": "Inter",
+    "textTransform": "none",
+    "n": 8,
+    "roles": {
+     "link": 3,
+     "button": 5
+    },
+    "sample": "Home"
+   },
+   {
+    "key": "34/34 600 Work Sans uppercase",
+    "fontSize": 34,
+    "lineHeight": 34,
+    "fontWeight": "600",
+    "fontFamily": "Work Sans",
+    "textTransform": "uppercase",
+    "n": 5,
+    "roles": {
+     "h3": 5
+    },
+    "sample": "Magic Hats"
+   },
+   {
+    "key": "18/23.94 600 Work Sans",
+    "fontSize": 18,
+    "lineHeight": 23.94,
+    "fontWeight": "600",
+    "fontFamily": "Work Sans",
+    "textTransform": "none",
+    "n": 5,
+    "roles": {
+     "p": 5
+    },
+    "sample": "Wonka Chocolate Magic Hats Assorted Chocolates, 12ct"
+   },
+   {
+    "key": "16/20.96 400 Inter",
+    "fontSize": 16,
+    "lineHeight": 20.96,
+    "fontWeight": "400",
+    "fontFamily": "Inter",
+    "textTransform": "none",
+    "n": 5,
+    "roles": {
+     "link": 5
+    },
+    "sample": "Privacy Policy"
+   },
+   {
+    "key": "14/18.06 500 Inter",
+    "fontSize": 14,
+    "lineHeight": 18.06,
+    "fontWeight": "500",
+    "fontFamily": "Inter",
+    "textTransform": "none",
+    "n": 5,
+    "roles": {
+     "p": 5
+    },
+    "sample": "A refined collection of delicious hat-shaped chocolate pralines. Each Magic Hat…"
+   },
+   {
+    "key": "20/20 700 Inter",
+    "fontSize": 20,
+    "lineHeight": 20,
+    "fontWeight": "700",
+    "fontFamily": "Inter",
+    "textTransform": "none",
+    "n": 2,
+    "roles": {
+     "link": 2
+    },
+    "sample": "Unwrap the Wonder"
+   },
+   {
+    "key": "42/42 600 Work Sans uppercase",
+    "fontSize": 42,
+    "lineHeight": 42,
+    "fontWeight": "600",
+    "fontFamily": "Work Sans",
+    "textTransform": "uppercase",
+    "n": 1,
+    "roles": {
+     "h2": 1
+    },
+    "sample": "COMING SOON!"
+   },
+   {
+    "key": "18/23.04 700 Inter uppercase",
+    "fontSize": 18,
+    "lineHeight": 23.04,
+    "fontWeight": "700",
+    "fontFamily": "Inter",
+    "textTransform": "uppercase",
+    "n": 1,
+    "roles": {
+     "p": 1
+    },
+    "sample": "Check back November 2nd to enter the Golden Ticket Sweepstakes"
+   },
+   {
+    "key": "16/18.4 600 Inter",
+    "fontSize": 16,
+    "lineHeight": 18.4,
+    "fontWeight": "600",
+    "fontFamily": "Inter",
+    "textTransform": "none",
+    "n": 1,
+    "roles": {
+     "p": 1
+    },
+    "sample": "Extraordinary creations from the Wonka Factory"
+   },
+   {
+    "key": "16/20.96 500 Inter",
+    "fontSize": 16,
+    "lineHeight": 20.96,
+    "fontWeight": "500",
+    "fontFamily": "Inter",
+    "textTransform": "none",
+    "n": 1,
+    "roles": {
+     "p": 1
+    },
+    "sample": "Follow us"
+   },
+   {
+    "key": "12/15.96 400 Inter",
+    "fontSize": 12,
+    "lineHeight": 15.96,
+    "fontWeight": "400",
+    "fontFamily": "Inter",
+    "textTransform": "none",
+    "n": 1,
+    "roles": {
+     "div": 1
+    },
+    "sample": "© 2026 Ferrero Group. All Rights Reserved."
+   }
+  ],
+  "colours": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "n": 16
+   },
+   {
+    "color": "rgba(0, 0, 0, 0)",
+    "n": 10
+   },
+   {
+    "color": "rgb(246, 240, 245)",
+    "n": 5
+   },
+   {
+    "color": "rgb(241, 222, 156)",
+    "n": 2
+   },
+   {
+    "color": "rgb(46, 0, 40)",
+    "n": 1
+   },
+   {
+    "color": "rgb(61, 37, 7)",
+    "n": 1
+   }
+  ],
+  "container": {
+   "left": 190,
+   "right": 190,
+   "content": 1060,
+   "leftCommon": {
+    "x": 610,
+    "n": 9
+   }
+  }
+ },
+ "truncated": {
+  "text": 0,
+  "image": 0
+ },
+ "sections": [
+  {"i":0,"region":"header","y":0,"h":62,"background":"none","paddingTop":0,"paddingBottom":0,"selectorHint":"header.pointer-events-none.absolute","firstText":"Home"},
+  {"i":1,"region":"main","y":0,"h":900,"background":"none","paddingTop":0,"paddingBottom":0,"selectorHint":"div#section-6.paragraph.paragraph--type--page-section","firstText":"Extraordinary creations from the Wonka Factory"},
+  {"i":2,"region":"main","y":980,"h":2481,"background":"none","paddingTop":0,"paddingBottom":0,"selectorHint":"div#product-section.paragraph.paragraph--type--page-section","firstText":"Wonka Chocolate Magic Hats Assorted Chocolates, 12ct"},
+  {"i":3,"region":"main","y":3541,"h":320,"background":"none","paddingTop":0,"paddingBottom":0,"selectorHint":"div#comingsoon.paragraph.paragraph--type--page-section","firstText":"COMING SOON!"},
+  {"i":4,"region":"footer","y":3901,"h":304,"background":"rgba(76, 1, 67, 0.7)","paddingTop":0,"paddingBottom":0,"selectorHint":"footer.relative.z-20","firstText":"Follow us"}
+ ],
+ "nodes": [
+  {"section":0,"region":"header","kind":"image","tag":"svg","role":null,"text":"","x":0,"y":0,"w":189,"h":62,"fit":"fill","shape":{"pos":"50% 50%"},"scroll":"fixed 0"},
+  {"section":0,"region":"header","kind":"image","tag":"img","role":"link","text":"Golden Wonka brand logo","x":75,"y":11,"w":70,"h":40,"fit":"fill","shape":{"pos":"50% 50%"},"natural":[146,83],"src":"https://ferrero-kube-stack-prod-static.s3.eu-west-1.amazonaws.com/wonka-us-d11/sites/wonka.com.us/s3fs-public/2026-08/wonka-logo.svg","href":"/us/en/","scroll":"fixed 0"},
+  {"section":0,"region":"header","kind":"control","tag":"a","role":"link","text":"Home","x":210,"y":36,"w":46,"h":16,"fontFamily":"Inter","fontSize":16,"lineHeight":16,"fontWeight":"700","letterSpacing":0,"textTransform":"none","textAlign":"start","color":"rgb(255, 255, 255)","lines":1,"href":"/us/en/","scroll":"fixed 0"},
+  {"section":0,"region":"header","kind":"control","tag":"a","role":"link","text":"About Wonka","x":280,"y":36,"w":106,"h":16,"fontFamily":"Inter","fontSize":16,"lineHeight":16,"fontWeight":"700","letterSpacing":0,"textTransform":"none","textAlign":"start","color":"rgb(255, 255, 255)","lines":1,"href":"/us/en/about-wonka","scroll":"fixed 0"},
+  {"section":0,"region":"header","kind":"control","tag":"a","role":"link","text":"Golden Ticket Sweepstakes","x":410,"y":36,"w":217,"h":16,"fontFamily":"Inter","fontSize":16,"lineHeight":16,"fontWeight":"700","letterSpacing":0,"textTransform":"none","textAlign":"start","color":"rgb(255, 255, 255)","lines":1,"href":"https://www.wonka.com/us/en/xp/golden-ticket/","scroll":"fixed 0"},
+  {"section":1,"region":"main","kind":"image","tag":"img","role":null,"text":"","x":0,"y":118,"w":327,"h":302,"fit":"fill","shape":{"pos":"50% 50%"},"natural":[327,302],"src":"https://www.wonka.com/themes/custom/sling/assets/images/hero-banner/clouds-top-left.webp"},
+  {"section":1,"region":"main","kind":"image","tag":"img","role":null,"text":"","x":1077,"y":60,"w":363,"h":302,"fit":"fill","shape":{"pos":"50% 50%"},"natural":[363,302],"src":"https://www.wonka.com/themes/custom/sling/assets/images/hero-banner/clouds-top-right.webp"},
+  {"section":1,"region":"main","kind":"image","tag":"img","role":null,"text":"A retro-style purple and gold airship featuring the Wonka logo, carrying a blan…","x":549,"y":72,"w":323,"h":323,"fit":"contain","shape":{"pos":"50% 50%"},"natural":[450,372],"src":"https://ferrero-kube-stack-prod-static.s3.eu-west-1.amazonaws.com/wonka-us-d11/sites/wonka.com.us/s3fs-public/styles/hero_ship/public/2026-08/Wonka-ship.png?itok=ynFZDB_A"},
+  {"section":1,"region":"main","kind":"text","tag":"p","role":null,"text":"Extraordinary creations from the Wonka Factory","x":600,"y":309,"w":220,"h":37,"fontFamily":"Inter","fontSize":16,"lineHeight":18.4,"fontWeight":"600","letterSpacing":0,"textTransform":"none","textAlign":"center","color":"rgb(46, 0, 40)","lines":2},
+  {"section":1,"region":"main","kind":"image","tag":"img","role":null,"text":"","x":-115,"y":543,"w":1670,"h":307,"fit":"fill","shape":{"pos":"50% 50%"},"natural":[2081,383],"src":"https://www.wonka.com/themes/custom/sling/assets/images/hero-banner/clouds-bottom-back.webp"},
+  {"section":1,"region":"main","kind":"image","tag":"picture","role":null,"text":"A stacked layout of purple Wonka candy packages, including Oompa Loompa milk ch…","x":363,"y":460,"w":715,"h":296,"fit":"contain","shape":{"pos":"50% 50%"},"natural":[1688,699],"src":"https://ferrero-kube-stack-prod-static.s3.eu-west-1.amazonaws.com/wonka-us-d11/sites/wonka.com.us/s3fs-public/styles/hero_product_range_desktop/public/2026-11/US-desktop-golden-ticket.png?itok=kHw8Sr…"},
+  {"section":1,"region":"main","kind":"image","tag":"img","role":null,"text":"","x":115,"y":645,"w":1211,"h":205,"fit":"fill","shape":{"pos":"50% 50%"},"natural":[1211,205],"src":"https://www.wonka.com/themes/custom/sling/assets/images/hero-banner/clouds-bottom-front-desktop.webp"},
+  {"section":1,"region":"main","kind":"image","tag":"img","role":"link","text":"arrow down","x":395,"y":818,"w":20,"h":20,"fit":"fill","shape":{"pos":"50% 50%","r":"70px","by":[309,64]},"natural":[24,24],"src":"https://ferrero-kube-stack-prod-static.s3.eu-west-1.amazonaws.com/wonka-us-d11/sites/wonka.com.us/s3fs-public/2026-08/arrow_downward_brown.svg","href":"#product-section"},
+  {"section":1,"region":"main","kind":"control","tag":"a","role":"link","text":"Unwrap the Wonder","x":353,"y":796,"w":309,"h":64,"fontFamily":"Inter","fontSize":20,"lineHeight":20,"fontWeight":"700","letterSpacing":0,"textTransform":"none","textAlign":"center","color":"rgb(61, 37, 7)","lines":1,"href":"#product-section"},
+  {"section":1,"region":"main","kind":"control","tag":"a","role":"link","text":"Enter Golden Ticket Sweepstakes","x":678,"y":796,"w":409,"h":64,"fontFamily":"Inter","fontSize":20,"lineHeight":20,"fontWeight":"700","letterSpacing":0,"textTransform":"none","textAlign":"center","color":"rgb(255, 255, 255)","lines":1,"href":"https://www.wonka.com/us/en/xp/golden-ticket/"},
+  {"section":2,"region":"main","kind":"image","tag":"img","role":null,"text":"","x":-42,"y":748,"w":900,"h":815,"fit":"fill","shape":{"pos":"50% 50%"},"natural":[742,600],"src":"https://www.wonka.com/themes/custom/sling/assets/images/product-card/stars.webp"},
+  {"section":2,"region":"main","kind":"image","tag":"img","role":null,"text":"Purple box of Wonka Magic Hats chocolates containing 12 top-hat-shaped chocolat…","x":182,"y":980,"w":384,"h":384,"fit":"contain","shape":{"pos":"50% 50%"},"natural":[768,768],"src":"https://ferrero-kube-stack-prod-static.s3.eu-west-1.amazonaws.com/wonka-us-d11/sites/wonka.com.us/s3fs-public/styles/extra_large/public/2026-09/us-magic-hats-12-x2.webp?itok=I5gwodbQ"},
+  {"section":2,"region":"main","kind":"text","tag":"p","role":null,"text":"Wonka Chocolate Magic Hats Assorted Chocolates, 12ct","x":610,"y":1163,"w":640,"h":24,"fontFamily":"Work Sans","fontSize":18,"lineHeight":23.94,"fontWeight":"600","letterSpacing":0,"textTransform":"none","textAlign":"left","color":"rgb(255, 255, 255)","lines":1},
+  {"section":2,"region":"main","kind":"text","tag":"h3","role":"h3","text":"Magic Hats","x":610,"y":1191,"w":640,"h":34,"fontFamily":"Work Sans","fontSize":34,"lineHeight":34,"fontWeight":"600","letterSpacing":-0.68,"textTransform":"uppercase","textAlign":"left","color":"rgba(0, 0, 0, 0)","lines":1},
+  {"section":2,"region":"main","kind":"text","tag":"p","role":null,"text":"A refined collection of delicious hat-shaped chocolate pralines. Each Magic Hat…","x":610,"y":1257,"w":640,"h":36,"fontFamily":"Inter","fontSize":14,"lineHeight":18.06,"fontWeight":"500","letterSpacing":0.28,"textTransform":"none","textAlign":"left","color":"rgb(246, 240, 245)","lines":2},
+  {"section":2,"region":"main","kind":"image","tag":"svg","role":"button","text":"","x":625,"y":1413,"w":20,"h":20,"fit":"fill","shape":{"pos":"50% 50%"}},
+  {"section":2,"region":"main","kind":"control","tag":"button","role":"button","text":"See more details","x":625,"y":1413,"w":190,"h":20,"fontFamily":"Inter","fontSize":16,"lineHeight":16,"fontWeight":"700","letterSpacing":0,"textTransform":"none","textAlign":"center","color":"rgba(0, 0, 0, 0)","lines":1},
+  {"section":2,"region":"main","kind":"image","tag":"svg","role":"button","text":"","x":795,"y":1413,"w":20,"h":20,"fit":"fill","shape":{"pos":"50% 50%"}},
+  {"section":2,"region":"main","kind":"image","tag":"img","role":null,"text":"","x":582,"y":1249,"w":900,"h":815,"fit":"fill","shape":{"pos":"50% 50%"},"natural":[742,600],"src":"https://www.wonka.com/themes/custom/sling/assets/images/product-card/stars.webp"},
+  {"section":2,"region":"main","kind":"image","tag":"img","role":null,"text":"Purple box of Wonka Magic Hats chocolates containing 18 premium top-hat-shaped …","x":874,"y":1481,"w":384,"h":384,"fit":"contain","shape":{"pos":"50% 50%"},"natural":[768,768],"src":"https://ferrero-kube-stack-prod-static.s3.eu-west-1.amazonaws.com/wonka-us-d11/sites/wonka.com.us/s3fs-public/styles/extra_large/public/2026-09/us-magic-hats-18-x2.webp?itok=ZOtJaGO-"},
+  {"section":2,"region":"main","kind":"text","tag":"p","role":null,"text":"Wonka Chocolate Magic Hats Assorted Chocolates, 18ct","x":190,"y":1664,"w":640,"h":24,"fontFamily":"Work Sans","fontSize":18,"lineHeight":23.94,"fontWeight":"600","letterSpacing":0,"textTransform":"none","textAlign":"left","color":"rgb(255, 255, 255)","lines":1},
+  {"section":2,"region":"main","kind":"text","tag":"h3","role":"h3","text":"Magic Hats","x":190,"y":1692,"w":640,"h":34,"fontFamily":"Work Sans","fontSize":34,"lineHeight":34,"fontWeight":"600","letterSpacing":-0.68,"textTransform":"uppercase","textAlign":"left","color":"rgba(0, 0, 0, 0)","lines":1},
+  {"section":2,"region":"main","kind":"text","tag":"p","role":null,"text":"A refined collection of delicious hat-shaped chocolate pralines. Each Magic Hat…","x":190,"y":1758,"w":640,"h":36,"fontFamily":"Inter","fontSize":14,"lineHeight":18.06,"fontWeight":"500","letterSpacing":0.28,"textTransform":"none","textAlign":"left","color":"rgb(246, 240, 245)","lines":2},
+  {"section":2,"region":"main","kind":"image","tag":"svg","role":"button","text":"","x":625,"y":1914,"w":20,"h":20,"fit":"fill","shape":{"pos":"50% 50%"}},
+  {"section":2,"region":"main","kind":"control","tag":"button","role":"button","text":"See more details","x":625,"y":1914,"w":190,"h":20,"fontFamily":"Inter","fontSize":16,"lineHeight":16,"fontWeight":"700","letterSpacing":0,"textTransform":"none","textAlign":"center","color":"rgba(0, 0, 0, 0)","lines":1},
+  {"section":2,"region":"main","kind":"image","tag":"svg","role":"button","text":"","x":795,"y":1914,"w":20,"h":20,"fit":"fill","shape":{"pos":"50% 50%"}},
+  {"section":2,"region":"main","kind":"image","tag":"img","role":null,"text":"","x":-42,"y":1750,"w":900,"h":815,"fit":"fill","shape":{"pos":"50% 50%"},"natural":[742,600],"src":"https://www.wonka.com/themes/custom/sling/assets/images/product-card/stars.webp"},
+  {"section":2,"region":"main","kind":"image","tag":"img","role":null,"text":"Purple packaging of Wonka Purplypurple 90g milk chocolate tablet with a purple …","x":182,"y":1982,"w":384,"h":384,"fit":"contain","shape":{"pos":"50% 50%"},"natural":[768,768],"src":"https://ferrero-kube-stack-prod-static.s3.eu-west-1.amazonaws.com/wonka-us-d11/sites/wonka.com.us/s3fs-public/styles/extra_large/public/2026-09/us-purplepurple-x2.webp?itok=8z_6Q4vS"},
+  {"section":2,"region":"main","kind":"text","tag":"p","role":null,"text":"Wonka PurplyPurple Chocolate Caramel Tablet Bar","x":610,"y":2174,"w":640,"h":24,"fontFamily":"Work Sans","fontSize":18,"lineHeight":23.94,"fontWeight":"600","letterSpacing":0,"textTransform":"none","textAlign":"left","color":"rgb(255, 255, 255)","lines":1},
+  {"section":2,"region":"main","kind":"text","tag":"h3","role":"h3","text":"PurplyPurple Tablet","x":610,"y":2202,"w":640,"h":34,"fontFamily":"Work Sans","fontSize":34,"lineHeight":34,"fontWeight":"600","letterSpacing":-0.68,"textTransform":"uppercase","textAlign":"left","color":"rgba(0, 0, 0, 0)","lines":1},
+  {"section":2,"region":"main","kind":"text","tag":"p","role":null,"text":"Milk chocolate bar with a purple caramel-flavored filling","x":610,"y":2268,"w":640,"h":18,"fontFamily":"Inter","fontSize":14,"lineHeight":18.06,"fontWeight":"500","letterSpacing":0.28,"textTransform":"none","textAlign":"left","color":"rgb(246, 240, 245)","lines":1},
+  {"section":2,"region":"main","kind":"image","tag":"svg","role":"button","text":"","x":625,"y":2415,"w":20,"h":20,"fit":"fill","shape":{"pos":"50% 50%"}},
+  {"section":2,"region":"main","kind":"control","tag":"button","role":"button","text":"See more details","x":625,"y":2415,"w":190,"h":20,"fontFamily":"Inter","fontSize":16,"lineHeight":16,"fontWeight":"700","letterSpacing":0,"textTransform":"none","textAlign":"center","color":"rgba(0, 0, 0, 0)","lines":1},
+  {"section":2,"region":"main","kind":"image","tag":"svg","role":"button","text":"","x":795,"y":2415,"w":20,"h":20,"fit":"fill","shape":{"pos":"50% 50%"}},
+  {"section":2,"region":"main","kind":"image","tag":"img","role":null,"text":"","x":582,"y":2251,"w":900,"h":815,"fit":"fill","shape":{"pos":"50% 50%"},"natural":[742,600],"src":"https://www.wonka.com/themes/custom/sling/assets/images/product-card/stars.webp"},
+  {"section":2,"region":"main","kind":"image","tag":"img","role":null,"text":"Purple and green 100g pouch of Wonka Magic Garden lemon and lime flavoured cand…","x":874,"y":2483,"w":384,"h":384,"fit":"contain","shape":{"pos":"50% 50%"},"natural":[768,768],"src":"https://ferrero-kube-stack-prod-static.s3.eu-west-1.amazonaws.com/wonka-us-d11/sites/wonka.com.us/s3fs-public/styles/extra_large/public/2026-09/us-magic-garden-x2.webp?itok=k6Vab7XB"},
+  {"section":2,"region":"main","kind":"text","tag":"p","role":null,"text":"Wonka Magic Garden Lemon Lime Chewy Ropes","x":190,"y":2666,"w":640,"h":24,"fontFamily":"Work Sans","fontSize":18,"lineHeight":23.94,"fontWeight":"600","letterSpacing":0,"textTransform":"none","textAlign":"left","color":"rgb(255, 255, 255)","lines":1},
+  {"section":2,"region":"main","kind":"text","tag":"h3","role":"h3","text":"Magic Garden Ropes","x":190,"y":2694,"w":640,"h":34,"fontFamily":"Work Sans","fontSize":34,"lineHeight":34,"fontWeight":"600","letterSpacing":-0.68,"textTransform":"uppercase","textAlign":"left","color":"rgba(0, 0, 0, 0)","lines":1},
+  {"section":2,"region":"main","kind":"text","tag":"p","role":null,"text":"Chewy lime ropes with a surprise taste of lemon inside, like grass blades harve…","x":190,"y":2760,"w":640,"h":36,"fontFamily":"Inter","fontSize":14,"lineHeight":18.06,"fontWeight":"500","letterSpacing":0.28,"textTransform":"none","textAlign":"left","color":"rgb(246, 240, 245)","lines":2},
+  {"section":2,"region":"main","kind":"image","tag":"svg","role":"button","text":"","x":625,"y":2916,"w":20,"h":20,"fit":"fill","shape":{"pos":"50% 50%"}},
+  {"section":2,"region":"main","kind":"control","tag":"button","role":"button","text":"See more details","x":625,"y":2916,"w":190,"h":20,"fontFamily":"Inter","fontSize":16,"lineHeight":16,"fontWeight":"700","letterSpacing":0,"textTransform":"none","textAlign":"center","color":"rgba(0, 0, 0, 0)","lines":1},
+  {"section":2,"region":"main","kind":"image","tag":"svg","role":"button","text":"","x":795,"y":2916,"w":20,"h":20,"fit":"fill","shape":{"pos":"50% 50%"}},
+  {"section":2,"region":"main","kind":"image","tag":"img","role":null,"text":"","x":-42,"y":2752,"w":900,"h":815,"fit":"fill","shape":{"pos":"50% 50%"},"natural":[742,600],"src":"https://www.wonka.com/themes/custom/sling/assets/images/product-card/stars.webp"},
+  {"section":2,"region":"main","kind":"image","tag":"img","role":null,"text":"Purple pouch of Wonka Oompa Loompa blueberry and strawberry flavoured gummy can…","x":182,"y":2984,"w":384,"h":384,"fit":"contain","shape":{"pos":"50% 50%"},"natural":[768,768],"src":"https://ferrero-kube-stack-prod-static.s3.eu-west-1.amazonaws.com/wonka-us-d11/sites/wonka.com.us/s3fs-public/styles/extra_large/public/2026-09/oompa-blueberry-x2-us.webp?itok=E52jMPQi"},
+  {"section":2,"region":"main","kind":"text","tag":"p","role":null,"text":"Wonka Oompa Loompa Blueberry & Strawberry Gummies","x":610,"y":3167,"w":640,"h":24,"fontFamily":"Work Sans","fontSize":18,"lineHeight":23.94,"fontWeight":"600","letterSpacing":0,"textTransform":"none","textAlign":"left","color":"rgb(255, 255, 255)","lines":1},
+  {"section":2,"region":"main","kind":"text","tag":"h3","role":"h3","text":"Oompa Loompa Gummies","x":610,"y":3195,"w":640,"h":34,"fontFamily":"Work Sans","fontSize":34,"lineHeight":34,"fontWeight":"600","letterSpacing":-0.68,"textTransform":"uppercase","textAlign":"left","color":"rgba(0, 0, 0, 0)","lines":1},
+  {"section":2,"region":"main","kind":"text","tag":"p","role":null,"text":"Delicious fruity gummies with a magical twist, a juicy berry cola-flavored fill…","x":610,"y":3261,"w":640,"h":36,"fontFamily":"Inter","fontSize":14,"lineHeight":18.06,"fontWeight":"500","letterSpacing":0.28,"textTransform":"none","textAlign":"left","color":"rgb(246, 240, 245)","lines":2},
+  {"section":2,"region":"main","kind":"image","tag":"svg","role":"button","text":"","x":625,"y":3417,"w":20,"h":20,"fit":"fill","shape":{"pos":"50% 50%"}},
+  {"section":2,"region":"main","kind":"control","tag":"button","role":"button","text":"See more details","x":625,"y":3417,"w":190,"h":20,"fontFamily":"Inter","fontSize":16,"lineHeight":16,"fontWeight":"700","letterSpacing":0,"textTransform":"none","textAlign":"center","color":"rgba(0, 0, 0, 0)","lines":1},
+  {"section":2,"region":"main","kind":"image","tag":"svg","role":"button","text":"","x":795,"y":3417,"w":20,"h":20,"fit":"fill","shape":{"pos":"50% 50%"}},
+  {"section":3,"region":"main","kind":"image","tag":"img","role":null,"text":"","x":45,"y":3412,"w":1350,"h":568,"fit":"fill","shape":{"pos":"50% 50%"},"natural":[1350,568],"src":"https://www.wonka.com/themes/custom/sling/assets/images/coming-soon/coming-soon-clouds.webp"},
+  {"section":3,"region":"main","kind":"image","tag":"img","role":null,"text":"Wonka's chocolate factory filled with copper machinery, colorful steam, and a f…","x":0,"y":3541,"w":1440,"h":320,"fit":"cover","shape":{"pos":"50% 28%"},"natural":[1920,1004],"src":"https://ferrero-kube-stack-prod-static.s3.eu-west-1.amazonaws.com/wonka-us-d11/sites/wonka.com.us/s3fs-public/styles/extra_large/public/2026-08/wonka-ship-background.webp?itok=a1wHryPc"},
+  {"section":3,"region":"main","kind":"text","tag":"h2","role":"h2","text":"COMING SOON!","x":561,"y":3640,"w":317,"h":42,"fontFamily":"Work Sans","fontSize":42,"lineHeight":42,"fontWeight":"600","letterSpacing":0,"textTransform":"uppercase","textAlign":"center","color":"rgb(241, 222, 156)","lines":1},
+  {"section":3,"region":"main","kind":"image","tag":"img","role":null,"text":"","x":708,"y":3698,"w":24,"h":24,"fit":"fill","shape":{"pos":"50% 50%"},"natural":[24,24],"src":"https://www.wonka.com/themes/custom/sling/assets/decorative/decorative-star.svg"},
+  {"section":3,"region":"main","kind":"text","tag":"p","role":null,"text":"Check back November 2nd to enter the Golden Ticket Sweepstakes","x":352,"y":3738,"w":736,"h":23,"fontFamily":"Inter","fontSize":18,"lineHeight":23.04,"fontWeight":"700","letterSpacing":4,"textTransform":"uppercase","textAlign":"center","color":"rgb(241, 222, 156)","lines":1},
+  {"section":4,"region":"footer","kind":"image","tag":"img","role":"link","text":"Golden Wonka brand logo","x":516,"y":3941,"w":141,"h":80,"fit":"fill","shape":{"pos":"50% 50%","r":"40px 40px 0px 0px","by":[1440,304]},"natural":[146,83],"src":"https://ferrero-kube-stack-prod-static.s3.eu-west-1.amazonaws.com/wonka-us-d11/sites/wonka.com.us/s3fs-public/2026-08/wonka-logo.svg","href":"/us/en/"},
+  {"section":4,"region":"footer","kind":"text","tag":"p","role":null,"text":"Follow us","x":696,"y":3971,"w":72,"h":21,"fontFamily":"Inter","fontSize":16,"lineHeight":20.96,"fontWeight":"500","letterSpacing":0,"textTransform":"none","textAlign":"start","color":"rgb(255, 255, 255)","lines":1},
+  {"section":4,"region":"footer","kind":"image","tag":"img","role":"link","text":"Instagram","x":805,"y":3971,"w":20,"h":20,"fit":"fill","shape":{"pos":"50% 50%","r":"160px","by":[62,48]},"natural":[20,20],"src":"https://www.wonka.com/themes/custom/sling/assets/icons/social-instagram.svg","href":"https://www.instagram.com/wonka_usa"},
+  {"section":4,"region":"footer","kind":"image","tag":"img","role":"link","text":"Tik Tok","x":883,"y":3971,"w":20,"h":20,"fit":"fill","shape":{"pos":"50% 50%","r":"160px","by":[62,48]},"natural":[20,20],"src":"https://www.wonka.com/themes/custom/sling/assets/icons/social-tiktok.svg","href":"https://www.tiktok.com/@wonka_usa"},
+  {"section":4,"region":"footer","kind":"image","tag":"svg","role":null,"text":"","x":712,"y":4045,"w":16,"h":16,"fit":"fill","shape":{"pos":"50% 50%","r":"40px 40px 0px 0px","by":[1440,304]}},
+  {"section":4,"region":"footer","kind":"control","tag":"a","role":"link","text":"Privacy Policy","x":241,"y":4085,"w":110,"h":24,"fontFamily":"Inter","fontSize":16,"lineHeight":20.96,"fontWeight":"400","letterSpacing":2,"textTransform":"none","textAlign":"center","color":"rgb(255, 255, 255)","lines":1,"href":"/us/en/privacy-policy"},
+  {"section":4,"region":"footer","kind":"control","tag":"a","role":"link","text":"Terms of Use","x":399,"y":4085,"w":105,"h":24,"fontFamily":"Inter","fontSize":16,"lineHeight":20.96,"fontWeight":"400","letterSpacing":2,"textTransform":"none","textAlign":"center","color":"rgb(255, 255, 255)","lines":1,"href":"/us/en/terms-of-use"},
+  {"section":4,"region":"footer","kind":"control","tag":"a","role":"link","text":"Cookie Policy","x":553,"y":4085,"w":107,"h":24,"fontFamily":"Inter","fontSize":16,"lineHeight":20.96,"fontWeight":"400","letterSpacing":2,"textTransform":"none","textAlign":"center","color":"rgb(255, 255, 255)","lines":1,"href":"/us/en/cookie-policy"},
+  {"section":4,"region":"footer","kind":"control","tag":"a","role":"link","text":"Do Not Sell or Share My Personal Information","x":707,"y":4085,"w":356,"h":24,"fontFamily":"Inter","fontSize":16,"lineHeight":20.96,"fontWeight":"400","letterSpacing":2,"textTransform":"none","textAlign":"center","color":"rgb(255, 255, 255)","lines":1,"href":"#ot-sdk-show-settings"},
+  {"section":4,"region":"footer","kind":"control","tag":"a","role":"link","text":"Contact Us","x":1111,"y":4085,"w":87,"h":24,"fontFamily":"Inter","fontSize":16,"lineHeight":20.96,"fontWeight":"400","letterSpacing":2,"textTransform":"none","textAlign":"center","color":"rgb(255, 255, 255)","lines":1,"href":"https://www.ferrero.com/us/en/contact-us"},
+  {"section":4,"region":"footer","kind":"text","tag":"div","role":null,"text":"© 2026 Ferrero Group. All Rights Reserved.","x":0,"y":4149,"w":1440,"h":56,"fontFamily":"Inter","fontSize":12,"lineHeight":15.96,"fontWeight":"400","letterSpacing":0,"textTransform":"none","textAlign":"center","color":"rgb(255, 255, 255)","lines":1}
+ ]
+}

@@ -1,0 +1,59 @@
+{"ts":"2026-11-25T10:11:49Z","skill":"stardust:replica","phase":"extract","event":"start","detail":"extract --prep --dynamics over the 7 planned pages of https://www.wonka.com/"}
+{"ts":"2026-11-25T10:12:27Z","skill":"stardust:extract","phase":"discovery","event":"start","detail":"7 named pages via --pages (wonka.com)"}
+{"ts":"2026-11-25T10:18:26Z","skill":"stardust:extract","phase":"discovery","event":"end","detail":"7 named pages (--pages); / 301 -> /us/en/"}
+{"ts":"2026-11-25T10:18:26Z","skill":"stardust:extract","phase":"per-page-extraction","event":"start"}
+{"ts":"2026-11-25T10:18:26Z","skill":"stardust:extract","phase":"per-page-extraction","event":"end","detail":"7/7 live, technique chrome, wait slow; terms+index recaptured for OneTrust leak"}
+{"ts":"2026-11-25T10:18:26Z","skill":"stardust:extract","phase":"vision-verification","event":"start"}
+{"ts":"2026-11-25T10:18:26Z","skill":"stardust:extract","phase":"vision-verification","event":"end","detail":"5 ok, 2 recaptured, 0 suspect; home hat-portal intro captured post-state separately"}
+{"ts":"2026-11-25T10:18:26Z","skill":"stardust:extract","phase":"brand-surface-extraction","event":"start"}
+{"ts":"2026-11-25T10:19:46Z","skill":"stardust:extract","phase":"brand-surface-extraction","event":"end","detail":"census 6x2 widths; Inter body + Work Sans 600 headings; 7 font files; home census empty (hat-portal inert) -> post-portal capture"}
+{"ts":"2026-11-25T10:20:06Z","skill":"stardust:extract","phase":"seed","event":"start"}
+{"ts":"2026-11-25T10:23:10Z","skill":"stardust:extract","phase":"seed","event":"end","detail":"PRODUCT.md, DESIGN.md (237 lines), DESIGN.json + cap-probe breakpoints"}
+{"ts":"2026-11-25T10:23:10Z","skill":"stardust:extract","phase":"brand-review","event":"start"}
+{"ts":"2026-11-25T10:25:50Z","skill":"stardust:extract","phase":"brand-review","event":"end","detail":"brand-review.html, 7 tensions"}
+{"ts":"2026-11-25T10:25:50Z","skill":"stardust:extract","phase":"state-and-report","event":"start"}
+{"ts":"2026-11-25T10:25:50Z","skill":"stardust:extract","phase":"state-and-report","event":"end","detail":"state.json 7 extracted, flow replica, handsOff"}
+{"ts":"2026-11-25T10:25:50Z","skill":"stardust:extract","phase":"prep","event":"start"}
+{"ts":"2026-11-25T10:25:50Z","skill":"stardust:extract","phase":"prep","event":"end","detail":"types landing 3, static 3, unique 1; 19 module candidates; provenance 7/7 live; uncaptured first-level targets: us/en 0"}
+{"ts":"2026-11-25T10:26:15Z","skill":"stardust:replica","phase":"extract","event":"end","detail":"7/7 pages captured; types landing×3, static×3, unique×1; 19 module candidates"}
+{"ts":"2026-11-25T10:26:24Z","skill":"stardust:replica","phase":"preserve-direction","event":"start","detail":"promote captured spec, register, dynamics triage"}
+{"ts":"2026-11-25T10:26:54Z","skill":"stardust:dynamics","phase":"detect","event":"start","detail":"7 pages"}
+{"ts":"2026-11-25T10:27:29Z","skill":"stardust:dynamics","phase":"detect","event":"end","detail":"15 findings"}
+{"ts":"2026-11-25T10:27:29Z","skill":"stardust:dynamics","phase":"triage","event":"start"}
+{"ts":"2026-11-25T10:27:56Z","skill":"stardust:dynamics","phase":"triage","event":"end","detail":"8 curated rows, 4 self, 3 owner decisions as hands-off assumptions"}
+{"ts":"2026-11-25T10:27:56Z","skill":"stardust:replica","phase":"preserve-direction","event":"end","detail":"verbatim promotion; register 4 deferred; dynamics 8 rows dispositioned"}
+{"ts":"2026-11-25T10:28:32Z","skill":"stardust:replica","phase":"recreate","event":"start","detail":"4 archetypes: us-en, us-en-about-wonka, us-en-privacy-policy, us-en-xp-golden-ticket"}
+{"ts":"2026-11-25T10:28:50Z","skill":"stardust:replica","phase":"source-fidelity-gate","event":"start","detail":"per-archetype gates at 1440,360 interleaved with recreation"}
+{"ts":"2026-11-25T11:20:47Z","skill":"stardust:replica","phase":"recreate","event":"end","detail":"4 archetypes recreated and approved; prototype tables 4/4 PASS at 1440 and 360"}
+{"ts":"2026-11-25T11:20:47Z","skill":"stardust:replica","phase":"source-fidelity-gate","event":"end","detail":"1440: us-en 6.79% about 1.82% privacy 0.15% gt 0.04%; 360: 3.17% 0.49% 0.36% 0.07%; Δh≤1px; 0 red"}
+{"ts":"2026-11-25T11:20:58Z","skill":"stardust:replica","phase":"handoff","event":"start","detail":"migrate → deploy → rollout for 7 pages, publish"}
+{"ts":"2026-11-25T11:22:24Z","skill":"stardust:migrate","phase":"plan","event":"start","detail":"roster 7 pages: 4 gated archetypes (Path A) render now; 2 static siblings + index deferred to their archetype units"}
+{"ts":"2026-11-25T11:22:35Z","skill":"stardust:migrate","phase":"plan","event":"end","detail":"Path A 4 archetypes (all gated PASS both widths), Path A' 2 static siblings deferred, index duplicateOf us-en; provenance OK 7/7; 0 placeholders; pagemap 7/0 collisions"}
+{"ts":"2026-11-25T11:22:40Z","skill":"stardust:migrate","phase":"render","event":"start","detail":"Path A render of 4 gated archetypes; sibling clusters continue after their C-archetype units"}
+{"ts":"2026-11-25T11:25:46Z","skill":"stardust:migrate","phase":"assets","event":"start","detail":"sitewide assets + portability audits for 4 rendered archetypes"}
+{"ts":"2026-11-25T11:26:45Z","skill":"stardust:migrate","phase":"assets","event":"end","detail":"95 bundled assets; robots+sitemap; pagemap-audit OK; file-protocol-audit OK (4 pages) after 2 hand fixes (portal webm data-src, sweepstakes links → source origin)"}
+{"ts":"2026-11-25T11:27:00Z","skill":"stardust:rollout","phase":"A-inventory","event":"start","detail":"archetypes-only inventory over 7-page roster (--state)"}
+{"ts":"2026-11-25T11:27:23Z","skill":"stardust:rollout","phase":"A-inventory","event":"end","detail":"7 rows (4 pending archetypes, 3 content-pending), 4 templates; rollout.json DA aemcoder/a6216fe5/main, liveHost set"}
+{"ts":"2026-11-25T11:27:23Z","skill":"stardust:rollout","phase":"B-block","event":"start","detail":"blocks.mjs + plan.mjs over 4 templates"}
+{"ts":"2026-11-25T11:27:45Z","skill":"stardust:rollout","phase":"B-block","event":"end","detail":"17 distinct blocks (16 convert + 1 default-content), 23 instances; plan.json representative-first, 4 reps / 3 reuse"}
+{"ts":"2026-11-25T11:27:45Z","skill":"stardust:rollout","phase":"B2-dynamic","event":"start","detail":"dynamics-detect + dynamics-plan vs dynamic-features.md"}
+{"ts":"2026-11-25T11:28:55Z","skill":"stardust:rollout","phase":"B2-dynamic","event":"end","detail":"15 findings re-detected (no new/gone), plan host-bound 0, delivered 2; dynamic-features.md reconciled (row 4 reach 3/7), every row has a disposition"}
+{"ts":"2026-11-25T11:29:30Z","skill":"stardust:rollout","phase":"C-deliver","event":"start","detail":"units: foundation, 4 archetypes, 4 clusters, gate-all, final"}
+{"ts":"2026-11-25T12:46:26Z","skill":"stardust:rollout","phase":"C-deliver","event":"end","detail":"11 units done; 6 pages + root redirect live; gate-all aem.live 1440 6/6, 360 6/6 PASS (max 3.19% / 2.96%); verify 7/7"}
+{"ts":"2026-11-25T12:46:39Z","skill":"stardust:rollout","phase":"D-site","event":"start","detail":"assemble sitemap/robots, verify served sitemap, chrome noindex, redirects sheet, DA library"}
+{"ts":"2026-11-25T12:49:34Z","skill":"stardust:rollout","phase":"D-site","event":"end","detail":"served sitemap 6 urls (verify-origin exit 0); chrome noindex 4/4 published; redirects sheet 8 rows live, root 200; da-library exit 0 (16 blocks, 4 templates)"}
+{"ts":"2026-11-25T12:49:46Z","skill":"stardust:rollout","phase":"D2-dynamic","event":"start","detail":"8 dynamic-features rows: parity rows + dynamics-check on aem.live"}
+{"ts":"2026-11-25T12:55:25Z","skill":"stardust:rollout","phase":"D2-dynamic","event":"end","detail":"8 parity rows; dynamics-check 8/8 (15/15 checks) on aem.live; owner batch 3 rows (tags/consent scaffolded-awaiting-owner, locales interim /us/en/ only, sweepstakes interim)"}
+{"ts":"2026-11-25T12:55:34Z","skill":"stardust:rollout","phase":"E-full-site","event":"start","detail":"verify.mjs on aem.live + headless render check per template (4) + gate table into coverage"}
+{"ts":"2026-11-25T12:58:15Z","skill":"stardust:rollout","phase":"E-full-site","event":"end","detail":"verify 6/6 on aem.live; render check 4/4 templates (appear, sections>0, 0 pageerror, 0 broken img, stars video playing); gate 6/6 at 1440+360 in coverage"}
+{"ts":"2026-11-25T12:58:21Z","skill":"stardust:rollout","phase":"E2-link-audit","event":"start","detail":"chrome + page hrefs against the live tree; localize-links --check"}
+{"ts":"2026-11-25T12:59:11Z","skill":"stardust:rollout","phase":"E2-link-audit","event":"end","detail":"39 hrefs; internal 7/7 200 on aem.live; localize --check exit 0; 2 out-of-plan golden-ticket targets kept on source (decision in direction.md)"}
+{"ts":"2026-11-25T12:59:19Z","skill":"stardust:rollout","phase":"F-optimize","event":"start","detail":"optimize.mjs baseline + P1 gate over 6 live pages"}
+{"ts":"2026-11-25T12:59:28Z","skill":"stardust:rollout","phase":"F-optimize","event":"end","detail":"6 pages: open P1 0, P2 5 (jsonld, platform-migration), 1 source-parity; gate PASS"}
+{"ts":"2026-11-25T12:59:35Z","skill":"stardust:rollout","phase":"G-aem","event":"start","detail":"autofix-aem dry-run over 5 open P2 jsonld findings"}
+{"ts":"2026-11-25T12:59:41Z","skill":"stardust:rollout","phase":"G-aem","event":"end","detail":"5 candidates, 0 auto-fixable: eds-jsonld x5 (P2) routed manual — source JSON-LD to be carried via metadata/head pipeline; no P1 open"}
+{"ts":"2026-11-25T12:59:50Z","skill":"stardust:rollout","phase":"H-report","event":"start","detail":"summary block + learnings"}
+{"ts":"2026-11-25T13:00:11Z","skill":"stardust:rollout","phase":"H-report","event":"end","detail":"6/6 verified, 4 templates, 17 blocks, P1 0 / P2 5, pixel 6/6 both widths; learnings 5"}
+{"ts":"2026-11-25T13:00:17Z","skill":"stardust:rollout","phase":"I-dashboard","event":"start","detail":"dashboard.mjs"}
+{"ts":"2026-11-25T14:47:05Z","skill":"stardust:rollout","phase":"I-dashboard","event":"end","detail":"gate-all aem.live 1440 6/6, 360 6/6 PASS after unit fixes; verify 6/6; dashboard written"}
+{"ts":"2026-11-25T14:47:11Z","skill":"stardust:replica","phase":"handoff","event":"end","detail":"7 pages in plan: 6 live on aem.live + root redirect; gate-all 6/6 PASS at 1440 and 360; done-check complete, 0 gaps"}

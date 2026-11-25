@@ -1,0 +1,11 @@
+{
+  "writtenBy": "gate.sh --gate-against-baseline",
+  "origin": "baseline",
+  "url": "https://www.wonka.com/us/en/xp/golden-ticket/",
+  "width": 1440,
+  "at": "2026-11-25T10:39:15.799Z",
+  "originBaseline": {
+    "capturedAt": "2026-11-25T10:39:15.799Z",
+    "height": 3641
+  }
+}

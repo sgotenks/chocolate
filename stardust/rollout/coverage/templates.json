@@ -1,0 +1,97 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:rollout/inventory",
+    "writtenAt": "2026-11-25T11:27:16.740Z",
+    "readArtifacts": [
+      "stardust/migrated",
+      "stardust/state.json"
+    ],
+    "stardustVersion": "0.0.0"
+  },
+  "generatedAt": "2026-11-25T14:46:37.714Z",
+  "templates": [
+    {
+      "id": "us-en",
+      "representativeSlug": "us-en",
+      "pages": [
+        "us-en"
+      ],
+      "pageCount": 2,
+      "blocks": [
+        "coming-soon",
+        "hero",
+        "portal",
+        "product-cards"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "us-en-about-wonka",
+      "representativeSlug": "us-en-about-wonka",
+      "pages": [
+        "us-en-about-wonka"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "discover-hero",
+        "faq",
+        "image-text",
+        "promo-banner",
+        "social",
+        "story-cards"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "us-en-privacy-policy",
+      "representativeSlug": "us-en-privacy-policy",
+      "pages": [
+        "us-en-cookie-policy",
+        "us-en-privacy-policy",
+        "us-en-terms-of-use"
+      ],
+      "pageCount": 3,
+      "blocks": [
+        "legal-accordion"
+      ],
+      "delivery": {
+        "verified": 3,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "us-en-xp-golden-ticket",
+      "representativeSlug": "us-en-xp-golden-ticket",
+      "pages": [
+        "us-en-xp-golden-ticket"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "ar-banner",
+        "promo-editorial",
+        "promo-prizes",
+        "promo-steps",
+        "promo-title-text",
+        "promo-visual"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    }
+  ]
+}

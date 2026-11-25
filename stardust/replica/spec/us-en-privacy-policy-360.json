@@ -1,0 +1,185 @@
+{
+ "_provenance": {
+  "writtenBy": "skills/replica/scripts/source-spec.mjs",
+  "writtenAt": "2026-11-25T11:02:06.306Z",
+  "url": "https://www.wonka.com/us/en/privacy-policy",
+  "width": 360,
+  "main": "main",
+  "locale": "en-US"
+ },
+ "page": {
+  "url": "https://www.wonka.com/us/en/privacy-policy",
+  "width": 360,
+  "viewport": 360,
+  "docHeight": 2347,
+  "scrollWidth": 360,
+  "root": "main",
+  "rootFallback": false,
+  "records": [
+   "scroll",
+   "shape"
+  ],
+  "rootWrapsChrome": false,
+  "tier": "chrome"
+ },
+ "tokens": {
+  "fonts": [
+   {
+    "stack": "Inter, sans-serif",
+    "n": 26
+   },
+   {
+    "stack": "\"Work Sans\", sans-serif",
+    "n": 1
+   }
+  ],
+  "loadedFaces": [
+   "Inter 400 normal",
+   "Inter 500 normal",
+   "Inter 700 normal",
+   "Work Sans 600 normal"
+  ],
+  "textStyles": [
+   {
+    "key": "16/24 700 Inter",
+    "fontSize": 16,
+    "lineHeight": 24,
+    "fontWeight": "700",
+    "fontFamily": "Inter",
+    "textTransform": "none",
+    "n": 14,
+    "roles": {
+     "p": 1,
+     "div": 13
+    },
+    "sample": "Last Updated: January 1, 2026"
+   },
+   {
+    "key": "16/24 400 Inter",
+    "fontSize": 16,
+    "lineHeight": 24,
+    "fontWeight": "400",
+    "fontFamily": "Inter",
+    "textTransform": "none",
+    "n": 5,
+    "roles": {
+     "p": 3,
+     "link": 2
+    },
+    "sample": "This Privacy Policy applies to the websites on which it is posted, which are op…"
+   },
+   {
+    "key": "16/20.96 400 Inter",
+    "fontSize": 16,
+    "lineHeight": 20.96,
+    "fontWeight": "400",
+    "fontFamily": "Inter",
+    "textTransform": "none",
+    "n": 5,
+    "roles": {
+     "link": 5
+    },
+    "sample": "Privacy Policy"
+   },
+   {
+    "key": "42/42 600 Work Sans uppercase",
+    "fontSize": 42,
+    "lineHeight": 42,
+    "fontWeight": "600",
+    "fontFamily": "Work Sans",
+    "textTransform": "uppercase",
+    "n": 1,
+    "roles": {
+     "h1": 1
+    },
+    "sample": "Privacy policy"
+   },
+   {
+    "key": "16/20.96 500 Inter",
+    "fontSize": 16,
+    "lineHeight": 20.96,
+    "fontWeight": "500",
+    "fontFamily": "Inter",
+    "textTransform": "none",
+    "n": 1,
+    "roles": {
+     "p": 1
+    },
+    "sample": "Follow us"
+   },
+   {
+    "key": "12/15.96 400 Inter",
+    "fontSize": 12,
+    "lineHeight": 15.96,
+    "fontWeight": "400",
+    "fontFamily": "Inter",
+    "textTransform": "none",
+    "n": 1,
+    "roles": {
+     "div": 1
+    },
+    "sample": "© 2026 Ferrero Group. All Rights Reserved."
+   }
+  ],
+  "colours": [
+   {
+    "color": "rgb(255, 255, 255)",
+    "n": 26
+   },
+   {
+    "color": "rgba(0, 0, 0, 0)",
+    "n": 1
+   }
+  ],
+  "container": {
+   "left": 16,
+   "right": 16,
+   "content": 328,
+   "leftCommon": {
+    "x": 32,
+    "n": 19
+   }
+  }
+ },
+ "truncated": {
+  "text": 0,
+  "image": 0
+ },
+ "sections": [
+  {"i":0,"region":"main","y":0,"h":1618,"background":"none","paddingTop":0,"paddingBottom":0,"selectorHint":"div.layout__region.layout__region--content","firstText":"Privacy policy"},
+  {"i":1,"region":"footer","y":1698,"h":648,"background":"rgba(76, 1, 67, 0.7)","paddingTop":0,"paddingBottom":0,"selectorHint":"footer.relative.z-20","firstText":"Follow us"}
+ ],
+ "nodes": [
+  {"section":0,"region":"main","kind":"text","tag":"h1","role":"h1","text":"Privacy policy","x":16,"y":104,"w":328,"h":84,"fontFamily":"Work Sans","fontSize":42,"lineHeight":42,"fontWeight":"600","letterSpacing":0,"textTransform":"uppercase","textAlign":"start","color":"rgba(0, 0, 0, 0)","lines":2},
+  {"section":0,"region":"main","kind":"text","tag":"p","role":null,"text":"Last Updated: January 1, 2026","x":32,"y":244,"w":296,"h":24,"fontFamily":"Inter","fontSize":16,"lineHeight":24,"fontWeight":"700","letterSpacing":0,"textTransform":"none","textAlign":"start","color":"rgb(255, 255, 255)","lines":1},
+  {"section":0,"region":"main","kind":"text","tag":"p","role":null,"text":"This Privacy Policy applies to the websites on which it is posted, which are op…","x":32,"y":284,"w":296,"h":576,"fontFamily":"Inter","fontSize":16,"lineHeight":24,"fontWeight":"400","letterSpacing":0,"textTransform":"none","textAlign":"start","color":"rgb(255, 255, 255)","lines":24},
+  {"section":0,"region":"main","kind":"text","tag":"p","role":null,"text":"Click here to view Section 5, “Your Choices and Your Privacy Rights,” and Secti…","x":32,"y":876,"w":296,"h":96,"fontFamily":"Inter","fontSize":16,"lineHeight":24,"fontWeight":"400","letterSpacing":0,"textTransform":"none","textAlign":"start","color":"rgb(255, 255, 255)","lines":4},
+  {"section":0,"region":"main","kind":"control","tag":"a","role":"link","text":"here to view Section 5, “Your Choices and Your Privacy Rights,”","x":32,"y":878,"w":260,"h":44,"fontFamily":"Inter","fontSize":16,"lineHeight":24,"fontWeight":"400","letterSpacing":0,"textTransform":"none","textAlign":"start","color":"rgb(255, 255, 255)","lines":2,"href":"#ot-notice-layer-break-header-161"},
+  {"section":0,"region":"main","kind":"control","tag":"a","role":"link","text":"Section 6, “Your California Privacy Rights,","x":32,"y":926,"w":259,"h":44,"fontFamily":"Inter","fontSize":16,"lineHeight":24,"fontWeight":"400","letterSpacing":0,"textTransform":"none","textAlign":"start","color":"rgb(255, 255, 255)","lines":2,"href":"#ot-notice-layer-break-header-270"},
+  {"section":0,"region":"main","kind":"text","tag":"div","role":null,"text":"1. Collection of Information From and About You.","x":32,"y":988,"w":296,"h":54,"fontFamily":"Inter","fontSize":16,"lineHeight":24,"fontWeight":"700","letterSpacing":0,"textTransform":"none","textAlign":"left","color":"rgb(255, 255, 255)","lines":2},
+  {"section":0,"region":"main","kind":"text","tag":"div","role":null,"text":"2. Sources of Your Information.","x":32,"y":1042,"w":296,"h":30,"fontFamily":"Inter","fontSize":16,"lineHeight":24,"fontWeight":"700","letterSpacing":0,"textTransform":"none","textAlign":"left","color":"rgb(255, 255, 255)","lines":1},
+  {"section":0,"region":"main","kind":"text","tag":"div","role":null,"text":"3. Use of Your information","x":32,"y":1072,"w":296,"h":30,"fontFamily":"Inter","fontSize":16,"lineHeight":24,"fontWeight":"700","letterSpacing":0,"textTransform":"none","textAlign":"left","color":"rgb(255, 255, 255)","lines":1},
+  {"section":0,"region":"main","kind":"text","tag":"div","role":null,"text":"4. Sharing Your Information with Other Parties","x":32,"y":1102,"w":296,"h":54,"fontFamily":"Inter","fontSize":16,"lineHeight":24,"fontWeight":"700","letterSpacing":0,"textTransform":"none","textAlign":"left","color":"rgb(255, 255, 255)","lines":2},
+  {"section":0,"region":"main","kind":"text","tag":"div","role":null,"text":"5. Your Choices and Your Privacy Rights.","x":32,"y":1156,"w":296,"h":54,"fontFamily":"Inter","fontSize":16,"lineHeight":24,"fontWeight":"700","letterSpacing":0,"textTransform":"none","textAlign":"left","color":"rgb(255, 255, 255)","lines":2},
+  {"section":0,"region":"main","kind":"text","tag":"div","role":null,"text":"6. Your California Privacy Rights","x":32,"y":1210,"w":296,"h":30,"fontFamily":"Inter","fontSize":16,"lineHeight":24,"fontWeight":"700","letterSpacing":0,"textTransform":"none","textAlign":"left","color":"rgb(255, 255, 255)","lines":1},
+  {"section":0,"region":"main","kind":"text","tag":"div","role":null,"text":"7. Links to Other Sites.","x":32,"y":1240,"w":296,"h":30,"fontFamily":"Inter","fontSize":16,"lineHeight":24,"fontWeight":"700","letterSpacing":0,"textTransform":"none","textAlign":"left","color":"rgb(255, 255, 255)","lines":1},
+  {"section":0,"region":"main","kind":"text","tag":"div","role":null,"text":"8. Protection of Children’s Privacy.","x":32,"y":1270,"w":296,"h":30,"fontFamily":"Inter","fontSize":16,"lineHeight":24,"fontWeight":"700","letterSpacing":0,"textTransform":"none","textAlign":"left","color":"rgb(255, 255, 255)","lines":1},
+  {"section":0,"region":"main","kind":"text","tag":"div","role":null,"text":"9. Security Practices.","x":32,"y":1300,"w":296,"h":30,"fontFamily":"Inter","fontSize":16,"lineHeight":24,"fontWeight":"700","letterSpacing":0,"textTransform":"none","textAlign":"left","color":"rgb(255, 255, 255)","lines":1},
+  {"section":0,"region":"main","kind":"text","tag":"div","role":null,"text":"10. Retention Period.","x":32,"y":1330,"w":296,"h":30,"fontFamily":"Inter","fontSize":16,"lineHeight":24,"fontWeight":"700","letterSpacing":0,"textTransform":"none","textAlign":"left","color":"rgb(255, 255, 255)","lines":1},
+  {"section":0,"region":"main","kind":"text","tag":"div","role":null,"text":"11. Jurisdiction.","x":32,"y":1360,"w":296,"h":30,"fontFamily":"Inter","fontSize":16,"lineHeight":24,"fontWeight":"700","letterSpacing":0,"textTransform":"none","textAlign":"left","color":"rgb(255, 255, 255)","lines":1},
+  {"section":0,"region":"main","kind":"text","tag":"div","role":null,"text":"12. Changes and Updates to our Privacy Policy.","x":32,"y":1390,"w":296,"h":54,"fontFamily":"Inter","fontSize":16,"lineHeight":24,"fontWeight":"700","letterSpacing":0,"textTransform":"none","textAlign":"left","color":"rgb(255, 255, 255)","lines":2},
+  {"section":0,"region":"main","kind":"text","tag":"div","role":null,"text":"13. Contact Information.","x":32,"y":1444,"w":296,"h":30,"fontFamily":"Inter","fontSize":16,"lineHeight":24,"fontWeight":"700","letterSpacing":0,"textTransform":"none","textAlign":"left","color":"rgb(255, 255, 255)","lines":1},
+  {"section":0,"region":"main","kind":"text","tag":"p","role":null,"text":"© 2026 Ferrero USA. All rights reserved.","x":32,"y":1474,"w":296,"h":48,"fontFamily":"Inter","fontSize":16,"lineHeight":24,"fontWeight":"400","letterSpacing":0,"textTransform":"none","textAlign":"start","color":"rgb(255, 255, 255)","lines":2},
+  {"section":1,"region":"footer","kind":"image","tag":"img","role":"link","text":"Golden Wonka brand logo","x":110,"y":1738,"w":141,"h":80,"fit":"fill","shape":{"pos":"50% 50%","r":"40px 40px 0px 0px","by":[360,648]},"natural":[146,83],"src":"https://ferrero-kube-stack-prod-static.s3.eu-west-1.amazonaws.com/wonka-us-d11/sites/wonka.com.us/s3fs-public/2026-08/wonka-logo.svg","href":"/us/en/"},
+  {"section":1,"region":"footer","kind":"text","tag":"p","role":null,"text":"Follow us","x":144,"y":1858,"w":72,"h":21,"fontFamily":"Inter","fontSize":16,"lineHeight":20.96,"fontWeight":"500","letterSpacing":0,"textTransform":"none","textAlign":"start","color":"rgb(255, 255, 255)","lines":1},
+  {"section":1,"region":"footer","kind":"image","tag":"img","role":"link","text":"Instagram","x":131,"y":1909,"w":20,"h":20,"fit":"fill","shape":{"pos":"50% 50%","r":"160px","by":[62,48]},"natural":[20,20],"src":"https://www.wonka.com/themes/custom/sling/assets/icons/social-instagram.svg","href":"https://www.instagram.com/wonka_usa"},
+  {"section":1,"region":"footer","kind":"image","tag":"img","role":"link","text":"Tik Tok","x":209,"y":1909,"w":20,"h":20,"fit":"fill","shape":{"pos":"50% 50%","r":"160px","by":[62,48]},"natural":[20,20],"src":"https://www.wonka.com/themes/custom/sling/assets/icons/social-tiktok.svg","href":"https://www.tiktok.com/@wonka_usa"},
+  {"section":1,"region":"footer","kind":"image","tag":"svg","role":null,"text":"","x":172,"y":1983,"w":16,"h":16,"fit":"fill","shape":{"pos":"50% 50%","r":"40px 40px 0px 0px","by":[360,648]}},
+  {"section":1,"region":"footer","kind":"control","tag":"a","role":"link","text":"Privacy Policy","x":125,"y":2039,"w":110,"h":24,"fontFamily":"Inter","fontSize":16,"lineHeight":20.96,"fontWeight":"400","letterSpacing":2,"textTransform":"none","textAlign":"center","color":"rgb(255, 255, 255)","lines":1,"href":"/us/en/privacy-policy"},
+  {"section":1,"region":"footer","kind":"control","tag":"a","role":"link","text":"Terms of Use","x":127,"y":2081,"w":105,"h":24,"fontFamily":"Inter","fontSize":16,"lineHeight":20.96,"fontWeight":"400","letterSpacing":2,"textTransform":"none","textAlign":"center","color":"rgb(255, 255, 255)","lines":1,"href":"/us/en/terms-of-use"},
+  {"section":1,"region":"footer","kind":"control","tag":"a","role":"link","text":"Cookie Policy","x":127,"y":2123,"w":107,"h":24,"fontFamily":"Inter","fontSize":16,"lineHeight":20.96,"fontWeight":"400","letterSpacing":2,"textTransform":"none","textAlign":"center","color":"rgb(255, 255, 255)","lines":1,"href":"/us/en/cookie-policy"},
+  {"section":1,"region":"footer","kind":"control","tag":"a","role":"link","text":"Do Not Sell or Share My Personal Information","x":24,"y":2165,"w":312,"h":43,"fontFamily":"Inter","fontSize":16,"lineHeight":20.96,"fontWeight":"400","letterSpacing":2,"textTransform":"none","textAlign":"center","color":"rgb(255, 255, 255)","lines":2,"href":"#ot-sdk-show-settings"},
+  {"section":1,"region":"footer","kind":"control","tag":"a","role":"link","text":"Contact Us","x":136,"y":2226,"w":87,"h":24,"fontFamily":"Inter","fontSize":16,"lineHeight":20.96,"fontWeight":"400","letterSpacing":2,"textTransform":"none","textAlign":"center","color":"rgb(255, 255, 255)","lines":1,"href":"https://www.ferrero.com/us/en/contact-us"},
+  {"section":1,"region":"footer","kind":"text","tag":"div","role":null,"text":"© 2026 Ferrero Group. All Rights Reserved.","x":0,"y":2290,"w":360,"h":56,"fontFamily":"Inter","fontSize":12,"lineHeight":15.96,"fontWeight":"400","letterSpacing":0,"textTransform":"none","textAlign":"center","color":"rgb(255, 255, 255)","lines":1}
+ ]
+}

@@ -1,0 +1,11 @@
+{
+  "writtenBy": "gate.sh --gate-against-baseline",
+  "origin": "baseline",
+  "url": "https://www.wonka.com/us/en/privacy-policy",
+  "width": 360,
+  "at": "2026-11-25T11:11:07.391Z",
+  "originBaseline": {
+    "capturedAt": "2026-11-25T11:11:07.391Z",
+    "height": 2347
+  }
+}

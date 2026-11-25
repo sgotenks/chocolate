@@ -1,0 +1,15 @@
+{
+  "variantName": "promo-visual",
+  "baseBlock": "hero",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "purpose": "Golden-ticket key visual: full-bleed campaign image with screen-blended particles and floating sweets, overlapped by the rounded top edge of the content panel."
+  },
+  "contentPattern": {
+    "structure": "One or two pictures (first = desktop, second = mobile; one picture serves both)."
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": "Campaign key visual at the top of a promotion page.",
+  "reuseGuidance": "Reuse promo-visual wherever the same content pattern appears; authored content is moved into the block's layout, so keep the structure above."
+}

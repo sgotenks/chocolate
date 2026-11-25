@@ -1,0 +1,82 @@
+/* social — about template "Follow the Magic" band (source social paragraph) */
+.social {
+  position: relative;
+  width: 100%;
+}
+
+.social .social-inner {
+  margin-inline: auto;
+  display: flex;
+  width: 100%;
+  max-width: 772px;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+  padding-inline: 1rem;
+  text-align: center;
+}
+
+.social .social-title :is(h1, h2, h3) {
+  font-family: var(--font-heading);
+  font-size: var(--h3);
+  line-height: 1;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: -0.7px;
+  text-align: center;
+  background-image: var(--gold-text);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-clip: text;
+  color: transparent;
+  -webkit-text-fill-color: transparent;
+}
+
+.social .social-text {
+  margin-block: 1rem;
+  color: var(--white);
+}
+
+.social .social-list ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.social .social-list li {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+}
+
+.social .social-caption {
+  font-family: var(--font-default);
+  font-size: var(--body-sm);
+  line-height: var(--body-sm-lh);
+  font-weight: 500;
+  color: var(--white);
+}
+
+@media (width >= 768px) {
+  .social {
+    padding-bottom: 2.5rem;
+  }
+
+  .social .social-inner {
+    max-width: 804px;
+    padding-inline: 2rem;
+  }
+}
+
+@media (width >= 1024px) {
+  .social .social-inner {
+    max-width: 868px;
+    padding-inline: 4rem;
+  }
+}
